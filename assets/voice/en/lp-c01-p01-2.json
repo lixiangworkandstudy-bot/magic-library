@@ -1,0 +1,49 @@
+{
+ "audio": "assets/voice/en/lp-c01-p01-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "Here is a copy of the drawing.",
+ "words": [
+  {
+   "text": "Here",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.419
+  },
+  {
+   "text": "is",
+   "index": 5,
+   "start": 0.433,
+   "end": 0.558
+  },
+  {
+   "text": "a",
+   "index": 8,
+   "start": 0.572,
+   "end": 0.642
+  },
+  {
+   "text": "copy",
+   "index": 10,
+   "start": 0.656,
+   "end": 1.031
+  },
+  {
+   "text": "of",
+   "index": 15,
+   "start": 1.044,
+   "end": 1.156
+  },
+  {
+   "text": "the",
+   "index": 18,
+   "start": 1.169,
+   "end": 1.281
+  },
+  {
+   "text": "drawing",
+   "index": 22,
+   "start": 1.294,
+   "end": 1.919
+  }
+ ]
+}

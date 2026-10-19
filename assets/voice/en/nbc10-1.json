@@ -1,0 +1,133 @@
+{
+ "audio": "assets/voice/en/nbc10-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "He spoke not a word, but went straight to his work,\nAnd filled all the stockings; then turned with a jerk,",
+ "words": [
+  {
+   "text": "He",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.286
+  },
+  {
+   "text": "spoke",
+   "index": 3,
+   "start": 0.3,
+   "end": 0.661
+  },
+  {
+   "text": "not",
+   "index": 9,
+   "start": 0.675,
+   "end": 0.911
+  },
+  {
+   "text": "a",
+   "index": 13,
+   "start": 0.925,
+   "end": 0.994
+  },
+  {
+   "text": "word",
+   "index": 15,
+   "start": 1.008,
+   "end": 1.397
+  },
+  {
+   "text": "but",
+   "index": 21,
+   "start": 1.578,
+   "end": 1.758
+  },
+  {
+   "text": "went",
+   "index": 25,
+   "start": 1.772,
+   "end": 1.994
+  },
+  {
+   "text": "straight",
+   "index": 30,
+   "start": 2.008,
+   "end": 2.369
+  },
+  {
+   "text": "to",
+   "index": 39,
+   "start": 2.383,
+   "end": 2.494
+  },
+  {
+   "text": "his",
+   "index": 42,
+   "start": 2.508,
+   "end": 2.647
+  },
+  {
+   "text": "work",
+   "index": 46,
+   "start": 2.661,
+   "end": 3.175
+  },
+  {
+   "text": "And",
+   "index": 52,
+   "start": 4.139,
+   "end": 4.361
+  },
+  {
+   "text": "filled",
+   "index": 56,
+   "start": 4.375,
+   "end": 4.764
+  },
+  {
+   "text": "all",
+   "index": 63,
+   "start": 4.778,
+   "end": 5.0
+  },
+  {
+   "text": "the",
+   "index": 67,
+   "start": 5.014,
+   "end": 5.139
+  },
+  {
+   "text": "stockings",
+   "index": 71,
+   "start": 5.153,
+   "end": 5.847
+  },
+  {
+   "text": "then",
+   "index": 82,
+   "start": 6.153,
+   "end": 6.375
+  },
+  {
+   "text": "turned",
+   "index": 87,
+   "start": 6.389,
+   "end": 6.708
+  },
+  {
+   "text": "with",
+   "index": 94,
+   "start": 6.722,
+   "end": 6.875
+  },
+  {
+   "text": "a",
+   "index": 99,
+   "start": 6.889,
+   "end": 6.958
+  },
+  {
+   "text": "jerk",
+   "index": 101,
+   "start": 6.972,
+   "end": 7.5
+  }
+ ]
+}

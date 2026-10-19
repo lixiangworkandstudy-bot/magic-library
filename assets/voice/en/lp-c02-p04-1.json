@@ -1,0 +1,13 @@
+{
+ "audio": "assets/voice/en/lp-c02-p04-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"What!\"",
+ "words": [
+  {
+   "text": "What",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.586
+  }
+ ]
+}

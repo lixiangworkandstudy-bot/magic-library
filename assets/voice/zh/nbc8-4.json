@@ -1,0 +1,121 @@
+{
+ "audio": "assets/voice/zh/nbc8-4.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "他胖乎乎、圆滚滚，是个快乐的老精灵——我看着他，忍不住“噗”地笑出了声。",
+ "words": [
+  {
+   "text": "他",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.272
+  },
+  {
+   "text": "胖乎乎",
+   "index": 1,
+   "start": 0.272,
+   "end": 1.05
+  },
+  {
+   "text": "圆滚滚",
+   "index": 5,
+   "start": 1.258,
+   "end": 2.064
+  },
+  {
+   "text": "是个",
+   "index": 9,
+   "start": 2.383,
+   "end": 2.675
+  },
+  {
+   "text": "快乐",
+   "index": 11,
+   "start": 2.689,
+   "end": 3.106
+  },
+  {
+   "text": "的",
+   "index": 13,
+   "start": 3.106,
+   "end": 3.203
+  },
+  {
+   "text": "老",
+   "index": 14,
+   "start": 3.217,
+   "end": 3.397
+  },
+  {
+   "text": "精灵",
+   "index": 15,
+   "start": 3.397,
+   "end": 3.981
+  },
+  {
+   "text": "我",
+   "index": 19,
+   "start": 4.244,
+   "end": 4.383
+  },
+  {
+   "text": "看",
+   "index": 20,
+   "start": 4.383,
+   "end": 4.661
+  },
+  {
+   "text": "着",
+   "index": 21,
+   "start": 4.661,
+   "end": 4.786
+  },
+  {
+   "text": "他",
+   "index": 22,
+   "start": 4.786,
+   "end": 5.064
+  },
+  {
+   "text": "忍不住",
+   "index": 24,
+   "start": 5.369,
+   "end": 5.939
+  },
+  {
+   "text": "噗",
+   "index": 28,
+   "start": 5.967,
+   "end": 6.147
+  },
+  {
+   "text": "地",
+   "index": 30,
+   "start": 6.147,
+   "end": 6.258
+  },
+  {
+   "text": "笑",
+   "index": 31,
+   "start": 6.286,
+   "end": 6.55
+  },
+  {
+   "text": "出",
+   "index": 32,
+   "start": 6.55,
+   "end": 6.717
+  },
+  {
+   "text": "了",
+   "index": 33,
+   "start": 6.717,
+   "end": 6.842
+  },
+  {
+   "text": "声",
+   "index": 34,
+   "start": 6.842,
+   "end": 7.161
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "audio": "assets/voice/en/lp-c03-p11-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"Then you come from another planet?\"",
+ "words": [
+  {
+   "text": "Then",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.336
+  },
+  {
+   "text": "you",
+   "index": 6,
+   "start": 0.35,
+   "end": 0.447
+  },
+  {
+   "text": "come",
+   "index": 10,
+   "start": 0.461,
+   "end": 0.697
+  },
+  {
+   "text": "from",
+   "index": 15,
+   "start": 0.711,
+   "end": 0.878
+  },
+  {
+   "text": "another",
+   "index": 20,
+   "start": 0.892,
+   "end": 1.211
+  },
+  {
+   "text": "planet",
+   "index": 28,
+   "start": 1.225,
+   "end": 1.767
+  }
+ ]
+}

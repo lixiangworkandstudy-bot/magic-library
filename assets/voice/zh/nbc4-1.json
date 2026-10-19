@@ -1,0 +1,85 @@
+{
+ "audio": "assets/voice/zh/nbc4-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "月亮照着新下的雪，把屋顶照得像白天一样亮。",
+ "words": [
+  {
+   "text": "月亮",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.55
+  },
+  {
+   "text": "照着",
+   "index": 2,
+   "start": 0.564,
+   "end": 0.856
+  },
+  {
+   "text": "新",
+   "index": 4,
+   "start": 0.883,
+   "end": 1.106
+  },
+  {
+   "text": "下",
+   "index": 5,
+   "start": 1.106,
+   "end": 1.314
+  },
+  {
+   "text": "的",
+   "index": 6,
+   "start": 1.314,
+   "end": 1.425
+  },
+  {
+   "text": "雪",
+   "index": 7,
+   "start": 1.425,
+   "end": 1.772
+  },
+  {
+   "text": "把",
+   "index": 9,
+   "start": 2.05,
+   "end": 2.189
+  },
+  {
+   "text": "屋顶",
+   "index": 10,
+   "start": 2.203,
+   "end": 2.592
+  },
+  {
+   "text": "照",
+   "index": 12,
+   "start": 2.592,
+   "end": 2.828
+  },
+  {
+   "text": "得",
+   "index": 13,
+   "start": 2.828,
+   "end": 3.036
+  },
+  {
+   "text": "像",
+   "index": 14,
+   "start": 3.064,
+   "end": 3.258
+  },
+  {
+   "text": "白天",
+   "index": 15,
+   "start": 3.272,
+   "end": 3.744
+  },
+  {
+   "text": "一样亮",
+   "index": 17,
+   "start": 3.758,
+   "end": 4.356
+  }
+ ]
+}

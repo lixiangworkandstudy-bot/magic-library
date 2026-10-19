@@ -1,0 +1,73 @@
+{
+ "audio": "assets/voice/en/lp-c00-p02-4.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "(But few of them remember it.) So I correct my dedication:",
+ "words": [
+  {
+   "text": "But",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.322
+  },
+  {
+   "text": "few",
+   "index": 5,
+   "start": 0.336,
+   "end": 0.6
+  },
+  {
+   "text": "of",
+   "index": 9,
+   "start": 0.614,
+   "end": 0.683
+  },
+  {
+   "text": "them",
+   "index": 12,
+   "start": 0.697,
+   "end": 0.85
+  },
+  {
+   "text": "remember",
+   "index": 17,
+   "start": 0.864,
+   "end": 1.322
+  },
+  {
+   "text": "it",
+   "index": 26,
+   "start": 1.336,
+   "end": 1.586
+  },
+  {
+   "text": "So",
+   "index": 31,
+   "start": 2.55,
+   "end": 2.814
+  },
+  {
+   "text": "I",
+   "index": 34,
+   "start": 2.828,
+   "end": 2.925
+  },
+  {
+   "text": "correct",
+   "index": 36,
+   "start": 2.939,
+   "end": 3.328
+  },
+  {
+   "text": "my",
+   "index": 44,
+   "start": 3.342,
+   "end": 3.508
+  },
+  {
+   "text": "dedication",
+   "index": 47,
+   "start": 3.522,
+   "end": 4.397
+  }
+ ]
+}

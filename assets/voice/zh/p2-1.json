@@ -1,0 +1,73 @@
+{
+ "audio": "assets/voice/zh/p2-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "小狐狸跑过蘑菇地，爬上了最高的山。",
+ "words": [
+  {
+   "text": "小",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.397
+  },
+  {
+   "text": "狐狸",
+   "index": 1,
+   "start": 0.397,
+   "end": 0.828
+  },
+  {
+   "text": "跑",
+   "index": 3,
+   "start": 0.856,
+   "end": 1.078
+  },
+  {
+   "text": "过",
+   "index": 4,
+   "start": 1.078,
+   "end": 1.189
+  },
+  {
+   "text": "蘑菇",
+   "index": 5,
+   "start": 1.203,
+   "end": 1.564
+  },
+  {
+   "text": "地",
+   "index": 7,
+   "start": 1.564,
+   "end": 1.869
+  },
+  {
+   "text": "爬上",
+   "index": 9,
+   "start": 2.119,
+   "end": 2.508
+  },
+  {
+   "text": "了",
+   "index": 11,
+   "start": 2.508,
+   "end": 2.592
+  },
+  {
+   "text": "最高",
+   "index": 12,
+   "start": 2.619,
+   "end": 3.078
+  },
+  {
+   "text": "的",
+   "index": 14,
+   "start": 3.078,
+   "end": 3.203
+  },
+  {
+   "text": "山",
+   "index": 15,
+   "start": 3.203,
+   "end": 3.55
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "audio": "assets/voice/en/lp-c01-p05-1.mp3",
+ "voice": "en-US-ChristopherNeural",
+ "text": "They answered: \"Why should anyone be frightened by a hat?\"",
+ "words": [
+  {
+   "text": "They",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.328
+  },
+  {
+   "text": "answered",
+   "index": 5,
+   "start": 0.342,
+   "end": 0.856
+  },
+  {
+   "text": "Why",
+   "index": 16,
+   "start": 1.203,
+   "end": 1.467
+  },
+  {
+   "text": "should",
+   "index": 20,
+   "start": 1.481,
+   "end": 1.731
+  },
+  {
+   "text": "anyone",
+   "index": 27,
+   "start": 1.744,
+   "end": 2.133
+  },
+  {
+   "text": "be",
+   "index": 34,
+   "start": 2.147,
+   "end": 2.272
+  },
+  {
+   "text": "frightened",
+   "index": 37,
+   "start": 2.286,
+   "end": 2.814
+  },
+  {
+   "text": "by",
+   "index": 48,
+   "start": 2.828,
+   "end": 2.994
+  },
+  {
+   "text": "a",
+   "index": 51,
+   "start": 3.008,
+   "end": 3.078
+  },
+  {
+   "text": "hat",
+   "index": 53,
+   "start": 3.092,
+   "end": 3.564
+  }
+ ]
+}

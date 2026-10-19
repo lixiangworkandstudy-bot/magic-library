@@ -1,0 +1,67 @@
+{
+ "audio": "assets/voice/en/lp-c02-p17-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"No! That one is already very sick. Make me another.\"",
+ "words": [
+  {
+   "text": "No",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.633
+  },
+  {
+   "text": "That",
+   "index": 5,
+   "start": 1.583,
+   "end": 1.917
+  },
+  {
+   "text": "one",
+   "index": 10,
+   "start": 1.931,
+   "end": 2.194
+  },
+  {
+   "text": "is",
+   "index": 14,
+   "start": 2.208,
+   "end": 2.403
+  },
+  {
+   "text": "already",
+   "index": 17,
+   "start": 2.417,
+   "end": 2.958
+  },
+  {
+   "text": "very",
+   "index": 25,
+   "start": 2.972,
+   "end": 3.431
+  },
+  {
+   "text": "sick",
+   "index": 30,
+   "start": 3.444,
+   "end": 3.944
+  },
+  {
+   "text": "Make",
+   "index": 36,
+   "start": 4.903,
+   "end": 5.236
+  },
+  {
+   "text": "me",
+   "index": 41,
+   "start": 5.25,
+   "end": 5.458
+  },
+  {
+   "text": "another",
+   "index": 44,
+   "start": 5.472,
+   "end": 6.097
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "audio": "assets/voice/en/lp-c03-p15-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "You can imagine how intrigued I was by this half-confidence about \"the other planets.\" So I did my best to find out more:",
+ "words": [
+  {
+   "text": "You",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.267
+  },
+  {
+   "text": "can",
+   "index": 4,
+   "start": 0.281,
+   "end": 0.433
+  },
+  {
+   "text": "imagine",
+   "index": 8,
+   "start": 0.447,
+   "end": 0.933
+  },
+  {
+   "text": "how",
+   "index": 16,
+   "start": 0.947,
+   "end": 1.156
+  },
+  {
+   "text": "intrigued",
+   "index": 20,
+   "start": 1.169,
+   "end": 1.697
+  },
+  {
+   "text": "I",
+   "index": 30,
+   "start": 1.711,
+   "end": 1.794
+  },
+  {
+   "text": "was",
+   "index": 32,
+   "start": 1.808,
+   "end": 1.989
+  },
+  {
+   "text": "by",
+   "index": 36,
+   "start": 2.003,
+   "end": 2.169
+  },
+  {
+   "text": "this",
+   "index": 39,
+   "start": 2.183,
+   "end": 2.447
+  },
+  {
+   "text": "half-confidence",
+   "index": 44,
+   "start": 2.461,
+   "end": 3.322
+  },
+  {
+   "text": "about",
+   "index": 60,
+   "start": 3.336,
+   "end": 3.656
+  },
+  {
+   "text": "the",
+   "index": 67,
+   "start": 3.683,
+   "end": 3.822
+  },
+  {
+   "text": "other",
+   "index": 71,
+   "start": 3.836,
+   "end": 4.072
+  },
+  {
+   "text": "planets",
+   "index": 77,
+   "start": 4.086,
+   "end": 4.697
+  },
+  {
+   "text": "So",
+   "index": 87,
+   "start": 5.661,
+   "end": 5.897
+  },
+  {
+   "text": "I",
+   "index": 90,
+   "start": 5.911,
+   "end": 5.994
+  },
+  {
+   "text": "did",
+   "index": 92,
+   "start": 6.008,
+   "end": 6.175
+  },
+  {
+   "text": "my",
+   "index": 96,
+   "start": 6.189,
+   "end": 6.342
+  },
+  {
+   "text": "best",
+   "index": 99,
+   "start": 6.356,
+   "end": 6.661
+  },
+  {
+   "text": "to",
+   "index": 104,
+   "start": 6.675,
+   "end": 6.744
+  },
+  {
+   "text": "find",
+   "index": 107,
+   "start": 6.758,
+   "end": 7.092
+  },
+  {
+   "text": "out",
+   "index": 112,
+   "start": 7.106,
+   "end": 7.314
+  },
+  {
+   "text": "more",
+   "index": 116,
+   "start": 7.328,
+   "end": 7.772
+  }
+ ]
+}

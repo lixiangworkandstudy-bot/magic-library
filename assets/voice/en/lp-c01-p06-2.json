@@ -1,0 +1,169 @@
+{
+ "audio": "assets/voice/en/lp-c01-p06-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "So I drew the inside of the boa constrictor, so that the grown-ups could understand. They always need things explained. My Drawing Number Two looked like this:",
+ "words": [
+  {
+   "text": "So",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.35
+  },
+  {
+   "text": "I",
+   "index": 3,
+   "start": 0.364,
+   "end": 0.461
+  },
+  {
+   "text": "drew",
+   "index": 5,
+   "start": 0.475,
+   "end": 0.781
+  },
+  {
+   "text": "the",
+   "index": 10,
+   "start": 0.794,
+   "end": 0.919
+  },
+  {
+   "text": "inside",
+   "index": 14,
+   "start": 0.933,
+   "end": 1.406
+  },
+  {
+   "text": "of",
+   "index": 21,
+   "start": 1.419,
+   "end": 1.489
+  },
+  {
+   "text": "the",
+   "index": 24,
+   "start": 1.503,
+   "end": 1.614
+  },
+  {
+   "text": "boa",
+   "index": 28,
+   "start": 1.628,
+   "end": 1.892
+  },
+  {
+   "text": "constrictor",
+   "index": 32,
+   "start": 1.906,
+   "end": 2.586
+  },
+  {
+   "text": "so",
+   "index": 45,
+   "start": 2.808,
+   "end": 2.919
+  },
+  {
+   "text": "that",
+   "index": 48,
+   "start": 2.933,
+   "end": 3.072
+  },
+  {
+   "text": "the",
+   "index": 53,
+   "start": 3.086,
+   "end": 3.183
+  },
+  {
+   "text": "grown-ups",
+   "index": 57,
+   "start": 3.197,
+   "end": 3.725
+  },
+  {
+   "text": "could",
+   "index": 67,
+   "start": 3.739,
+   "end": 3.919
+  },
+  {
+   "text": "understand",
+   "index": 73,
+   "start": 3.933,
+   "end": 4.794
+  },
+  {
+   "text": "They",
+   "index": 85,
+   "start": 5.758,
+   "end": 5.994
+  },
+  {
+   "text": "always",
+   "index": 90,
+   "start": 6.008,
+   "end": 6.439
+  },
+  {
+   "text": "need",
+   "index": 97,
+   "start": 6.453,
+   "end": 6.717
+  },
+  {
+   "text": "things",
+   "index": 102,
+   "start": 6.731,
+   "end": 7.022
+  },
+  {
+   "text": "explained",
+   "index": 109,
+   "start": 7.036,
+   "end": 7.856
+  },
+  {
+   "text": "My",
+   "index": 120,
+   "start": 8.814,
+   "end": 9.064
+  },
+  {
+   "text": "Drawing",
+   "index": 123,
+   "start": 9.078,
+   "end": 9.536
+  },
+  {
+   "text": "Number",
+   "index": 131,
+   "start": 9.55,
+   "end": 9.814
+  },
+  {
+   "text": "Two",
+   "index": 138,
+   "start": 9.828,
+   "end": 10.119
+  },
+  {
+   "text": "looked",
+   "index": 142,
+   "start": 10.133,
+   "end": 10.383
+  },
+  {
+   "text": "like",
+   "index": 149,
+   "start": 10.397,
+   "end": 10.606
+  },
+  {
+   "text": "this",
+   "index": 154,
+   "start": 10.619,
+   "end": 11.036
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "audio": "assets/voice/en/nbc5-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "More rapid than eagles his reindeer they came,\nAnd he whistled, and shouted, and called them by name:",
+ "words": [
+  {
+   "text": "More",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.481
+  },
+  {
+   "text": "rapid",
+   "index": 5,
+   "start": 0.494,
+   "end": 0.939
+  },
+  {
+   "text": "than",
+   "index": 11,
+   "start": 0.953,
+   "end": 1.147
+  },
+  {
+   "text": "eagles",
+   "index": 16,
+   "start": 1.161,
+   "end": 1.522
+  },
+  {
+   "text": "his",
+   "index": 23,
+   "start": 1.536,
+   "end": 1.731
+  },
+  {
+   "text": "reindeer",
+   "index": 27,
+   "start": 1.744,
+   "end": 2.203
+  },
+  {
+   "text": "they",
+   "index": 36,
+   "start": 2.217,
+   "end": 2.356
+  },
+  {
+   "text": "came",
+   "index": 41,
+   "start": 2.369,
+   "end": 2.883
+  },
+  {
+   "text": "And",
+   "index": 47,
+   "start": 3.847,
+   "end": 4.056
+  },
+  {
+   "text": "he",
+   "index": 51,
+   "start": 4.069,
+   "end": 4.208
+  },
+  {
+   "text": "whistled",
+   "index": 54,
+   "start": 4.222,
+   "end": 4.708
+  },
+  {
+   "text": "and",
+   "index": 64,
+   "start": 4.889,
+   "end": 5.069
+  },
+  {
+   "text": "shouted",
+   "index": 68,
+   "start": 5.083,
+   "end": 5.597
+  },
+  {
+   "text": "and",
+   "index": 77,
+   "start": 5.764,
+   "end": 5.944
+  },
+  {
+   "text": "called",
+   "index": 81,
+   "start": 5.958,
+   "end": 6.264
+  },
+  {
+   "text": "them",
+   "index": 88,
+   "start": 6.278,
+   "end": 6.403
+  },
+  {
+   "text": "by",
+   "index": 93,
+   "start": 6.417,
+   "end": 6.556
+  },
+  {
+   "text": "name",
+   "index": 96,
+   "start": 6.569,
+   "end": 7.083
+  }
+ ]
+}

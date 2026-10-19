@@ -1,0 +1,175 @@
+{
+ "audio": "assets/voice/en/lp-c03-p14-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And he sank into a reverie that lasted a long time. Then, taking my sheep out of his pocket, he became absorbed in the contemplation of his treasure.",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.308
+  },
+  {
+   "text": "he",
+   "index": 4,
+   "start": 0.322,
+   "end": 0.475
+  },
+  {
+   "text": "sank",
+   "index": 7,
+   "start": 0.489,
+   "end": 0.781
+  },
+  {
+   "text": "into",
+   "index": 12,
+   "start": 0.794,
+   "end": 1.086
+  },
+  {
+   "text": "a",
+   "index": 17,
+   "start": 1.1,
+   "end": 1.156
+  },
+  {
+   "text": "reverie",
+   "index": 19,
+   "start": 1.169,
+   "end": 1.586
+  },
+  {
+   "text": "that",
+   "index": 27,
+   "start": 1.6,
+   "end": 1.794
+  },
+  {
+   "text": "lasted",
+   "index": 32,
+   "start": 1.808,
+   "end": 2.225
+  },
+  {
+   "text": "a",
+   "index": 39,
+   "start": 2.239,
+   "end": 2.294
+  },
+  {
+   "text": "long",
+   "index": 41,
+   "start": 2.308,
+   "end": 2.642
+  },
+  {
+   "text": "time",
+   "index": 46,
+   "start": 2.656,
+   "end": 3.197
+  },
+  {
+   "text": "Then",
+   "index": 52,
+   "start": 4.161,
+   "end": 4.55
+  },
+  {
+   "text": "taking",
+   "index": 58,
+   "start": 4.744,
+   "end": 5.078
+  },
+  {
+   "text": "my",
+   "index": 65,
+   "start": 5.092,
+   "end": 5.3
+  },
+  {
+   "text": "sheep",
+   "index": 68,
+   "start": 5.314,
+   "end": 5.619
+  },
+  {
+   "text": "out",
+   "index": 74,
+   "start": 5.633,
+   "end": 5.828
+  },
+  {
+   "text": "of",
+   "index": 78,
+   "start": 5.842,
+   "end": 5.925
+  },
+  {
+   "text": "his",
+   "index": 81,
+   "start": 5.939,
+   "end": 6.106
+  },
+  {
+   "text": "pocket",
+   "index": 85,
+   "start": 6.119,
+   "end": 6.55
+  },
+  {
+   "text": "he",
+   "index": 93,
+   "start": 6.8,
+   "end": 6.883
+  },
+  {
+   "text": "became",
+   "index": 96,
+   "start": 6.897,
+   "end": 7.258
+  },
+  {
+   "text": "absorbed",
+   "index": 103,
+   "start": 7.272,
+   "end": 7.744
+  },
+  {
+   "text": "in",
+   "index": 112,
+   "start": 7.758,
+   "end": 7.842
+  },
+  {
+   "text": "the",
+   "index": 115,
+   "start": 7.856,
+   "end": 7.925
+  },
+  {
+   "text": "contemplation",
+   "index": 119,
+   "start": 7.939,
+   "end": 8.661
+  },
+  {
+   "text": "of",
+   "index": 133,
+   "start": 8.675,
+   "end": 8.744
+  },
+  {
+   "text": "his",
+   "index": 136,
+   "start": 8.758,
+   "end": 8.911
+  },
+  {
+   "text": "treasure",
+   "index": 140,
+   "start": 8.925,
+   "end": 9.467
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "audio": "assets/voice/zh/nbc1-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "圣诞前一夜，屋里静悄悄，谁也不出声，小老鼠也睡着了。",
+ "words": [
+  {
+   "text": "圣诞",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.578
+  },
+  {
+   "text": "前",
+   "index": 2,
+   "start": 0.578,
+   "end": 0.8
+  },
+  {
+   "text": "一",
+   "index": 3,
+   "start": 0.814,
+   "end": 1.036
+  },
+  {
+   "text": "夜",
+   "index": 4,
+   "start": 1.036,
+   "end": 1.328
+  },
+  {
+   "text": "屋里",
+   "index": 6,
+   "start": 1.633,
+   "end": 1.981
+  },
+  {
+   "text": "静悄悄",
+   "index": 8,
+   "start": 2.008,
+   "end": 2.772
+  },
+  {
+   "text": "谁",
+   "index": 12,
+   "start": 3.022,
+   "end": 3.272
+  },
+  {
+   "text": "也",
+   "index": 13,
+   "start": 3.272,
+   "end": 3.411
+  },
+  {
+   "text": "不",
+   "index": 14,
+   "start": 3.425,
+   "end": 3.55
+  },
+  {
+   "text": "出声",
+   "index": 15,
+   "start": 3.55,
+   "end": 4.05
+  },
+  {
+   "text": "小",
+   "index": 18,
+   "start": 4.356,
+   "end": 4.55
+  },
+  {
+   "text": "老鼠",
+   "index": 19,
+   "start": 4.55,
+   "end": 4.939
+  },
+  {
+   "text": "也",
+   "index": 21,
+   "start": 4.967,
+   "end": 5.106
+  },
+  {
+   "text": "睡着",
+   "index": 22,
+   "start": 5.119,
+   "end": 5.619
+  },
+  {
+   "text": "了",
+   "index": 24,
+   "start": 5.619,
+   "end": 5.828
+  }
+ ]
+}

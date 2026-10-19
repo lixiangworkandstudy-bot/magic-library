@@ -1,0 +1,115 @@
+{
+ "audio": "assets/voice/en/lp-c03-p12-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "But he did not answer. He was shaking his head gently, all the while looking at my aeroplane:",
+ "words": [
+  {
+   "text": "But",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.281
+  },
+  {
+   "text": "he",
+   "index": 4,
+   "start": 0.294,
+   "end": 0.447
+  },
+  {
+   "text": "did",
+   "index": 7,
+   "start": 0.461,
+   "end": 0.628
+  },
+  {
+   "text": "not",
+   "index": 11,
+   "start": 0.642,
+   "end": 0.836
+  },
+  {
+   "text": "answer",
+   "index": 15,
+   "start": 0.85,
+   "end": 1.364
+  },
+  {
+   "text": "He",
+   "index": 23,
+   "start": 2.328,
+   "end": 2.522
+  },
+  {
+   "text": "was",
+   "index": 26,
+   "start": 2.536,
+   "end": 2.689
+  },
+  {
+   "text": "shaking",
+   "index": 30,
+   "start": 2.703,
+   "end": 3.078
+  },
+  {
+   "text": "his",
+   "index": 38,
+   "start": 3.092,
+   "end": 3.286
+  },
+  {
+   "text": "head",
+   "index": 42,
+   "start": 3.3,
+   "end": 3.536
+  },
+  {
+   "text": "gently",
+   "index": 47,
+   "start": 3.55,
+   "end": 4.064
+  },
+  {
+   "text": "all",
+   "index": 55,
+   "start": 4.272,
+   "end": 4.481
+  },
+  {
+   "text": "the",
+   "index": 59,
+   "start": 4.494,
+   "end": 4.578
+  },
+  {
+   "text": "while",
+   "index": 63,
+   "start": 4.592,
+   "end": 4.883
+  },
+  {
+   "text": "looking",
+   "index": 69,
+   "start": 4.897,
+   "end": 5.231
+  },
+  {
+   "text": "at",
+   "index": 77,
+   "start": 5.244,
+   "end": 5.342
+  },
+  {
+   "text": "my",
+   "index": 80,
+   "start": 5.356,
+   "end": 5.578
+  },
+  {
+   "text": "aeroplane",
+   "index": 83,
+   "start": 5.592,
+   "end": 6.342
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "audio": "assets/voice/en/lp-c02-p02-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "I was far more isolated than a shipwrecked sailor on a raft in the middle of the ocean.",
+ "words": [
+  {
+   "text": "I",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.253
+  },
+  {
+   "text": "was",
+   "index": 2,
+   "start": 0.267,
+   "end": 0.461
+  },
+  {
+   "text": "far",
+   "index": 6,
+   "start": 0.475,
+   "end": 0.725
+  },
+  {
+   "text": "more",
+   "index": 10,
+   "start": 0.739,
+   "end": 0.989
+  },
+  {
+   "text": "isolated",
+   "index": 15,
+   "start": 1.003,
+   "end": 1.628
+  },
+  {
+   "text": "than",
+   "index": 24,
+   "start": 1.642,
+   "end": 1.753
+  },
+  {
+   "text": "a",
+   "index": 29,
+   "start": 1.767,
+   "end": 1.808
+  },
+  {
+   "text": "shipwrecked",
+   "index": 31,
+   "start": 1.822,
+   "end": 2.35
+  },
+  {
+   "text": "sailor",
+   "index": 43,
+   "start": 2.364,
+   "end": 2.767
+  },
+  {
+   "text": "on",
+   "index": 50,
+   "start": 2.781,
+   "end": 2.906
+  },
+  {
+   "text": "a",
+   "index": 53,
+   "start": 2.919,
+   "end": 2.975
+  },
+  {
+   "text": "raft",
+   "index": 55,
+   "start": 2.989,
+   "end": 3.406
+  },
+  {
+   "text": "in",
+   "index": 60,
+   "start": 3.419,
+   "end": 3.489
+  },
+  {
+   "text": "the",
+   "index": 63,
+   "start": 3.503,
+   "end": 3.572
+  },
+  {
+   "text": "middle",
+   "index": 67,
+   "start": 3.586,
+   "end": 3.892
+  },
+  {
+   "text": "of",
+   "index": 74,
+   "start": 3.906,
+   "end": 3.975
+  },
+  {
+   "text": "the",
+   "index": 77,
+   "start": 3.989,
+   "end": 4.128
+  },
+  {
+   "text": "ocean",
+   "index": 81,
+   "start": 4.142,
+   "end": 4.628
+  }
+ ]
+}

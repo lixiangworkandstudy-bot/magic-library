@@ -1,0 +1,73 @@
+{
+ "audio": "assets/voice/en/p3-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "On the way home, the little fox stopped by the pond.",
+ "words": [
+  {
+   "text": "On",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.314
+  },
+  {
+   "text": "the",
+   "index": 3,
+   "start": 0.328,
+   "end": 0.425
+  },
+  {
+   "text": "way",
+   "index": 7,
+   "start": 0.439,
+   "end": 0.633
+  },
+  {
+   "text": "home",
+   "index": 11,
+   "start": 0.647,
+   "end": 1.078
+  },
+  {
+   "text": "the",
+   "index": 17,
+   "start": 1.286,
+   "end": 1.397
+  },
+  {
+   "text": "little",
+   "index": 21,
+   "start": 1.411,
+   "end": 1.675
+  },
+  {
+   "text": "fox",
+   "index": 28,
+   "start": 1.689,
+   "end": 2.133
+  },
+  {
+   "text": "stopped",
+   "index": 32,
+   "start": 2.147,
+   "end": 2.55
+  },
+  {
+   "text": "by",
+   "index": 40,
+   "start": 2.564,
+   "end": 2.717
+  },
+  {
+   "text": "the",
+   "index": 43,
+   "start": 2.731,
+   "end": 2.842
+  },
+  {
+   "text": "pond",
+   "index": 47,
+   "start": 2.856,
+   "end": 3.439
+  }
+ ]
+}

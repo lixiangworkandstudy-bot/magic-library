@@ -1,0 +1,37 @@
+{
+ "audio": "assets/voice/en/lp-c02-p19-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "My friend smiled kindly, indulgently:",
+ "words": [
+  {
+   "text": "My",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.392
+  },
+  {
+   "text": "friend",
+   "index": 3,
+   "start": 0.406,
+   "end": 0.753
+  },
+  {
+   "text": "smiled",
+   "index": 10,
+   "start": 0.767,
+   "end": 1.239
+  },
+  {
+   "text": "kindly",
+   "index": 17,
+   "start": 1.253,
+   "end": 1.822
+  },
+  {
+   "text": "indulgently",
+   "index": 25,
+   "start": 2.031,
+   "end": 2.85
+  }
+ ]
+}

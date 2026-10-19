@@ -1,0 +1,97 @@
+{
+ "audio": "assets/voice/zh/nbc7-2.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "他从头到脚，穿着毛茸茸的皮衣，衣服上沾满了黑黑的煤灰；",
+ "words": [
+  {
+   "text": "他",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.286
+  },
+  {
+   "text": "从头",
+   "index": 1,
+   "start": 0.286,
+   "end": 0.731
+  },
+  {
+   "text": "到",
+   "index": 3,
+   "start": 0.744,
+   "end": 0.967
+  },
+  {
+   "text": "脚",
+   "index": 4,
+   "start": 0.967,
+   "end": 1.356
+  },
+  {
+   "text": "穿着",
+   "index": 6,
+   "start": 1.633,
+   "end": 1.953
+  },
+  {
+   "text": "毛茸茸",
+   "index": 8,
+   "start": 1.981,
+   "end": 2.536
+  },
+  {
+   "text": "的",
+   "index": 11,
+   "start": 2.536,
+   "end": 2.633
+  },
+  {
+   "text": "皮衣",
+   "index": 12,
+   "start": 2.647,
+   "end": 3.244
+  },
+  {
+   "text": "衣服",
+   "index": 15,
+   "start": 3.578,
+   "end": 3.897
+  },
+  {
+   "text": "上",
+   "index": 17,
+   "start": 3.897,
+   "end": 4.286
+  },
+  {
+   "text": "沾满",
+   "index": 18,
+   "start": 4.314,
+   "end": 4.731
+  },
+  {
+   "text": "了",
+   "index": 20,
+   "start": 4.731,
+   "end": 4.842
+  },
+  {
+   "text": "黑黑",
+   "index": 21,
+   "start": 4.869,
+   "end": 5.258
+  },
+  {
+   "text": "的",
+   "index": 23,
+   "start": 5.258,
+   "end": 5.356
+  },
+  {
+   "text": "煤灰",
+   "index": 24,
+   "start": 5.369,
+   "end": 5.925
+  }
+ ]
+}

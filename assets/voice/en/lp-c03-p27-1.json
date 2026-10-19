@@ -1,0 +1,61 @@
+{
+ "audio": "assets/voice/en/lp-c03-p27-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"That doesn't matter, it's so small where I live!\"",
+ "words": [
+  {
+   "text": "That",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.439
+  },
+  {
+   "text": "doesn't",
+   "index": 6,
+   "start": 0.453,
+   "end": 0.883
+  },
+  {
+   "text": "matter",
+   "index": 14,
+   "start": 0.897,
+   "end": 1.411
+  },
+  {
+   "text": "it's",
+   "index": 22,
+   "start": 1.758,
+   "end": 1.981
+  },
+  {
+   "text": "so",
+   "index": 27,
+   "start": 1.994,
+   "end": 2.3
+  },
+  {
+   "text": "small",
+   "index": 30,
+   "start": 2.314,
+   "end": 2.856
+  },
+  {
+   "text": "where",
+   "index": 36,
+   "start": 2.869,
+   "end": 3.106
+  },
+  {
+   "text": "I",
+   "index": 42,
+   "start": 3.119,
+   "end": 3.244
+  },
+  {
+   "text": "live",
+   "index": 44,
+   "start": 3.258,
+   "end": 3.731
+  }
+ ]
+}

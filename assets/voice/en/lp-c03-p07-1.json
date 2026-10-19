@@ -1,0 +1,25 @@
+{
+ "audio": "assets/voice/en/lp-c03-p07-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"Oh! That's funny!...\"",
+ "words": [
+  {
+   "text": "Oh",
+   "index": 1,
+   "start": 0.103,
+   "end": 0.478
+  },
+  {
+   "text": "That's",
+   "index": 5,
+   "start": 1.431,
+   "end": 1.847
+  },
+  {
+   "text": "funny",
+   "index": 12,
+   "start": 1.861,
+   "end": 2.403
+  }
+ ]
+}

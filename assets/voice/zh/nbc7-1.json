@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/zh/nbc7-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "我刚把头缩回来，转过身——扑通！圣诞老人从烟囱滑下来啦！",
+ "words": [
+  {
+   "text": "我",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.258
+  },
+  {
+   "text": "刚",
+   "index": 1,
+   "start": 0.258,
+   "end": 0.425
+  },
+  {
+   "text": "把",
+   "index": 2,
+   "start": 0.439,
+   "end": 0.578
+  },
+  {
+   "text": "头",
+   "index": 3,
+   "start": 0.578,
+   "end": 0.772
+  },
+  {
+   "text": "缩",
+   "index": 4,
+   "start": 0.786,
+   "end": 1.036
+  },
+  {
+   "text": "回来",
+   "index": 5,
+   "start": 1.036,
+   "end": 1.425
+  },
+  {
+   "text": "转",
+   "index": 8,
+   "start": 1.689,
+   "end": 1.911
+  },
+  {
+   "text": "过",
+   "index": 9,
+   "start": 1.911,
+   "end": 2.036
+  },
+  {
+   "text": "身",
+   "index": 10,
+   "start": 2.036,
+   "end": 2.383
+  },
+  {
+   "text": "扑通",
+   "index": 13,
+   "start": 2.661,
+   "end": 3.133
+  },
+  {
+   "text": "圣诞老人",
+   "index": 16,
+   "start": 3.75,
+   "end": 4.722
+  },
+  {
+   "text": "从",
+   "index": 20,
+   "start": 4.819,
+   "end": 4.986
+  },
+  {
+   "text": "烟囱",
+   "index": 21,
+   "start": 5.0,
+   "end": 5.417
+  },
+  {
+   "text": "滑",
+   "index": 23,
+   "start": 5.444,
+   "end": 5.681
+  },
+  {
+   "text": "下来",
+   "index": 24,
+   "start": 5.681,
+   "end": 6.083
+  },
+  {
+   "text": "啦",
+   "index": 26,
+   "start": 6.083,
+   "end": 6.319
+  }
+ ]
+}

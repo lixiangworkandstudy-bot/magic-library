@@ -1,0 +1,139 @@
+{
+ "audio": "assets/voice/en/lp-c03-p16-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"Where do you come from, my little fellow? Where is this 'where I live'? Where do you want to take my sheep?\"",
+ "words": [
+  {
+   "text": "Where",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.322
+  },
+  {
+   "text": "do",
+   "index": 7,
+   "start": 0.336,
+   "end": 0.419
+  },
+  {
+   "text": "you",
+   "index": 10,
+   "start": 0.433,
+   "end": 0.544
+  },
+  {
+   "text": "come",
+   "index": 14,
+   "start": 0.558,
+   "end": 0.794
+  },
+  {
+   "text": "from",
+   "index": 19,
+   "start": 0.808,
+   "end": 1.072
+  },
+  {
+   "text": "my",
+   "index": 25,
+   "start": 1.294,
+   "end": 1.489
+  },
+  {
+   "text": "little",
+   "index": 28,
+   "start": 1.503,
+   "end": 1.822
+  },
+  {
+   "text": "fellow",
+   "index": 35,
+   "start": 1.836,
+   "end": 2.392
+  },
+  {
+   "text": "Where",
+   "index": 43,
+   "start": 3.356,
+   "end": 3.633
+  },
+  {
+   "text": "is",
+   "index": 49,
+   "start": 3.647,
+   "end": 3.8
+  },
+  {
+   "text": "this",
+   "index": 52,
+   "start": 3.814,
+   "end": 4.008
+  },
+  {
+   "text": "where",
+   "index": 58,
+   "start": 4.161,
+   "end": 4.383
+  },
+  {
+   "text": "I",
+   "index": 64,
+   "start": 4.397,
+   "end": 4.592
+  },
+  {
+   "text": "live",
+   "index": 66,
+   "start": 4.606,
+   "end": 5.119
+  },
+  {
+   "text": "Where",
+   "index": 73,
+   "start": 6.078,
+   "end": 6.328
+  },
+  {
+   "text": "do",
+   "index": 79,
+   "start": 6.342,
+   "end": 6.425
+  },
+  {
+   "text": "you",
+   "index": 82,
+   "start": 6.439,
+   "end": 6.564
+  },
+  {
+   "text": "want",
+   "index": 86,
+   "start": 6.578,
+   "end": 6.786
+  },
+  {
+   "text": "to",
+   "index": 91,
+   "start": 6.8,
+   "end": 6.869
+  },
+  {
+   "text": "take",
+   "index": 94,
+   "start": 6.883,
+   "end": 7.147
+  },
+  {
+   "text": "my",
+   "index": 99,
+   "start": 7.161,
+   "end": 7.397
+  },
+  {
+   "text": "sheep",
+   "index": 102,
+   "start": 7.411,
+   "end": 7.911
+  }
+ ]
+}

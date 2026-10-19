@@ -1,0 +1,163 @@
+{
+ "audio": "assets/voice/en/lp-c03-p01-3.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "So, when he first caught sight of my aeroplane (I shall not draw my aeroplane; that drawing is much too complicated for me), he asked me:",
+ "words": [
+  {
+   "text": "So",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.517
+  },
+  {
+   "text": "when",
+   "index": 4,
+   "start": 0.656,
+   "end": 0.781
+  },
+  {
+   "text": "he",
+   "index": 9,
+   "start": 0.794,
+   "end": 0.919
+  },
+  {
+   "text": "first",
+   "index": 12,
+   "start": 0.933,
+   "end": 1.308
+  },
+  {
+   "text": "caught",
+   "index": 18,
+   "start": 1.322,
+   "end": 1.6
+  },
+  {
+   "text": "sight",
+   "index": 25,
+   "start": 1.614,
+   "end": 1.892
+  },
+  {
+   "text": "of",
+   "index": 31,
+   "start": 1.906,
+   "end": 2.003
+  },
+  {
+   "text": "my",
+   "index": 34,
+   "start": 2.017,
+   "end": 2.225
+  },
+  {
+   "text": "aeroplane",
+   "index": 37,
+   "start": 2.239,
+   "end": 2.906
+  },
+  {
+   "text": "I",
+   "index": 48,
+   "start": 3.142,
+   "end": 3.239
+  },
+  {
+   "text": "shall",
+   "index": 50,
+   "start": 3.253,
+   "end": 3.531
+  },
+  {
+   "text": "not",
+   "index": 56,
+   "start": 3.544,
+   "end": 3.767
+  },
+  {
+   "text": "draw",
+   "index": 60,
+   "start": 3.781,
+   "end": 4.044
+  },
+  {
+   "text": "my",
+   "index": 65,
+   "start": 4.058,
+   "end": 4.294
+  },
+  {
+   "text": "aeroplane",
+   "index": 68,
+   "start": 4.308,
+   "end": 5.017
+  },
+  {
+   "text": "that",
+   "index": 79,
+   "start": 5.294,
+   "end": 5.461
+  },
+  {
+   "text": "drawing",
+   "index": 84,
+   "start": 5.475,
+   "end": 5.961
+  },
+  {
+   "text": "is",
+   "index": 92,
+   "start": 5.975,
+   "end": 6.086
+  },
+  {
+   "text": "much",
+   "index": 95,
+   "start": 6.1,
+   "end": 6.447
+  },
+  {
+   "text": "too",
+   "index": 100,
+   "start": 6.461,
+   "end": 6.683
+  },
+  {
+   "text": "complicated",
+   "index": 104,
+   "start": 6.697,
+   "end": 7.419
+  },
+  {
+   "text": "for",
+   "index": 116,
+   "start": 7.433,
+   "end": 7.531
+  },
+  {
+   "text": "me",
+   "index": 120,
+   "start": 7.544,
+   "end": 7.781
+  },
+  {
+   "text": "he",
+   "index": 125,
+   "start": 8.058,
+   "end": 8.211
+  },
+  {
+   "text": "asked",
+   "index": 128,
+   "start": 8.225,
+   "end": 8.614
+  },
+  {
+   "text": "me",
+   "index": 134,
+   "start": 8.628,
+   "end": 8.919
+  }
+ ]
+}

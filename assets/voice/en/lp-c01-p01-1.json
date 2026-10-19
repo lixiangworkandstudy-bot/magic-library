@@ -1,0 +1,193 @@
+{
+ "audio": "assets/voice/en/lp-c01-p01-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "When I was six years old I saw, once, a magnificent picture in a book about the virgin forest called \"True Stories.\" It showed a boa constrictor swallowing a wild beast.",
+ "words": [
+  {
+   "text": "When",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.35
+  },
+  {
+   "text": "I",
+   "index": 5,
+   "start": 0.364,
+   "end": 0.447
+  },
+  {
+   "text": "was",
+   "index": 7,
+   "start": 0.461,
+   "end": 0.642
+  },
+  {
+   "text": "six",
+   "index": 11,
+   "start": 0.656,
+   "end": 0.919
+  },
+  {
+   "text": "years",
+   "index": 15,
+   "start": 0.933,
+   "end": 1.156
+  },
+  {
+   "text": "old",
+   "index": 21,
+   "start": 1.169,
+   "end": 1.336
+  },
+  {
+   "text": "I",
+   "index": 25,
+   "start": 1.35,
+   "end": 1.461
+  },
+  {
+   "text": "saw",
+   "index": 27,
+   "start": 1.475,
+   "end": 1.919
+  },
+  {
+   "text": "once",
+   "index": 32,
+   "start": 2.225,
+   "end": 2.697
+  },
+  {
+   "text": "a",
+   "index": 38,
+   "start": 2.892,
+   "end": 2.933
+  },
+  {
+   "text": "magnificent",
+   "index": 40,
+   "start": 2.947,
+   "end": 3.642
+  },
+  {
+   "text": "picture",
+   "index": 52,
+   "start": 3.656,
+   "end": 4.031
+  },
+  {
+   "text": "in",
+   "index": 60,
+   "start": 4.044,
+   "end": 4.169
+  },
+  {
+   "text": "a",
+   "index": 63,
+   "start": 4.183,
+   "end": 4.253
+  },
+  {
+   "text": "book",
+   "index": 65,
+   "start": 4.267,
+   "end": 4.461
+  },
+  {
+   "text": "about",
+   "index": 70,
+   "start": 4.475,
+   "end": 4.753
+  },
+  {
+   "text": "the",
+   "index": 76,
+   "start": 4.767,
+   "end": 4.85
+  },
+  {
+   "text": "virgin",
+   "index": 80,
+   "start": 4.864,
+   "end": 5.35
+  },
+  {
+   "text": "forest",
+   "index": 87,
+   "start": 5.364,
+   "end": 5.794
+  },
+  {
+   "text": "called",
+   "index": 94,
+   "start": 5.808,
+   "end": 6.142
+  },
+  {
+   "text": "True",
+   "index": 102,
+   "start": 6.267,
+   "end": 6.517
+  },
+  {
+   "text": "Stories",
+   "index": 107,
+   "start": 6.531,
+   "end": 7.239
+  },
+  {
+   "text": "It",
+   "index": 117,
+   "start": 8.203,
+   "end": 8.425
+  },
+  {
+   "text": "showed",
+   "index": 120,
+   "start": 8.439,
+   "end": 8.675
+  },
+  {
+   "text": "a",
+   "index": 127,
+   "start": 8.689,
+   "end": 8.744
+  },
+  {
+   "text": "boa",
+   "index": 129,
+   "start": 8.758,
+   "end": 9.022
+  },
+  {
+   "text": "constrictor",
+   "index": 133,
+   "start": 9.036,
+   "end": 9.647
+  },
+  {
+   "text": "swallowing",
+   "index": 145,
+   "start": 9.661,
+   "end": 10.133
+  },
+  {
+   "text": "a",
+   "index": 156,
+   "start": 10.147,
+   "end": 10.189
+  },
+  {
+   "text": "wild",
+   "index": 158,
+   "start": 10.203,
+   "end": 10.661
+  },
+  {
+   "text": "beast",
+   "index": 163,
+   "start": 10.675,
+   "end": 11.175
+  }
+ ]
+}

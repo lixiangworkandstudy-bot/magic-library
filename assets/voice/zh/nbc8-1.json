@@ -1,0 +1,85 @@
+{
+ "audio": "assets/voice/zh/nbc8-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "他的眼睛亮晶晶！小酒窝笑眯眯！脸蛋像玫瑰，鼻子像樱桃！",
+ "words": [
+  {
+   "text": "他",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.272
+  },
+  {
+   "text": "的",
+   "index": 1,
+   "start": 0.272,
+   "end": 0.369
+  },
+  {
+   "text": "眼睛",
+   "index": 2,
+   "start": 0.383,
+   "end": 0.8
+  },
+  {
+   "text": "亮晶晶",
+   "index": 4,
+   "start": 0.828,
+   "end": 1.592
+  },
+  {
+   "text": "小酒",
+   "index": 8,
+   "start": 2.236,
+   "end": 2.75
+  },
+  {
+   "text": "窝",
+   "index": 10,
+   "start": 2.764,
+   "end": 2.931
+  },
+  {
+   "text": "笑眯眯",
+   "index": 11,
+   "start": 2.931,
+   "end": 3.639
+  },
+  {
+   "text": "脸蛋",
+   "index": 15,
+   "start": 4.278,
+   "end": 4.694
+  },
+  {
+   "text": "像",
+   "index": 17,
+   "start": 4.722,
+   "end": 4.903
+  },
+  {
+   "text": "玫瑰",
+   "index": 18,
+   "start": 4.917,
+   "end": 5.444
+  },
+  {
+   "text": "鼻子",
+   "index": 21,
+   "start": 5.736,
+   "end": 6.069
+  },
+  {
+   "text": "像",
+   "index": 23,
+   "start": 6.097,
+   "end": 6.292
+  },
+  {
+   "text": "樱桃",
+   "index": 24,
+   "start": 6.306,
+   "end": 6.917
+  }
+ ]
+}

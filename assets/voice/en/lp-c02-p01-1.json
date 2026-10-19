@@ -1,0 +1,187 @@
+{
+ "audio": "assets/voice/en/lp-c02-p01-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "So I lived alone, with no one I could really talk to, until I had a breakdown in the Sahara Desert, six years ago. Something had broken in my engine.",
+ "words": [
+  {
+   "text": "So",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.35
+  },
+  {
+   "text": "I",
+   "index": 3,
+   "start": 0.364,
+   "end": 0.461
+  },
+  {
+   "text": "lived",
+   "index": 5,
+   "start": 0.475,
+   "end": 0.781
+  },
+  {
+   "text": "alone",
+   "index": 11,
+   "start": 0.794,
+   "end": 1.211
+  },
+  {
+   "text": "with",
+   "index": 18,
+   "start": 1.392,
+   "end": 1.544
+  },
+  {
+   "text": "no",
+   "index": 23,
+   "start": 1.558,
+   "end": 1.808
+  },
+  {
+   "text": "one",
+   "index": 26,
+   "start": 1.822,
+   "end": 2.044
+  },
+  {
+   "text": "I",
+   "index": 30,
+   "start": 2.058,
+   "end": 2.142
+  },
+  {
+   "text": "could",
+   "index": 32,
+   "start": 2.156,
+   "end": 2.336
+  },
+  {
+   "text": "really",
+   "index": 38,
+   "start": 2.35,
+   "end": 2.669
+  },
+  {
+   "text": "talk",
+   "index": 45,
+   "start": 2.683,
+   "end": 3.003
+  },
+  {
+   "text": "to",
+   "index": 50,
+   "start": 3.017,
+   "end": 3.211
+  },
+  {
+   "text": "until",
+   "index": 54,
+   "start": 3.461,
+   "end": 3.725
+  },
+  {
+   "text": "I",
+   "index": 60,
+   "start": 3.739,
+   "end": 3.822
+  },
+  {
+   "text": "had",
+   "index": 62,
+   "start": 3.836,
+   "end": 4.031
+  },
+  {
+   "text": "a",
+   "index": 66,
+   "start": 4.044,
+   "end": 4.1
+  },
+  {
+   "text": "breakdown",
+   "index": 68,
+   "start": 4.114,
+   "end": 4.697
+  },
+  {
+   "text": "in",
+   "index": 78,
+   "start": 4.711,
+   "end": 4.794
+  },
+  {
+   "text": "the",
+   "index": 81,
+   "start": 4.808,
+   "end": 4.906
+  },
+  {
+   "text": "Sahara",
+   "index": 85,
+   "start": 4.919,
+   "end": 5.419
+  },
+  {
+   "text": "Desert",
+   "index": 92,
+   "start": 5.433,
+   "end": 5.836
+  },
+  {
+   "text": "six",
+   "index": 100,
+   "start": 6.044,
+   "end": 6.336
+  },
+  {
+   "text": "years",
+   "index": 104,
+   "start": 6.35,
+   "end": 6.628
+  },
+  {
+   "text": "ago",
+   "index": 110,
+   "start": 6.642,
+   "end": 7.044
+  },
+  {
+   "text": "Something",
+   "index": 115,
+   "start": 8.008,
+   "end": 8.536
+  },
+  {
+   "text": "had",
+   "index": 125,
+   "start": 8.55,
+   "end": 8.744
+  },
+  {
+   "text": "broken",
+   "index": 129,
+   "start": 8.758,
+   "end": 9.147
+  },
+  {
+   "text": "in",
+   "index": 136,
+   "start": 9.161,
+   "end": 9.272
+  },
+  {
+   "text": "my",
+   "index": 139,
+   "start": 9.286,
+   "end": 9.522
+  },
+  {
+   "text": "engine",
+   "index": 142,
+   "start": 9.536,
+   "end": 10.092
+  }
+ ]
+}

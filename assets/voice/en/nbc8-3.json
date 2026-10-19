@@ -1,0 +1,127 @@
+{
+ "audio": "assets/voice/en/nbc8-3.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "He had a broad face and a little round belly,\nThat shook when he laughed, like a bowlful of jelly.",
+ "words": [
+  {
+   "text": "He",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.272
+  },
+  {
+   "text": "had",
+   "index": 3,
+   "start": 0.286,
+   "end": 0.467
+  },
+  {
+   "text": "a",
+   "index": 7,
+   "start": 0.481,
+   "end": 0.55
+  },
+  {
+   "text": "broad",
+   "index": 9,
+   "start": 0.564,
+   "end": 0.911
+  },
+  {
+   "text": "face",
+   "index": 15,
+   "start": 0.925,
+   "end": 1.356
+  },
+  {
+   "text": "and",
+   "index": 20,
+   "start": 1.369,
+   "end": 1.564
+  },
+  {
+   "text": "a",
+   "index": 24,
+   "start": 1.578,
+   "end": 1.647
+  },
+  {
+   "text": "little",
+   "index": 26,
+   "start": 1.661,
+   "end": 1.967
+  },
+  {
+   "text": "round",
+   "index": 33,
+   "start": 1.981,
+   "end": 2.314
+  },
+  {
+   "text": "belly",
+   "index": 39,
+   "start": 2.328,
+   "end": 2.786
+  },
+  {
+   "text": "That",
+   "index": 46,
+   "start": 3.75,
+   "end": 4.097
+  },
+  {
+   "text": "shook",
+   "index": 51,
+   "start": 4.111,
+   "end": 4.403
+  },
+  {
+   "text": "when",
+   "index": 57,
+   "start": 4.417,
+   "end": 4.569
+  },
+  {
+   "text": "he",
+   "index": 62,
+   "start": 4.583,
+   "end": 4.708
+  },
+  {
+   "text": "laughed",
+   "index": 65,
+   "start": 4.722,
+   "end": 5.222
+  },
+  {
+   "text": "like",
+   "index": 74,
+   "start": 5.417,
+   "end": 5.597
+  },
+  {
+   "text": "a",
+   "index": 79,
+   "start": 5.611,
+   "end": 5.681
+  },
+  {
+   "text": "bowlful",
+   "index": 81,
+   "start": 5.694,
+   "end": 6.139
+  },
+  {
+   "text": "of",
+   "index": 89,
+   "start": 6.153,
+   "end": 6.278
+  },
+  {
+   "text": "jelly",
+   "index": 92,
+   "start": 6.292,
+   "end": 6.806
+  }
+ ]
+}

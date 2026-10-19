@@ -1,0 +1,127 @@
+{
+ "audio": "assets/voice/en/nbc5-3.mp3",
+ "voice": "en-US-GuyNeural",
+ "text": "To the top of the porch! to the top of the wall!\nNow dash away! dash away! dash away all!”",
+ "words": [
+  {
+   "text": "To",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.258
+  },
+  {
+   "text": "the",
+   "index": 3,
+   "start": 0.286,
+   "end": 0.425
+  },
+  {
+   "text": "top",
+   "index": 7,
+   "start": 0.439,
+   "end": 0.758
+  },
+  {
+   "text": "of",
+   "index": 11,
+   "start": 0.772,
+   "end": 0.897
+  },
+  {
+   "text": "the",
+   "index": 14,
+   "start": 0.925,
+   "end": 1.036
+  },
+  {
+   "text": "porch",
+   "index": 18,
+   "start": 1.05,
+   "end": 1.606
+  },
+  {
+   "text": "to",
+   "index": 25,
+   "start": 2.583,
+   "end": 2.722
+  },
+  {
+   "text": "the",
+   "index": 28,
+   "start": 2.75,
+   "end": 2.889
+  },
+  {
+   "text": "top",
+   "index": 32,
+   "start": 2.903,
+   "end": 3.222
+  },
+  {
+   "text": "of",
+   "index": 36,
+   "start": 3.236,
+   "end": 3.361
+  },
+  {
+   "text": "the",
+   "index": 39,
+   "start": 3.389,
+   "end": 3.5
+  },
+  {
+   "text": "wall",
+   "index": 43,
+   "start": 3.528,
+   "end": 4.014
+  },
+  {
+   "text": "Now",
+   "index": 49,
+   "start": 4.986,
+   "end": 5.375
+  },
+  {
+   "text": "dash",
+   "index": 53,
+   "start": 5.389,
+   "end": 5.778
+  },
+  {
+   "text": "away",
+   "index": 58,
+   "start": 5.806,
+   "end": 6.333
+  },
+  {
+   "text": "dash",
+   "index": 64,
+   "start": 7.306,
+   "end": 7.667
+  },
+  {
+   "text": "away",
+   "index": 69,
+   "start": 7.694,
+   "end": 8.264
+  },
+  {
+   "text": "dash",
+   "index": 75,
+   "start": 9.236,
+   "end": 9.597
+  },
+  {
+   "text": "away",
+   "index": 80,
+   "start": 9.625,
+   "end": 9.889
+  },
+  {
+   "text": "all",
+   "index": 85,
+   "start": 9.917,
+   "end": 10.319
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "audio": "assets/voice/en/lp-c01-p07-3.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "Grown-ups never understand anything by themselves, and it is tiring for children to have to explain things to them, always and always.",
+ "words": [
+  {
+   "text": "Grown-ups",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.725
+  },
+  {
+   "text": "never",
+   "index": 10,
+   "start": 0.739,
+   "end": 1.1
+  },
+  {
+   "text": "understand",
+   "index": 16,
+   "start": 1.114,
+   "end": 1.739
+  },
+  {
+   "text": "anything",
+   "index": 27,
+   "start": 1.753,
+   "end": 2.169
+  },
+  {
+   "text": "by",
+   "index": 36,
+   "start": 2.183,
+   "end": 2.378
+  },
+  {
+   "text": "themselves",
+   "index": 39,
+   "start": 2.392,
+   "end": 3.1
+  },
+  {
+   "text": "and",
+   "index": 51,
+   "start": 3.336,
+   "end": 3.447
+  },
+  {
+   "text": "it",
+   "index": 55,
+   "start": 3.461,
+   "end": 3.572
+  },
+  {
+   "text": "is",
+   "index": 58,
+   "start": 3.586,
+   "end": 3.697
+  },
+  {
+   "text": "tiring",
+   "index": 61,
+   "start": 3.711,
+   "end": 4.253
+  },
+  {
+   "text": "for",
+   "index": 68,
+   "start": 4.267,
+   "end": 4.378
+  },
+  {
+   "text": "children",
+   "index": 72,
+   "start": 4.392,
+   "end": 4.864
+  },
+  {
+   "text": "to",
+   "index": 81,
+   "start": 4.878,
+   "end": 4.975
+  },
+  {
+   "text": "have",
+   "index": 84,
+   "start": 4.989,
+   "end": 5.197
+  },
+  {
+   "text": "to",
+   "index": 89,
+   "start": 5.211,
+   "end": 5.322
+  },
+  {
+   "text": "explain",
+   "index": 92,
+   "start": 5.336,
+   "end": 5.85
+  },
+  {
+   "text": "things",
+   "index": 100,
+   "start": 5.864,
+   "end": 6.211
+  },
+  {
+   "text": "to",
+   "index": 107,
+   "start": 6.225,
+   "end": 6.322
+  },
+  {
+   "text": "them",
+   "index": 110,
+   "start": 6.336,
+   "end": 6.531
+  },
+  {
+   "text": "always",
+   "index": 116,
+   "start": 6.739,
+   "end": 7.211
+  },
+  {
+   "text": "and",
+   "index": 123,
+   "start": 7.225,
+   "end": 7.336
+  },
+  {
+   "text": "always",
+   "index": 127,
+   "start": 7.35,
+   "end": 7.989
+  }
+ ]
+}

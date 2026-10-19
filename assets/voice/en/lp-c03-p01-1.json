@@ -1,0 +1,169 @@
+{
+ "audio": "assets/voice/en/lp-c03-p01-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "It took me a long time to understand where he came from. The little prince, who asked me a great many questions, never seemed to hear mine.",
+ "words": [
+  {
+   "text": "It",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.308
+  },
+  {
+   "text": "took",
+   "index": 3,
+   "start": 0.322,
+   "end": 0.489
+  },
+  {
+   "text": "me",
+   "index": 8,
+   "start": 0.503,
+   "end": 0.628
+  },
+  {
+   "text": "a",
+   "index": 11,
+   "start": 0.642,
+   "end": 0.711
+  },
+  {
+   "text": "long",
+   "index": 13,
+   "start": 0.725,
+   "end": 1.017
+  },
+  {
+   "text": "time",
+   "index": 18,
+   "start": 1.031,
+   "end": 1.322
+  },
+  {
+   "text": "to",
+   "index": 23,
+   "start": 1.336,
+   "end": 1.447
+  },
+  {
+   "text": "understand",
+   "index": 26,
+   "start": 1.461,
+   "end": 2.058
+  },
+  {
+   "text": "where",
+   "index": 37,
+   "start": 2.072,
+   "end": 2.308
+  },
+  {
+   "text": "he",
+   "index": 43,
+   "start": 2.322,
+   "end": 2.461
+  },
+  {
+   "text": "came",
+   "index": 46,
+   "start": 2.475,
+   "end": 2.794
+  },
+  {
+   "text": "from",
+   "index": 51,
+   "start": 2.808,
+   "end": 3.253
+  },
+  {
+   "text": "The",
+   "index": 57,
+   "start": 4.217,
+   "end": 4.369
+  },
+  {
+   "text": "little",
+   "index": 61,
+   "start": 4.383,
+   "end": 4.717
+  },
+  {
+   "text": "prince",
+   "index": 68,
+   "start": 4.731,
+   "end": 5.161
+  },
+  {
+   "text": "who",
+   "index": 76,
+   "start": 5.342,
+   "end": 5.467
+  },
+  {
+   "text": "asked",
+   "index": 80,
+   "start": 5.481,
+   "end": 5.828
+  },
+  {
+   "text": "me",
+   "index": 86,
+   "start": 5.842,
+   "end": 5.981
+  },
+  {
+   "text": "a",
+   "index": 89,
+   "start": 5.994,
+   "end": 6.05
+  },
+  {
+   "text": "great",
+   "index": 91,
+   "start": 6.064,
+   "end": 6.411
+  },
+  {
+   "text": "many",
+   "index": 97,
+   "start": 6.425,
+   "end": 6.647
+  },
+  {
+   "text": "questions",
+   "index": 102,
+   "start": 6.661,
+   "end": 7.314
+  },
+  {
+   "text": "never",
+   "index": 113,
+   "start": 7.592,
+   "end": 7.869
+  },
+  {
+   "text": "seemed",
+   "index": 119,
+   "start": 7.883,
+   "end": 8.189
+  },
+  {
+   "text": "to",
+   "index": 126,
+   "start": 8.203,
+   "end": 8.286
+  },
+  {
+   "text": "hear",
+   "index": 129,
+   "start": 8.3,
+   "end": 8.619
+  },
+  {
+   "text": "mine",
+   "index": 134,
+   "start": 8.633,
+   "end": 9.106
+  }
+ ]
+}

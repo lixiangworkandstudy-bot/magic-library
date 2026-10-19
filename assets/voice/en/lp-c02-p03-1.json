@@ -1,0 +1,37 @@
+{
+ "audio": "assets/voice/en/lp-c02-p03-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"Please... draw me a sheep!\"",
+ "words": [
+  {
+   "text": "Please",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.661
+  },
+  {
+   "text": "draw",
+   "index": 11,
+   "start": 0.911,
+   "end": 1.258
+  },
+  {
+   "text": "me",
+   "index": 16,
+   "start": 1.272,
+   "end": 1.494
+  },
+  {
+   "text": "a",
+   "index": 19,
+   "start": 1.508,
+   "end": 1.578
+  },
+  {
+   "text": "sheep",
+   "index": 21,
+   "start": 1.592,
+   "end": 2.078
+  }
+ ]
+}

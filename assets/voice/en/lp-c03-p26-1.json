@@ -1,0 +1,43 @@
+{
+ "audio": "assets/voice/en/lp-c03-p26-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "Then the little prince remarked gravely:",
+ "words": [
+  {
+   "text": "Then",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.322
+  },
+  {
+   "text": "the",
+   "index": 5,
+   "start": 0.336,
+   "end": 0.419
+  },
+  {
+   "text": "little",
+   "index": 9,
+   "start": 0.433,
+   "end": 0.739
+  },
+  {
+   "text": "prince",
+   "index": 16,
+   "start": 0.753,
+   "end": 1.044
+  },
+  {
+   "text": "remarked",
+   "index": 23,
+   "start": 1.058,
+   "end": 1.489
+  },
+  {
+   "text": "gravely",
+   "index": 32,
+   "start": 1.503,
+   "end": 2.072
+  }
+ ]
+}

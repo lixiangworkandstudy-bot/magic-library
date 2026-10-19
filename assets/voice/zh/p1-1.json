@@ -1,0 +1,79 @@
+{
+ "audio": "assets/voice/zh/p1-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "夜里，小狐狸坐在松树下，看见月亮挂在山的那一边。",
+ "words": [
+  {
+   "text": "夜里",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.689
+  },
+  {
+   "text": "小",
+   "index": 3,
+   "start": 0.994,
+   "end": 1.231
+  },
+  {
+   "text": "狐狸",
+   "index": 4,
+   "start": 1.231,
+   "end": 1.606
+  },
+  {
+   "text": "坐",
+   "index": 6,
+   "start": 1.633,
+   "end": 1.8
+  },
+  {
+   "text": "在",
+   "index": 7,
+   "start": 1.8,
+   "end": 1.939
+  },
+  {
+   "text": "松树",
+   "index": 8,
+   "start": 1.953,
+   "end": 2.425
+  },
+  {
+   "text": "下",
+   "index": 10,
+   "start": 2.425,
+   "end": 2.744
+  },
+  {
+   "text": "看见",
+   "index": 12,
+   "start": 3.036,
+   "end": 3.425
+  },
+  {
+   "text": "月亮",
+   "index": 14,
+   "start": 3.439,
+   "end": 3.925
+  },
+  {
+   "text": "挂",
+   "index": 16,
+   "start": 3.953,
+   "end": 4.133
+  },
+  {
+   "text": "在",
+   "index": 17,
+   "start": 4.133,
+   "end": 4.286
+  },
+  {
+   "text": "山的那一边",
+   "index": 18,
+   "start": 4.3,
+   "end": 5.314
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/zh/nbc9-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "他转过头，朝我眨了眨眼——我就知道，什么也不用怕。",
+ "words": [
+  {
+   "text": "他",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.258
+  },
+  {
+   "text": "转",
+   "index": 1,
+   "start": 0.272,
+   "end": 0.494
+  },
+  {
+   "text": "过",
+   "index": 2,
+   "start": 0.494,
+   "end": 0.619
+  },
+  {
+   "text": "头",
+   "index": 3,
+   "start": 0.619,
+   "end": 0.994
+  },
+  {
+   "text": "朝",
+   "index": 5,
+   "start": 1.217,
+   "end": 1.425
+  },
+  {
+   "text": "我",
+   "index": 6,
+   "start": 1.425,
+   "end": 1.536
+  },
+  {
+   "text": "眨",
+   "index": 7,
+   "start": 1.55,
+   "end": 1.772
+  },
+  {
+   "text": "了",
+   "index": 8,
+   "start": 1.772,
+   "end": 1.856
+  },
+  {
+   "text": "眨眼",
+   "index": 9,
+   "start": 1.869,
+   "end": 2.453
+  },
+  {
+   "text": "我",
+   "index": 13,
+   "start": 2.731,
+   "end": 2.856
+  },
+  {
+   "text": "就",
+   "index": 14,
+   "start": 2.856,
+   "end": 2.994
+  },
+  {
+   "text": "知道",
+   "index": 15,
+   "start": 3.008,
+   "end": 3.494
+  },
+  {
+   "text": "什么",
+   "index": 18,
+   "start": 3.8,
+   "end": 4.106
+  },
+  {
+   "text": "也",
+   "index": 20,
+   "start": 4.119,
+   "end": 4.258
+  },
+  {
+   "text": "不用",
+   "index": 21,
+   "start": 4.272,
+   "end": 4.578
+  },
+  {
+   "text": "怕",
+   "index": 23,
+   "start": 4.578,
+   "end": 4.897
+  }
+ ]
+}

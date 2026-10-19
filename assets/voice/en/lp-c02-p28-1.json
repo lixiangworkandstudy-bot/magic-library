@@ -1,0 +1,13 @@
+{
+ "audio": "assets/voice/en/lp-c02-p28-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"Why?\"",
+ "words": [
+  {
+   "text": "Why",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.739
+  }
+ ]
+}

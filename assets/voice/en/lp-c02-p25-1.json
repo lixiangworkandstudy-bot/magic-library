@@ -1,0 +1,67 @@
+{
+ "audio": "assets/voice/en/lp-c02-p25-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"This is the box. The sheep you want is inside.\"",
+ "words": [
+  {
+   "text": "This",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.406
+  },
+  {
+   "text": "is",
+   "index": 6,
+   "start": 0.419,
+   "end": 0.544
+  },
+  {
+   "text": "the",
+   "index": 9,
+   "start": 0.558,
+   "end": 0.669
+  },
+  {
+   "text": "box",
+   "index": 13,
+   "start": 0.683,
+   "end": 1.267
+  },
+  {
+   "text": "The",
+   "index": 18,
+   "start": 2.231,
+   "end": 2.397
+  },
+  {
+   "text": "sheep",
+   "index": 22,
+   "start": 2.411,
+   "end": 2.717
+  },
+  {
+   "text": "you",
+   "index": 28,
+   "start": 2.731,
+   "end": 2.842
+  },
+  {
+   "text": "want",
+   "index": 32,
+   "start": 2.856,
+   "end": 3.119
+  },
+  {
+   "text": "is",
+   "index": 37,
+   "start": 3.133,
+   "end": 3.258
+  },
+  {
+   "text": "inside",
+   "index": 40,
+   "start": 3.272,
+   "end": 4.008
+  }
+ ]
+}

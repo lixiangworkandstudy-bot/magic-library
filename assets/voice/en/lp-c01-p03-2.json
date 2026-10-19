@@ -1,0 +1,31 @@
+{
+ "audio": "assets/voice/en/lp-c01-p03-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "It looked like this:",
+ "words": [
+  {
+   "text": "It",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.294
+  },
+  {
+   "text": "looked",
+   "index": 3,
+   "start": 0.308,
+   "end": 0.517
+  },
+  {
+   "text": "like",
+   "index": 10,
+   "start": 0.531,
+   "end": 0.739
+  },
+  {
+   "text": "this",
+   "index": 15,
+   "start": 0.753,
+   "end": 1.169
+  }
+ ]
+}

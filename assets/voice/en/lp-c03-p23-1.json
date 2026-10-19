@@ -1,0 +1,49 @@
+{
+ "audio": "assets/voice/en/lp-c03-p23-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And my friend burst out laughing again:",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.294
+  },
+  {
+   "text": "my",
+   "index": 4,
+   "start": 0.308,
+   "end": 0.489
+  },
+  {
+   "text": "friend",
+   "index": 7,
+   "start": 0.503,
+   "end": 0.822
+  },
+  {
+   "text": "burst",
+   "index": 14,
+   "start": 0.836,
+   "end": 1.239
+  },
+  {
+   "text": "out",
+   "index": 20,
+   "start": 1.253,
+   "end": 1.419
+  },
+  {
+   "text": "laughing",
+   "index": 24,
+   "start": 1.433,
+   "end": 1.794
+  },
+  {
+   "text": "again",
+   "index": 33,
+   "start": 1.808,
+   "end": 2.322
+  }
+ ]
+}

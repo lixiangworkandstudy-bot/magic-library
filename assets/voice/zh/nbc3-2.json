@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/zh/nbc3-2.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "像一道闪电，我冲到窗前，推开百叶窗，把窗户往上一掀！",
+ "words": [
+  {
+   "text": "像",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.383
+  },
+  {
+   "text": "一",
+   "index": 1,
+   "start": 0.383,
+   "end": 0.494
+  },
+  {
+   "text": "道",
+   "index": 2,
+   "start": 0.494,
+   "end": 0.647
+  },
+  {
+   "text": "闪电",
+   "index": 3,
+   "start": 0.661,
+   "end": 1.217
+  },
+  {
+   "text": "我",
+   "index": 6,
+   "start": 1.453,
+   "end": 1.578
+  },
+  {
+   "text": "冲",
+   "index": 7,
+   "start": 1.592,
+   "end": 1.786
+  },
+  {
+   "text": "到",
+   "index": 8,
+   "start": 1.786,
+   "end": 1.939
+  },
+  {
+   "text": "窗",
+   "index": 9,
+   "start": 1.953,
+   "end": 2.231
+  },
+  {
+   "text": "前",
+   "index": 10,
+   "start": 2.231,
+   "end": 2.606
+  },
+  {
+   "text": "推开",
+   "index": 12,
+   "start": 2.828,
+   "end": 3.175
+  },
+  {
+   "text": "百叶窗",
+   "index": 14,
+   "start": 3.189,
+   "end": 3.842
+  },
+  {
+   "text": "把",
+   "index": 18,
+   "start": 4.133,
+   "end": 4.272
+  },
+  {
+   "text": "窗户",
+   "index": 19,
+   "start": 4.286,
+   "end": 4.647
+  },
+  {
+   "text": "往上",
+   "index": 21,
+   "start": 4.675,
+   "end": 5.119
+  },
+  {
+   "text": "一",
+   "index": 23,
+   "start": 5.133,
+   "end": 5.272
+  },
+  {
+   "text": "掀",
+   "index": 24,
+   "start": 5.272,
+   "end": 5.592
+  }
+ ]
+}

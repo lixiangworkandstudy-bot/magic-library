@@ -1,0 +1,55 @@
+{
+ "audio": "assets/voice/en/lp-c02-p29-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"Because where I live everything is very small...\"",
+ "words": [
+  {
+   "text": "Because",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.606
+  },
+  {
+   "text": "where",
+   "index": 9,
+   "start": 0.619,
+   "end": 0.842
+  },
+  {
+   "text": "I",
+   "index": 15,
+   "start": 0.856,
+   "end": 0.967
+  },
+  {
+   "text": "live",
+   "index": 17,
+   "start": 0.981,
+   "end": 1.328
+  },
+  {
+   "text": "everything",
+   "index": 22,
+   "start": 1.342,
+   "end": 1.981
+  },
+  {
+   "text": "is",
+   "index": 33,
+   "start": 1.994,
+   "end": 2.189
+  },
+  {
+   "text": "very",
+   "index": 36,
+   "start": 2.203,
+   "end": 2.647
+  },
+  {
+   "text": "small",
+   "index": 41,
+   "start": 2.661,
+   "end": 3.258
+  }
+ ]
+}

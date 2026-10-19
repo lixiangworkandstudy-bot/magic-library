@@ -1,0 +1,109 @@
+{
+ "audio": "assets/voice/zh/nbc4-2.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "我睁大眼睛——你猜我看见了什么？一辆小雪橇，八只小驯鹿，",
+ "words": [
+  {
+   "text": "我",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.272
+  },
+  {
+   "text": "睁",
+   "index": 1,
+   "start": 0.272,
+   "end": 0.453
+  },
+  {
+   "text": "大",
+   "index": 2,
+   "start": 0.467,
+   "end": 0.647
+  },
+  {
+   "text": "眼睛",
+   "index": 3,
+   "start": 0.647,
+   "end": 1.217
+  },
+  {
+   "text": "你",
+   "index": 7,
+   "start": 1.55,
+   "end": 1.647
+  },
+  {
+   "text": "猜",
+   "index": 8,
+   "start": 1.647,
+   "end": 1.842
+  },
+  {
+   "text": "我",
+   "index": 9,
+   "start": 1.842,
+   "end": 1.939
+  },
+  {
+   "text": "看见",
+   "index": 10,
+   "start": 1.953,
+   "end": 2.342
+  },
+  {
+   "text": "了",
+   "index": 12,
+   "start": 2.342,
+   "end": 2.425
+  },
+  {
+   "text": "什么",
+   "index": 13,
+   "start": 2.439,
+   "end": 2.869
+  },
+  {
+   "text": "一",
+   "index": 16,
+   "start": 3.5,
+   "end": 3.667
+  },
+  {
+   "text": "辆",
+   "index": 17,
+   "start": 3.667,
+   "end": 3.861
+  },
+  {
+   "text": "小",
+   "index": 18,
+   "start": 3.875,
+   "end": 4.083
+  },
+  {
+   "text": "雪橇",
+   "index": 19,
+   "start": 4.083,
+   "end": 4.681
+  },
+  {
+   "text": "八只",
+   "index": 22,
+   "start": 4.931,
+   "end": 5.278
+  },
+  {
+   "text": "小",
+   "index": 24,
+   "start": 5.292,
+   "end": 5.514
+  },
+  {
+   "text": "驯鹿",
+   "index": 25,
+   "start": 5.514,
+   "end": 6.083
+  }
+ ]
+}

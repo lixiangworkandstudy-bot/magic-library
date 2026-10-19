@@ -1,0 +1,79 @@
+{
+ "audio": "assets/voice/en/lp-c03-p09-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"So you come from the sky too! Which planet are you from?\"",
+ "words": [
+  {
+   "text": "So",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.397
+  },
+  {
+   "text": "you",
+   "index": 4,
+   "start": 0.411,
+   "end": 0.647
+  },
+  {
+   "text": "come",
+   "index": 8,
+   "start": 0.661,
+   "end": 0.981
+  },
+  {
+   "text": "from",
+   "index": 13,
+   "start": 0.994,
+   "end": 1.231
+  },
+  {
+   "text": "the",
+   "index": 18,
+   "start": 1.244,
+   "end": 1.356
+  },
+  {
+   "text": "sky",
+   "index": 22,
+   "start": 1.369,
+   "end": 1.744
+  },
+  {
+   "text": "too",
+   "index": 26,
+   "start": 1.758,
+   "end": 2.189
+  },
+  {
+   "text": "Which",
+   "index": 31,
+   "start": 3.153,
+   "end": 3.472
+  },
+  {
+   "text": "planet",
+   "index": 37,
+   "start": 3.486,
+   "end": 4.042
+  },
+  {
+   "text": "are",
+   "index": 44,
+   "start": 4.056,
+   "end": 4.222
+  },
+  {
+   "text": "you",
+   "index": 48,
+   "start": 4.236,
+   "end": 4.403
+  },
+  {
+   "text": "from",
+   "index": 52,
+   "start": 4.417,
+   "end": 4.861
+  }
+ ]
+}

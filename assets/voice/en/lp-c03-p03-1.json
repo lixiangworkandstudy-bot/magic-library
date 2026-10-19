@@ -1,0 +1,97 @@
+{
+ "audio": "assets/voice/en/lp-c03-p03-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"It is not a thing. It flies. It is an aeroplane. It is my aeroplane.\"",
+ "words": [
+  {
+   "text": "It",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.308
+  },
+  {
+   "text": "is",
+   "index": 4,
+   "start": 0.322,
+   "end": 0.475
+  },
+  {
+   "text": "not",
+   "index": 7,
+   "start": 0.489,
+   "end": 0.725
+  },
+  {
+   "text": "a",
+   "index": 11,
+   "start": 0.739,
+   "end": 0.822
+  },
+  {
+   "text": "thing",
+   "index": 13,
+   "start": 0.836,
+   "end": 1.294
+  },
+  {
+   "text": "It",
+   "index": 20,
+   "start": 2.258,
+   "end": 2.453
+  },
+  {
+   "text": "flies",
+   "index": 23,
+   "start": 2.467,
+   "end": 3.203
+  },
+  {
+   "text": "It",
+   "index": 30,
+   "start": 4.161,
+   "end": 4.369
+  },
+  {
+   "text": "is",
+   "index": 33,
+   "start": 4.383,
+   "end": 4.481
+  },
+  {
+   "text": "an",
+   "index": 36,
+   "start": 4.494,
+   "end": 4.633
+  },
+  {
+   "text": "aeroplane",
+   "index": 39,
+   "start": 4.647,
+   "end": 5.425
+  },
+  {
+   "text": "It",
+   "index": 50,
+   "start": 6.383,
+   "end": 6.592
+  },
+  {
+   "text": "is",
+   "index": 53,
+   "start": 6.606,
+   "end": 6.731
+  },
+  {
+   "text": "my",
+   "index": 56,
+   "start": 6.744,
+   "end": 6.981
+  },
+  {
+   "text": "aeroplane",
+   "index": 59,
+   "start": 6.994,
+   "end": 7.814
+  }
+ ]
+}

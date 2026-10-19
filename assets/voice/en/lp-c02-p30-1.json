@@ -1,0 +1,85 @@
+{
+ "audio": "assets/voice/en/lp-c02-p30-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"There will surely be enough. I have given you a very small sheep.\"",
+ "words": [
+  {
+   "text": "There",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.294
+  },
+  {
+   "text": "will",
+   "index": 7,
+   "start": 0.308,
+   "end": 0.475
+  },
+  {
+   "text": "surely",
+   "index": 12,
+   "start": 0.489,
+   "end": 0.906
+  },
+  {
+   "text": "be",
+   "index": 19,
+   "start": 0.919,
+   "end": 1.086
+  },
+  {
+   "text": "enough",
+   "index": 22,
+   "start": 1.1,
+   "end": 1.669
+  },
+  {
+   "text": "I",
+   "index": 30,
+   "start": 2.633,
+   "end": 2.786
+  },
+  {
+   "text": "have",
+   "index": 32,
+   "start": 2.8,
+   "end": 2.967
+  },
+  {
+   "text": "given",
+   "index": 37,
+   "start": 2.981,
+   "end": 3.244
+  },
+  {
+   "text": "you",
+   "index": 43,
+   "start": 3.258,
+   "end": 3.397
+  },
+  {
+   "text": "a",
+   "index": 47,
+   "start": 3.411,
+   "end": 3.467
+  },
+  {
+   "text": "very",
+   "index": 49,
+   "start": 3.481,
+   "end": 3.8
+  },
+  {
+   "text": "small",
+   "index": 54,
+   "start": 3.814,
+   "end": 4.203
+  },
+  {
+   "text": "sheep",
+   "index": 60,
+   "start": 4.217,
+   "end": 4.703
+  }
+ ]
+}

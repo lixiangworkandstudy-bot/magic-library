@@ -1,0 +1,193 @@
+{
+ "audio": "assets/voice/en/lp-c01-p08-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And geography, it is true, has been very useful to me. At a glance I could tell China from Arizona. That is very handy if you get lost in the night.",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.35
+  },
+  {
+   "text": "geography",
+   "index": 4,
+   "start": 0.364,
+   "end": 1.044
+  },
+  {
+   "text": "it",
+   "index": 15,
+   "start": 1.267,
+   "end": 1.392
+  },
+  {
+   "text": "is",
+   "index": 18,
+   "start": 1.406,
+   "end": 1.544
+  },
+  {
+   "text": "true",
+   "index": 21,
+   "start": 1.558,
+   "end": 1.961
+  },
+  {
+   "text": "has",
+   "index": 27,
+   "start": 2.253,
+   "end": 2.364
+  },
+  {
+   "text": "been",
+   "index": 31,
+   "start": 2.378,
+   "end": 2.558
+  },
+  {
+   "text": "very",
+   "index": 36,
+   "start": 2.572,
+   "end": 2.808
+  },
+  {
+   "text": "useful",
+   "index": 41,
+   "start": 2.822,
+   "end": 3.35
+  },
+  {
+   "text": "to",
+   "index": 48,
+   "start": 3.364,
+   "end": 3.489
+  },
+  {
+   "text": "me",
+   "index": 51,
+   "start": 3.503,
+   "end": 3.794
+  },
+  {
+   "text": "At",
+   "index": 55,
+   "start": 4.758,
+   "end": 4.967
+  },
+  {
+   "text": "a",
+   "index": 58,
+   "start": 4.981,
+   "end": 5.036
+  },
+  {
+   "text": "glance",
+   "index": 60,
+   "start": 5.05,
+   "end": 5.494
+  },
+  {
+   "text": "I",
+   "index": 67,
+   "start": 5.508,
+   "end": 5.619
+  },
+  {
+   "text": "could",
+   "index": 69,
+   "start": 5.633,
+   "end": 5.883
+  },
+  {
+   "text": "tell",
+   "index": 75,
+   "start": 5.897,
+   "end": 6.189
+  },
+  {
+   "text": "China",
+   "index": 80,
+   "start": 6.203,
+   "end": 6.689
+  },
+  {
+   "text": "from",
+   "index": 86,
+   "start": 6.703,
+   "end": 6.897
+  },
+  {
+   "text": "Arizona",
+   "index": 91,
+   "start": 6.911,
+   "end": 7.647
+  },
+  {
+   "text": "That",
+   "index": 100,
+   "start": 8.606,
+   "end": 8.883
+  },
+  {
+   "text": "is",
+   "index": 105,
+   "start": 8.897,
+   "end": 9.036
+  },
+  {
+   "text": "very",
+   "index": 108,
+   "start": 9.05,
+   "end": 9.342
+  },
+  {
+   "text": "handy",
+   "index": 113,
+   "start": 9.356,
+   "end": 9.8
+  },
+  {
+   "text": "if",
+   "index": 119,
+   "start": 9.814,
+   "end": 9.925
+  },
+  {
+   "text": "you",
+   "index": 122,
+   "start": 9.939,
+   "end": 10.05
+  },
+  {
+   "text": "get",
+   "index": 126,
+   "start": 10.064,
+   "end": 10.272
+  },
+  {
+   "text": "lost",
+   "index": 130,
+   "start": 10.286,
+   "end": 10.633
+  },
+  {
+   "text": "in",
+   "index": 135,
+   "start": 10.647,
+   "end": 10.731
+  },
+  {
+   "text": "the",
+   "index": 138,
+   "start": 10.744,
+   "end": 10.828
+  },
+  {
+   "text": "night",
+   "index": 142,
+   "start": 10.842,
+   "end": 11.328
+  }
+ ]
+}

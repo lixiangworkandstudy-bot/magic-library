@@ -1,0 +1,43 @@
+{
+ "audio": "assets/voice/en/lp-c02-p08-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"But what are you doing here?\"",
+ "words": [
+  {
+   "text": "But",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.294
+  },
+  {
+   "text": "what",
+   "index": 5,
+   "start": 0.308,
+   "end": 0.531
+  },
+  {
+   "text": "are",
+   "index": 10,
+   "start": 0.544,
+   "end": 0.558
+  },
+  {
+   "text": "you",
+   "index": 14,
+   "start": 0.572,
+   "end": 0.753
+  },
+  {
+   "text": "doing",
+   "index": 18,
+   "start": 0.767,
+   "end": 1.114
+  },
+  {
+   "text": "here",
+   "index": 24,
+   "start": 1.128,
+   "end": 1.586
+  }
+ ]
+}

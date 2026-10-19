@@ -1,0 +1,127 @@
+{
+ "audio": "assets/voice/en/lp-c01-p06-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "My drawing was not a picture of a hat. It was a picture of a boa constrictor digesting an elephant.",
+ "words": [
+  {
+   "text": "My",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.336
+  },
+  {
+   "text": "drawing",
+   "index": 3,
+   "start": 0.35,
+   "end": 0.822
+  },
+  {
+   "text": "was",
+   "index": 11,
+   "start": 0.836,
+   "end": 0.989
+  },
+  {
+   "text": "not",
+   "index": 15,
+   "start": 1.003,
+   "end": 1.225
+  },
+  {
+   "text": "a",
+   "index": 19,
+   "start": 1.239,
+   "end": 1.308
+  },
+  {
+   "text": "picture",
+   "index": 21,
+   "start": 1.322,
+   "end": 1.725
+  },
+  {
+   "text": "of",
+   "index": 29,
+   "start": 1.739,
+   "end": 1.836
+  },
+  {
+   "text": "a",
+   "index": 32,
+   "start": 1.85,
+   "end": 1.892
+  },
+  {
+   "text": "hat",
+   "index": 34,
+   "start": 1.906,
+   "end": 2.419
+  },
+  {
+   "text": "It",
+   "index": 39,
+   "start": 3.383,
+   "end": 3.578
+  },
+  {
+   "text": "was",
+   "index": 42,
+   "start": 3.592,
+   "end": 3.744
+  },
+  {
+   "text": "a",
+   "index": 46,
+   "start": 3.758,
+   "end": 3.828
+  },
+  {
+   "text": "picture",
+   "index": 48,
+   "start": 3.842,
+   "end": 4.286
+  },
+  {
+   "text": "of",
+   "index": 56,
+   "start": 4.3,
+   "end": 4.425
+  },
+  {
+   "text": "a",
+   "index": 59,
+   "start": 4.439,
+   "end": 4.522
+  },
+  {
+   "text": "boa",
+   "index": 61,
+   "start": 4.536,
+   "end": 4.828
+  },
+  {
+   "text": "constrictor",
+   "index": 65,
+   "start": 4.842,
+   "end": 5.425
+  },
+  {
+   "text": "digesting",
+   "index": 77,
+   "start": 5.439,
+   "end": 5.994
+  },
+  {
+   "text": "an",
+   "index": 87,
+   "start": 6.008,
+   "end": 6.078
+  },
+  {
+   "text": "elephant",
+   "index": 90,
+   "start": 6.092,
+   "end": 6.689
+  }
+ ]
+}

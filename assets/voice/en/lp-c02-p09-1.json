@@ -1,0 +1,91 @@
+{
+ "audio": "assets/voice/en/lp-c02-p09-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And he repeated, very softly, as if it were a matter of great seriousness:",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.308
+  },
+  {
+   "text": "he",
+   "index": 4,
+   "start": 0.322,
+   "end": 0.461
+  },
+  {
+   "text": "repeated",
+   "index": 7,
+   "start": 0.475,
+   "end": 1.128
+  },
+  {
+   "text": "very",
+   "index": 17,
+   "start": 1.281,
+   "end": 1.558
+  },
+  {
+   "text": "softly",
+   "index": 22,
+   "start": 1.572,
+   "end": 2.169
+  },
+  {
+   "text": "as",
+   "index": 30,
+   "start": 2.419,
+   "end": 2.544
+  },
+  {
+   "text": "if",
+   "index": 33,
+   "start": 2.558,
+   "end": 2.683
+  },
+  {
+   "text": "it",
+   "index": 36,
+   "start": 2.697,
+   "end": 2.794
+  },
+  {
+   "text": "were",
+   "index": 39,
+   "start": 2.808,
+   "end": 2.989
+  },
+  {
+   "text": "a",
+   "index": 44,
+   "start": 3.003,
+   "end": 3.058
+  },
+  {
+   "text": "matter",
+   "index": 46,
+   "start": 3.072,
+   "end": 3.475
+  },
+  {
+   "text": "of",
+   "index": 53,
+   "start": 3.489,
+   "end": 3.642
+  },
+  {
+   "text": "great",
+   "index": 56,
+   "start": 3.656,
+   "end": 4.058
+  },
+  {
+   "text": "seriousness",
+   "index": 62,
+   "start": 4.072,
+   "end": 5.017
+  }
+ ]
+}

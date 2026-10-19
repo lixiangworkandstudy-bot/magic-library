@@ -1,0 +1,175 @@
+{
+ "audio": "assets/voice/en/lp-c03-p08-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And the little prince broke into a very pretty peal of laughter, which annoyed me very much. I like my misfortunes to be taken seriously. Then he added:",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.294
+  },
+  {
+   "text": "the",
+   "index": 4,
+   "start": 0.308,
+   "end": 0.392
+  },
+  {
+   "text": "little",
+   "index": 8,
+   "start": 0.406,
+   "end": 0.697
+  },
+  {
+   "text": "prince",
+   "index": 15,
+   "start": 0.711,
+   "end": 1.017
+  },
+  {
+   "text": "broke",
+   "index": 22,
+   "start": 1.031,
+   "end": 1.336
+  },
+  {
+   "text": "into",
+   "index": 28,
+   "start": 1.35,
+   "end": 1.669
+  },
+  {
+   "text": "a",
+   "index": 33,
+   "start": 1.683,
+   "end": 1.739
+  },
+  {
+   "text": "very",
+   "index": 35,
+   "start": 1.753,
+   "end": 2.086
+  },
+  {
+   "text": "pretty",
+   "index": 40,
+   "start": 2.1,
+   "end": 2.392
+  },
+  {
+   "text": "peal",
+   "index": 47,
+   "start": 2.406,
+   "end": 2.683
+  },
+  {
+   "text": "of",
+   "index": 52,
+   "start": 2.697,
+   "end": 2.781
+  },
+  {
+   "text": "laughter",
+   "index": 55,
+   "start": 2.794,
+   "end": 3.267
+  },
+  {
+   "text": "which",
+   "index": 65,
+   "start": 3.419,
+   "end": 3.6
+  },
+  {
+   "text": "annoyed",
+   "index": 71,
+   "start": 3.614,
+   "end": 3.975
+  },
+  {
+   "text": "me",
+   "index": 79,
+   "start": 3.989,
+   "end": 4.128
+  },
+  {
+   "text": "very",
+   "index": 82,
+   "start": 4.142,
+   "end": 4.447
+  },
+  {
+   "text": "much",
+   "index": 87,
+   "start": 4.461,
+   "end": 4.947
+  },
+  {
+   "text": "I",
+   "index": 93,
+   "start": 5.911,
+   "end": 6.036
+  },
+  {
+   "text": "like",
+   "index": 95,
+   "start": 6.05,
+   "end": 6.328
+  },
+  {
+   "text": "my",
+   "index": 100,
+   "start": 6.342,
+   "end": 6.494
+  },
+  {
+   "text": "misfortunes",
+   "index": 103,
+   "start": 6.508,
+   "end": 7.286
+  },
+  {
+   "text": "to",
+   "index": 115,
+   "start": 7.3,
+   "end": 7.411
+  },
+  {
+   "text": "be",
+   "index": 118,
+   "start": 7.425,
+   "end": 7.564
+  },
+  {
+   "text": "taken",
+   "index": 121,
+   "start": 7.578,
+   "end": 8.022
+  },
+  {
+   "text": "seriously",
+   "index": 127,
+   "start": 8.036,
+   "end": 8.856
+  },
+  {
+   "text": "Then",
+   "index": 138,
+   "start": 9.814,
+   "end": 10.064
+  },
+  {
+   "text": "he",
+   "index": 143,
+   "start": 10.078,
+   "end": 10.258
+  },
+  {
+   "text": "added",
+   "index": 146,
+   "start": 10.272,
+   "end": 10.717
+  }
+ ]
+}

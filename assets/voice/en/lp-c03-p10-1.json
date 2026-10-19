@@ -1,0 +1,115 @@
+{
+ "audio": "assets/voice/en/lp-c03-p10-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "At once I caught a glimmer of light in the mystery of his presence, and I asked abruptly:",
+ "words": [
+  {
+   "text": "At",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.308
+  },
+  {
+   "text": "once",
+   "index": 3,
+   "start": 0.322,
+   "end": 0.642
+  },
+  {
+   "text": "I",
+   "index": 8,
+   "start": 0.656,
+   "end": 0.808
+  },
+  {
+   "text": "caught",
+   "index": 10,
+   "start": 0.822,
+   "end": 1.128
+  },
+  {
+   "text": "a",
+   "index": 17,
+   "start": 1.142,
+   "end": 1.211
+  },
+  {
+   "text": "glimmer",
+   "index": 19,
+   "start": 1.225,
+   "end": 1.614
+  },
+  {
+   "text": "of",
+   "index": 27,
+   "start": 1.628,
+   "end": 1.711
+  },
+  {
+   "text": "light",
+   "index": 30,
+   "start": 1.725,
+   "end": 2.044
+  },
+  {
+   "text": "in",
+   "index": 36,
+   "start": 2.058,
+   "end": 2.142
+  },
+  {
+   "text": "the",
+   "index": 39,
+   "start": 2.156,
+   "end": 2.225
+  },
+  {
+   "text": "mystery",
+   "index": 43,
+   "start": 2.239,
+   "end": 2.683
+  },
+  {
+   "text": "of",
+   "index": 51,
+   "start": 2.697,
+   "end": 2.767
+  },
+  {
+   "text": "his",
+   "index": 54,
+   "start": 2.781,
+   "end": 2.947
+  },
+  {
+   "text": "presence",
+   "index": 58,
+   "start": 2.961,
+   "end": 3.531
+  },
+  {
+   "text": "and",
+   "index": 68,
+   "start": 3.753,
+   "end": 3.864
+  },
+  {
+   "text": "I",
+   "index": 72,
+   "start": 3.878,
+   "end": 4.017
+  },
+  {
+   "text": "asked",
+   "index": 74,
+   "start": 4.031,
+   "end": 4.364
+  },
+  {
+   "text": "abruptly",
+   "index": 80,
+   "start": 4.378,
+   "end": 4.975
+  }
+ ]
+}

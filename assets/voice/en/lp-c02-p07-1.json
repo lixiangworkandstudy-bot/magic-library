@@ -1,0 +1,151 @@
+{
+ "audio": "assets/voice/en/lp-c02-p07-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "So I stared at this apparition with eyes round with astonishment. Do not forget that I was a thousand miles from any inhabited region.",
+ "words": [
+  {
+   "text": "So",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.364
+  },
+  {
+   "text": "I",
+   "index": 3,
+   "start": 0.378,
+   "end": 0.517
+  },
+  {
+   "text": "stared",
+   "index": 5,
+   "start": 0.531,
+   "end": 0.919
+  },
+  {
+   "text": "at",
+   "index": 12,
+   "start": 0.933,
+   "end": 1.003
+  },
+  {
+   "text": "this",
+   "index": 15,
+   "start": 1.017,
+   "end": 1.211
+  },
+  {
+   "text": "apparition",
+   "index": 20,
+   "start": 1.225,
+   "end": 1.781
+  },
+  {
+   "text": "with",
+   "index": 31,
+   "start": 1.794,
+   "end": 1.947
+  },
+  {
+   "text": "eyes",
+   "index": 36,
+   "start": 1.961,
+   "end": 2.253
+  },
+  {
+   "text": "round",
+   "index": 41,
+   "start": 2.267,
+   "end": 2.628
+  },
+  {
+   "text": "with",
+   "index": 47,
+   "start": 2.642,
+   "end": 2.781
+  },
+  {
+   "text": "astonishment",
+   "index": 52,
+   "start": 2.794,
+   "end": 3.586
+  },
+  {
+   "text": "Do",
+   "index": 66,
+   "start": 4.55,
+   "end": 4.744
+  },
+  {
+   "text": "not",
+   "index": 69,
+   "start": 4.758,
+   "end": 4.953
+  },
+  {
+   "text": "forget",
+   "index": 73,
+   "start": 4.967,
+   "end": 5.328
+  },
+  {
+   "text": "that",
+   "index": 80,
+   "start": 5.342,
+   "end": 5.467
+  },
+  {
+   "text": "I",
+   "index": 85,
+   "start": 5.481,
+   "end": 5.55
+  },
+  {
+   "text": "was",
+   "index": 87,
+   "start": 5.564,
+   "end": 5.717
+  },
+  {
+   "text": "a",
+   "index": 91,
+   "start": 5.731,
+   "end": 5.8
+  },
+  {
+   "text": "thousand",
+   "index": 93,
+   "start": 5.814,
+   "end": 6.356
+  },
+  {
+   "text": "miles",
+   "index": 102,
+   "start": 6.369,
+   "end": 6.786
+  },
+  {
+   "text": "from",
+   "index": 108,
+   "start": 6.8,
+   "end": 6.967
+  },
+  {
+   "text": "any",
+   "index": 113,
+   "start": 6.981,
+   "end": 7.189
+  },
+  {
+   "text": "inhabited",
+   "index": 117,
+   "start": 7.203,
+   "end": 7.744
+  },
+  {
+   "text": "region",
+   "index": 127,
+   "start": 7.758,
+   "end": 8.3
+  }
+ ]
+}

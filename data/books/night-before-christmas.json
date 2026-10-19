@@ -1,0 +1,1677 @@
+{
+ "schemaVersion": 3,
+ "title": "圣诞前夜",
+ "titleEn": "The Night Before Christmas",
+ "language": "zh",
+ "adaptation": "改编自 1823 年公版诗歌 A Visit from St. Nicholas。灰盒样书：tools/make_greybox.py 生成，脚本见 stories/night-before-christmas.md",
+ "greybox": true,
+ "pageGeometry": {
+  "pageWidth": 0.888,
+  "pageHeight": 1,
+  "coordinateUnits": "book"
+ },
+ "bookmarks": {
+  "schemaVersion": 1,
+  "storageKey": "night-before-christmas/greybox/v1"
+ },
+ "chapters": [
+  {
+   "id": "chapter-01",
+   "title": "圣诞前夜",
+   "titleEn": "The Night Before Christmas"
+  }
+ ],
+ "spreadOrder": [
+  "spread-01",
+  "spread-02",
+  "spread-03",
+  "spread-04",
+  "spread-05",
+  "spread-06",
+  "spread-07",
+  "spread-08",
+  "spread-09",
+  "spread-10",
+  "spread-11"
+ ],
+ "assets": [
+  {
+   "id": "g-room",
+   "type": "page-art",
+   "role": "ground-only",
+   "file": "assets/greybox/nbc/g-room.png"
+  },
+  {
+   "id": "g-room-rug",
+   "type": "page-art",
+   "role": "ground-only",
+   "file": "assets/greybox/nbc/g-room-rug.png"
+  },
+  {
+   "id": "g-dark-room",
+   "type": "page-art",
+   "role": "ground-only",
+   "file": "assets/greybox/nbc/g-dark-room.png"
+  },
+  {
+   "id": "g-snow",
+   "type": "page-art",
+   "role": "ground-only",
+   "file": "assets/greybox/nbc/g-snow.png"
+  },
+  {
+   "id": "s1-wall",
+   "type": "standee",
+   "role": "background",
+   "file": "assets/greybox/nbc/s1-wall.png",
+   "maskFile": "assets/greybox/nbc/s1-wall-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    0.984
+   ]
+  },
+  {
+   "id": "s1-fireplace",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s1-fireplace.png",
+   "maskFile": "assets/greybox/nbc/s1-fireplace-mask.png",
+   "alphaBounds": [
+    0.053,
+    0.234,
+    0.896,
+    0.752
+   ]
+  },
+  {
+   "id": "s1-chair",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s1-chair.png",
+   "maskFile": "assets/greybox/nbc/s1-chair-mask.png",
+   "alphaBounds": [
+    0.056,
+    0.094,
+    0.89,
+    0.878
+   ]
+  },
+  {
+   "id": "s2-wall",
+   "type": "standee",
+   "role": "background",
+   "file": "assets/greybox/nbc/s2-wall.png",
+   "maskFile": "assets/greybox/nbc/s2-wall-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    0.984
+   ]
+  },
+  {
+   "id": "s2-bed",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s2-bed.png",
+   "maskFile": "assets/greybox/nbc/s2-bed-mask.png",
+   "alphaBounds": [
+    0.031,
+    0.079,
+    0.94,
+    0.897
+   ]
+  },
+  {
+   "id": "s2-dream",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s2-dream.png",
+   "maskFile": "assets/greybox/nbc/s2-dream-mask.png",
+   "alphaBounds": [
+    0.065,
+    0.054,
+    0.873,
+    0.93
+   ]
+  },
+  {
+   "id": "s2-post",
+   "type": "standee",
+   "role": "foreground",
+   "file": "assets/greybox/nbc/s2-post.png",
+   "maskFile": "assets/greybox/nbc/s2-post-mask.png",
+   "alphaBounds": [
+    0.15,
+    0.016,
+    0.705,
+    0.97
+   ]
+  },
+  {
+   "id": "s3-window",
+   "type": "standee",
+   "role": "background",
+   "file": "assets/greybox/nbc/s3-window.png",
+   "maskFile": "assets/greybox/nbc/s3-window-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    0.985
+   ]
+  },
+  {
+   "id": "s3-shutter-l",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s3-shutter-l.png",
+   "maskFile": "assets/greybox/nbc/s3-shutter-l-mask.png",
+   "alphaBounds": [
+    0.048,
+    0.036,
+    0.907,
+    0.948
+   ]
+  },
+  {
+   "id": "s3-shutter-r",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s3-shutter-r.png",
+   "maskFile": "assets/greybox/nbc/s3-shutter-r-mask.png",
+   "alphaBounds": [
+    0.048,
+    0.036,
+    0.907,
+    0.948
+   ]
+  },
+  {
+   "id": "s3-child",
+   "type": "standee",
+   "role": "foreground",
+   "file": "assets/greybox/nbc/s3-child.png",
+   "maskFile": "assets/greybox/nbc/s3-child-mask.png",
+   "alphaBounds": [
+    0.123,
+    0.039,
+    0.756,
+    0.947
+   ]
+  },
+  {
+   "id": "s4-sky",
+   "type": "standee",
+   "role": "background",
+   "file": "assets/greybox/nbc/s4-sky.png",
+   "maskFile": "assets/greybox/nbc/s4-sky-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    0.985
+   ]
+  },
+  {
+   "id": "s4-roofs",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s4-roofs.png",
+   "maskFile": "assets/greybox/nbc/s4-roofs-mask.png",
+   "alphaBounds": [
+    0.013,
+    0.1,
+    0.913,
+    0.87
+   ]
+  },
+  {
+   "id": "s4-sill",
+   "type": "standee",
+   "role": "foreground",
+   "file": "assets/greybox/nbc/s4-sill.png",
+   "maskFile": "assets/greybox/nbc/s4-sill-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    0.965
+   ]
+  },
+  {
+   "id": "s5-sky",
+   "type": "standee",
+   "role": "background",
+   "file": "assets/greybox/nbc/s5-sky.png",
+   "maskFile": "assets/greybox/nbc/s5-sky-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    0.985
+   ]
+  },
+  {
+   "id": "s5-team",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s5-team.png",
+   "maskFile": "assets/greybox/nbc/s5-team-mask.png",
+   "alphaBounds": [
+    0.05,
+    0.161,
+    0.864,
+    0.825
+   ]
+  },
+  {
+   "id": "s5-frame",
+   "type": "standee",
+   "role": "foreground",
+   "file": "assets/greybox/nbc/s5-frame.png",
+   "maskFile": "assets/greybox/nbc/s5-frame-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    0.984
+   ]
+  },
+  {
+   "id": "s6-house",
+   "type": "standee",
+   "role": "background",
+   "file": "assets/greybox/nbc/s6-house.png",
+   "maskFile": "assets/greybox/nbc/s6-house-mask.png",
+   "alphaBounds": [
+    0.062,
+    0.029,
+    0.876,
+    0.959
+   ]
+  },
+  {
+   "id": "s6-lamp",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s6-lamp.png",
+   "maskFile": "assets/greybox/nbc/s6-lamp-mask.png",
+   "alphaBounds": [
+    0.208,
+    0.0,
+    0.588,
+    0.983
+   ]
+  },
+  {
+   "id": "s6-child",
+   "type": "standee",
+   "role": "foreground",
+   "file": "assets/greybox/nbc/s6-child.png",
+   "maskFile": "assets/greybox/nbc/s6-child-mask.png",
+   "alphaBounds": [
+    0.3,
+    0.139,
+    0.497,
+    0.841
+   ]
+  },
+  {
+   "id": "s7-wall",
+   "type": "standee",
+   "role": "background",
+   "file": "assets/greybox/nbc/s7-wall.png",
+   "maskFile": "assets/greybox/nbc/s7-wall-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    0.985
+   ]
+  },
+  {
+   "id": "s7-chair",
+   "type": "standee",
+   "role": "foreground",
+   "file": "assets/greybox/nbc/s7-chair.png",
+   "maskFile": "assets/greybox/nbc/s7-chair-mask.png",
+   "alphaBounds": [
+    0.044,
+    0.037,
+    0.912,
+    0.933
+   ]
+  },
+  {
+   "id": "s8-wall",
+   "type": "standee",
+   "role": "background",
+   "file": "assets/greybox/nbc/s8-wall.png",
+   "maskFile": "assets/greybox/nbc/s8-wall-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    0.984
+   ]
+  },
+  {
+   "id": "s8-face",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s8-face.png",
+   "maskFile": "assets/greybox/nbc/s8-face-mask.png",
+   "alphaBounds": [
+    0.03,
+    0.0,
+    0.941,
+    0.99
+   ]
+  },
+  {
+   "id": "s8-sack",
+   "type": "standee",
+   "role": "foreground",
+   "file": "assets/greybox/nbc/s8-sack.png",
+   "maskFile": "assets/greybox/nbc/s8-sack-mask.png",
+   "alphaBounds": [
+    0.077,
+    0.071,
+    0.848,
+    0.907
+   ]
+  },
+  {
+   "id": "s9-glow",
+   "type": "standee",
+   "role": "background",
+   "file": "assets/greybox/nbc/s9-glow.png",
+   "maskFile": "assets/greybox/nbc/s9-glow-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "s9-shoulders",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s9-shoulders.png",
+   "maskFile": "assets/greybox/nbc/s9-shoulders-mask.png",
+   "alphaBounds": [
+    0.034,
+    0.111,
+    0.932,
+    0.889
+   ]
+  },
+  {
+   "id": "s10-wall",
+   "type": "standee",
+   "role": "background",
+   "file": "assets/greybox/nbc/s10-wall.png",
+   "maskFile": "assets/greybox/nbc/s10-wall-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    0.985
+   ]
+  },
+  {
+   "id": "s10-stockings",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s10-stockings.png",
+   "maskFile": "assets/greybox/nbc/s10-stockings-mask.png",
+   "alphaBounds": [
+    0.013,
+    0.058,
+    0.976,
+    0.925
+   ]
+  },
+  {
+   "id": "s10-sack",
+   "type": "standee",
+   "role": "foreground",
+   "file": "assets/greybox/nbc/s10-sack.png",
+   "maskFile": "assets/greybox/nbc/s10-sack-mask.png",
+   "alphaBounds": [
+    0.039,
+    0.105,
+    0.922,
+    0.871
+   ]
+  },
+  {
+   "id": "s11-sky",
+   "type": "standee",
+   "role": "background",
+   "file": "assets/greybox/nbc/s11-sky.png",
+   "maskFile": "assets/greybox/nbc/s11-sky-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.0,
+    1.0,
+    0.985
+   ]
+  },
+  {
+   "id": "s11-town",
+   "type": "standee",
+   "role": "midground",
+   "file": "assets/greybox/nbc/s11-town.png",
+   "maskFile": "assets/greybox/nbc/s11-town-mask.png",
+   "alphaBounds": [
+    0.013,
+    0.1,
+    0.944,
+    0.877
+   ]
+  },
+  {
+   "id": "s11-snow",
+   "type": "standee",
+   "role": "foreground",
+   "file": "assets/greybox/nbc/s11-snow.png",
+   "maskFile": "assets/greybox/nbc/s11-snow-mask.png",
+   "alphaBounds": [
+    0.0,
+    0.1,
+    1.0,
+    0.855
+   ]
+  },
+  {
+   "id": "cover-art",
+   "type": "cover",
+   "role": "cover",
+   "file": "assets/greybox/nbc/cover.png"
+  }
+ ],
+ "spreads": [
+  {
+   "id": "spread-01",
+   "chapterId": "chapter-01",
+   "title": "1 · 安静的小屋",
+   "titleEn": "1 · The Quiet House",
+   "focalSubject": "s1-fireplace",
+   "pageArt": {
+    "left": "g-room-rug",
+    "right": "g-room-rug"
+   },
+   "scene": [
+    {
+     "id": "n1-0",
+     "assetId": "s1-wall",
+     "layer": "background",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.14
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.56,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "house"
+    },
+    {
+     "id": "n1-1",
+     "assetId": "s1-fireplace",
+     "layer": "midground",
+     "coordinateSpace": "page",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.45
+     ],
+     "maxWidth": 0.75,
+     "maxHeight": 0.6,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "word": "chimney"
+    },
+    {
+     "id": "n1-2",
+     "assetId": "s1-chair",
+     "layer": "midground",
+     "coordinateSpace": "page",
+     "side": "right",
+     "anchor": [
+      0.45,
+      0.5
+     ],
+     "maxWidth": 0.6,
+     "maxHeight": 0.28,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     }
+    }
+   ],
+   "passages": [
+    {
+     "id": "nbc1-1",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "圣诞前一夜，屋里静悄悄，谁也不出声，小老鼠也睡着了。",
+     "textEn": "'Twas the night before Christmas, when all through the house\nNot a creature was stirring, not even a mouse;",
+     "audio": null
+    },
+    {
+     "id": "nbc1-2",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "袜子一只只，挂在壁炉旁，等着圣诞老人，悄悄来拜访。",
+     "textEn": "The stockings were hung by the chimney with care,\nIn hopes that St. Nicholas soon would be there.",
+     "audio": null
+    }
+   ],
+   "levels": [
+    1,
+    2,
+    3
+   ],
+   "camera": {
+    "pitch": 1.08
+   },
+   "greyboxNote": "全景 · 旁观 · 水平线 · 炉火金",
+   "mechanics": [
+    {
+     "kind": "flap",
+     "x": 0.56,
+     "z": 0.27,
+     "w": 0.46,
+     "d": 0.27,
+     "top": "assets/greybox/nbc/m1-flap.png",
+     "under": "assets/greybox/nbc/m1-mouse.png",
+     "sound": "snore",
+     "word": "mouse"
+    }
+   ]
+  },
+  {
+   "id": "spread-02",
+   "chapterId": "chapter-01",
+   "title": "2 · 钻进被窝",
+   "titleEn": "2 · Snug in Bed",
+   "focalSubject": "s2-bed",
+   "pageArt": {
+    "left": "g-dark-room",
+    "right": "g-dark-room"
+   },
+   "scene": [
+    {
+     "id": "n2-0",
+     "assetId": "s2-wall",
+     "layer": "background",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.14
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.56,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true
+    },
+    {
+     "id": "n2-1",
+     "assetId": "s2-bed",
+     "layer": "midground",
+     "coordinateSpace": "page",
+     "side": "left",
+     "anchor": [
+      0.55,
+      0.55
+     ],
+     "maxWidth": 0.9,
+     "maxHeight": 0.34,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "word": "bed"
+    },
+    {
+     "id": "n2-2",
+     "assetId": "s2-dream",
+     "layer": "midground",
+     "coordinateSpace": "page",
+     "side": "right",
+     "anchor": [
+      0.45,
+      0.42
+     ],
+     "maxWidth": 0.6,
+     "maxHeight": 0.5,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "word": "dream"
+    },
+    {
+     "id": "n2-3",
+     "assetId": "s2-post",
+     "layer": "foreground",
+     "coordinateSpace": "page",
+     "side": "left",
+     "anchor": [
+      0.88,
+      0.86
+     ],
+     "maxWidth": 0.2,
+     "maxHeight": 0.55,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     }
+    }
+   ],
+   "passages": [
+    {
+     "id": "nbc2-1",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "孩子们钻进被窝，暖暖地躺好，梦里的糖果，蹦蹦又跳跳。",
+     "textEn": "The children were nestled all snug in their beds,\nWhile visions of sugar-plums danced in their heads;",
+     "audio": null
+    },
+    {
+     "id": "nbc2-2",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "妈妈包着头巾，我戴着睡帽，刚刚闭上眼，要睡个长长的觉——",
+     "textEn": "And Mama in her kerchief, and I in my cap,\nHad just settled down for a long winter's nap,",
+     "audio": null
+    },
+    {
+     "id": "nbc2-3",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "忽然，屋外“哗啦啦”一阵好大的响！",
+     "textEn": "When out on the lawn there arose such a clatter,",
+     "audio": null
+    }
+   ],
+   "levels": [
+    2,
+    3
+   ],
+   "camera": {
+    "pitch": 1.08
+   },
+   "greyboxNote": "中景 · 旁观 · 水平线 · ⚡ 押韵对句被翻页劈开",
+   "mechanics": []
+  },
+  {
+   "id": "spread-03",
+   "chapterId": "chapter-01",
+   "title": "3 · 冲到窗前",
+   "titleEn": "3 · To the Window",
+   "focalSubject": "s3-shutter-l",
+   "pageArt": {
+    "left": "g-dark-room",
+    "right": "g-dark-room"
+   },
+   "scene": [
+    {
+     "id": "n3-0",
+     "assetId": "s3-window",
+     "layer": "background",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.12
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.6,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "window"
+    },
+    {
+     "id": "n3-1",
+     "assetId": "s3-shutter-l",
+     "layer": "midground",
+     "coordinateSpace": "page",
+     "side": "left",
+     "anchor": [
+      0.42,
+      0.36
+     ],
+     "maxWidth": 0.42,
+     "maxHeight": 0.5,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     }
+    },
+    {
+     "id": "n3-2",
+     "assetId": "s3-shutter-r",
+     "layer": "midground",
+     "coordinateSpace": "page",
+     "side": "right",
+     "anchor": [
+      0.42,
+      0.36
+     ],
+     "maxWidth": 0.42,
+     "maxHeight": 0.5,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     }
+    },
+    {
+     "id": "n3-3",
+     "assetId": "s3-child",
+     "layer": "foreground",
+     "coordinateSpace": "page",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.82
+     ],
+     "maxWidth": 0.45,
+     "maxHeight": 0.5,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     }
+    }
+   ],
+   "passages": [
+    {
+     "id": "nbc3-1",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "我一骨碌跳下床，要去看一看。",
+     "textEn": "I sprang from my bed to see what was the matter.",
+     "audio": null
+    },
+    {
+     "id": "nbc3-2",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "像一道闪电，我冲到窗前，推开百叶窗，把窗户往上一掀！",
+     "textEn": "Away to the window I flew like a flash,\nTore open the shutters and threw up the sash.",
+     "audio": null
+    }
+   ],
+   "levels": [
+    2,
+    3
+   ],
+   "camera": {
+    "pitch": 1.18
+   },
+   "greyboxNote": "中→近 · 进入孩子 · 全书唯一的尖角 + 斜线",
+   "mechanics": []
+  },
+  {
+   "id": "spread-04",
+   "chapterId": "chapter-01",
+   "title": "4 · 拨开云",
+   "titleEn": "4 · Who's There?",
+   "focalSubject": "s4-roofs",
+   "pageArt": {
+    "left": "g-snow",
+    "right": "g-snow"
+   },
+   "scene": [
+    {
+     "id": "n4-0",
+     "assetId": "s4-sky",
+     "layer": "background",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.12
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.62,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "moon"
+    },
+    {
+     "id": "n4-1",
+     "assetId": "s4-roofs",
+     "layer": "midground",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.5
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.22,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "snow"
+    },
+    {
+     "id": "n4-2",
+     "assetId": "s4-sill",
+     "layer": "foreground",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.9
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.2,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "window"
+    }
+   ],
+   "passages": [
+    {
+     "id": "nbc4-1",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "月亮照着新下的雪，把屋顶照得像白天一样亮。",
+     "textEn": "The moon on the top of the new-fallen snow\nMade it bright as the day on the houses below,",
+     "audio": null
+    },
+    {
+     "id": "nbc4-2",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "我睁大眼睛——你猜我看见了什么？一辆小雪橇，八只小驯鹿，",
+     "textEn": "When what to my wondering eyes should appear,\nBut a little sleigh, and eight tiny reindeer,",
+     "audio": null
+    },
+    {
+     "id": "nbc4-3",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "还有一个小老头，又灵活又快，我一下子就知道：是圣诞老人来啦！",
+     "textEn": "With a little old driver, so lively and quick,\nI knew in a moment it must be St. Nick.",
+     "audio": null
+    }
+   ],
+   "levels": [
+    1,
+    2,
+    3
+   ],
+   "camera": {
+    "pitch": 1.2
+   },
+   "greyboxNote": "近→远 · 孩子的眼睛 · 月亮正中 · 雪橇在上半部",
+   "mechanics": []
+  },
+  {
+   "id": "spread-05",
+   "chapterId": "chapter-01",
+   "title": "5 · 八只驯鹿的名字",
+   "titleEn": "5 · Dash Away All!",
+   "focalSubject": "s5-team",
+   "pageArt": {
+    "left": "g-snow",
+    "right": "g-snow"
+   },
+   "scene": [
+    {
+     "id": "n5-0",
+     "assetId": "s5-sky",
+     "layer": "background",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.1
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.62,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "sky"
+    },
+    {
+     "id": "n5-1",
+     "assetId": "s5-team",
+     "layer": "midground",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.42
+     ],
+     "maxWidth": 1.9,
+     "maxHeight": 0.55,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "reindeer"
+    },
+    {
+     "id": "n5-2",
+     "assetId": "s5-frame",
+     "layer": "foreground",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.92
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.5,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true
+    }
+   ],
+   "passages": [
+    {
+     "id": "nbc5-1",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "驯鹿们飞得比老鹰还要快，圣诞老人吹着口哨，一个一个喊名字：",
+     "textEn": "More rapid than eagles his reindeer they came,\nAnd he whistled, and shouted, and called them by name:",
+     "audio": null
+    },
+    {
+     "id": "nbc5-2",
+     "speaker": "圣诞老人",
+     "speakerEn": "St. Nicholas",
+     "text": "“冲冲！舞舞！蹦蹦，还有小狐！彗星！丘比！雷雷，还有闪闪！",
+     "textEn": "“Now, Dasher! now, Dancer! now, Prancer and Vixen!\nOn, Comet! on, Cupid! on, Donder and Blitzen!",
+     "audio": null
+    },
+    {
+     "id": "nbc5-3",
+     "speaker": "圣诞老人",
+     "speakerEn": "St. Nicholas",
+     "text": "飞上门廊！飞上墙头！快飞呀，快飞呀，大家一起飞！”",
+     "textEn": "To the top of the porch! to the top of the wall!\nNow dash away! dash away! dash away all!”",
+     "audio": null
+    }
+   ],
+   "levels": [
+    1,
+    2,
+    3
+   ],
+   "camera": {
+    "pitch": 1.2
+   },
+   "greyboxNote": "大远景 · 孩子仰望 · 斜线 · 蓝夜里唯一的红",
+   "mechanics": []
+  },
+  {
+   "id": "spread-06",
+   "chapterId": "chapter-01",
+   "title": "6 · 屋顶上的蹄子声",
+   "titleEn": "6 · Hooves on the Roof",
+   "focalSubject": "s6-lamp",
+   "pageArt": {
+    "left": "g-room",
+    "right": "g-room"
+   },
+   "scene": [
+    {
+     "id": "n6-0",
+     "assetId": "s6-house",
+     "layer": "background",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.12
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.72,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "roof"
+    },
+    {
+     "id": "n6-1",
+     "assetId": "s6-lamp",
+     "layer": "midground",
+     "coordinateSpace": "page",
+     "side": "left",
+     "anchor": [
+      0.45,
+      0.5
+     ],
+     "maxWidth": 0.25,
+     "maxHeight": 0.45,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     }
+    },
+    {
+     "id": "n6-2",
+     "assetId": "s6-child",
+     "layer": "foreground",
+     "coordinateSpace": "page",
+     "side": "right",
+     "anchor": [
+      0.35,
+      0.8
+     ],
+     "maxWidth": 0.3,
+     "maxHeight": 0.38,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     }
+    }
+   ],
+   "passages": [
+    {
+     "id": "nbc6-1",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "驯鹿们呼啦啦飞上了屋顶，拉着满满一雪橇玩具，还有圣诞老人。",
+     "textEn": "So up to the house-top the reindeer they flew,\nWith the sleigh full of toys, and St. Nicholas too.",
+     "audio": null
+    },
+    {
+     "id": "nbc6-2",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "一眨眼，我听见屋顶上——嗒嗒、嗒嗒，小蹄子跳呀跳。",
+     "textEn": "And then, in a twinkling, I heard on the roof\nThe prancing and pawing of each little hoof.",
+     "audio": null
+    }
+   ],
+   "levels": [
+    2,
+    3
+   ],
+   "camera": {
+    "pitch": 1.3
+   },
+   "greyboxNote": "剖面 · 全知 · 竖线 · 上蓝下金 · ⚡ 只听见没看见",
+   "mechanics": []
+  },
+  {
+   "id": "spread-07",
+   "chapterId": "chapter-01",
+   "title": "7 · 扑通！",
+   "titleEn": "7 · Down the Chimney",
+   "focalSubject": "s7-chair",
+   "pageArt": {
+    "left": "g-room",
+    "right": "g-room"
+   },
+   "scene": [
+    {
+     "id": "n7-0",
+     "assetId": "s7-wall",
+     "layer": "background",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.12
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.62,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "chimney"
+    },
+    {
+     "id": "n7-1",
+     "assetId": "s7-chair",
+     "layer": "foreground",
+     "coordinateSpace": "page",
+     "side": "right",
+     "anchor": [
+      0.5,
+      0.86
+     ],
+     "maxWidth": 0.75,
+     "maxHeight": 0.24,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     }
+    }
+   ],
+   "passages": [
+    {
+     "id": "nbc7-1",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "我刚把头缩回来，转过身——扑通！圣诞老人从烟囱滑下来啦！",
+     "textEn": "As I drew in my head, and was turning around,\nDown the chimney St. Nicholas came with a bound.",
+     "audio": null
+    },
+    {
+     "id": "nbc7-2",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "他从头到脚，穿着毛茸茸的皮衣，衣服上沾满了黑黑的煤灰；",
+     "textEn": "He was dressed all in fur, from his head to his foot,\nAnd his clothes were all covered with ashes and soot;",
+     "audio": null
+    },
+    {
+     "id": "nbc7-3",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "背上背着一大包玩具，就像卖玩具的人，正要打开包袱。",
+     "textEn": "A bundle of toys he had flung on his back,\nAnd he looked like a toy-man just opening his pack.",
+     "audio": null
+    }
+   ],
+   "levels": [
+    1,
+    2,
+    3
+   ],
+   "camera": {
+    "pitch": 1.28
+   },
+   "greyboxNote": "中景 · 孩子的眼睛 · 微仰视 · 竖 + 圆 · 蓝落进金",
+   "mechanics": [
+    {
+     "kind": "drop",
+     "figure": "assets/greybox/nbc/m7-santa.png",
+     "x": 0.0,
+     "z": -0.12,
+     "h": 0.8,
+     "clipY": 0.6,
+     "tab": "assets/greybox/nbc/m7-tab.png",
+     "tabX": 0.62,
+     "sound": "thud",
+     "word": "chimney"
+    }
+   ]
+  },
+  {
+   "id": "spread-08",
+   "chapterId": "chapter-01",
+   "title": "8 · 他长什么样",
+   "titleEn": "8 · His Twinkling Eyes",
+   "focalSubject": "s8-face",
+   "pageArt": {
+    "left": "g-room",
+    "right": "g-room"
+   },
+   "scene": [
+    {
+     "id": "n8-0",
+     "assetId": "s8-wall",
+     "layer": "background",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.1
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.56,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true
+    },
+    {
+     "id": "n8-1",
+     "assetId": "s8-face",
+     "layer": "midground",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.48,
+      0.45
+     ],
+     "maxWidth": 1.3,
+     "maxHeight": 0.82,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "face"
+    },
+    {
+     "id": "n8-2",
+     "assetId": "s8-sack",
+     "layer": "foreground",
+     "coordinateSpace": "page",
+     "side": "right",
+     "anchor": [
+      0.72,
+      0.86
+     ],
+     "maxWidth": 0.45,
+     "maxHeight": 0.3,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "word": "toy"
+    }
+   ],
+   "passages": [
+    {
+     "id": "nbc8-1",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "他的眼睛亮晶晶！小酒窝笑眯眯！脸蛋像玫瑰，鼻子像樱桃！",
+     "textEn": "His eyes—how they twinkled! his dimples, how merry!\nHis cheeks were like roses, his nose like a cherry!",
+     "audio": null
+    },
+    {
+     "id": "nbc8-2",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "小嘴弯弯，像一张小弓，胡子白白，像雪一样；",
+     "textEn": "His funny little mouth was drawn up like a bow,\nAnd the beard on his chin was as white as the snow.",
+     "audio": null
+    },
+    {
+     "id": "nbc8-3",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "圆圆的脸，圆圆的小肚子，一笑起来，像一碗果冻，晃呀晃呀晃。",
+     "textEn": "He had a broad face and a little round belly,\nThat shook when he laughed, like a bowlful of jelly.",
+     "audio": null
+    },
+    {
+     "id": "nbc8-4",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "他胖乎乎、圆滚滚，是个快乐的老精灵——我看着他，忍不住“噗”地笑出了声。",
+     "textEn": "He was chubby and plump, a right jolly old elf,\nAnd I laughed when I saw him, in spite of myself.",
+     "audio": null
+    }
+   ],
+   "levels": [
+    1,
+    2,
+    3
+   ],
+   "camera": {
+    "pitch": 1.25
+   },
+   "greyboxNote": "特写 · 孩子的眼睛 · 平视 · 满屏圆形 · ⚡ 笑出声",
+   "mechanics": []
+  },
+  {
+   "id": "spread-09",
+   "chapterId": "chapter-01",
+   "title": "9 · 他发现我了！",
+   "titleEn": "9 · He Sees Me!",
+   "focalSubject": "s9-shoulders",
+   "pageArt": {
+    "left": "g-room",
+    "right": "g-room"
+   },
+   "scene": [
+    {
+     "id": "n9-0",
+     "assetId": "s9-glow",
+     "layer": "background",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.1
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.62,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true
+    },
+    {
+     "id": "n9-1",
+     "assetId": "s9-shoulders",
+     "layer": "midground",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.45
+     ],
+     "maxWidth": 1.3,
+     "maxHeight": 0.3,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true
+    }
+   ],
+   "passages": [
+    {
+     "id": "nbc9-1",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "他转过头，朝我眨了眨眼——我就知道，什么也不用怕。",
+     "textEn": "A wink of his eye and a twist of his head\nSoon gave me to know I had nothing to dread.",
+     "audio": null
+    }
+   ],
+   "levels": [
+    1,
+    2,
+    3
+   ],
+   "camera": {
+    "pitch": 1.32
+   },
+   "greyboxNote": "大特写 · 被看见 · 正中对视 · 圆 · 金",
+   "mechanics": [
+    {
+     "kind": "turnHead",
+     "side": "assets/greybox/nbc/m9-head-side.png",
+     "front": "assets/greybox/nbc/m9-head-front.png",
+     "wink": "assets/greybox/nbc/m9-head-wink.png",
+     "x": 0.0,
+     "z": -0.03,
+     "y": 0.52,
+     "size": 0.62,
+     "delay": 1.2,
+     "sound": "chime",
+     "word": "wink"
+    }
+   ]
+  },
+  {
+   "id": "spread-10",
+   "chapterId": "chapter-01",
+   "title": "10 · 装袜子 + 秘密暗号",
+   "titleEn": "10 · Our Secret Sign",
+   "focalSubject": "s10-stockings",
+   "pageArt": {
+    "left": "g-room",
+    "right": "g-room"
+   },
+   "scene": [
+    {
+     "id": "n10-0",
+     "assetId": "s10-wall",
+     "layer": "background",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.1
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.6,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true
+    },
+    {
+     "id": "n10-1",
+     "assetId": "s10-stockings",
+     "layer": "midground",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.42
+     ],
+     "maxWidth": 1.7,
+     "maxHeight": 0.5,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "stocking"
+    },
+    {
+     "id": "n10-2",
+     "assetId": "s10-sack",
+     "layer": "foreground",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.88
+     ],
+     "maxWidth": 0.9,
+     "maxHeight": 0.26,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "toy"
+    }
+   ],
+   "passages": [
+    {
+     "id": "nbc10-1",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "他一句话也不说，马上开始忙，把每只袜子都装得满满当当。",
+     "textEn": "He spoke not a word, but went straight to his work,\nAnd filled all the stockings; then turned with a jerk,",
+     "audio": null
+    },
+    {
+     "id": "nbc10-2",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "然后，他转过身，摸摸鼻子，点一点头——嗖！又从烟囱飞上去了。",
+     "textEn": "And laying his finger aside of his nose,\nAnd giving a nod, up the chimney he rose.",
+     "audio": null
+    }
+   ],
+   "levels": [
+    2,
+    3
+   ],
+   "camera": {
+    "pitch": 1.08
+   },
+   "greyboxNote": "中景 · 参与 · 袜子由扁变圆 · 金",
+   "mechanics": []
+  },
+  {
+   "id": "spread-11",
+   "chapterId": "chapter-01",
+   "title": "11 · 晚安",
+   "titleEn": "11 · Good Night",
+   "focalSubject": "s11-town",
+   "pageArt": {
+    "left": "g-snow",
+    "right": "g-snow"
+   },
+   "scene": [
+    {
+     "id": "n11-0",
+     "assetId": "s11-sky",
+     "layer": "background",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.1
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.62,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "sleigh"
+    },
+    {
+     "id": "n11-1",
+     "assetId": "s11-town",
+     "layer": "midground",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.5
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.34,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "town"
+    },
+    {
+     "id": "n11-2",
+     "assetId": "s11-snow",
+     "layer": "foreground",
+     "coordinateSpace": "spread",
+     "side": "left",
+     "anchor": [
+      0.5,
+      0.9
+     ],
+     "maxWidth": 2,
+     "maxHeight": 0.14,
+     "mechanism": "hinge",
+     "reveal": {
+      "start": 0.45,
+      "end": 0.95
+     },
+     "crossGutter": true,
+     "word": "snow"
+    }
+   ],
+   "passages": [
+    {
+     "id": "nbc11-1",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "他跳上雪橇，吹了一声口哨，驯鹿们飞起来，像蒲公英一样轻飘飘。",
+     "textEn": "He sprang to his sleigh, to his team gave a whistle,\nAnd away they all flew like the down of a thistle.",
+     "audio": null
+    },
+    {
+     "id": "nbc11-2",
+     "speaker": "旁白",
+     "speakerEn": "Narrator",
+     "text": "飞远之前，我听见他大声说：“祝大家圣诞快乐，祝大家晚安！”",
+     "textEn": "But I heard him call out, as he flew out of sight,\n“Happy Christmas to all, and to all a good-night!”",
+     "audio": null
+    }
+   ],
+   "levels": [
+    1,
+    2,
+    3
+   ],
+   "camera": {
+    "pitch": 0.75
+   },
+   "greyboxNote": "最大远景 · 俯瞰 · 斜 → 水平 · 蓝 → 金",
+   "mechanics": []
+  }
+ ],
+ "covers": {
+  "front": "cover-art"
+ },
+ "vocab": {
+  "mouse": {
+   "en": "mouse",
+   "zh": "老鼠"
+  },
+  "chimney": {
+   "en": "chimney",
+   "zh": "烟囱"
+  },
+  "wink": {
+   "en": "wink",
+   "zh": "眨眼"
+  }
+ }
+}

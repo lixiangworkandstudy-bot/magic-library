@@ -1,0 +1,4833 @@
+[
+ {
+  "chapter": 0,
+  "title": "DEDICACE",
+  "blocks": [
+   {
+    "id": "c00-p01",
+    "type": "p",
+    "text": "A LÉON WERTH.",
+    "words": 3
+   },
+   {
+    "id": "c00-p02",
+    "type": "p",
+    "text": "Je demande pardon aux enfants d'avoir dédié ce livre à une\ngrande personne. J'ai une excuse sérieuse: cette grande personne\nest le meilleur ami que j'ai au monde. J'ai une autre excuse: cette\ngrande personne peut tout comprendre, même les livres pour enfants.\nJ'ai une troisième excuse: cette grande personne habite la France\noù elle a faim et froid. Elle a bien besoin d'être consolée. Si\ntoutes ces excuses ne suffisent pas, je veux bien dédier ce livre à\nl'enfant qu'a été autrefois cette grande personne. Toutes les\ngrandes personnes ont d'abord été des enfants. (Mais peu d'entre\nelles s'en souviennent.) Je corrige donc ma dédicace:",
+    "words": 106
+   },
+   {
+    "id": "c00-p03",
+    "type": "p",
+    "text": "A LÉON WERTH\nQUAND IL ÉTAIT PETIT GARÇON",
+    "words": 8
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "title": "PREMIER CHAPITRE",
+  "blocks": [
+   {
+    "id": "c01-p01",
+    "type": "p",
+    "text": "Lorsque j'avais six ans j'ai vu, une fois, une magnifique image,\ndans un livre sur la forêt vierge qui s'appelait \"Histoires\nVécues\". Ça représentait un serpent boa qui avalait un\nfauve. Voilà la copie du dessin.",
+    "words": 36
+   },
+   {
+    "id": "c01-img1",
+    "type": "illustration",
+    "after": "c01-p01"
+   },
+   {
+    "id": "c01-p02",
+    "type": "p",
+    "text": "On disait dans le livre: \"Les serpents boas avalent leur proie\ntout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et\nils dorment pendant les six mois de leur digestion\".",
+    "words": 32
+   },
+   {
+    "id": "c01-p03",
+    "type": "p",
+    "text": "J'ai alors beaucoup réfléchi sur les aventures de la jungle et,\nà mon tour, j'ai réussi, avec un crayon de couleur, à tracer mon\npremier dessin. Mon dessin numéro 1. Il était comme ça:",
+    "words": 34
+   },
+   {
+    "id": "c01-img2",
+    "type": "illustration",
+    "after": "c01-p03"
+   },
+   {
+    "id": "c01-p04",
+    "type": "p",
+    "text": "J'ai montré mon chef-d'oeuvre aux grandes personnes et je leur\nai demandé si mon dessin leur faisait peur.",
+    "words": 18
+   },
+   {
+    "id": "c01-p05",
+    "type": "p",
+    "text": "Elles m'ont répondu: \"Pourquoi un chapeau ferait-il peur?\"",
+    "words": 8
+   },
+   {
+    "id": "c01-p06",
+    "type": "p",
+    "text": "Mon dessin ne représentait pas un chapeau. Il représentait un\nserpent boa qui digérait un éléphant. J'ai alors dessiné\nl'intérieur du serpent boa, afin que les grandes personnes puissent\ncomprendre. Elles ont toujours besoin d'explications. Mon dessin\nnuméro 2 était comme ça:",
+    "words": 42
+   },
+   {
+    "id": "c01-img3",
+    "type": "illustration",
+    "after": "c01-p06"
+   },
+   {
+    "id": "c01-p07",
+    "type": "p",
+    "text": "Les grandes personnes m'ont conseillé de laisser de côté les\ndessins de serpents boas ouverts ou fermés, et de m'intéresser\nplutôt à la géographie, à l'histoire, au calcul et à la grammaire.\nC'est ainsi que j'ai abandonné, à l'âge de six ans, une magnifique\ncarrière de peinture. J'avais été découragé par l'insuccès de mon\ndessin numéro 1 et de mon dessin numéro 2. Les grandes personnes ne\ncomprennent jamais rien toutes seules, et c'est fatigant, pour les\nenfants, de toujours et toujours leur donner des explications.",
+    "words": 86
+   },
+   {
+    "id": "c01-p08",
+    "type": "p",
+    "text": "J'ai donc dû choisir un autre métier et j'ai appris à\npiloter des avions. J'ai volé un peu partout dans le monde. Et la\ngéographie, c'est exact, m'a beaucoup servi. Je savais\nreconnaître, du premier coup d'oeil, la Chine de l'Arizona.\nC'est très utile, si l'on s'est égaré pendant la nuit.",
+    "words": 51
+   },
+   {
+    "id": "c01-p09",
+    "type": "p",
+    "text": "J'ai ainsi eu, au cours de ma vie, des tas de contacts avec des\ntas de gens sérieux. J'ai beaucoup vécu chez les grandes personnes.\nJe les ai vues de très près. ça n'a pas trop amélioré mon\nopinion.",
+    "words": 39
+   },
+   {
+    "id": "c01-p10",
+    "type": "p",
+    "text": "Quand j'en rencontrais une qui me paraissait un peu lucide, je\nfaisais l'expérience sur elle de mon dessin numéro 1 que j'ai\ntoujours conservé. Je voulais savoir si elle était vraiment\ncompréhensive. Mais toujours elle me répondait: \"C'est un chapeau.\"\nAlors je ne lui parlais ni de serpents boas, ni de forêts vierges,\nni d'étoiles. Je me mettais à sa portée. Je lui parlais de bridge,\nde golf, de politique et de cravates. Et la grande personne était\nbien contente de connaître un homme aussi raisonnable.",
+    "words": 86
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "title": "CHAPITRE II",
+  "blocks": [
+   {
+    "id": "c02-p01",
+    "type": "p",
+    "text": "J'ai ainsi vécu seul, sans personne avec qui parler\nvéritablement, jusqu'à une panne dans le désert du Sahara, il y a\nsix ans. Quelque chose s'était cassé dans mon moteur. Et comme je\nn'avais avec moi ni mécanicien, ni passagers, je me préparai à\nessayer de réussir, tout seul, une réparation difficile. C'était\npour moi une question de vie ou de mort. J'avais à peine de l'eau à\nboire pour huit jours.",
+    "words": 72
+   },
+   {
+    "id": "c02-p02",
+    "type": "p",
+    "text": "Le premier soir je me suis donc endormi sur le sable à mille\nmilles de toute terre habitée. J'étais bien plus isolé qu'un\nnaufragé sur un radeau au milieu de l'océan. Alors vous imaginez ma\nsurprise, au lever du jour, quand une drôle de petite voix m'a\nréveillé. Elle disait:",
+    "words": 50
+   },
+   {
+    "id": "c02-p03",
+    "type": "p",
+    "text": "-S'il vous plaît...dessine-moi un mouton!",
+    "words": 5
+   },
+   {
+    "id": "c02-p04",
+    "type": "p",
+    "text": "-Hein!",
+    "words": 1
+   },
+   {
+    "id": "c02-p05",
+    "type": "p",
+    "text": "-Dessine-moi un mouton...",
+    "words": 3
+   },
+   {
+    "id": "c02-p06",
+    "type": "p",
+    "text": "J'ai sauté sur mes pieds comme si j'avais été frappé par la\nfoudre. J'ai bien frotté mes yeux. J'ai bien regardé. Et j'ai vu un\npetit bonhomme tout à fait extraordinaire qui me considérait\ngravement. Voilà le meilleur portrait que, plus tard, j'ai réussi à\nfaire de lui. Mais mon dessin, bien sûr, est beaucoup moins\nravissant que le modèle. Ce n'est pas ma faute. J'avais été\ndécouragé dans ma carrière de peintre par les grandes personnes, à\nl'age de six ans, et je n'avais rien appris à dessiner, sauf les\nboas fermés et les boas ouverts.",
+    "words": 97
+   },
+   {
+    "id": "c02-img1",
+    "type": "illustration",
+    "after": "c02-p06"
+   },
+   {
+    "id": "c02-p07",
+    "type": "p",
+    "text": "Je regardai donc cette apparition avec des yeux tout ronds\nd'étonnement. N'oubliez pas que je me trouvais à mille milles de\ntoute région habitée. Or mon petit bonhomme ne me semblait ni\négaré, ni mort de fatigue, ni mort de faim, ni mort de soif, ni\nmort de peur. Il n'avait en rien l'apparence d'un enfant perdu au\nmilieu du désert, à mille milles de toute région habitée. Quand je\nréussis enfin à parler, je lui dis:",
+    "words": 77
+   },
+   {
+    "id": "c02-p08",
+    "type": "p",
+    "text": "-Mais qu'est-ce que tu fais là?",
+    "words": 6
+   },
+   {
+    "id": "c02-p09",
+    "type": "p",
+    "text": "Et il me répéta alors, tout doucement, comme une chose très\nsérieuse:",
+    "words": 12
+   },
+   {
+    "id": "c02-p10",
+    "type": "p",
+    "text": "-S'il vous plaît...dessine-moi un mouton...",
+    "words": 5
+   },
+   {
+    "id": "c02-p11",
+    "type": "p",
+    "text": "Quand le mystère est trop impressionnant, on n'ose pas désobéir.\nAussi absurde que cela me semblât à mille milles de tous les\nendroits habités et en danger de mort, je sortis de ma poche une\nfeuille de papier et un stylographe. Mais je me rappelai alors que\nj'avais surtout étudié la géographie, l'histoire, le calcul et la\ngrammaire et je dis au petit bonhomme (avec un peu de mauvaise\nhumeur) que je ne savais pas dessiner. Il me répondit:",
+    "words": 79
+   },
+   {
+    "id": "c02-p12",
+    "type": "p",
+    "text": "-Ça ne fait rien. Dessine-moi un mouton.",
+    "words": 7
+   },
+   {
+    "id": "c02-p13",
+    "type": "p",
+    "text": "Comme je n'avais jamais dessiné un mouton je refis, pour lui,\nl'un des deux seuls dessins dont j'étais capable. Celui du boa\nfermé. Et je fus stupéfait d'entendre le petit bonhomme me\nrépondre:",
+    "words": 33
+   },
+   {
+    "id": "c02-p14",
+    "type": "p",
+    "text": "-Non! Non! Je ne veux pas d'un éléphant dans un boa. Un boa\nc'est très dangereux, et un éléphant c'est très encombrant. Chez\nmoi c'est tout petit. J'ai besoin d'un mouton. Dessine-moi un\nmouton.",
+    "words": 34
+   },
+   {
+    "id": "c02-p15",
+    "type": "p",
+    "text": "Alors j'ai dessiné.",
+    "words": 3
+   },
+   {
+    "id": "c02-p16",
+    "type": "p",
+    "text": "Il regarda attentivement, puis:",
+    "words": 4
+   },
+   {
+    "id": "c02-img2",
+    "type": "illustration",
+    "after": "c02-p16"
+   },
+   {
+    "id": "c02-p17",
+    "type": "p",
+    "text": "-Non! Celui-là est déjà très malade. Fais-en un autre.",
+    "words": 9
+   },
+   {
+    "id": "c02-p18",
+    "type": "p",
+    "text": "Je dessinai:",
+    "words": 2
+   },
+   {
+    "id": "c02-img3",
+    "type": "illustration",
+    "after": "c02-p18"
+   },
+   {
+    "id": "c02-p19",
+    "type": "p",
+    "text": "Mon ami sourit gentiment, avec indulgence:",
+    "words": 6
+   },
+   {
+    "id": "c02-p20",
+    "type": "p",
+    "text": "-Tu vois bien...ce n'est pas un mouton, c'est un bélier. Il a\ndes cornes...",
+    "words": 14
+   },
+   {
+    "id": "c02-p21",
+    "type": "p",
+    "text": "Je refis donc encore mon dessin: Mais il fut refusé, comme les\nprécédents:",
+    "words": 13
+   },
+   {
+    "id": "c02-img4",
+    "type": "illustration",
+    "after": "c02-p21"
+   },
+   {
+    "id": "c02-p22",
+    "type": "p",
+    "text": "-Celui-là est trop vieux. Je veux un mouton qui vive\nlongtemps.",
+    "words": 11
+   },
+   {
+    "id": "c02-p23",
+    "type": "p",
+    "text": "Alors, faute de patience, comme j'avais hâte de commencer le\ndémontage de mon moteur, je griffonnai ce dessin-ci.",
+    "words": 18
+   },
+   {
+    "id": "c02-p24",
+    "type": "p",
+    "text": "Et je lançai:",
+    "words": 3
+   },
+   {
+    "id": "c02-p25",
+    "type": "p",
+    "text": "-Ça c'est la caisse. Le mouton que tu veux est\ndedans.",
+    "words": 11
+   },
+   {
+    "id": "c02-img5",
+    "type": "illustration",
+    "after": "c02-p25"
+   },
+   {
+    "id": "c02-p26",
+    "type": "p",
+    "text": "Mais je fus bien surpris de voir s'illuminer le visage de mon\njeune juge:",
+    "words": 14
+   },
+   {
+    "id": "c02-p27",
+    "type": "p",
+    "text": "-C'est tout à fait comme ça que je le voulais! Crois-tu qu'il\nfaille beaucoup d'herbe à ce mouton?",
+    "words": 18
+   },
+   {
+    "id": "c02-p28",
+    "type": "p",
+    "text": "-Pourquoi?",
+    "words": 1
+   },
+   {
+    "id": "c02-p29",
+    "type": "p",
+    "text": "-Parce que chez moi c'est tout petit...",
+    "words": 7
+   },
+   {
+    "id": "c02-p30",
+    "type": "p",
+    "text": "-Ça suffira sûrement. Je t'ai donné un tout petit\nmouton.",
+    "words": 10
+   },
+   {
+    "id": "c02-p31",
+    "type": "p",
+    "text": "Il pencha la tête vers le dessin:",
+    "words": 7
+   },
+   {
+    "id": "c02-p32",
+    "type": "p",
+    "text": "-Pas si petit que ça...Tiens! Il s'est endormi...",
+    "words": 8
+   },
+   {
+    "id": "c02-p33",
+    "type": "p",
+    "text": "Et c'est ainsi que je fis la connaissance du petit prince.",
+    "words": 11
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "title": "CHAPITRE III",
+  "blocks": [
+   {
+    "id": "c03-img1",
+    "type": "illustration",
+    "after": "c03-p00"
+   },
+   {
+    "id": "c03-p01",
+    "type": "p",
+    "text": "Il me fallut longtemps pour comprendre d'où il venait. Le petit\nprince, qui me posait beaucoup de questions, ne semblait jamais\nentendre les miennes. Ce sont des mots prononcés par hasard qui,\npeu à peu, m'ont tout révélé. Ainsi, quand il aperçu pour la\npremière fois mon avion (je ne dessinerai pas mon avion, c'est un\ndessin beaucoup trop compliqué pour moi) il me demanda:",
+    "words": 65
+   },
+   {
+    "id": "c03-p02",
+    "type": "p",
+    "text": "-Qu'est ce que c'est que cette chose-là?",
+    "words": 7
+   },
+   {
+    "id": "c03-p03",
+    "type": "p",
+    "text": "-Ce n'est pas une chose. Ça vole. C'est un avion. C'est\nmon avion.",
+    "words": 13
+   },
+   {
+    "id": "c03-p04",
+    "type": "p",
+    "text": "Et j'étais fier de lui apprendre que je volais. Alors il\ns'écria:",
+    "words": 12
+   },
+   {
+    "id": "c03-p05",
+    "type": "p",
+    "text": "-Comment! tu es tombé du ciel!",
+    "words": 6
+   },
+   {
+    "id": "c03-p06",
+    "type": "p",
+    "text": "-Oui, fis-je modestement.",
+    "words": 3
+   },
+   {
+    "id": "c03-p07",
+    "type": "p",
+    "text": "-Ah! ça c'est drôle!...",
+    "words": 4
+   },
+   {
+    "id": "c03-p08",
+    "type": "p",
+    "text": "Et le petit prince eut un très joli éclat de rire qui m'irrita\nbeaucoup. Je désire que l'on prenne mes malheurs au sérieux. Puis\nil ajouta:",
+    "words": 26
+   },
+   {
+    "id": "c03-p09",
+    "type": "p",
+    "text": "-Alors, toi aussi tu viens du ciel! De quelle planète es-tu?",
+    "words": 11
+   },
+   {
+    "id": "c03-p10",
+    "type": "p",
+    "text": "J'entrevis aussitôt une lueur, dans le mystère de sa présence,\net j'interrogeai brusquement:",
+    "words": 13
+   },
+   {
+    "id": "c03-p11",
+    "type": "p",
+    "text": "-Tu viens donc d'une autre planète?",
+    "words": 6
+   },
+   {
+    "id": "c03-p12",
+    "type": "p",
+    "text": "Mais il ne me répondit pas. Il hochait la tête doucement tout en\nregardant mon avion:",
+    "words": 16
+   },
+   {
+    "id": "c03-p13",
+    "type": "p",
+    "text": "-C'est vrai que, là-dessus, tu ne peux pas venir de bien\nloin...",
+    "words": 12
+   },
+   {
+    "id": "c03-p14",
+    "type": "p",
+    "text": "Et il s'enfonça dans une rêverie qui dura longtemps. Puis,\nsortant mon mouton de sa poche, il se plongea dans la contemplation\nde son trésor.",
+    "words": 25
+   },
+   {
+    "id": "c03-p15",
+    "type": "p",
+    "text": "Vous imaginez combien j'avais pu être intrigué par cette\ndemi-confidence sur \"les autres planètes\". Je m'efforçai donc d'en\nsavoir plus long:",
+    "words": 21
+   },
+   {
+    "id": "c03-p16",
+    "type": "p",
+    "text": "-D'où viens-tu, mon petit bonhomme? Où est-ce \"chez toi\"? Où\nveux-tu emporter mon mouton?",
+    "words": 14
+   },
+   {
+    "id": "c03-p17",
+    "type": "p",
+    "text": "Il me répondit après un silence méditatif:",
+    "words": 7
+   },
+   {
+    "id": "c03-p18",
+    "type": "p",
+    "text": "-Ce qui est bien, avec la caisse que tu m'as donnée, c'est que,\nla nuit, ça lui servira de maison.",
+    "words": 20
+   },
+   {
+    "id": "c03-p19",
+    "type": "p",
+    "text": "-Bien sûr. Et si tu es gentil, je te donnerai aussi une\ncorde pour l'attacher pendant le jour. Et un piquet.",
+    "words": 21
+   },
+   {
+    "id": "c03-p20",
+    "type": "p",
+    "text": "La proposition parut choquer le petit prince:",
+    "words": 7
+   },
+   {
+    "id": "c03-p21",
+    "type": "p",
+    "text": "-L'attacher? Quelle drôle d'idée!",
+    "words": 4
+   },
+   {
+    "id": "c03-p22",
+    "type": "p",
+    "text": "-Mais si tu ne l'attaches pas, il ira n'importe où, et il se\nperdra...",
+    "words": 14
+   },
+   {
+    "id": "c03-p23",
+    "type": "p",
+    "text": "Et mon ami eut un nouvel éclat de rire:",
+    "words": 9
+   },
+   {
+    "id": "c03-p24",
+    "type": "p",
+    "text": "-Mais où veux-tu qu'il aille!",
+    "words": 5
+   },
+   {
+    "id": "c03-p25",
+    "type": "p",
+    "text": "-N'importe où. Droit devant lui...",
+    "words": 5
+   },
+   {
+    "id": "c03-p26",
+    "type": "p",
+    "text": "Alors le petit prince remarqua gravement:",
+    "words": 6
+   },
+   {
+    "id": "c03-p27",
+    "type": "p",
+    "text": "-Ça ne fait rien, c'est tellement petit, chez moi!",
+    "words": 9
+   },
+   {
+    "id": "c03-p28",
+    "type": "p",
+    "text": "Et, avec un peu de mélancolie, peut-être, il ajouta:",
+    "words": 9
+   },
+   {
+    "id": "c03-p29",
+    "type": "p",
+    "text": "-Droit devant soi on ne peut pas aller bien loin...",
+    "words": 10
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "title": "CHAPITRE IV",
+  "blocks": [
+   {
+    "id": "c04-p01",
+    "type": "p",
+    "text": "J'avais ainsi appris une seconde chose très importante: C'est\nque sa planète d'origine était à peine plus grande qu'une\nmaison!",
+    "words": 20
+   },
+   {
+    "id": "c04-p02",
+    "type": "p",
+    "text": "Ça ne pouvait pas m'étonner beaucoup. Je savais bien\nqu'en dehors des grosses planètes comme la Terre, Jupiter, Mars,\nVénus, auxquelles on a donné des noms, il y en a des centaines\nd'autres qui sont quelque-fois si petites qu'on a beaucoup de mal à\nles apercevoir au télescope. Quand un astronome découvre l'une\nd'elles, il lui donne pour nom un numéro. Il l'appelle par exemple:\n\"l'astéroïde 3251.\"",
+    "words": 67
+   },
+   {
+    "id": "c04-p03",
+    "type": "p",
+    "text": "J'ai de sérieuses raisons de croire que la planète d'ou venait\nle petit prince est l'astéroïde B 612.",
+    "words": 18
+   },
+   {
+    "id": "c04-img1",
+    "type": "illustration",
+    "after": "c04-p03"
+   },
+   {
+    "id": "c04-p04",
+    "type": "p",
+    "text": "Cet astéroïde n'a été aperçu qu'une fois au télescope, en\n1909, par un astronome turc.",
+    "words": 15
+   },
+   {
+    "id": "c04-img2",
+    "type": "illustration",
+    "after": "c04-p04"
+   },
+   {
+    "id": "c04-p05",
+    "type": "p",
+    "text": "Il avait fait alors une grande démonstration de sa découverte à\nun Congrès International d'Astronomie.",
+    "words": 15
+   },
+   {
+    "id": "c04-p06",
+    "type": "p",
+    "text": "Mais personne ne l'avait cru à cause de son costume. Les grandes\npersonnes sont comme ça.",
+    "words": 16
+   },
+   {
+    "id": "c04-img3",
+    "type": "illustration",
+    "after": "c04-p06"
+   },
+   {
+    "id": "c04-p07",
+    "type": "p",
+    "text": "Heureusement pour la réputation de l'astéroïde B 612, un\ndictateur turc imposa à son peuple, sous peine de mort, de\ns'habiller à l'européenne. L'astronome refit sa démonstration en\n1920, dans un habit très élégant. Et cette fois-ci tout le monde\nfut de son avis.",
+    "words": 44
+   },
+   {
+    "id": "c04-img4",
+    "type": "illustration",
+    "after": "c04-p07"
+   },
+   {
+    "id": "c04-p08",
+    "type": "p",
+    "text": "Si je vous ai raconté ces détails sur l'astéroïde B 612 et\nsi je vous ai confié son numéro, c'est à cause des grandes\npersonnes. Les grandes personnes aiment les chiffres. Quand vous\nleur parlez d'un nouvel ami, elles ne vous questionnent jamais sur\nl'essentiel. Elles ne vous disent jamais: \"Quel est le son de sa\nvoix? Quels sont les jeux qu'il préfère? Est-ce qu'il collectionne\nles papillons?\" Elles vous demandent: \"Quel âge a-t-il? Combien\na-t-il de frères? Combien pèse-t-il? Combien gagne son père?\" Alors\nseulement elles croient le connaître. Si vous dites aux\ngrandes personnes: \"J'ai vu une belle maison en briques roses, avec\ndes géraniums aux fenêtres et des colombes sur le toit...\" elles ne\nparviennent pas à s'imaginer cette maison. Il faut leur dire: \"J'ai\nvu une maison de cent mille francs.\" Alors elles s'écrient: \"Comme\nc'est joli!\"",
+    "words": 141
+   },
+   {
+    "id": "c04-p09",
+    "type": "p",
+    "text": "Ainsi, si vous leur dites: \"La preuve que le petit prince a\nexisté c'est qu'il était ravissant, qu'il riait, et qu'il voulait\nun mouton. Quand on veut un mouton, c'est la preuve qu'on existe\"\nelles hausseront les épaules et vous traiteront d'enfant! Mais si\nvous leur dites: \"La planète d'où il venait est l'astéroïde B\n612\" alors elles seront convaincues, et elles vous laisseront\ntranquille avec leurs questions. Elles sont comme ça. Il ne faut\npas leur en vouloir. Les enfants doivent être très indulgents\nenvers les grandes personnes.",
+    "words": 89
+   },
+   {
+    "id": "c04-p10",
+    "type": "p",
+    "text": "Mais, bien sûr, nous qui comprenons la vie, nous nous\nmoquons bien des numéros! J'aurais aimé commencer cette histoire à\nla façon des contes de fées. J'aurais aimé dire:",
+    "words": 29
+   },
+   {
+    "id": "c04-p11",
+    "type": "p",
+    "text": "\"Il était une fois un petit prince qui habitait une planète à\npeine plus grande que lui, et qui avait besoin d'un ami...\" Pour\nceux qui comprennent la vie, ça aurait eu l'air beaucoup plus\nvrai.",
+    "words": 36
+   },
+   {
+    "id": "c04-p12",
+    "type": "p",
+    "text": "Car je n'aime pas qu'on lise mon livre à la légère. J'éprouve\ntant de chagrin à raconter ces souvenirs. Il y a six ans déjà que\nmon ami s'en est allé avec son mouton. Si j'essaie ici de le\ndécrire, c'est afin de ne pas l'oublier. C'est triste d'oublier un\nami. Tout le monde n'a pas eu un ami. Et je puis devenir comme les\ngrandes personnes qui ne s'intéressent plus qu'aux chiffres. C'est\ndonc pour ça encore que j'ai acheté une boîte de couleurs et\ndes crayons. C'est dur de se remettre au dessin, à mon âge, quand\non n'a jamais fait d'autres tentatives que celle d'un boa fermé et\ncelle d'un boa ouvert, à l'âge de six ans! J'essayerais, bien\nsûr, de faire des portraits le plus ressemblants possible.\nMais je ne suis pas tout à fait certain de réussir. Un dessin va,\net l'autre ne ressemble plus. Je me trompe un peu aussi sur la\ntaille. Ici le petit prince est trop grand. Là il est trop petit.\nJ'hésite aussi sur la couleur de son costume. Alors je tâtonne\ncomme ci et comme ça, tant bien que mal. Je me tromperai enfin sur\ncertains détails plus importants. Mais ça, il faudra me le\npardonner. Mon ami ne donnait jamais d'explications. Il me croyait\npeut-être semblable à lui. Mais moi, malheureusement, je ne sais\npas voir les moutons à travers les caisses. Je suis peut-être un\npeu comme les grandes personnes. J'ai dû vieillir.",
+    "words": 246
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "title": "CHAPITRE V",
+  "blocks": [
+   {
+    "id": "c05-p01",
+    "type": "p",
+    "text": "Chaque jour j'apprenais quelque chose sur la planète, sur le\ndépart, sur le voyage. Ça venait tout doucement, au hasard\ndes réflexions. C'est ainsi que, le troisième jour, je connus le\ndrame des baobabs.",
+    "words": 34
+   },
+   {
+    "id": "c05-p02",
+    "type": "p",
+    "text": "Cette fois-ci encore ce fut grâce au mouton, car brusquement le\npetit prince m'interrogea, comme pris d'un doute grave:",
+    "words": 19
+   },
+   {
+    "id": "c05-p03",
+    "type": "p",
+    "text": "-C'est bien vrai, n'est-ce pas, que les moutons mangent les\narbustes?",
+    "words": 11
+   },
+   {
+    "id": "c05-p04",
+    "type": "p",
+    "text": "-Oui. C'est vrai.",
+    "words": 3
+   },
+   {
+    "id": "c05-p05",
+    "type": "p",
+    "text": "-Ah! Je suis content!",
+    "words": 4
+   },
+   {
+    "id": "c05-img1",
+    "type": "illustration",
+    "after": "c05-p05"
+   },
+   {
+    "id": "c05-p06",
+    "type": "p",
+    "text": "Je ne compris pas pourquoi il était si important que les moutons\nmangeassent les arbustes. Mais le petit prince ajouta:",
+    "words": 20
+   },
+   {
+    "id": "c05-p07",
+    "type": "p",
+    "text": "-Par conséquent ils mangent aussi les baobabs?",
+    "words": 7
+   },
+   {
+    "id": "c05-p08",
+    "type": "p",
+    "text": "Je fis remarquer au petit prince que les baobabs ne sont pas des\narbustes, mais des arbres grand comme des églises et que, si même\nil emportait avec lui tout un troupeau d'éléphants, ce troupeau ne\nviendrait pas à bout d'un seul baobab.",
+    "words": 43
+   },
+   {
+    "id": "c05-p09",
+    "type": "p",
+    "text": "L'idée du troupeau d'éléphants fit rire le petit prince:",
+    "words": 9
+   },
+   {
+    "id": "c05-p10",
+    "type": "p",
+    "text": "-Il faudrait les mettre les uns sur les autres...",
+    "words": 9
+   },
+   {
+    "id": "c05-p11",
+    "type": "p",
+    "text": "Mais il remarqua avec sagesse:",
+    "words": 5
+   },
+   {
+    "id": "c05-p12",
+    "type": "p",
+    "text": "-Les baobabs, avant de grandir, ça commence par être petit.",
+    "words": 10
+   },
+   {
+    "id": "c05-p13",
+    "type": "p",
+    "text": "-C'est exact! Mais pourquoi veux-tu que tes moutons mangent les\npetits baobabs?",
+    "words": 12
+   },
+   {
+    "id": "c05-p14",
+    "type": "p",
+    "text": "Il me répondit: \"Ben! Voyons!\" comme s'il s'agissait là d'une\névidence. Et il me fallut un grand effort d'intelligence pour\ncomprendre à moi seul ce problème.",
+    "words": 26
+   },
+   {
+    "id": "c05-p15",
+    "type": "p",
+    "text": "Et en effet, sur la planète du petit prince, il y avait comme\nsur toutes les planètes, de bonnes herbes et de mauvaises herbes.\nPar conséquent de bonnes graines de bonnes herbes et de mauvaises\ngraines de mauvaises herbes. Mais les graines sont invisibles.\nElles dorment dans le secret de la terre jusqu'à ce qu'il prenne\nfantaisie à l'une d'elles de se réveiller. Alors elle s'étire, et\npousse d'abord timidement vers le soleil une ravissante petite\nbrindille inoffensive. S'il s'agit d'une brindle de radis ou de\nrosier, on peut la laisser pousser comme elle veut. Mais s'il\ns'agit d'une mauvaise plante, il faut arracher la plante aussitôt,\ndès qu'on a su la reconnaître. Or il y avait des graines\nterribles sur la planète du petit prince...c'étaient les graines de\nbaobabs. Le sol de la planète en était infesté. Or un baobab, si\nl'on s'y prend trop tard, on ne peut jamais plus s'en débarrasser.\nIl encombre toute la planète. Il la perfore de ses racines. Et si\nla planète est trop petite, et si les baobabs sont trop nombreux,\nils la font éclater.",
+    "words": 183
+   },
+   {
+    "id": "c05-p16",
+    "type": "p",
+    "text": "\"C'est une question de discipline, me disait plus tard le petit\nprince. Quand on a terminé sa toilette du matin, il faut faire\nsoigneusement la toilette de la planète. Il faut s'astreindre\nrégulièrement à arracher les baobabs dès qu'on les distingue d'avec\nles rosiers auxquels ils ressemblent beaucoup quand ils sont très\njeunes. C'est un travail très ennuyeux, mais très facile.\"",
+    "words": 61
+   },
+   {
+    "id": "c05-img2",
+    "type": "illustration",
+    "after": "c05-p16"
+   },
+   {
+    "id": "c05-p17",
+    "type": "p",
+    "text": "Et un jour il me conseilla de m'appliquer à réussir un beau\ndessin, pour bien faire entrer ça dans la tête des enfants de chez\nmoi. \"S'ils voyagent un jour, me disait-il, ça pourra leur servir.\nIl est quelquefois sans inconvénient de remettre à plus tard son\ntravail. Mais, s'il s'agit des baobabs, c'est toujours une\ncatastrophe. J'ai connu une planète, habitée par un paresseux. Il\navait négligé trois arbustes...\"",
+    "words": 70
+   },
+   {
+    "id": "c05-img3",
+    "type": "illustration",
+    "after": "c05-p17"
+   },
+   {
+    "id": "c05-p18",
+    "type": "p",
+    "text": "Et, sur les indications du petit prince, j'ai dessiné cette\nplanète-là. Je n'aime guère prendre le ton d'un moraliste. Mais le\ndanger des baobabs est si peu connu, et les risques courus par\ncelui qui s'égarerait dans un astéroïde sont si considérables,\nque, pour une fois, je fais exception à ma réserve. Je dis:\n\"Enfants! Faites attention aux baobabs!\" C'est pour avertir mes\namis du un danger qu'ils frôlaient depuis longtemps, comme\nmoi-même, sans le connaître, que j'ai tant travaillé ce\ndessin-là. La leçon que je donnais en valait la peine. Vous vous\ndemanderez peut-être: Pourquoi n'y a-t-il pas, dans ce livre,\nd'autres dessins aussi grandioses que le dessin des baobabs? La\nréponse est bien simple: J'ai essayé mais je n'ai pas pu réussir.\nQuand j'ai dessiné les baobabs j'ai été animé par le sentiment de\nl'urgence.",
+    "words": 137
+   },
+   {
+    "id": "c05-img4",
+    "type": "illustration",
+    "after": "c05-p18"
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "title": "CHAPITRE VI",
+  "blocks": [
+   {
+    "id": "c06-p01",
+    "type": "p",
+    "text": "Ah! petit prince, j'ai compris, peu à peu, ainsi, ta petite vie\nmélancolique. Tu n'avais eu longtemps pour distraction que la\ndouceur des couchers du soleil. J'ai appris ce détail nouveau, le\nquatrième jour au matin, quand tu m'as dit:",
+    "words": 40
+   },
+   {
+    "id": "c06-p02",
+    "type": "p",
+    "text": "-J'aime bien les couchers de soleil. Allons voir un coucher de\nsoleil...",
+    "words": 12
+   },
+   {
+    "id": "c06-p03",
+    "type": "p",
+    "text": "-Mais il faut attendre...",
+    "words": 4
+   },
+   {
+    "id": "c06-p04",
+    "type": "p",
+    "text": "-Attendre quoi?",
+    "words": 2
+   },
+   {
+    "id": "c06-p05",
+    "type": "p",
+    "text": "-Attendre que le soleil se couche.",
+    "words": 6
+   },
+   {
+    "id": "c06-p06",
+    "type": "p",
+    "text": "Tu as eu l'air très surpris d'abord, et puis tu as ri de\ntoi-même. Et tu m'as dit:",
+    "words": 18
+   },
+   {
+    "id": "c06-p07",
+    "type": "p",
+    "text": "-Je me crois toujours chez moi!",
+    "words": 6
+   },
+   {
+    "id": "c06-p08",
+    "type": "p",
+    "text": "En effet. Quand il est midi aux Etats-Unis, le soleil, tout le\nmonde le sait, se couche sur la France. Il suffirait de pouvoir\naller en France en une minute pour assister au coucher du soleil.\nMalheureusement la France est bien trop éloignée. Mais, sur ta si\npetite planète, il te suffisait de tirer ta chaise de quelques pas.\nEt tu regardais le crépuscule chaque fois que tu le désirais...",
+    "words": 70
+   },
+   {
+    "id": "c06-p09",
+    "type": "p",
+    "text": "-Un jour, j'ai vu le soleil se coucher quarante-quatre fois!",
+    "words": 10
+   },
+   {
+    "id": "c06-p10",
+    "type": "p",
+    "text": "Et un peu plus tard tu ajoutais:",
+    "words": 7
+   },
+   {
+    "id": "c06-p11",
+    "type": "p",
+    "text": "-Tu sais...quand on est tellement triste on aime les couchers de\nsoleil...",
+    "words": 12
+   },
+   {
+    "id": "c06-p12",
+    "type": "p",
+    "text": "-Le jour des quarante-trois fois tu étais donc tellement triste?\nMais le petit prince ne répondit pas.",
+    "words": 17
+   }
+  ]
+ },
+ {
+  "chapter": 7,
+  "title": "CHAPITRE VII",
+  "blocks": [
+   {
+    "id": "c07-p01",
+    "type": "p",
+    "text": "Le cinquième jour, toujours grâce au mouton, ce secret de la vie\ndu petit prince me fut révélé. Il me demanda avec brusquerie, sans\npréambule, comme le fruit d'un problème longtemps médité en\nsilence:",
+    "words": 34
+   },
+   {
+    "id": "c07-p02",
+    "type": "p",
+    "text": "-Un mouton, s'il mange les arbustes, il mange aussi les\nfleurs?",
+    "words": 11
+   },
+   {
+    "id": "c07-p03",
+    "type": "p",
+    "text": "-Un mouton mange tout ce qu'il rencontre.",
+    "words": 7
+   },
+   {
+    "id": "c07-p04",
+    "type": "p",
+    "text": "-Même les fleurs qui ont des épines?",
+    "words": 7
+   },
+   {
+    "id": "c07-p05",
+    "type": "p",
+    "text": "-Oui. Même les fleurs qui ont des épines.",
+    "words": 8
+   },
+   {
+    "id": "c07-p06",
+    "type": "p",
+    "text": "-Alors les épines, à quoi servent-elles?",
+    "words": 6
+   },
+   {
+    "id": "c07-p07",
+    "type": "p",
+    "text": "Je ne le savais pas. J'étais alors très occupé à essayer de\ndévisser un boulon trop serré de mon moteur. J'étais très soucieux\ncar ma panne commençait de m'apparaître comme très grave, et\nl'eau à boire qui s'épuisait me faisait craindre le pire.",
+    "words": 43
+   },
+   {
+    "id": "c07-p08",
+    "type": "p",
+    "text": "-Les épines, à quoi servent-elles?",
+    "words": 5
+   },
+   {
+    "id": "c07-p09",
+    "type": "p",
+    "text": "Le petit prince ne renonçait jamais à une question, une fois\nqu'il l'avait posée. J'étais irrité par mon boulon et je répondis\nn'importe quoi:",
+    "words": 24
+   },
+   {
+    "id": "c07-p10",
+    "type": "p",
+    "text": "-Les épines, ça ne sert à rien, c'est de la pure méchanceté de\nla part des fleurs!",
+    "words": 17
+   },
+   {
+    "id": "c07-p11",
+    "type": "p",
+    "text": "-Oh!",
+    "words": 1
+   },
+   {
+    "id": "c07-p12",
+    "type": "p",
+    "text": "Mais après un silence il me lança, avec une sorte de\nrancune:",
+    "words": 12
+   },
+   {
+    "id": "c07-p13",
+    "type": "p",
+    "text": "-Je ne te crois pas! Les fleurs sont faibles. Elles sont\nnaïves. Elles se rassurent comme elles peuvent. Elles se\ncroient terribles avec leurs épines...",
+    "words": 25
+   },
+   {
+    "id": "c07-p14",
+    "type": "p",
+    "text": "Je ne répondis rien. A cet instant-là je me disais: \"Si ce\nboulon résiste encore, je le ferai sauter d'un coup de marteau.\" Le\npetit prince dérangea de nouveau mes réflexions:",
+    "words": 31
+   },
+   {
+    "id": "c07-p15",
+    "type": "p",
+    "text": "-Et tu crois, toi, que les fleurs...",
+    "words": 7
+   },
+   {
+    "id": "c07-p16",
+    "type": "p",
+    "text": "-Mais non! Mais non! Je ne crois rien! J'ai répondu n'importe\nquoi. Je m'occupe, moi, des choses sérieuses!",
+    "words": 18
+   },
+   {
+    "id": "c07-p17",
+    "type": "p",
+    "text": "Il me regarda stupéfiait.",
+    "words": 4
+   },
+   {
+    "id": "c07-p18",
+    "type": "p",
+    "text": "-De choses sérieuses!",
+    "words": 3
+   },
+   {
+    "id": "c07-p19",
+    "type": "p",
+    "text": "Il me voyait, mon marteau à la main, et les doigts noirs de\ncambouis, penché sur un objet qui lui semblait très laid.",
+    "words": 23
+   },
+   {
+    "id": "c07-p20",
+    "type": "p",
+    "text": "-Tu parles comme les grandes personnes!",
+    "words": 6
+   },
+   {
+    "id": "c07-p21",
+    "type": "p",
+    "text": "Ça me fit un peu honte. Mais, impitoyable, il ajouta:",
+    "words": 10
+   },
+   {
+    "id": "c07-p22",
+    "type": "p",
+    "text": "-Tu confonds tout...tu mélanges tout!",
+    "words": 5
+   },
+   {
+    "id": "c07-p23",
+    "type": "p",
+    "text": "Il était vraiment très irrité. Il secouait au vent des cheveux\ntout dorés:",
+    "words": 13
+   },
+   {
+    "id": "c07-p24",
+    "type": "p",
+    "text": "-Je connais une planète où il y a un Monsieur cramoisi. Il n'a\njamais respiré une fleur. Il n'a jamais regardé une étoile. Il n'a\njamais aimé personne. Il n'a jamais rien fait d'autre que des\nadditions. Et toute la journée il répète comme toi: \"Je suis un\nhomme sérieux! Je suis un homme sérieux!\" et ça le fait gonfler\nd'orgueil. Mais ce n'est pas un homme, c'est un champignon!",
+    "words": 70
+   },
+   {
+    "id": "c07-p25",
+    "type": "p",
+    "text": "-Un quoi?",
+    "words": 2
+   },
+   {
+    "id": "c07-p26",
+    "type": "p",
+    "text": "-Un champignon!",
+    "words": 2
+   },
+   {
+    "id": "c07-p27",
+    "type": "p",
+    "text": "Le petit prince était maintenant tout pâle de colère.",
+    "words": 9
+   },
+   {
+    "id": "c07-p28",
+    "type": "p",
+    "text": "-Il y a des millions d'années que les fleurs fabriquent des\népines. Il y a des millions d'années que les moutons mangent quand\nmême les fleurs. Et ce n'est pas sérieux de chercher à comprendre\npourquoi elles se donnent tant de mal pour se fabriquer des épines\nqui ne servent jamais à rien? Ce n'est pas important la guerre des\nmoutons et des fleurs? Ce n'est pas plus sérieux et plus important\nque les additions d'un gros Monsieur rouge? Et si je connais, moi,\nune fleur unique au monde, qui n'existe nulle part, sauf dans ma\nplanète, et qu'un petit mouton peut anéantir d'un seul coup, comme\nça, un matin, sans se rendre compte de ce qu'il fait, ce n'est pas\nimportant ça!",
+    "words": 123
+   },
+   {
+    "id": "c07-img1",
+    "type": "illustration",
+    "after": "c07-p28"
+   },
+   {
+    "id": "c07-p29",
+    "type": "p",
+    "text": "Il rougit, puis reprit:",
+    "words": 4
+   },
+   {
+    "id": "c07-p30",
+    "type": "p",
+    "text": "-Si quelqu'un aime une fleur qui n'existe qu'à un exemplaire\ndans les millions et les millions d'étoiles, ça suffit pour qu'il\nsoit heureux quand il les regarde. Il se dit: \"Ma fleur est là\nquelque part...\" Mais si le mouton mange la fleur, c'est pour lui\ncomme si, brusquement, toutes les étoiles s'éteignaient! Et ce\nn'est pas important ça!",
+    "words": 59
+   },
+   {
+    "id": "c07-p31",
+    "type": "p",
+    "text": "Il ne put rien dire de plus. Il éclata brusquement en sanglots.\nLa nuit était tombée. J'avais lâché mes outils. Je me moquais bien\nde mon marteau, de mon boulon, de la soif et de la mort. Il y\navait, sur une étoile, une planète, la mienne, la Terre, un petit\nprince à consoler! Je le pris dans les bras. Je le berçai. Je lui\ndisais: \"La fleur que tu aimes n'est pas en danger...Je lui\ndessinerai une muselière, à ton mouton...Je te dessinerai une\narmure pour ta fleur...Je...\" Je ne savais pas trop quoi dire. Je\nme sentais très maladroit. Je ne savais comment l'atteindre, où le\nrejoindre...C'est tellement mystérieux, le pays des larmes!",
+    "words": 115
+   }
+  ]
+ },
+ {
+  "chapter": 8,
+  "title": "CHAPITRE VIII",
+  "blocks": [
+   {
+    "id": "c08-p01",
+    "type": "p",
+    "text": "J'appris bien vite à mieux connaître cette fleur. Il y\navait toujours eu, sur la planète du petit prince, des fleurs très\nsimples, ornées d'un seul rang de pétales, et qui ne tenaient point\nde place, et qui ne dérangeaient personne. Elles apparaissaient un\nmatin dans l'herbe, et puis elles s'éteignaient le soir. Mais\ncelle-là avait germé un jour, d'une graine apportée d'on ne sait\noù, et le petit prince avait surveillé de très près cette brindille\nqui ne ressemblait pas aux autres brindilles. Ça pouvait\nêtre un nouveau genre de baobab. Mais l'arbuste cessa vite de\ncroître, et commença de préparer une fleur. Le petit prince,\nqui assistait à l'installation d'un bouton énorme, sentait bien\nqu'il en sortirait une apparition miraculeuse, mais la fleur n'en\nfinissait pas de se préparer à être belle, à l'abri de sa chambre\nverte. Elle choisissait avec soin ses couleurs. Elle s'habillait\nlentement, elle ajustait un à un ses pétales. Elle ne voulait pas\nsortir toute fripée comme les coquelicots. Elle ne voulait\napparaître que dans le plein rayonnement de sa beauté. Eh!\noui. Elle était très coquette! Sa toilette mystérieuse avait donc\nduré des jours et des jours. Et puis voici qu'un matin, justement à\nl'heure du lever du soleil, elle s'était montrée.",
+    "words": 210
+   },
+   {
+    "id": "c08-img1",
+    "type": "illustration",
+    "after": "c08-p01"
+   },
+   {
+    "id": "c08-p02",
+    "type": "p",
+    "text": "Et elle, qui avait travaillé avec tant de précision, dit en\nbâillant:",
+    "words": 12
+   },
+   {
+    "id": "c08-p03",
+    "type": "p",
+    "text": "-Ah! je me réveille à peine...Je vous demande pardon...Je suis\nencore toute décoiffée...",
+    "words": 13
+   },
+   {
+    "id": "c08-p04",
+    "type": "p",
+    "text": "Le petit prince, alors, ne put contenir son admiration:",
+    "words": 9
+   },
+   {
+    "id": "c08-p05",
+    "type": "p",
+    "text": "-Que vous êtes belle!",
+    "words": 4
+   },
+   {
+    "id": "c08-p06",
+    "type": "p",
+    "text": "-N'est-ce pas, répondit doucement la fleur. Et je suis née en\nmême temps que le soleil...",
+    "words": 16
+   },
+   {
+    "id": "c08-p07",
+    "type": "p",
+    "text": "Le petit prince devina bien qu'elle n'était pas trop modeste,\nmais elle était si émouvante!",
+    "words": 15
+   },
+   {
+    "id": "c08-p08",
+    "type": "p",
+    "text": "-C'est l'heure, je crois, du petit déjeuner, avait-elle bientôt\najouté, auriez-vous la bonté de penser à moi...",
+    "words": 17
+   },
+   {
+    "id": "c08-p09",
+    "type": "p",
+    "text": "Et le petit prince, tout confus, ayant été chercher un arrosoir\nd'eau fraîche, avait servi la fleur.",
+    "words": 17
+   },
+   {
+    "id": "c08-img2",
+    "type": "illustration",
+    "after": "c08-p09"
+   },
+   {
+    "id": "c08-p10",
+    "type": "p",
+    "text": "Ainsi l'avait-elle bien vite tourmenté par sa vanité un peu\nombrageuse. Un jour, par exemple, parlant de ses quatre épines,\nelle avait dit au petit prince:",
+    "words": 26
+   },
+   {
+    "id": "c08-p11",
+    "type": "p",
+    "text": "-Ils peuvent venir, les tigres, avec leurs griffes!",
+    "words": 8
+   },
+   {
+    "id": "c08-img3",
+    "type": "illustration",
+    "after": "c08-p11"
+   },
+   {
+    "id": "c08-p12",
+    "type": "p",
+    "text": "-Il n'y a pas de tigres sur ma planète, avait objecté le petit\nprince, et puis les tigres ne mangent pas d'herbe.",
+    "words": 22
+   },
+   {
+    "id": "c08-p13",
+    "type": "p",
+    "text": "-Je ne suis pas une herbe, avait doucement répondu la fleur.",
+    "words": 11
+   },
+   {
+    "id": "c08-p14",
+    "type": "p",
+    "text": "-Pardonnez-moi...",
+    "words": 1
+   },
+   {
+    "id": "c08-p15",
+    "type": "p",
+    "text": "-Je ne crains rien des tigres, mais j'ai horreur des courants\nd'air. Vous n'auriez pas un paravent?",
+    "words": 17
+   },
+   {
+    "id": "c08-img4",
+    "type": "illustration",
+    "after": "c08-p15"
+   },
+   {
+    "id": "c08-p16",
+    "type": "p",
+    "text": "\"Horreur des courants d'air...ce n'est pas de chance, pour une\nplante, avait remarqué le petit prince. Cette fleur est bien\ncompliquée...\"",
+    "words": 21
+   },
+   {
+    "id": "c08-p17",
+    "type": "p",
+    "text": "-Le soir vous me mettrez sous globe. Il fait très froid chez\nvous. C'est mal installé. Là d'ou je viens...",
+    "words": 20
+   },
+   {
+    "id": "c08-img5",
+    "type": "illustration",
+    "after": "c08-p17"
+   },
+   {
+    "id": "c08-p18",
+    "type": "p",
+    "text": "Mais elle s'était interrompue. Elle était venue sous forme de\ngraine. Elle n'avait rien pu connaître des autres mondes.\nHumiliée de s'être laissé surprendre à préparer un mensonge aussi\nnaïf, elle avait toussé deux ou trois fois, pour mettre le\npetit prince dans son tort:",
+    "words": 45
+   },
+   {
+    "id": "c08-p19",
+    "type": "p",
+    "text": "-Ce paravent?...",
+    "words": 2
+   },
+   {
+    "id": "c08-p20",
+    "type": "p",
+    "text": "-J'allais le chercher mais vous me parliez!",
+    "words": 7
+   },
+   {
+    "id": "c08-p21",
+    "type": "p",
+    "text": "Alors elle avait forcé sa toux pour lui infliger quand même des\nremords.",
+    "words": 13
+   },
+   {
+    "id": "c08-p22",
+    "type": "p",
+    "text": "Ainsi le petit prince, malgré la bonne volonté de son amour,\navait vite douté d'elle. Il avait pris au sérieux des mots sans\nimportance, et était devenu très malheureux.",
+    "words": 29
+   },
+   {
+    "id": "c08-p23",
+    "type": "p",
+    "text": "\"J'aurais dû ne pas l'écouter, me confia-t-il un jour, il\nne faut jamais écouter les fleurs. Il faut les regarder et les\nrespirer. La mienne embaumait ma planète, mais je ne savais pas\nm'en réjouir. Cette histoire de griffes, qui m'avait tellement\nagacé, eût dû m'attendrir...\"",
+    "words": 46
+   },
+   {
+    "id": "c08-p24",
+    "type": "p",
+    "text": "Il me confia encore:",
+    "words": 4
+   },
+   {
+    "id": "c08-p25",
+    "type": "p",
+    "text": "\"Je n'ai alors rien su comprendre! J'aurais dû la juger\nsur les actes et non sur les mots. Elle m'embaumait et m'éclairait.\nJe n'aurais jamais dû m'enfuir! J'aurais dû deviner sa\ntendresse derrière ses pauvres ruses. Les fleurs sont si\ncontradictoires! Mais j'étais trop jeune pour savoir l'aimer.\"",
+    "words": 48
+   }
+  ]
+ },
+ {
+  "chapter": 9,
+  "title": "CHAPITRE IX",
+  "blocks": [
+   {
+    "id": "c09-img1",
+    "type": "illustration",
+    "after": "c09-p00"
+   },
+   {
+    "id": "c09-p01",
+    "type": "p",
+    "text": "Je crois qu'il profita, pour son évasion, d'une migration\nd'oiseaux sauvages. Au matin du départ il mit sa planète bien en\nordre. Il ramona soigneusement ses volcans en activité. Il\npossédait deux volcans en activité. Et c'était bien commode pour\nfaire chauffer le petit déjeuner du matin. Il possédait aussi un\nvolcan éteint. Mais, comme il disait, \"On ne sait jamais!\" Il\nramona donc également le volcan éteint. S'ils sont bien ramonés,\nles volcans brûlent doucement et régulièrement, sans\néruptions. Les éruptions volcaniques sont comme des feux de\ncheminée. Evidemment sur notre terre nous sommes beaucoup trop\npetits pour ramoner nos volcans. C'est pourquoi ils nous causent\ndes tas d'ennuis.",
+    "words": 110
+   },
+   {
+    "id": "c09-p02",
+    "type": "p",
+    "text": "Le petit prince arracha aussi, avec un peu de mélancolie, les\ndernières pousses de baobabs. Il croyait ne jamais devoir revenir.\nMais tout ces travaux familiers lui parurent, ce matin-là,\nextrêmement doux. Et, quand il arrosa une dernière fois la fleur,\net se prépara à la mettre à l'abri sous son globe, il se découvrit\nl'envie de pleurer.",
+    "words": 58
+   },
+   {
+    "id": "c09-img2",
+    "type": "illustration",
+    "after": "c09-p02"
+   },
+   {
+    "id": "c09-p03",
+    "type": "p",
+    "text": "-Adieu, dit-il à la fleur.",
+    "words": 5
+   },
+   {
+    "id": "c09-p04",
+    "type": "p",
+    "text": "Mais elle ne lui répondit pas.",
+    "words": 6
+   },
+   {
+    "id": "c09-p05",
+    "type": "p",
+    "text": "-Adieu, répéta-t-il.",
+    "words": 2
+   },
+   {
+    "id": "c09-p06",
+    "type": "p",
+    "text": "La fleur toussa. Mais ce n'était pas à cause de son rhume.",
+    "words": 12
+   },
+   {
+    "id": "c09-p07",
+    "type": "p",
+    "text": "-J'ai été sotte, lui dit-elle enfin. Je te demande pardon. Tâche\nd'être heureux.",
+    "words": 13
+   },
+   {
+    "id": "c09-p08",
+    "type": "p",
+    "text": "Il fut surpris par l'absence de reproches. Il restait là tout\ndéconcentré, le globe en l'air. Il ne comprenait pas cette douceur\ncalme.",
+    "words": 23
+   },
+   {
+    "id": "c09-p09",
+    "type": "p",
+    "text": "-Mais oui, je t'aime, lui dit la fleur. Tu n'en a rien su, par\nma faute. Cela n'a aucune importance. Mais tu as été aussi sot que\nmoi. Tâche d'être heureux...Laisse ce globe tranquille. Je n'en\nveux plus.",
+    "words": 38
+   },
+   {
+    "id": "c09-p10",
+    "type": "p",
+    "text": "-Mais le vent...",
+    "words": 3
+   },
+   {
+    "id": "c09-p11",
+    "type": "p",
+    "text": "-Je ne suis pas si enrhumée que ça...L'air frais de la nuit me\nfera du bien. Je suis une fleur.",
+    "words": 20
+   },
+   {
+    "id": "c09-p12",
+    "type": "p",
+    "text": "-Mais les bêtes...",
+    "words": 3
+   },
+   {
+    "id": "c09-p13",
+    "type": "p",
+    "text": "-Il faut bien que je supporte deux ou trois chenilles si je veux\nconnaître les papillons. Il paraît que c'est tellement\nbeau. Sinon qui me rendra visite? Tu seras loin, toi. Quant aux\ngrosses bêtes, je ne crains rien. J'ai mes griffes.",
+    "words": 42
+   },
+   {
+    "id": "c09-p14",
+    "type": "p",
+    "text": "Et elle montrait naïvement ses quatre épines. Puis elle\najouta:",
+    "words": 10
+   },
+   {
+    "id": "c09-p15",
+    "type": "p",
+    "text": "-Ne traîne pas comme ça, c'est agaçant. Tu as décidé de\npartir. Va-t'en.",
+    "words": 13
+   },
+   {
+    "id": "c09-p16",
+    "type": "p",
+    "text": "Car elle ne voulait pas qu'il la vît pleurer. C'était une\nfleur tellement orgueilleuse...",
+    "words": 14
+   }
+  ]
+ },
+ {
+  "chapter": 10,
+  "title": "CHAPITRE X",
+  "blocks": [
+   {
+    "id": "c10-p01",
+    "type": "p",
+    "text": "Il se trouvait dans la région des astéroïdes 325, 326, 327,\n328, 329 et 330. Il commença donc par les visiter pour y chercher\nune occupation et pour s'instruire.",
+    "words": 29
+   },
+   {
+    "id": "c10-p02",
+    "type": "p",
+    "text": "La première était habitée par un roi. Le roi siégeait, habillé\nde pourpre et d'hermine, sur un trône très simple et cependant\nmajestueux.",
+    "words": 23
+   },
+   {
+    "id": "c10-img1",
+    "type": "illustration",
+    "after": "c10-p02"
+   },
+   {
+    "id": "c10-p03",
+    "type": "p",
+    "text": "-Ah! Voilà un sujet, s'écria le roi quand il aperçut le petit\nprince.",
+    "words": 13
+   },
+   {
+    "id": "c10-p04",
+    "type": "p",
+    "text": "Et le petit prince se demanda:",
+    "words": 6
+   },
+   {
+    "id": "c10-p05",
+    "type": "p",
+    "text": "-Comment peut-il me reconnaître puisqu'il ne m'a encore\njamais vu!",
+    "words": 10
+   },
+   {
+    "id": "c10-p06",
+    "type": "p",
+    "text": "Il ne savait pas que, pour les rois, le monde est très\nsimplifié. Tous les hommes sont des sujets.",
+    "words": 19
+   },
+   {
+    "id": "c10-p07",
+    "type": "p",
+    "text": "-Approche-toi que je te voie mieux, lui dit le roi qui était\ntout fier d'être enfin roi pour quelqu'un.",
+    "words": 19
+   },
+   {
+    "id": "c10-p08",
+    "type": "p",
+    "text": "Le petit prince chercha des yeux où s'asseoir, mais la planète\nétait toute encombrée par le magnifique manteau d'hermine. Il resta\ndonc debout, et, comme il était fatigué, il bâilla.",
+    "words": 30
+   },
+   {
+    "id": "c10-p09",
+    "type": "p",
+    "text": "-Il est contraire à l'étiquette de bâiller en présence d'un roi,\nlui dit le monarque. Je te l'interdis.",
+    "words": 18
+   },
+   {
+    "id": "c10-p10",
+    "type": "p",
+    "text": "-Je ne peux pas m'en empêcher, répondit le petit prince tout\nconfus. J'ai fait un long voyage et je n'ai pas dormi...",
+    "words": 22
+   },
+   {
+    "id": "c10-p11",
+    "type": "p",
+    "text": "-Alors, lui dit le roi, je t'ordonne de bâiller. Je n'ai vu\npersonne bâiller depuis des années. Les bâillements sont pour moi\ndes curiosités. Allons! bâille encore. C'est un ordre.",
+    "words": 30
+   },
+   {
+    "id": "c10-p12",
+    "type": "p",
+    "text": "-Ça m'intimide...je ne peux plus...fit le petit prince\ntout rougissant.",
+    "words": 10
+   },
+   {
+    "id": "c10-p13",
+    "type": "p",
+    "text": "-Hum! Hum! répondit le roi. Alors je...je t'ordonne tantôt de\nbâiller et tantôt de...",
+    "words": 14
+   },
+   {
+    "id": "c10-p14",
+    "type": "p",
+    "text": "Il bredouillait un peu et paraissait vexé.",
+    "words": 7
+   },
+   {
+    "id": "c10-p15",
+    "type": "p",
+    "text": "Car le roi tenait essentiellement à ce que son autorité\nfût respectée. Il ne tolérait pas la désobéissance. C'était\nun monarque absolu. Mais, comme il était très bon, il donnait des\nordres raisonnables.",
+    "words": 33
+   },
+   {
+    "id": "c10-p16",
+    "type": "p",
+    "text": "\"Si j'ordonnais, disait-il couramment, si j'ordonnais à un\ngénéral de se changer en oiseau de mer, et si le général\nn'obéissait pas, ce ne serait pas la faute du général. Ce serait ma\nfaute.\"",
+    "words": 34
+   },
+   {
+    "id": "c10-p17",
+    "type": "p",
+    "text": "-Puis-je m'asseoir? s'enquit timidement le petit prince.",
+    "words": 7
+   },
+   {
+    "id": "c10-p18",
+    "type": "p",
+    "text": "-Je t'ordonne de t'asseoir, lui répondit le roi, qui ramena\nmajestueusement un pan de son manteau d'hermine.",
+    "words": 17
+   },
+   {
+    "id": "c10-p19",
+    "type": "p",
+    "text": "Mais le petit prince s'étonnait. La planète était minuscule. Sur\nquoi le roi pouvait-il bien régner?",
+    "words": 16
+   },
+   {
+    "id": "c10-p20",
+    "type": "p",
+    "text": "-Sire, lui dit-il...je vous demande pardon de vous\ninterroger...",
+    "words": 9
+   },
+   {
+    "id": "c10-p21",
+    "type": "p",
+    "text": "-Je t'ordonne de m'interroger, se hâta de dire le roi.",
+    "words": 10
+   },
+   {
+    "id": "c10-p22",
+    "type": "p",
+    "text": "-Sire...sur quoi régnez-vous?",
+    "words": 3
+   },
+   {
+    "id": "c10-p23",
+    "type": "p",
+    "text": "-Sur tout, répondit le roi, avec une grande simplicité.",
+    "words": 9
+   },
+   {
+    "id": "c10-p24",
+    "type": "p",
+    "text": "-Sur tout?",
+    "words": 2
+   },
+   {
+    "id": "c10-p25",
+    "type": "p",
+    "text": "Le roi d'un geste discret désigna sa planète, les autres\nplanètes et les étoiles.",
+    "words": 14
+   },
+   {
+    "id": "c10-p26",
+    "type": "p",
+    "text": "-Sur tout ça? dit le petit prince.",
+    "words": 7
+   },
+   {
+    "id": "c10-p27",
+    "type": "p",
+    "text": "-Sur tout ça...répondit le roi.",
+    "words": 5
+   },
+   {
+    "id": "c10-p28",
+    "type": "p",
+    "text": "Car non seulement c'était un monarque absolu mais c'était un\nmonarque universel.",
+    "words": 12
+   },
+   {
+    "id": "c10-p29",
+    "type": "p",
+    "text": "-Et les étoiles vous obéissent?",
+    "words": 5
+   },
+   {
+    "id": "c10-p30",
+    "type": "p",
+    "text": "-Bien sûr, lui dit le roi. Elles obéissent aussitôt. Je ne\ntolère pas l'indiscipline.",
+    "words": 14
+   },
+   {
+    "id": "c10-p31",
+    "type": "p",
+    "text": "Un tel pouvoir émerveilla le petit prince. S'il l'avait détenu\nlui-même, il aurait pu assister, non pas à quarante-quatre, mais à\nsoixante-douze, ou même à cent, ou même à deux cents couchers de\nsoleil dans la même journée, sans avoir jamais à tirer sa chaise!\nEt comme il se sentait un peu triste à cause du souvenir de sa\npetite planète abandonnée, il s'enhardit à solliciter une grâce du\nroi:",
+    "words": 70
+   },
+   {
+    "id": "c10-p32",
+    "type": "p",
+    "text": "-Je voudrais voir un coucher de soleil...Faites-moi plaisir...\nOrdonnez au soleil de se coucher...",
+    "words": 14
+   },
+   {
+    "id": "c10-p33",
+    "type": "p",
+    "text": "-Si j'ordonnais à un général de voler d'une fleur à l'autre à la\nfaçon d'un papillon, ou d'écrire une tragédie, ou de se changer en\noiseau de mer, et si le général n'exécutait pas l'ordre reçu, qui,\nde lui ou de moi, serait dans son tort?",
+    "words": 46
+   },
+   {
+    "id": "c10-p34",
+    "type": "p",
+    "text": "-Ce serait vous, dit fermement le petit prince.",
+    "words": 8
+   },
+   {
+    "id": "c10-p35",
+    "type": "p",
+    "text": "-Exact. Il faut exiger de chacun ce que chacun peut donner,\nreprit le roi. L'autorité repose d'abord sur la raison. Si tu\nordonnes à ton peuple d'aller se jeter à la mer, il fera la\nrévolution. J'ai le droit d'exiger l'obéissance parce que mes\nordres sont raisonnables.",
+    "words": 47
+   },
+   {
+    "id": "c10-p36",
+    "type": "p",
+    "text": "-Alors mon coucher de soleil? rappela le petit prince qui jamais\nn'oubliait une question une fois qu'il l'avait posée.",
+    "words": 19
+   },
+   {
+    "id": "c10-p37",
+    "type": "p",
+    "text": "-Ton coucher de soleil, tu l'auras. Je l'exigerai. Mais\nj'attendrai, dans ma science du gouvernement, que les conditions\nsoient favorables.",
+    "words": 20
+   },
+   {
+    "id": "c10-p38",
+    "type": "p",
+    "text": "-Quand ça sera-t-il? s'informa le petit prince.",
+    "words": 7
+   },
+   {
+    "id": "c10-p39",
+    "type": "p",
+    "text": "-Hem! hem! lui répondit le roi, qui consulta d'abord un gros\ncalendrier, hem! hem! ce sera, vers...vers...ce sera ce soir vers\nsept heures quarante! Et tu verras comme je suis bien obéi.",
+    "words": 32
+   },
+   {
+    "id": "c10-p40",
+    "type": "p",
+    "text": "Le petit prince bâilla. Il regrettait son coucher de soleil\nmanqué. Et puis il s'ennuyait déjà un peu:",
+    "words": 18
+   },
+   {
+    "id": "c10-p41",
+    "type": "p",
+    "text": "-Je n'ai plus rien à faire ici, dit-il au roi. Je vais\nrepartir!",
+    "words": 13
+   },
+   {
+    "id": "c10-p42",
+    "type": "p",
+    "text": "-Ne pars pas, répondit le roi qui était si fier d'avoir un\nsujet. Ne pars pas, je te fais ministre!",
+    "words": 20
+   },
+   {
+    "id": "c10-p43",
+    "type": "p",
+    "text": "-Ministre de quoi?",
+    "words": 3
+   },
+   {
+    "id": "c10-p44",
+    "type": "p",
+    "text": "-De...de la justice!",
+    "words": 3
+   },
+   {
+    "id": "c10-p45",
+    "type": "p",
+    "text": "-Mais il n'y a personne à juger!",
+    "words": 7
+   },
+   {
+    "id": "c10-p46",
+    "type": "p",
+    "text": "-On ne sait pas, lui dit le roi. Je n'ai pas fait encore le tour\nde mon royaume. Je suis très vieux, je n'ai pas de place pour un\ncarrosse, et ça me fatigue de marcher.",
+    "words": 36
+   },
+   {
+    "id": "c10-p47",
+    "type": "p",
+    "text": "-Oh! Mais j'ai déjà vu, dit le petit prince qui se pencha pour\njeter encore un coup d'oeil sur l'autre côté de la planète. Il n'y\na personne là-bas non plus...",
+    "words": 31
+   },
+   {
+    "id": "c10-p48",
+    "type": "p",
+    "text": "-Tu te jugeras donc toi-même, lui répondit le roi. C'est le plus\ndifficile. Il est bien plus difficile de se juger soi-même que de\njuger autrui. Si tu réussis à bien te juger, c'est que tu es un\nvéritable sage.",
+    "words": 40
+   },
+   {
+    "id": "c10-p49",
+    "type": "p",
+    "text": "-Moi, dit le petit prince, je puis me juger moi-même n'importe\noù. Je n'ai pas besoin d'habiter ici.",
+    "words": 18
+   },
+   {
+    "id": "c10-p50",
+    "type": "p",
+    "text": "-Hem! Hem! dit le roi, je crois bien que sur ma planète il y a\nquelque part un vieux rat. Je l'entends la nuit. Tu pourras juger\nce vieux rat. Tu le condamneras à mort de temps en temps. Ainsi sa\nvie dépendra de ta justice. Mais tu le gracieras chaque fois pour\néconomiser. Il n'y en a qu'un.",
+    "words": 59
+   },
+   {
+    "id": "c10-p51",
+    "type": "p",
+    "text": "-Moi, répondit le petit prince, je n'aime pas condamner à mort,\net je crois bien que je m'en vais.",
+    "words": 19
+   },
+   {
+    "id": "c10-p52",
+    "type": "p",
+    "text": "-Non, dit le roi.",
+    "words": 4
+   },
+   {
+    "id": "c10-p53",
+    "type": "p",
+    "text": "Mais le petit prince, ayant achevé ses préparatifs, ne voulut\npoint peiner le vieux monarque:",
+    "words": 15
+   },
+   {
+    "id": "c10-p54",
+    "type": "p",
+    "text": "-Si votre Majesté désirait être obéie ponctuellement, elle\npourrait me donner un ordre raisonnable. Elle pourrait m'ordonner,\npar exemple, de partir avant une minute. Il me semble que les\nconditions sont favorables...",
+    "words": 32
+   },
+   {
+    "id": "c10-p55",
+    "type": "p",
+    "text": "Le roi n'ayant rien répondu, le petit prince hésita d'abord,\npuis, avec un soupir, pris le départ.",
+    "words": 17
+   },
+   {
+    "id": "c10-p56",
+    "type": "p",
+    "text": "-Je te fais mon ambassadeur, se hâta alors de crier le roi.",
+    "words": 12
+   },
+   {
+    "id": "c10-p57",
+    "type": "p",
+    "text": "Il avait un grand air d'autorité.",
+    "words": 6
+   },
+   {
+    "id": "c10-p58",
+    "type": "p",
+    "text": "Les grandes personnes sont bien étranges, se dit le petit\nprince, en lui-même, durant son voyage.",
+    "words": 16
+   }
+  ]
+ },
+ {
+  "chapter": 11,
+  "title": "CHAPITRE XI",
+  "blocks": [
+   {
+    "id": "c11-p01",
+    "type": "p",
+    "text": "La seconde planète était habitée par un vaniteux:",
+    "words": 8
+   },
+   {
+    "id": "c11-img1",
+    "type": "illustration",
+    "after": "c11-p01"
+   },
+   {
+    "id": "c11-p02",
+    "type": "p",
+    "text": "-Ah! Ah! Voilà la visite d'un admirateur! s'écria de loin le\nvaniteux dès qu'il aperçut le petit prince.",
+    "words": 18
+   },
+   {
+    "id": "c11-p03",
+    "type": "p",
+    "text": "Car, pour les vaniteux, les autres hommes sont des\nadmirateurs.",
+    "words": 10
+   },
+   {
+    "id": "c11-p04",
+    "type": "p",
+    "text": "-Bonjour, dit le petit prince. Vous avez un drôle de\nchapeau.",
+    "words": 11
+   },
+   {
+    "id": "c11-p05",
+    "type": "p",
+    "text": "-C'est pour saluer, lui répondit le vaniteux. C'est pour saluer\nquand on m'acclame. Malheureusement il ne passe jamais personne par\nici.",
+    "words": 21
+   },
+   {
+    "id": "c11-p06",
+    "type": "p",
+    "text": "-Ah oui? dit le petit prince qui ne comprit pas.",
+    "words": 10
+   },
+   {
+    "id": "c11-p07",
+    "type": "p",
+    "text": "-Frappe tes mains l'une contre l'autre, conseilla donc le\nvaniteux.",
+    "words": 10
+   },
+   {
+    "id": "c11-p08",
+    "type": "p",
+    "text": "Le petit prince frappa ses mains l'une contre l'autre. Le\nvaniteux salua modestement en soulevant son chapeau.",
+    "words": 17
+   },
+   {
+    "id": "c11-p09",
+    "type": "p",
+    "text": "-Ça c'est plus amusant que la visite du roi, se dit en\nlui-même le petit prince. Et il recommença de frapper ses mains\nl'une contre l'autre. Le vaniteux recommença de saluer en soulevant\nson chapeau.",
+    "words": 35
+   },
+   {
+    "id": "c11-p10",
+    "type": "p",
+    "text": "Après cinq minutes d'exercice le petit prince se fatigua de la\nmonotonie du jeu:",
+    "words": 14
+   },
+   {
+    "id": "c11-p11",
+    "type": "p",
+    "text": "-Et, pour que le chapeau tombe, demanda-t-il, que faut-il\nfaire?",
+    "words": 10
+   },
+   {
+    "id": "c11-p12",
+    "type": "p",
+    "text": "Mais le vaniteux ne l'entendit pas. Les vaniteux n'entendent\njamais que les louanges.",
+    "words": 13
+   },
+   {
+    "id": "c11-p13",
+    "type": "p",
+    "text": "-Est-ce que tu m'admires vraiment beaucoup? demanda-t-il au\npetit prince.",
+    "words": 10
+   },
+   {
+    "id": "c11-p14",
+    "type": "p",
+    "text": "-Qu'est-ce que signifie admirer?",
+    "words": 4
+   },
+   {
+    "id": "c11-p15",
+    "type": "p",
+    "text": "-Admirer signifie reconnaître que je suis l'homme le plus\nbeau, le mieux habillé, le plus riche et le plus intelligent de la\nplanète.",
+    "words": 23
+   },
+   {
+    "id": "c11-p16",
+    "type": "p",
+    "text": "-Mais tu es seul sur ta planète!",
+    "words": 7
+   },
+   {
+    "id": "c11-p17",
+    "type": "p",
+    "text": "-Fais-moi ce plaisir. Admire-moi quand-même!",
+    "words": 5
+   },
+   {
+    "id": "c11-p18",
+    "type": "p",
+    "text": "-Je t'admire, dit le petit prince, en haussant un peu les\népaules, mais en quoi cela peut-il bien t'intéresser?",
+    "words": 19
+   },
+   {
+    "id": "c11-p19",
+    "type": "p",
+    "text": "Et le petit prince s'en fut.",
+    "words": 6
+   },
+   {
+    "id": "c11-p20",
+    "type": "p",
+    "text": "Les grandes personnes sont décidément bien bizarres, se dit-il\nsimplement en lui-même durant son voyage.",
+    "words": 15
+   }
+  ]
+ },
+ {
+  "chapter": 12,
+  "title": "CHAPITRE XII",
+  "blocks": [
+   {
+    "id": "c12-p01",
+    "type": "p",
+    "text": "La planète suivante était habitée par un buveur. Cette visite\nfut très courte mais elle plongea le petit prince dans une grande\nmélancolie:",
+    "words": 23
+   },
+   {
+    "id": "c12-img1",
+    "type": "illustration",
+    "after": "c12-p01"
+   },
+   {
+    "id": "c12-p02",
+    "type": "p",
+    "text": "-Que fais-tu là? dit-il au buveur, qu'il trouva installé en\nsilence devant une collection de bouteilles vides et une collection\nde bouteilles pleines.",
+    "words": 23
+   },
+   {
+    "id": "c12-p03",
+    "type": "p",
+    "text": "-Je bois, répondit le buveur, d'un air lugubre.",
+    "words": 8
+   },
+   {
+    "id": "c12-p04",
+    "type": "p",
+    "text": "-Pourquoi bois-tu? lui demanda le petit prince.",
+    "words": 7
+   },
+   {
+    "id": "c12-p05",
+    "type": "p",
+    "text": "-Pour oublier, répondit le buveur.",
+    "words": 5
+   },
+   {
+    "id": "c12-p06",
+    "type": "p",
+    "text": "-Pour oublier quoi? s'enquit le petit prince qui déjà le\nplaignait.",
+    "words": 11
+   },
+   {
+    "id": "c12-p07",
+    "type": "p",
+    "text": "-Pour oublier que j'ai honte, avoua le buveur en baissant la\ntête.",
+    "words": 12
+   },
+   {
+    "id": "c12-p08",
+    "type": "p",
+    "text": "-Honte de quoi? s'informa le petit prince qui désirait le\nsecourir.",
+    "words": 11
+   },
+   {
+    "id": "c12-p09",
+    "type": "p",
+    "text": "-Honte de boire! acheva le buveur qui s'enferma définitivement\ndans le silence.",
+    "words": 12
+   },
+   {
+    "id": "c12-p10",
+    "type": "p",
+    "text": "Et le petit prince s'en fut, perplexe.",
+    "words": 7
+   },
+   {
+    "id": "c12-p11",
+    "type": "p",
+    "text": "Les grandes personnes sont décidément très très bizarres, se\ndisait-il en lui-même durant le voyage.",
+    "words": 15
+   }
+  ]
+ },
+ {
+  "chapter": 13,
+  "title": "CHAPITRE XIII",
+  "blocks": [
+   {
+    "id": "c13-p01",
+    "type": "p",
+    "text": "La quatrième planète était celle du businessman. Cet homme était\nsi occupé qu'il ne leva même pas la tête à l'arrivée du petit\nprince.",
+    "words": 24
+   },
+   {
+    "id": "c13-img1",
+    "type": "illustration",
+    "after": "c13-p01"
+   },
+   {
+    "id": "c13-p02",
+    "type": "p",
+    "text": "-Bonjour, lui dit celui-ci. Votre cigarette est éteinte.",
+    "words": 8
+   },
+   {
+    "id": "c13-p03",
+    "type": "p",
+    "text": "-Trois et deux font cinq. Cinq et sept douze. Douze et trois\nquinze. Bonjour. Quinze et sept vingt-deux. Vingt-deux et six\nvingt-huit. Pas de temps de la rallumer. Vingt-six et cinq trente\net un. Ouf! Ça fait donc cinq cent un millions six cent\nvingt-deux mille sept cent trente et un.",
+    "words": 51
+   },
+   {
+    "id": "c13-img2",
+    "type": "illustration",
+    "after": "c13-p03"
+   },
+   {
+    "id": "c13-p04",
+    "type": "p",
+    "text": "-Cinq cents millions de quoi?",
+    "words": 5
+   },
+   {
+    "id": "c13-p05",
+    "type": "p",
+    "text": "-Hein? Tu es toujours là? Cinq cent un million de...je ne sais\nplus...J'ai tellement de travail! Je suis sérieux, moi, je ne\nm'amuse pas à des balivernes! Deux et cinq sept...",
+    "words": 31
+   },
+   {
+    "id": "c13-p06",
+    "type": "p",
+    "text": "-Cinq cent millions de quoi, répéta le petit prince qui jamais\nde sa vie, n'avait-il renoncé à une question, une fois qu'il\nl'avait posée.",
+    "words": 24
+   },
+   {
+    "id": "c13-p07",
+    "type": "p",
+    "text": "Le businessman leva la tête:",
+    "words": 5
+   },
+   {
+    "id": "c13-p08",
+    "type": "p",
+    "text": "-Depuis cinquante-quatre ans que j'habite cette planète-ci, je\nn'ai été dérangé que trois fois. La première fois ç'a été, il y a\nvingt-deux ans, par un hanneton qui était tombé Dieu sait d'où. Il\nrépandait un bruit épouvantable, et j'ai fait quatre erreurs dans\nune addition. La seconde fois ç'à été, il y a onze ans, par une\ncrise de rhumatisme. Je manque d'exercise. Je n'al pas letemps de\nflâner. Je suis sérieux, moi. La troisième fois...la voici! Je\ndisais donc cinq cent un millions...",
+    "words": 85
+   },
+   {
+    "id": "c13-p09",
+    "type": "p",
+    "text": "-Millions de quoi?",
+    "words": 3
+   },
+   {
+    "id": "c13-p10",
+    "type": "p",
+    "text": "Le businessman comprit qu'il n'était point d'espoir de paix:",
+    "words": 9
+   },
+   {
+    "id": "c13-p11",
+    "type": "p",
+    "text": "-Millions de ces petites choses que l'on voit quelquefois dans\nle ciel.",
+    "words": 12
+   },
+   {
+    "id": "c13-p12",
+    "type": "p",
+    "text": "-Des mouches?",
+    "words": 2
+   },
+   {
+    "id": "c13-p13",
+    "type": "p",
+    "text": "-Mais non, des petites choses qui brillent.",
+    "words": 7
+   },
+   {
+    "id": "c13-p14",
+    "type": "p",
+    "text": "-Des abeilles?",
+    "words": 2
+   },
+   {
+    "id": "c13-p15",
+    "type": "p",
+    "text": "-Mais non. Des petites choses dorées qui font rêvasser les\nfainéants. Mais je suis sérieux, moi! Je n'ai pas le temps de\nrêvasser.",
+    "words": 23
+   },
+   {
+    "id": "c13-p16",
+    "type": "p",
+    "text": "-Ah! des étoiles?",
+    "words": 3
+   },
+   {
+    "id": "c13-p17",
+    "type": "p",
+    "text": "-C'est bien ça. Des étoiles.",
+    "words": 5
+   },
+   {
+    "id": "c13-p18",
+    "type": "p",
+    "text": "-Et que fais-tu des cinq cent millions d'étoiles?",
+    "words": 8
+   },
+   {
+    "id": "c13-p19",
+    "type": "p",
+    "text": "-Cinq cent un millions six cent vingt-deux mille sept cent\ntrente et un. Je suis un homme sérieux, moi, je suis précis.",
+    "words": 22
+   },
+   {
+    "id": "c13-p20",
+    "type": "p",
+    "text": "-Et que fais-tu de ces étoiles?",
+    "words": 6
+   },
+   {
+    "id": "c13-p21",
+    "type": "p",
+    "text": "-Ce que j'en fais?",
+    "words": 4
+   },
+   {
+    "id": "c13-p22",
+    "type": "p",
+    "text": "-Oui.",
+    "words": 1
+   },
+   {
+    "id": "c13-p23",
+    "type": "p",
+    "text": "-Rien. Je les possède.",
+    "words": 4
+   },
+   {
+    "id": "c13-p24",
+    "type": "p",
+    "text": "-Tu possèdes les étoiles?",
+    "words": 4
+   },
+   {
+    "id": "c13-p25",
+    "type": "p",
+    "text": "-Oui.",
+    "words": 1
+   },
+   {
+    "id": "c13-p26",
+    "type": "p",
+    "text": "-Mais j'ai déjà vu un roi qui...",
+    "words": 7
+   },
+   {
+    "id": "c13-p27",
+    "type": "p",
+    "text": "-Les rois ne possèdent pas. Ils \"règnent\" sur. C'est très\ndifférent.",
+    "words": 11
+   },
+   {
+    "id": "c13-p28",
+    "type": "p",
+    "text": "-Et à quoi cela te sert-il de posséder les étoiles?",
+    "words": 10
+   },
+   {
+    "id": "c13-p29",
+    "type": "p",
+    "text": "-Ça me sert à être riche.",
+    "words": 6
+   },
+   {
+    "id": "c13-p30",
+    "type": "p",
+    "text": "-Et à quoi cela te sert-il d'être riche?",
+    "words": 8
+   },
+   {
+    "id": "c13-p31",
+    "type": "p",
+    "text": "-A acheter d'autres étoiles, si quelqu'un en trouve.",
+    "words": 8
+   },
+   {
+    "id": "c13-p32",
+    "type": "p",
+    "text": "Celui-là, se dit en lui-même le petit prince, il raisonne un peu\ncomme mon ivrogne.",
+    "words": 15
+   },
+   {
+    "id": "c13-p33",
+    "type": "p",
+    "text": "Cependant il posa encore des questions:",
+    "words": 6
+   },
+   {
+    "id": "c13-p34",
+    "type": "p",
+    "text": "-Comment peut-on posséder les étoiles?",
+    "words": 5
+   },
+   {
+    "id": "c13-p35",
+    "type": "p",
+    "text": "-A qui sont-elles? riposta, grincheux, le businessman.",
+    "words": 7
+   },
+   {
+    "id": "c13-p36",
+    "type": "p",
+    "text": "-Je ne sais pas. A personne.",
+    "words": 6
+   },
+   {
+    "id": "c13-p37",
+    "type": "p",
+    "text": "-Alors elles sont à moi, car j'y ai pensé le premier.",
+    "words": 11
+   },
+   {
+    "id": "c13-p38",
+    "type": "p",
+    "text": "-Ça suffit?",
+    "words": 2
+   },
+   {
+    "id": "c13-p39",
+    "type": "p",
+    "text": "-Bien sûr. Quand tu trouves un diamant qui n'est à\npersonne, il est à toi. Quand tu trouves une île qui n'est à\npersonne, elle est à toi. Quand tu as une idée le premier, tu la\nfais breveter: elle est à toi. Et moi je possède les étoiles,\npuisque jamais personne avant moi n'a songé à les posséder.",
+    "words": 59
+   },
+   {
+    "id": "c13-p40",
+    "type": "p",
+    "text": "-Ça c'est vrai, dit le petit prince. Et qu'en\nfais-tu?",
+    "words": 10
+   },
+   {
+    "id": "c13-p41",
+    "type": "p",
+    "text": "-Je les gère. Je les compte et je les recompte, dit le\nbusinessman. C'est difficile. Mais je suis un homme sérieux!",
+    "words": 21
+   },
+   {
+    "id": "c13-p42",
+    "type": "p",
+    "text": "Le petit prince n'était pas satisfait encore.",
+    "words": 7
+   },
+   {
+    "id": "c13-p43",
+    "type": "p",
+    "text": "-Moi, si je possède un foulard, je puis le mettre autour de mon\ncou et l'emporter. Moi, si je possède une fleur, je puis cueillir\nma fleur et l'emporter. Mais tu ne peux pas cueillir les\nétoiles!",
+    "words": 37
+   },
+   {
+    "id": "c13-p44",
+    "type": "p",
+    "text": "-Non, mais je puis les placer en banque.",
+    "words": 8
+   },
+   {
+    "id": "c13-p45",
+    "type": "p",
+    "text": "-Qu'est-ce que ça veut dire?",
+    "words": 5
+   },
+   {
+    "id": "c13-p46",
+    "type": "p",
+    "text": "-Ça veut dire que j'écris sur un petit papier le nombre\nde mes étoiles. Et puis j'enferme à clef ce papier-là dans un\ntiroir.",
+    "words": 24
+   },
+   {
+    "id": "c13-p47",
+    "type": "p",
+    "text": "-Et c'est tout?",
+    "words": 3
+   },
+   {
+    "id": "c13-p48",
+    "type": "p",
+    "text": "-Ça suffit!",
+    "words": 2
+   },
+   {
+    "id": "c13-p49",
+    "type": "p",
+    "text": "C'est amusant, pensa le petit prince. C'est assez poétique. Mais\nce n'est pas très sérieux.",
+    "words": 15
+   },
+   {
+    "id": "c13-p50",
+    "type": "p",
+    "text": "Le petit prince avait sur les choses sérieuses des idées très\ndifférentes des idées des grandes personnes.",
+    "words": 17
+   },
+   {
+    "id": "c13-p51",
+    "type": "p",
+    "text": "-Moi, dit-il encore, je possède une fleur que j'arrose tous les\njours. Je possède trois volcans que je ramone toutes les semaines.\nCar je ramone aussi celui qui est éteint. On ne sait jamais. C'est\nutile à mes volcans, et c'est utile à ma fleur, que je les possède.\nMais tu n'est pas utile aux étoiles...",
+    "words": 56
+   },
+   {
+    "id": "c13-p52",
+    "type": "p",
+    "text": "Le businessman ouvrit la bouche mais ne trouva rien à répondre,\net le petit prince s'en fut.",
+    "words": 17
+   },
+   {
+    "id": "c13-p53",
+    "type": "p",
+    "text": "Les grandes personnes sont décidément tout à fait\nextraordinaires, se disait-il simplement en lui-même durant le\nvoyage.",
+    "words": 17
+   }
+  ]
+ },
+ {
+  "chapter": 14,
+  "title": "CHAPITRE XIV",
+  "blocks": [
+   {
+    "id": "c14-p01",
+    "type": "p",
+    "text": "La cinquième planète était très curieuse. C'était la plus petite\nde toutes. Il y avait là juste assez de place pour loger un\nréverbère et un allumeur de réverbères. Le petit prince ne\nparvenait pas à s'expliquer à quoi pouvaient servir, quelque part\ndans le ciel, sur une planète sans maison, ni population, un\nréverbère et un allumeur de réverbères. Cependant il se dit en\nlui-même:",
+    "words": 66
+   },
+   {
+    "id": "c14-p02",
+    "type": "p",
+    "text": "- Peut-être bien que cet homme est absurde. Cependant il est\nmoins absurde que le roi, que le vaniteux, que le businessman et\nque le buveur. Au moins son travail a-t-il un sens. Quand il allume\nson réverbère, c'est comme s'il faisait naître une étoile de\nplus, ou une fleur. Quand il éteint son réverbère ça endort la\nfleur ou l'étoile. C'est une occupation très jolie. C'est\nvéritablement utile puisque c'est joli.",
+    "words": 72
+   },
+   {
+    "id": "c14-img1",
+    "type": "illustration",
+    "after": "c14-p02"
+   },
+   {
+    "id": "c14-p03",
+    "type": "p",
+    "text": "Lorsqu'il aborda la planète il salua respectueusement\nl'allumeur:",
+    "words": 8
+   },
+   {
+    "id": "c14-p04",
+    "type": "p",
+    "text": "-Bonjour. Pourquoi viens-tu d'éteindre ton réverbère?",
+    "words": 6
+   },
+   {
+    "id": "c14-p05",
+    "type": "p",
+    "text": "-C'est la consigne, répondit l'allumeur. Bonjour.",
+    "words": 6
+   },
+   {
+    "id": "c14-p06",
+    "type": "p",
+    "text": "-Qu'est-ce que la consigne?",
+    "words": 4
+   },
+   {
+    "id": "c14-p07",
+    "type": "p",
+    "text": "-C'est d'éteindre mon réverbère. Bonsoir.",
+    "words": 5
+   },
+   {
+    "id": "c14-p08",
+    "type": "p",
+    "text": "Et il le ralluma.",
+    "words": 4
+   },
+   {
+    "id": "c14-p09",
+    "type": "p",
+    "text": "-Mais pourquoi viens-tu de rallumer?",
+    "words": 5
+   },
+   {
+    "id": "c14-p10",
+    "type": "p",
+    "text": "-C'est la consigne, répondit l'allumeur.",
+    "words": 5
+   },
+   {
+    "id": "c14-p11",
+    "type": "p",
+    "text": "-Je ne comprends pas, dit le petit prince.",
+    "words": 8
+   },
+   {
+    "id": "c14-p12",
+    "type": "p",
+    "text": "-Il n'y a rien à comprendre, dit l'allumeur. La consigne c'est\nla consigne. Bonjour.",
+    "words": 14
+   },
+   {
+    "id": "c14-p13",
+    "type": "p",
+    "text": "Et il éteignit son réverbère.",
+    "words": 5
+   },
+   {
+    "id": "c14-p14",
+    "type": "p",
+    "text": "Puis il s'épongea le front avec un mouchoir à carreaux\nrouges.",
+    "words": 11
+   },
+   {
+    "id": "c14-p15",
+    "type": "p",
+    "text": "-Je fais là un métier terrible. C'était raisonnable autrefois.\nJ'éteignais le matin et j'allumais le soir. J'avais le reste du\njour pour me reposer, et le reste de la nuit pour dormir...",
+    "words": 32
+   },
+   {
+    "id": "c14-p16",
+    "type": "p",
+    "text": "-Et, depuis cette époque, la consigne à changé?",
+    "words": 8
+   },
+   {
+    "id": "c14-p17",
+    "type": "p",
+    "text": "-La consigne n'a pas changé, dit l'allumeur. C'est bien là le\ndrame! La planète d'année en année a tourné de plus en plus vite,\net la consigne n'a pas changé!",
+    "words": 30
+   },
+   {
+    "id": "c14-p18",
+    "type": "p",
+    "text": "-Alors? dit le petit prince.",
+    "words": 5
+   },
+   {
+    "id": "c14-p19",
+    "type": "p",
+    "text": "-Alors maintenant qu'elle fait un tour par minute, je n'ai plus\nune seconde de repos. J'allume et j'éteins une fois par minute!",
+    "words": 22
+   },
+   {
+    "id": "c14-p20",
+    "type": "p",
+    "text": "-Ça c'est drôle! Les jours chez toi durent une\nminute!",
+    "words": 10
+   },
+   {
+    "id": "c14-p21",
+    "type": "p",
+    "text": "-Ce n'est pas drôle du tout, dit l'allumeur. Ça fait déjà\nun mois que nous parlons ensemble.",
+    "words": 17
+   },
+   {
+    "id": "c14-p22",
+    "type": "p",
+    "text": "-Un mois?",
+    "words": 2
+   },
+   {
+    "id": "c14-p23",
+    "type": "p",
+    "text": "-Oui. Trente minutes. Trente jours! Bonsoir.",
+    "words": 6
+   },
+   {
+    "id": "c14-p24",
+    "type": "p",
+    "text": "Et il ralluma son réverbère.",
+    "words": 5
+   },
+   {
+    "id": "c14-p25",
+    "type": "p",
+    "text": "Le petit prince le regarda et il aima cet allumeur qui était\ntellement fidèle à la consigne. Il se souvint des couchers de\nsoleil que lui-même allait autrefois chercher, en tirant sa chaise.\nIl voulut aider son ami:",
+    "words": 38
+   },
+   {
+    "id": "c14-p26",
+    "type": "p",
+    "text": "-Tu sais...je connais un moyen de te reposer quand tu\nvoudras...",
+    "words": 11
+   },
+   {
+    "id": "c14-p27",
+    "type": "p",
+    "text": "-Je veux toujours, dit l'allumeur.",
+    "words": 5
+   },
+   {
+    "id": "c14-p28",
+    "type": "p",
+    "text": "Car on peut être, à la fois, fidèle et paresseux.",
+    "words": 10
+   },
+   {
+    "id": "c14-p29",
+    "type": "p",
+    "text": "Le petit prince poursuivit:",
+    "words": 4
+   },
+   {
+    "id": "c14-p30",
+    "type": "p",
+    "text": "-Ta planète est tellement petite que tu en fais le tour en trois\nenjambées. Tu n'as qu'à marcher assez lentement pour rester\ntoujours au soleil. Quand tu voudras te reposer tu marcheras... et\nle jour durera aussi longtemps que tu voudras.",
+    "words": 41
+   },
+   {
+    "id": "c14-p31",
+    "type": "p",
+    "text": "-Ça ne m'avance pas à grand-chose, dit l'allumeur. Ce que\nj'aime dans la vie, c'est dormir.",
+    "words": 16
+   },
+   {
+    "id": "c14-p32",
+    "type": "p",
+    "text": "-Ce n'est pas de chance, dit le petit prince.",
+    "words": 9
+   },
+   {
+    "id": "c14-p33",
+    "type": "p",
+    "text": "-Ce n'est pas de chance, dit l'allumeur. Bonjour.",
+    "words": 8
+   },
+   {
+    "id": "c14-p34",
+    "type": "p",
+    "text": "Et il éteignit son réverbère.",
+    "words": 5
+   },
+   {
+    "id": "c14-p35",
+    "type": "p",
+    "text": "Celui-là, se dit le petit prince, tandis qu'il poursuivait plus\nloin son voyage, celui-là serait méprisé par tous les autres, par\nle roi, par le vaniteux, par le buveur, par le businessman.\nCependant c'est le seul qui ne me paraisse pas ridicule. C'est,\npeut-être, parce qu'il s'occupe d'autre chose que de soi-même.",
+    "words": 52
+   },
+   {
+    "id": "c14-p36",
+    "type": "p",
+    "text": "Il eut un soupir de regret et se dit encore:",
+    "words": 10
+   },
+   {
+    "id": "c14-p37",
+    "type": "p",
+    "text": "-Celui-là est le seul dont j'eusse pu faire mon ami. Mais sa\nplanète est vraiment trop petite. Il n'y a pas de place pour\ndeux...",
+    "words": 25
+   },
+   {
+    "id": "c14-p38",
+    "type": "p",
+    "text": "Ce que le petit prince n'osait pas s'avouer, c'est qu'il\nregrettait cette planète bénie à cause, surtout, des mille quatre\ncent quarante couchers de soleil par vingt-quatre heures!",
+    "words": 28
+   }
+  ]
+ },
+ {
+  "chapter": 15,
+  "title": "CHAPITRE XV",
+  "blocks": [
+   {
+    "id": "c15-p01",
+    "type": "p",
+    "text": "La sixième planète était une planète dix fois plus vaste. Elle\nétait habitée par un vieux Monsieur qui écrivait d'énormes\nlivres.",
+    "words": 21
+   },
+   {
+    "id": "c15-img1",
+    "type": "illustration",
+    "after": "c15-p01"
+   },
+   {
+    "id": "c15-p02",
+    "type": "p",
+    "text": "-Tiens! voilà un explorateur! s'écria-t-il, quand il aperçut le\npetit prince.",
+    "words": 11
+   },
+   {
+    "id": "c15-p03",
+    "type": "p",
+    "text": "Le petit prince s'assit sur la table et souffla un peu. Il avait\ndéjà tant voyagé!",
+    "words": 16
+   },
+   {
+    "id": "c15-p04",
+    "type": "p",
+    "text": "-D'où viens-tu? lui dit le vieux Monsieur.",
+    "words": 7
+   },
+   {
+    "id": "c15-p05",
+    "type": "p",
+    "text": "-Quel est ce gros livre? dit le petit prince. Que faites-vous\nici?",
+    "words": 12
+   },
+   {
+    "id": "c15-p06",
+    "type": "p",
+    "text": "-Je suis géographe, dit le vieux Monsieur.",
+    "words": 7
+   },
+   {
+    "id": "c15-p07",
+    "type": "p",
+    "text": "-Qu'est-ce qu'un géographe?",
+    "words": 3
+   },
+   {
+    "id": "c15-p08",
+    "type": "p",
+    "text": "-C'est un savant qui connaît où se trouvent les mers, les\nfleuves, les villes, les montagnes et les déserts.",
+    "words": 19
+   },
+   {
+    "id": "c15-p09",
+    "type": "p",
+    "text": "-Ça c'est bien intéressant, dit le petit prince.\nÇa c'est enfin un véritable métier! Et il jeta un coup\nd'oeil autour de lui sur la planète du géographe. Il n'avait jamais\nvu encore une planète aussi majestueuse.",
+    "words": 37
+   },
+   {
+    "id": "c15-p10",
+    "type": "p",
+    "text": "-Elle est bien belle, votre planète. Est-ce qu'il y a des\nocéans?",
+    "words": 12
+   },
+   {
+    "id": "c15-p11",
+    "type": "p",
+    "text": "-Je ne puis pas le savoir, dit le géographe.",
+    "words": 9
+   },
+   {
+    "id": "c15-p12",
+    "type": "p",
+    "text": "-Ah! (Le petit prince était déçu.) Et des montagnes?",
+    "words": 9
+   },
+   {
+    "id": "c15-p13",
+    "type": "p",
+    "text": "-Je ne puis pas le savoir, dit le géographe.",
+    "words": 9
+   },
+   {
+    "id": "c15-p14",
+    "type": "p",
+    "text": "-Et des villes et des fleuves et des déserts?",
+    "words": 9
+   },
+   {
+    "id": "c15-p15",
+    "type": "p",
+    "text": "-Je ne puis pas le savoir non plus, dit le géographe.",
+    "words": 11
+   },
+   {
+    "id": "c15-p16",
+    "type": "p",
+    "text": "-Mais vous êtes géographe!",
+    "words": 4
+   },
+   {
+    "id": "c15-p17",
+    "type": "p",
+    "text": "-C'est exact, dit le géographe, mais je ne suis pas explorateur.\nJe manque absolument d'explorateurs. Ce n'est pas le géographe qui\nva faire le compte des villes, des fleuves, des montagnes, des\nmers, des océans et des déserts. Le géographe est trop important\npour flâner. Il ne quitte pas son bureau. Mais il y reçoit les\nexplorateurs. Il les interroge, et il prend en note leurs\nsouvenirs. Et si les souvenirs de l'un d'entre eux lui paraissent\nintéressants, le géographe fait une enquête sur la moralité de\nl'explorateur.",
+    "words": 88
+   },
+   {
+    "id": "c15-p18",
+    "type": "p",
+    "text": "-Pourquoi ça?",
+    "words": 2
+   },
+   {
+    "id": "c15-p19",
+    "type": "p",
+    "text": "-Parce qu'un explorateur qui mentirait entraînerait des\ncatastrophes dans les livres de géographie. Et aussi un explorateur\nqui boirait trop.",
+    "words": 20
+   },
+   {
+    "id": "c15-p20",
+    "type": "p",
+    "text": "-Pourquoi ça? fit le petit prince.",
+    "words": 6
+   },
+   {
+    "id": "c15-p21",
+    "type": "p",
+    "text": "-Parce que les ivrognes voient double. Alors le géographe\nnoterait deux montagnes, là où il n'y en a qu'un seule.",
+    "words": 20
+   },
+   {
+    "id": "c15-p22",
+    "type": "p",
+    "text": "-Je connais quelqu'un, dit le petit prince, qui serait mauvais\nexplorateur.",
+    "words": 11
+   },
+   {
+    "id": "c15-p23",
+    "type": "p",
+    "text": "-C'est possible. Donc, quand la moralité de l'explorateur\nparaît bonne, on fait faire une enquête sur sa\ndécouverte.",
+    "words": 18
+   },
+   {
+    "id": "c15-p24",
+    "type": "p",
+    "text": "-On va voir?",
+    "words": 3
+   },
+   {
+    "id": "c15-p25",
+    "type": "p",
+    "text": "-Non. C'est trop compliqué. Mais on exige de l'explorateur qu'il\nfournisse de preuves. Si'il s'agit par example de la découverte\nd'une grosse montagne, on exige qu'il en rapporte de grosses\npierres.",
+    "words": 31
+   },
+   {
+    "id": "c15-p26",
+    "type": "p",
+    "text": "Le géographe soudain s'émut.",
+    "words": 4
+   },
+   {
+    "id": "c15-p27",
+    "type": "p",
+    "text": "-Mais toi, tu viens de loin! Tu es explorateur! Tu vas me\ndécrire ta planète!",
+    "words": 15
+   },
+   {
+    "id": "c15-p28",
+    "type": "p",
+    "text": "Et le géographe, ayant ouvert son registre, tailla son crayon.\nOn note d'abord au crayon les récits des explorateurs. On attend,\npour noter à l'encre, que l'explorateur ait fourni des preuves.",
+    "words": 31
+   },
+   {
+    "id": "c15-p29",
+    "type": "p",
+    "text": "-Alors? interrogea le géographe.",
+    "words": 4
+   },
+   {
+    "id": "c15-p30",
+    "type": "p",
+    "text": "-Oh! chez moi, dit le petit prince, ce n'est pas très\nintéressant, c'est tout petit. J'ai trois volcans. Deux volcans en\nactivité, et un volcan éteint. Mais on ne sait jamais.",
+    "words": 31
+   },
+   {
+    "id": "c15-p31",
+    "type": "p",
+    "text": "-On ne sait jamais, dit le géographe.",
+    "words": 7
+   },
+   {
+    "id": "c15-p32",
+    "type": "p",
+    "text": "-J'ai aussi une fleur.",
+    "words": 4
+   },
+   {
+    "id": "c15-p33",
+    "type": "p",
+    "text": "-Nous ne notons pas les fleurs, dit le géographe.",
+    "words": 9
+   },
+   {
+    "id": "c15-p34",
+    "type": "p",
+    "text": "-Pourquoi ça! c'est le plus joli!",
+    "words": 6
+   },
+   {
+    "id": "c15-p35",
+    "type": "p",
+    "text": "-Parce que les fleurs sont éphémères.",
+    "words": 6
+   },
+   {
+    "id": "c15-p36",
+    "type": "p",
+    "text": "-Qu'est ce que signifie: \"éphémère\"?",
+    "words": 5
+   },
+   {
+    "id": "c15-p37",
+    "type": "p",
+    "text": "-Les géographies, dit le géographe, sont les livres les plus\nsérieux de tous les livres. Elles ne se démodent jamais. Il est\ntres rare qu'une montagne change de place. Il est très rare qu'un\nocéan se vide de son eau. Nous écrivons des choses éternelles.",
+    "words": 45
+   },
+   {
+    "id": "c15-p38",
+    "type": "p",
+    "text": "-Mais les volcans éteints peuvent se réveiller, interrompit le\npetit prince. Qu'est -ce que signifie \"éphémère\"?",
+    "words": 16
+   },
+   {
+    "id": "c15-p39",
+    "type": "p",
+    "text": "-Que les volcans soient éteints ou soient éveillés, ça revient\nau même pour nous autres, dit le géographe. Ce qui compte pour\nnous, c'est la montagne. Elle ne change pas.",
+    "words": 30
+   },
+   {
+    "id": "c15-p40",
+    "type": "p",
+    "text": "-Mais qu'est-ce que signifie \"éphémère\"? répéta le petit prince\nqui, de sa vie, n'avait renoncé à une question, une fois qu'il\nl'avait posée.",
+    "words": 23
+   },
+   {
+    "id": "c15-p41",
+    "type": "p",
+    "text": "-Ça signifie \"qui est menacé de disparition\nprochaine\".",
+    "words": 8
+   },
+   {
+    "id": "c15-p42",
+    "type": "p",
+    "text": "-Ma fleur est menacée de disparition prochaine?",
+    "words": 7
+   },
+   {
+    "id": "c15-p43",
+    "type": "p",
+    "text": "-Bien sûr.",
+    "words": 2
+   },
+   {
+    "id": "c15-p44",
+    "type": "p",
+    "text": "Ma fleur est éphémère, se dit le petit prince, et elle n'a que\nquatre épines pour se défendre contre le monde! Et je l'ai laissée\ntoute seule chez moi!",
+    "words": 29
+   },
+   {
+    "id": "c15-p45",
+    "type": "p",
+    "text": "Ce fut là son premier mouvement de regret. Mais il reprit\ncourage:",
+    "words": 12
+   },
+   {
+    "id": "c15-p46",
+    "type": "p",
+    "text": "-Que me conseillez-vous d'aller visiter? demanda-t-il.",
+    "words": 6
+   },
+   {
+    "id": "c15-p47",
+    "type": "p",
+    "text": "-La planète Terre, lui répondit le géographe. Elle a une bonne\nréputation...",
+    "words": 12
+   },
+   {
+    "id": "c15-p48",
+    "type": "p",
+    "text": "Et le petit prince s'en fut, songeant à sa fleur.",
+    "words": 10
+   }
+  ]
+ },
+ {
+  "chapter": 16,
+  "title": "CHAPITRE XVI",
+  "blocks": [
+   {
+    "id": "c16-p01",
+    "type": "p",
+    "text": "La septième planète fut donc la Terre.",
+    "words": 7
+   },
+   {
+    "id": "c16-p02",
+    "type": "p",
+    "text": "La Terre n'est pas une planète quelconque! On y compte cent onze\nrois (en n'oubliant pas, bien sûr, les rois nègres), sept\nmille géographes, neuf cent mille businessmen, sept millions et\ndemi d'ivrognes, trois cent onze millions de vaniteux, c'est-àdire\nenviron deux milliards de grandes personnes.",
+    "words": 46
+   },
+   {
+    "id": "c16-p03",
+    "type": "p",
+    "text": "Pour vous donner une idée des dimensions de la Terre je vous\ndirai qu'avant l'invention de l'électricité on y devait entretenir,\nsur l'ensemble des six continents, une véritable armée de quatre\ncent soixante-deux mille cinq cent onze allumeurs de\nréverbères.",
+    "words": 40
+   },
+   {
+    "id": "c16-p04",
+    "type": "p",
+    "text": "Vu d'un peu loin ça faisait un effet splendide. Les mouvements\nde cette armée étaient réglés comme ceux d'un ballet d'opéra.\nD'abord venait le tour des allumeurs de réverbères de\nNouvelle-Zélande et d'Australie. Puis ceux-ci, ayant allumé leurs\nlampions, s'en allaient dormir. Alors entraient à leur tour dans la\ndanse les allumeurs de réverbères de Chine et de Sibérie. Puis eux\naussi s'escamotaient dans les coulisses. Alors venait le tour des\nallumeurs de réverbères de Russie et des Indes. Puis de ceux\nd'Afrique et d'Europe. Puis de ceux d'Amérique de Sud. Puis de ceux\nd'Amérique de Nord. Et jamais ils ne se trompaient dans leur ordre\nd'entrée en scène. C'était grandiose.",
+    "words": 111
+   },
+   {
+    "id": "c16-p05",
+    "type": "p",
+    "text": "Seuls, l'allumeur de l'unique réverbère de pôle Nord, et son\nconfrère de l'unique réverbère du pôle Sud, menaient des vies\nd'oisiveté et de nonchalance: ils travaillaient deux fois par\nan.",
+    "words": 30
+   }
+  ]
+ },
+ {
+  "chapter": 17,
+  "title": "CHAPITRE XVII",
+  "blocks": [
+   {
+    "id": "c17-p01",
+    "type": "p",
+    "text": "Quand on veut faire de l'esprit, il arrive que l'on mente un\npeu. Je n'ai pas été très honnête en vous parlant des allumeurs de\nréverbères. Je risque de donner une fausse idée de notre planète à\nceux qui ne la connaissent pas. Les hommes occupent très peu de\nplace sur la Terre. Si les deux milliards d'habitants qui peuplent\nla Terre se tenaient debout et un peu serrés, comme pour un\nmeeting, ils logeraient aisément sur une place publique de vingt\nmilles de long sur vingt milles de large. On pourrait entasser\nl'humanité sur le moindre petit îlot du Pacifique.",
+    "words": 101
+   },
+   {
+    "id": "c17-p02",
+    "type": "p",
+    "text": "Les grandes personnes, bien sûr, ne vous croiront pas.\nElles s'imaginent tenir beaucoup de place. Elles se voient\nimportantes comme des baobabs. Vous leur conseillerez donc de faire\nle calcul. Elles adorent les chiffres: ça leur plaira. Mais ne\nperdez pas votre temps à ce pensum. C'est inutile. Vous avez\nconfiance en moi.",
+    "words": 53
+   },
+   {
+    "id": "c17-img1",
+    "type": "illustration",
+    "after": "c17-p02"
+   },
+   {
+    "id": "c17-p03",
+    "type": "p",
+    "text": "Le petit prince, une fois sur Terre, fut donc bien surpris de ne\nvoir personne. Il avait déjà peur de s'être trompé de planète,\nquand un anneau couleur de lune remua dans le sable.",
+    "words": 34
+   },
+   {
+    "id": "c17-p04",
+    "type": "p",
+    "text": "-Bonne nuit, fit le petit prince à tout hasard.",
+    "words": 9
+   },
+   {
+    "id": "c17-p05",
+    "type": "p",
+    "text": "-Bonne nuit, fit le serpent.",
+    "words": 5
+   },
+   {
+    "id": "c17-p06",
+    "type": "p",
+    "text": "-Sur quelle planète suis-je tombé? demanda le petit prince.",
+    "words": 9
+   },
+   {
+    "id": "c17-p07",
+    "type": "p",
+    "text": "-Sur la Terre, en Afrique, répondit le serpent.",
+    "words": 8
+   },
+   {
+    "id": "c17-p08",
+    "type": "p",
+    "text": "-Ah!...Il n'y a donc personne sur la Terre?",
+    "words": 8
+   },
+   {
+    "id": "c17-p09",
+    "type": "p",
+    "text": "-Ici c'est le désert. Il n'y a personne dans les déserts. La\nTerre est grande, dit le serpent.",
+    "words": 18
+   },
+   {
+    "id": "c17-p10",
+    "type": "p",
+    "text": "Le petit prince s'assit sur une pierre et leva les yeux vers le\nciel:",
+    "words": 14
+   },
+   {
+    "id": "c17-p11",
+    "type": "p",
+    "text": "-Je me demande, dit-il, si les étoiles sont éclairées afin que\nchacun puisse un jour retrouver la sienne. Regarde ma planète. Elle\nest juste au-dessus de nous... Mais comme elle est loin!",
+    "words": 32
+   },
+   {
+    "id": "c17-p12",
+    "type": "p",
+    "text": "-Elle est belle, dit le serpent. Que viens-tu faire ici?",
+    "words": 10
+   },
+   {
+    "id": "c17-p13",
+    "type": "p",
+    "text": "-J'ai des difficultés avec une fleur, dit le petit prince.",
+    "words": 10
+   },
+   {
+    "id": "c17-p14",
+    "type": "p",
+    "text": "-Ah! fit le serpent.",
+    "words": 4
+   },
+   {
+    "id": "c17-p15",
+    "type": "p",
+    "text": "Et ils se turent.",
+    "words": 4
+   },
+   {
+    "id": "c17-p16",
+    "type": "p",
+    "text": "-Où sont les hommes? reprit enfin le petit prince. On est un peu\nseul dans le désert...",
+    "words": 17
+   },
+   {
+    "id": "c17-p17",
+    "type": "p",
+    "text": "-On est seul aussi chez les hommes, dit le serpent.",
+    "words": 10
+   },
+   {
+    "id": "c17-p18",
+    "type": "p",
+    "text": "Le petit prince le regarda longtemps:",
+    "words": 6
+   },
+   {
+    "id": "c17-img2",
+    "type": "illustration",
+    "after": "c17-p18"
+   },
+   {
+    "id": "c17-p19",
+    "type": "p",
+    "text": "-Tu es une drôle de bête, lui dit-il enfin, mince comme un\ndoigt...",
+    "words": 13
+   },
+   {
+    "id": "c17-p20",
+    "type": "p",
+    "text": "-Mais je suis plus puissant que le doigt d'un roi, dit le\nserpent.",
+    "words": 13
+   },
+   {
+    "id": "c17-p21",
+    "type": "p",
+    "text": "Le petit prince eut un sourire:",
+    "words": 6
+   },
+   {
+    "id": "c17-p22",
+    "type": "p",
+    "text": "-Tu n'es pas bien puissant...tu n'as même pas de pattes... tu ne\npeux même pas voyager...",
+    "words": 16
+   },
+   {
+    "id": "c17-p23",
+    "type": "p",
+    "text": "-Je puis t'emporter plus loin qu'un navire, dit le serpent.",
+    "words": 10
+   },
+   {
+    "id": "c17-p24",
+    "type": "p",
+    "text": "Il s'enroula autour de la cheville du petit prince, comme un\nbracelet d'or:",
+    "words": 13
+   },
+   {
+    "id": "c17-p25",
+    "type": "p",
+    "text": "-Celui que je touche, je rends à la terre dont il est sorti,\ndit-il encore. Mais tu es pur et tu viens d'une étoile...",
+    "words": 24
+   },
+   {
+    "id": "c17-p26",
+    "type": "p",
+    "text": "Le petit prince ne répondit rien.",
+    "words": 6
+   },
+   {
+    "id": "c17-p27",
+    "type": "p",
+    "text": "-Tu me fais pitié, toi si faible, sur cette Terre de granit. Je\npuis t'aider un jour si tu regrettes trop ta planète. Je\npuis...",
+    "words": 25
+   },
+   {
+    "id": "c17-p28",
+    "type": "p",
+    "text": "-Oh! J'ai très bien compris, fit le petit prince, mais pourquoi\nparles-tu toujours par énigmes?",
+    "words": 15
+   },
+   {
+    "id": "c17-p29",
+    "type": "p",
+    "text": "-Je les résous toutes, dit le serpent.",
+    "words": 7
+   },
+   {
+    "id": "c17-p30",
+    "type": "p",
+    "text": "Et ils se turent.",
+    "words": 4
+   }
+  ]
+ },
+ {
+  "chapter": 18,
+  "title": "CHAPITRE XVIII",
+  "blocks": [
+   {
+    "id": "c18-p01",
+    "type": "p",
+    "text": "Le petit prince traversa le désert et ne rencontra qu'une fleur.\nUne fleur à trois pétales, une fleur de rien du tout...",
+    "words": 22
+   },
+   {
+    "id": "c18-p02",
+    "type": "p",
+    "text": "-Bonjour, dit le petit prince.",
+    "words": 5
+   },
+   {
+    "id": "c18-p03",
+    "type": "p",
+    "text": "-Bonjour, dit la fleur.",
+    "words": 4
+   },
+   {
+    "id": "c18-p04",
+    "type": "p",
+    "text": "-Où sont les hommes? demanda poliment le petit prince.",
+    "words": 9
+   },
+   {
+    "id": "c18-p05",
+    "type": "p",
+    "text": "La fleur, un jour, avait vu passer une caravane:",
+    "words": 9
+   },
+   {
+    "id": "c18-img1",
+    "type": "illustration",
+    "after": "c18-p05"
+   },
+   {
+    "id": "c18-p06",
+    "type": "p",
+    "text": "-Les hommes? Il en existe, je crois, six ou sept. Je les ai\naperçus il y a des années. Mais on ne sait jamais où les trouver.\nLe vent les promène. Ils manquent de racines, ça les gêne\nbeaucoup.",
+    "words": 39
+   },
+   {
+    "id": "c18-p07",
+    "type": "p",
+    "text": "-Adieu, fit le petit prince.",
+    "words": 5
+   },
+   {
+    "id": "c18-p08",
+    "type": "p",
+    "text": "-Adieu, dit la fleur.",
+    "words": 4
+   }
+  ]
+ },
+ {
+  "chapter": 19,
+  "title": "CHAPITRE XIX",
+  "blocks": [
+   {
+    "id": "c19-p01",
+    "type": "p",
+    "text": "Le petit prince fit l'ascension d'une haute montagne. Les seules\nmontagnes qu'il eût jamais connues étaient les trois volcans\nqui lui arrivaient au genou. Et il se servait du volcan éteint\ncomme d'un tabouret. \"D'une montagne haute comme celle-ci, se\ndit-il donc, j'apercevrai d'un coup toute la planète et tous les\nhommes...\" Mais il n'aperçut rien que des aiguilles de roc bien\naiguisées.",
+    "words": 63
+   },
+   {
+    "id": "c19-p02",
+    "type": "p",
+    "text": "-Bonjour, dit-il à tout hasard.",
+    "words": 5
+   },
+   {
+    "id": "c19-p03",
+    "type": "p",
+    "text": "-Bonjour...Bonjour...Bonjour...répondit l'écho.",
+    "words": 2
+   },
+   {
+    "id": "c19-p04",
+    "type": "p",
+    "text": "-Qui êtes-vous? dit le petit prince.",
+    "words": 6
+   },
+   {
+    "id": "c19-p05",
+    "type": "p",
+    "text": "-Qui êtes-vous...qui êtes-vous...qui êtes-vous...répondit\nl'écho.",
+    "words": 5
+   },
+   {
+    "id": "c19-p06",
+    "type": "p",
+    "text": "-Soyez mes amis, je suis seul, dit-il.",
+    "words": 7
+   },
+   {
+    "id": "c19-p07",
+    "type": "p",
+    "text": "-Je suis seul...je suis seul...Je suis seul...répondit\nl'écho.",
+    "words": 8
+   },
+   {
+    "id": "c19-p08",
+    "type": "p",
+    "text": "\"Quelle drôle de planète! pensa-t-il alors. Elle est toute\nsèche, et toute pointue et toute salée.",
+    "words": 16
+   },
+   {
+    "id": "c19-img1",
+    "type": "illustration",
+    "after": "c19-p08"
+   },
+   {
+    "id": "c19-p09",
+    "type": "p",
+    "text": "Et les hommes manquent d'imagination. Ils répètent ce qu'on leur\ndit...Chez moi j'avais une fleur: elle parlait toujours la\npremière...\"",
+    "words": 20
+   }
+  ]
+ },
+ {
+  "chapter": 20,
+  "title": "CHAPITRE XX",
+  "blocks": [
+   {
+    "id": "c20-p01",
+    "type": "p",
+    "text": "Mais il arriva que le petit prince, ayant longtemps marché à\ntravers les sables, les rocs et les neiges, découvrit enfin une\nroute. Et les routes vont toutes chez les hommes.",
+    "words": 31
+   },
+   {
+    "id": "c20-p02",
+    "type": "p",
+    "text": "-Bonjour, dit-il.",
+    "words": 2
+   },
+   {
+    "id": "c20-p03",
+    "type": "p",
+    "text": "C'était un jardin fleuri de roses.",
+    "words": 6
+   },
+   {
+    "id": "c20-p04",
+    "type": "p",
+    "text": "-Bonjour, dirent les roses.",
+    "words": 4
+   },
+   {
+    "id": "c20-p05",
+    "type": "p",
+    "text": "Le petit prince les regarda. Elles ressemblaient toutes à sa\nfleur.",
+    "words": 11
+   },
+   {
+    "id": "c20-img1",
+    "type": "illustration",
+    "after": "c20-p05"
+   },
+   {
+    "id": "c20-p06",
+    "type": "p",
+    "text": "-Qui êtes-vous? leur demanda-t-il, stupéfait.",
+    "words": 5
+   },
+   {
+    "id": "c20-p07",
+    "type": "p",
+    "text": "-Nous sommes des roses, dirent les roses.",
+    "words": 7
+   },
+   {
+    "id": "c20-p08",
+    "type": "p",
+    "text": "-Ah! fit le petit prince...",
+    "words": 5
+   },
+   {
+    "id": "c20-p09",
+    "type": "p",
+    "text": "Et il se sentit très malheureux. Sa fleur lui avait raconté\nqu'elle était seule de son espèce dans l'univers. Et voici qu'il en\nétait cinq mille, toutes semblables, dans un seul jardin!",
+    "words": 32
+   },
+   {
+    "id": "c20-p10",
+    "type": "p",
+    "text": "\"Elle serait bien vexée, se dit-il, si elle voyait ça...elle\ntousserait énormément et ferait semblant de mourir pour échapper au\nridicule. Et je serais bien obligé de faire semblant de la soigner,\ncar, sinon, pour m'humilier moi aussi, elle se laisserait vraiment\nmourir...\"",
+    "words": 43
+   },
+   {
+    "id": "c20-p11",
+    "type": "p",
+    "text": "Puis il se dit encore: \"Je me croyais riche d'une fleur unique,\net je ne possède qu'une rose ordinaire. Ça et mes trois\nvolcans qui m'arrivent au genou, et dont l'un, peut-être, est\néteint pour toujours, ça ne fait pas de moi un bien grand\nprince...\" Et, couché dans l'herbe, il pleura.",
+    "words": 52
+   }
+  ]
+ },
+ {
+  "chapter": 21,
+  "title": "CHAPITRE XXI",
+  "blocks": [
+   {
+    "id": "c21-p01",
+    "type": "p",
+    "text": "C'est alors qu'apparut le renard.",
+    "words": 5
+   },
+   {
+    "id": "c21-p02",
+    "type": "p",
+    "text": "-Bonjour, dit le renard.",
+    "words": 4
+   },
+   {
+    "id": "c21-p03",
+    "type": "p",
+    "text": "-Bonjour, répondit poliment le petit prince, qui se retourna\nmais ne vit rien.",
+    "words": 13
+   },
+   {
+    "id": "c21-img1",
+    "type": "illustration",
+    "after": "c21-p03"
+   },
+   {
+    "id": "c21-p04",
+    "type": "p",
+    "text": "-Qui es-tu? dit le petit prince. Tu es bien joli...",
+    "words": 10
+   },
+   {
+    "id": "c21-p05",
+    "type": "p",
+    "text": "-Je suis un renard, dit le renard.",
+    "words": 7
+   },
+   {
+    "id": "c21-p06",
+    "type": "p",
+    "text": "-Viens jouer avec moi, lui proposa le petit prince. Je suis\ntellement triste...",
+    "words": 13
+   },
+   {
+    "id": "c21-p07",
+    "type": "p",
+    "text": "-Je ne puis pas jouer avec toi, dit le renard. Je ne suis pas\napprivoisé.",
+    "words": 15
+   },
+   {
+    "id": "c21-p08",
+    "type": "p",
+    "text": "-Ah! Pardon, fit le petit prince.",
+    "words": 6
+   },
+   {
+    "id": "c21-p09",
+    "type": "p",
+    "text": "Mais après réflexion, il ajouta:",
+    "words": 5
+   },
+   {
+    "id": "c21-p10",
+    "type": "p",
+    "text": "-Qu'est-ce que signifie \"apprivoiser\"?",
+    "words": 4
+   },
+   {
+    "id": "c21-p11",
+    "type": "p",
+    "text": "-Tu n'es pas d'ici, dit le renard, que cherches-tu?",
+    "words": 9
+   },
+   {
+    "id": "c21-p12",
+    "type": "p",
+    "text": "-Je cherche les hommes, dit le petit prince. Qu'est-ce que signifie\n\"apprivoiser\"?",
+    "words": 12
+   },
+   {
+    "id": "c21-p13",
+    "type": "p",
+    "text": "-Les hommes, dit le renard, ils ont des fusils et ils chassent.\nC'est bien gênant! Ils élèvent aussi des poules. C'est leur seul\nintérêt. Tu cherches des poules?",
+    "words": 28
+   },
+   {
+    "id": "c21-img2",
+    "type": "illustration",
+    "after": "c21-p13"
+   },
+   {
+    "id": "c21-p14",
+    "type": "p",
+    "text": "-Non, dit le petit prince. Je cherche des amis. Qu'est-ce que\nsignifie \"apprivoiser\"?",
+    "words": 13
+   },
+   {
+    "id": "c21-p15",
+    "type": "p",
+    "text": "-C'est une chose trop oubliée, dit le renard. Ça signifie\n\"Créer des liens...\"",
+    "words": 13
+   },
+   {
+    "id": "c21-p16",
+    "type": "p",
+    "text": "-Créer des liens?",
+    "words": 3
+   },
+   {
+    "id": "c21-p17",
+    "type": "p",
+    "text": "-Bien sûr, dit le renard. Tu n'es encore pour moi qu'un petit\ngarçon tout semblable à cent mille petits garçons. Et je n'ai pas\nbesoin de toi. Et tu n'a pas besoin de moi non plus. Je ne suis\npour toi qu'un renard semblable à cent mille renards. Mais, si tu\nm'apprivoises, nous aurons besoin l'un de l'autre. Tu seras pour\nmoi unique au monde. Je serai pour toi unique au monde...",
+    "words": 72
+   },
+   {
+    "id": "c21-p18",
+    "type": "p",
+    "text": "-Je commence à comprendre, dit le petit prince. Il y a une\nfleur...je crois qu'elle m'a apprivoisé...",
+    "words": 17
+   },
+   {
+    "id": "c21-p19",
+    "type": "p",
+    "text": "-C'est possible, dit le renard. On voit sur la Terre toutes sortes\nde choses...",
+    "words": 14
+   },
+   {
+    "id": "c21-p20",
+    "type": "p",
+    "text": "-Oh! ce n'est pas sur la Terre, dit le petit prince. Le renard\nparut très intrigué:",
+    "words": 16
+   },
+   {
+    "id": "c21-p21",
+    "type": "p",
+    "text": "-Sur une autre planète ?",
+    "words": 5
+   },
+   {
+    "id": "c21-p22",
+    "type": "p",
+    "text": "-Oui.",
+    "words": 1
+   },
+   {
+    "id": "c21-p23",
+    "type": "p",
+    "text": "-Il y a des chasseurs sur cette planète-là ?",
+    "words": 9
+   },
+   {
+    "id": "c21-p24",
+    "type": "p",
+    "text": "-Non.",
+    "words": 1
+   },
+   {
+    "id": "c21-p25",
+    "type": "p",
+    "text": "-Ça, c'est intéressant! Et des poules ?",
+    "words": 7
+   },
+   {
+    "id": "c21-p26",
+    "type": "p",
+    "text": "-Non.",
+    "words": 1
+   },
+   {
+    "id": "c21-p27",
+    "type": "p",
+    "text": "-Rien n'est parfait, soupira le renard.",
+    "words": 6
+   },
+   {
+    "id": "c21-p28",
+    "type": "p",
+    "text": "Mais le renard revint à son idée:",
+    "words": 7
+   },
+   {
+    "id": "c21-p29",
+    "type": "p",
+    "text": "-Ma vie est monotone. Je chasse les poules, les hommes me chassent.\nToutes les poules se ressemblent, et tous les hommes se\nressemblent. Je m'ennuie donc un peu. Mais si tu m'apprivoises, ma\nvie sera comme ensoleillée. Je connaîtrai un bruit de pas qui\nsera différent de tous les autres. Les autres pas me font rentrer\nsous terre. Le tien m'appellera hors du terrier, comme une musique.\nEt puis regarde! Tu vois, là-bas, les champs de blé? Je ne mange\npas de pain. Le blé pour moi est inutile. Les champs de blé ne me\nrappellent rien. Et ça, c'est triste! Mais tu as des cheveux\ncouleur d'or. Alors ce sera merveilleux quand tu m'aura apprivoisé!\nLe blé, qui est doré, me fera souvenir de toi. Et j'aimerai le\nbruit du vent dans le blé...",
+    "words": 135
+   },
+   {
+    "id": "c21-p30",
+    "type": "p",
+    "text": "Le renard se tut et regarda longtemps le petit prince:",
+    "words": 10
+   },
+   {
+    "id": "c21-p31",
+    "type": "p",
+    "text": "-S'il te plaît...apprivoise-moi! dit-il.",
+    "words": 4
+   },
+   {
+    "id": "c21-p32",
+    "type": "p",
+    "text": "-Je veux bien, répondit le petit prince, mais je n'ai pas beaucoup\nde temps. J'ai des amis à découvrir et beaucoup de choses à\nconnaître.",
+    "words": 25
+   },
+   {
+    "id": "c21-p33",
+    "type": "p",
+    "text": "-On ne connaît que les choses que l'on apprivoise, dit le\nrenard. Les hommes n'ont plus le temps de rien connaître. Ils\nachètent des choses toutes faites chez les marchands. Mais comme il\nn'existe point de marchands d'amis, les hommes n'ont plus d'amis.\nSi tu veux un ami, apprivoise-moi!",
+    "words": 49
+   },
+   {
+    "id": "c21-p34",
+    "type": "p",
+    "text": "-Que faut-il faire? dit le petit prince.",
+    "words": 7
+   },
+   {
+    "id": "c21-p35",
+    "type": "p",
+    "text": "-Il faut être très patient, répondit le renard. Tu t'assoiras\nd'abord un peu loin de moi, comme ça, dans l'herbe. Je te\nregarderai du coin de l'oeil et tu ne diras rien. Le langage est\nsource de malentendus. Mais, chaque jour, tu pourras t'asseoir un\npeu plus près...",
+    "words": 48
+   },
+   {
+    "id": "c21-p36",
+    "type": "p",
+    "text": "Le lendemain revint le petit prince.",
+    "words": 6
+   },
+   {
+    "id": "c21-img3",
+    "type": "illustration",
+    "after": "c21-p36"
+   },
+   {
+    "id": "c21-p37",
+    "type": "p",
+    "text": "-Il eût mieux valu revenir à la même heure, dit le renard.\nSi tu viens, par exemple, à quatre heures de l'après-midi, dès\ntrois heures je commencerai d'être heureux. Plus l'heure avancera,\nplus je me sentirai heureux. à quatre heures, déjà, je m'agiterai\net m'inquiéterai; je découvrira le prix du bonheur! Mais si tu\nviens n'importe quand, je ne saurai jamais à quelle heure\nm'habiller le coeur...il faut des rites.",
+    "words": 70
+   },
+   {
+    "id": "c21-p38",
+    "type": "p",
+    "text": "-Qu'est-ce qu'un rite? dit le petit prince.",
+    "words": 7
+   },
+   {
+    "id": "c21-p39",
+    "type": "p",
+    "text": "-C'est aussi quelque chose de trop oublié, dit le renard. C'est ce\nqui fait qu'un jour est différent des autres jours, une heure, des\nautres heures. Il y a un rite, par exemple, chez mes chasseurs. Ils\ndansent le jeudi avec les filles du village. Alors le jeudi est\njour merveilleux! Je vais me promener jusqu'à la vigne. Si les\nchasseurs dansaient n'importe quand, les jours se ressembleraient\ntous, et je n'aurais point de vacances.",
+    "words": 75
+   },
+   {
+    "id": "c21-p40",
+    "type": "p",
+    "text": "Ainsi le petit prince apprivoisa le renard. Et quand l'heure du\ndépart fut proche:",
+    "words": 14
+   },
+   {
+    "id": "c21-p41",
+    "type": "p",
+    "text": "-Ah! dit le renard...je pleurerai.",
+    "words": 5
+   },
+   {
+    "id": "c21-p42",
+    "type": "p",
+    "text": "-C'est ta faute, dit le petit prince, je ne te souhaitais point de\nmal, mais tu as voulu que je t'apprivoise...",
+    "words": 21
+   },
+   {
+    "id": "c21-p43",
+    "type": "p",
+    "text": "-Bien sûr, dit le renard.",
+    "words": 5
+   },
+   {
+    "id": "c21-p44",
+    "type": "p",
+    "text": "-Mais tu vas pleurer! dit le petit prince.",
+    "words": 8
+   },
+   {
+    "id": "c21-p45",
+    "type": "p",
+    "text": "-Bien sûr, dit le renard.",
+    "words": 5
+   },
+   {
+    "id": "c21-p46",
+    "type": "p",
+    "text": "-Alors tu n'y gagnes rien!",
+    "words": 5
+   },
+   {
+    "id": "c21-p47",
+    "type": "p",
+    "text": "-J'y gagne, dit le renard, à cause de la couleur du blé.",
+    "words": 12
+   },
+   {
+    "id": "c21-p48",
+    "type": "p",
+    "text": "Puis il ajouta:",
+    "words": 3
+   },
+   {
+    "id": "c21-p49",
+    "type": "p",
+    "text": "-Va revoir les roses. Tu comprendras que la tienne est unique au\nmonde. Tu reviendras me dire adieu, et je te ferai cadeau d'un\nsecret.",
+    "words": 25
+   },
+   {
+    "id": "c21-p50",
+    "type": "p",
+    "text": "Le petit prince s'en fut revoir les roses.",
+    "words": 8
+   },
+   {
+    "id": "c21-p51",
+    "type": "p",
+    "text": "-Vous n'êtes pas du tout semblables à ma rose, vous n'êtes rien\nencore, leur dit-il. Personne ne vous a apprivoisé et vous n'avez\napprivoisé personne. Vous êtes comme était mon renard. Ce n'était\nqu'un renard semblable à cent mille autres. Mais j'en ai fait mon\nami, et il est maintenant unique au monde.",
+    "words": 53
+   },
+   {
+    "id": "c21-p52",
+    "type": "p",
+    "text": "Et les roses étaient gênées.",
+    "words": 5
+   },
+   {
+    "id": "c21-p53",
+    "type": "p",
+    "text": "-Vous êtes belles, mais vous êtes vides, leur dit-il encore. On ne\npeut pas mourir pour vous. Bien sûr, ma rose à moi, un\npassant ordinaire croirait qu'elle vous ressemble. Mais à elle\nseule elle est plus importante que vous toutes, puisque c'est elle\nque j'ai arrosée. Puisque c'est elle que j'ai mise sous globe.\nPuisque c'est elle que j'ai abritée par le paravent. Puisque c'est\nelle dont j'ai tué les chenilles (sauf les deux ou trois pour les\npapillons). Puisque c'est elle que j'ai écoutée se plaindre, ou se\nvanter, ou même quelquefois se taire. Puisque c'est ma rose.",
+    "words": 100
+   },
+   {
+    "id": "c21-p54",
+    "type": "p",
+    "text": "Et il revint vers le renard:",
+    "words": 6
+   },
+   {
+    "id": "c21-img4",
+    "type": "illustration",
+    "after": "c21-p54"
+   },
+   {
+    "id": "c21-p55",
+    "type": "p",
+    "text": "-Adieu, dit-il...",
+    "words": 2
+   },
+   {
+    "id": "c21-p56",
+    "type": "p",
+    "text": "-Adieu, dit le renard. Voici mon secret. Il est très simple : on ne\nvoit bien qu'avec le coeur. L'essentiel est invisible pour les\nyeux.",
+    "words": 25
+   },
+   {
+    "id": "c21-p57",
+    "type": "p",
+    "text": "-L'essentiel est invisible pour les yeux, répéta le petit prince,\nafin de se souvenir.",
+    "words": 14
+   },
+   {
+    "id": "c21-p58",
+    "type": "p",
+    "text": "-C'est le temps que tu a perdu pour ta rose qui fait ta rose si\nimportante.",
+    "words": 16
+   },
+   {
+    "id": "c21-p59",
+    "type": "p",
+    "text": "-C'est le temps que j'ai perdu pour ma rose...fit le petit prince,\nafin de se souvenir.",
+    "words": 16
+   },
+   {
+    "id": "c21-p60",
+    "type": "p",
+    "text": "-Les hommes on oublié cette vérité, dit le renard. Mais tu ne dois\npas l'oublier. Tu deviens responsable pour toujours de ce que tu as\napprivoisé. Tu es responsable de ta rose...",
+    "words": 32
+   },
+   {
+    "id": "c21-p61",
+    "type": "p",
+    "text": "-Je suis responsable de ma rose...répéta le petit prince, afin de\nse souvenir.",
+    "words": 13
+   }
+  ]
+ },
+ {
+  "chapter": 22,
+  "title": "CHAPITRE XXII",
+  "blocks": [
+   {
+    "id": "c22-p01",
+    "type": "p",
+    "text": "-Bonjour, dit le petit prince.",
+    "words": 5
+   },
+   {
+    "id": "c22-p02",
+    "type": "p",
+    "text": "-Bonjour, dit l'aiguilleur.",
+    "words": 3
+   },
+   {
+    "id": "c22-p03",
+    "type": "p",
+    "text": "-Que fais-tu ici? dit le petit prince.",
+    "words": 7
+   },
+   {
+    "id": "c22-p04",
+    "type": "p",
+    "text": "-Je trie les voyageurs, par paquets de mille, dit l'aiguilleur.\nJ'expédie les trains qui les emportent, tantôt vers la droite,\ntantôt vers la gauche.",
+    "words": 24
+   },
+   {
+    "id": "c22-p05",
+    "type": "p",
+    "text": "Et un rapide illuminé, grondant comme le tonnerre, fit trembler\nla cabine d'aiguillage.",
+    "words": 13
+   },
+   {
+    "id": "c22-p06",
+    "type": "p",
+    "text": "-Ils sont bien pressés, dit le petit prince. Que\ncherchent-ils?",
+    "words": 10
+   },
+   {
+    "id": "c22-p07",
+    "type": "p",
+    "text": "-L'homme de la locomotive l'ignore lui-même, dit\nl'aiguilleur.",
+    "words": 8
+   },
+   {
+    "id": "c22-p08",
+    "type": "p",
+    "text": "Et gronda, en sens inverse, un second rapide illuminé.",
+    "words": 9
+   },
+   {
+    "id": "c22-p09",
+    "type": "p",
+    "text": "-Ils reviennent déjà? demanda le petit prince...",
+    "words": 7
+   },
+   {
+    "id": "c22-p10",
+    "type": "p",
+    "text": "-Ce ne sont pas les mêmes, dit l'aiguilleur. C'est un\néchange.",
+    "words": 11
+   },
+   {
+    "id": "c22-p11",
+    "type": "p",
+    "text": "-Ils n'étaient pas contents, là où ils étaient?",
+    "words": 8
+   },
+   {
+    "id": "c22-p12",
+    "type": "p",
+    "text": "-On n'est jamais content là où on est, dit l'aiguilleur.",
+    "words": 10
+   },
+   {
+    "id": "c22-p13",
+    "type": "p",
+    "text": "Et gronda le tonnerre d'un troisième rapide illuminé.",
+    "words": 8
+   },
+   {
+    "id": "c22-p14",
+    "type": "p",
+    "text": "-Ils poursuivent les premiers voyageurs? demanda le petit\nprince.",
+    "words": 9
+   },
+   {
+    "id": "c22-p15",
+    "type": "p",
+    "text": "-Ils ne poursuivent rien du tout, dit l'aiguilleur. Ils dorment\nlà-dedans, ou bien ils bâillent. Les enfants seuls écrasent leur\nnez contre les vitres.",
+    "words": 24
+   },
+   {
+    "id": "c22-p16",
+    "type": "p",
+    "text": "-Les enfants seuls savent ce qu'ils cherchent, fit le petit\nprince. Ils perdent du temps pour une poupée de chiffons, et elle\ndevient très importante, et si on la leur enlève, ils\npleurent...",
+    "words": 33
+   },
+   {
+    "id": "c22-p17",
+    "type": "p",
+    "text": "-Ils ont de la chance, dit l'aiguilleur.",
+    "words": 7
+   }
+  ]
+ },
+ {
+  "chapter": 23,
+  "title": "CHAPITRE XXIII",
+  "blocks": [
+   {
+    "id": "c23-p01",
+    "type": "p",
+    "text": "-Bonjour, dit le petit prince.",
+    "words": 5
+   },
+   {
+    "id": "c23-p02",
+    "type": "p",
+    "text": "-Bonjour, dit le marchand. C'était un marchand de pilules\nperfectionnées qui apaisent la soif. On en avale une par semaine et\nl'on n'éprouve plus le besoin de boire.",
+    "words": 28
+   },
+   {
+    "id": "c23-p03",
+    "type": "p",
+    "text": "-Pourquoi vends-tu ça? dit le petit prince.",
+    "words": 7
+   },
+   {
+    "id": "c23-p04",
+    "type": "p",
+    "text": "-C'est une grosse économie de temps, dit le marchand. Les\nexperts ont fait des calculs. On épargne cinquante-trois minutes\npar semaine.",
+    "words": 21
+   },
+   {
+    "id": "c23-p05",
+    "type": "p",
+    "text": "-Et que fait-on des cinquante-trois minutes?",
+    "words": 6
+   },
+   {
+    "id": "c23-p06",
+    "type": "p",
+    "text": "-On en fait ce que l'on veut...",
+    "words": 7
+   },
+   {
+    "id": "c23-p07",
+    "type": "p",
+    "text": "\"Moi, se dit le petit prince, si j'avais cinquante-trois minutes\nà dépenser, je marcherais tout doucement vers une fontaine...\"",
+    "words": 19
+   }
+  ]
+ },
+ {
+  "chapter": 24,
+  "title": "CHAPITRE XXIV",
+  "blocks": [
+   {
+    "id": "c24-p01",
+    "type": "p",
+    "text": "Nous en étions au huitième jour de ma panne dans le désert, et\nj'avais écouté l'histoire du marchand en buvant la dernière goutte\nde ma provision d'eau:",
+    "words": 27
+   },
+   {
+    "id": "c24-p02",
+    "type": "p",
+    "text": "-Ah! dis-je au petit prince, ils sont bien jolis, tes souvenirs,\nmais je n'ai pas encore réparé mon avion, je n'ai plus rien à\nboire, et je serais heureux, moi aussi, si je pouvais marcher tout\ndoucement vers une fontaine!",
+    "words": 40
+   },
+   {
+    "id": "c24-p03",
+    "type": "p",
+    "text": "-Mon ami le renard, me dit-il...",
+    "words": 6
+   },
+   {
+    "id": "c24-p04",
+    "type": "p",
+    "text": "-Mon petit bonhomme, il ne s'agit plus du renard!",
+    "words": 9
+   },
+   {
+    "id": "c24-p05",
+    "type": "p",
+    "text": "-Pourquoi?",
+    "words": 1
+   },
+   {
+    "id": "c24-p06",
+    "type": "p",
+    "text": "-Parce qu'on va mourir de soif...",
+    "words": 6
+   },
+   {
+    "id": "c24-p07",
+    "type": "p",
+    "text": "Il ne comprit pas mon raisonnement, il me répondit:",
+    "words": 9
+   },
+   {
+    "id": "c24-p08",
+    "type": "p",
+    "text": "-Ç'est bien d'avoir eu un ami, même si l'on va mourir.\nMoi, je suis bien content d'avoir eu un ami renard...",
+    "words": 21
+   },
+   {
+    "id": "c24-p09",
+    "type": "p",
+    "text": "Il ne mesure pas le danger, me dis-je. Il n'a jamais ni faim ni\nsoif. Un peu de soleil lui suffit...",
+    "words": 21
+   },
+   {
+    "id": "c24-p10",
+    "type": "p",
+    "text": "Mais il me regarda et répondit à ma pensée:",
+    "words": 9
+   },
+   {
+    "id": "c24-p11",
+    "type": "p",
+    "text": "-J'ai soif aussi...cherchons un puits...",
+    "words": 5
+   },
+   {
+    "id": "c24-p12",
+    "type": "p",
+    "text": "J'eus un geste de lassitude: il est absurde de chercher un\npuits, au hasard, dans l'immensité du désert. Cependant nous nous\nmîmes en marche.",
+    "words": 24
+   },
+   {
+    "id": "c24-p13",
+    "type": "p",
+    "text": "Quand nous eûmes marché, des heures, en silence, la nuit\ntomba, et les étoiles commencèrent de s'éclairer. Je les apercevais\ncomme un rêve, ayant un peu de fièvre, à cause de ma soif. Les mots\ndu petit prince dansaient dans ma mémoire:",
+    "words": 42
+   },
+   {
+    "id": "c24-p14",
+    "type": "p",
+    "text": "-Tu as donc soif, toi aussi? lui demandai-je.",
+    "words": 8
+   },
+   {
+    "id": "c24-p15",
+    "type": "p",
+    "text": "Mais il ne répondit pas à ma question. Il me dit simplement:",
+    "words": 12
+   },
+   {
+    "id": "c24-p16",
+    "type": "p",
+    "text": "-L'eau peut aussi être bonne pour le coeur...",
+    "words": 8
+   },
+   {
+    "id": "c24-p17",
+    "type": "p",
+    "text": "Je ne compris pas sa réponse mais je me tus...Je savais bien\nqu'il ne fallait pas l'interroger.",
+    "words": 17
+   },
+   {
+    "id": "c24-p18",
+    "type": "p",
+    "text": "Il était fatigué. Il s'assit. Je m'assis auprès de lui. Et,\naprès un silence, il dit encore:",
+    "words": 17
+   },
+   {
+    "id": "c24-p19",
+    "type": "p",
+    "text": "-Les étoiles sont belles, à cause d'une fleur que l'on ne voit\npas...",
+    "words": 13
+   },
+   {
+    "id": "c24-p20",
+    "type": "p",
+    "text": "Je répondis \"bien sûr\" et je regardai, sans parler, les\nplis du sable sous la lune.",
+    "words": 16
+   },
+   {
+    "id": "c24-p21",
+    "type": "p",
+    "text": "-Le désert est beau, ajouta-t-il...",
+    "words": 5
+   },
+   {
+    "id": "c24-p22",
+    "type": "p",
+    "text": "Et c'était vrai. J'ai toujours aimé le désert. On s'assoit sur\nune dune de sable. On ne voit rien. On n'entend rien. Et cependant\nquelque chose rayonne en silence...",
+    "words": 29
+   },
+   {
+    "id": "c24-p23",
+    "type": "p",
+    "text": "-Ce qui embellit le désert, dit le petit prince, c'est qu'il\ncache un puits quelque part...",
+    "words": 16
+   },
+   {
+    "id": "c24-p24",
+    "type": "p",
+    "text": "Je fus surpris de comprendre soudain ce mystérieux rayonnement\ndu sable. Lorsque j'étais petit garçon, j'habitais une maison\nancienne, et la légende racontait qu'un trésor y était enfoui. Bien\nsûr, jamais personne n'a su le découvrir, ni peut-être même\nne l'a cherché. Mais il enchantait toute cette maison. Ma maison\ncachait un secret au fond de son coeur...",
+    "words": 58
+   },
+   {
+    "id": "c24-p25",
+    "type": "p",
+    "text": "-Oui, dis-je au petit prince, qu'il s'agisse de la maison, des\nétoiles ou du désert, ce qui fait leur beauté est invisible!",
+    "words": 22
+   },
+   {
+    "id": "c24-p26",
+    "type": "p",
+    "text": "-Je suis content, dit-il, que tu sois d'accord avec mon\nrenard.",
+    "words": 11
+   },
+   {
+    "id": "c24-p27",
+    "type": "p",
+    "text": "Comme le petit prince s'endormait, je le pris dans mes bras, et\nme remis en route. J'étais ému. Il me semblait porter un trésor\nfragile. Il me semblait même qu'il n'y eût rien de plus\nfragile sur la Terre. Je regardais, à la lumière de la lune, ce\nfront pâle, ces yeux clos, ces mèches de cheveux qui tremblaient au\nvent, et je me disais: \"Ce que je vois là n'est qu'une écorce. Le\nplus important est invisible...\"",
+    "words": 78
+   },
+   {
+    "id": "c24-p28",
+    "type": "p",
+    "text": "Comme ses lèvres entr'ouvertes ébauchaient un demi-sourire je me\ndis encore: \"Ce qui m'émeut si fort de ce petit prince endormi,\nc'est sa fidélité pour une fleur, c'est l'image d'une rose qui\nrayonne en lui comme la flamme d'une lampe, même quand il dort...\"\nEt je le devinai plus fragile encore. Il faut bien protéger les\nlampes: un coup de vent peut les éteindre...",
+    "words": 64
+   },
+   {
+    "id": "c24-p29",
+    "type": "p",
+    "text": "Et, marchant ainsi, je découvris le puits au lever du jour.",
+    "words": 11
+   }
+  ]
+ },
+ {
+  "chapter": 25,
+  "title": "CHAPITRE XXV",
+  "blocks": [
+   {
+    "id": "c25-p01",
+    "type": "p",
+    "text": "-Les hommes, dit le petit prince, ils s'enfoncent dans les\nrapides, mais ils ne savent plus ce qu'ils cherchent. Alors ils\ns'agitent et tournent en rond...",
+    "words": 26
+   },
+   {
+    "id": "c25-p02",
+    "type": "p",
+    "text": "Et il ajouta:",
+    "words": 3
+   },
+   {
+    "id": "c25-p03",
+    "type": "p",
+    "text": "-Ce n'est pas la peine...",
+    "words": 5
+   },
+   {
+    "id": "c25-p04",
+    "type": "p",
+    "text": "Le puits que nous avions atteint ne ressemblait pas aux autres\npuits sahariens. Les puits sahariens sont de simples trous creusés\ndans le sable. Celui-là ressemblait à un puits de village. Mais il\nn'y avait là aucun village, et je croyais rêver.",
+    "words": 42
+   },
+   {
+    "id": "c25-p05",
+    "type": "p",
+    "text": "-C'est étrange, dis-je au petit prince, tout est prêt: la\npoulie, le seau et la corde...",
+    "words": 16
+   },
+   {
+    "id": "c25-p06",
+    "type": "p",
+    "text": "Il rit, toucha la corde, fit jouer la poulie. Et la poulie gémit\ncomme une vieille girouette quand le vent a longtemps dormi.",
+    "words": 23
+   },
+   {
+    "id": "c25-img1",
+    "type": "illustration",
+    "after": "c25-p06"
+   },
+   {
+    "id": "c25-p07",
+    "type": "p",
+    "text": "-Tu entends, dit le petit prince, nous réveillons ce puits et il\nchante...",
+    "words": 13
+   },
+   {
+    "id": "c25-p08",
+    "type": "p",
+    "text": "Je ne voulais pas qu'il fît un effort:",
+    "words": 8
+   },
+   {
+    "id": "c25-p09",
+    "type": "p",
+    "text": "-Laisse-moi faire, lui dis-je, c'est trop lourd pour toi.",
+    "words": 9
+   },
+   {
+    "id": "c25-p10",
+    "type": "p",
+    "text": "Lentement je hissai le seau jusqu'à la margelle. Je l'y\ninstallai bien d'aplomb. Dans mes oreilles durait le chant de la\npoulie et, dans l'eau qui tremblait encore, je voyais trembler le\nsoleil.",
+    "words": 33
+   },
+   {
+    "id": "c25-p11",
+    "type": "p",
+    "text": "-J'ai soif de cette eau-là, dit le petit prince, donne-moi à\nboire...",
+    "words": 12
+   },
+   {
+    "id": "c25-p12",
+    "type": "p",
+    "text": "Et je compris ce qu'il avait cherché!",
+    "words": 7
+   },
+   {
+    "id": "c25-p13",
+    "type": "p",
+    "text": "Je soulevai le seau jusqu'à ses lèvres. Il but, les yeux fermés.\nC'était doux comme une fête. Cette eau était bien autre chose qu'un\naliment. Elle était née de la marche sous les étoiles, du chant de\nla poulie, de l'effort de mes bras. Elle était bonne pour le coeur,\ncomme un cadeau. Lorsque j'étais petit garçon, la lumière de\nl'arbre de Noël, la musique de la messe de minuit, la douceur\ndes sourires faisaient, ainsi, tout le rayonnement du cadeau de\nNoël que je recevais.",
+    "words": 86
+   },
+   {
+    "id": "c25-p14",
+    "type": "p",
+    "text": "-Les hommes de chez toi, dit le petit prince, cultivent cinq\nmille roses dans un même jardin...et ils n'y trouvent pas ce qu'ils\ncherchent...",
+    "words": 24
+   },
+   {
+    "id": "c25-p15",
+    "type": "p",
+    "text": "-Ils ne le trouvent pas, répondis-je...",
+    "words": 6
+   },
+   {
+    "id": "c25-p16",
+    "type": "p",
+    "text": "-Et cependant ce qu'ils cherchent pourrait être trouvé dans une\nseule rose ou un peu d'eau...",
+    "words": 16
+   },
+   {
+    "id": "c25-p17",
+    "type": "p",
+    "text": "-Bien sûr, répondis-je.",
+    "words": 3
+   },
+   {
+    "id": "c25-p18",
+    "type": "p",
+    "text": "Et le petit prince ajouta:",
+    "words": 5
+   },
+   {
+    "id": "c25-p19",
+    "type": "p",
+    "text": "-Mais les yeux sont aveugles. Il faut chercher avec le\ncoeur.",
+    "words": 11
+   },
+   {
+    "id": "c25-p20",
+    "type": "p",
+    "text": "J'avais bu. Je respirais bien. Le sable, au lever du jour, est\ncouleur de miel. J'étais heureux aussi de cette couleur de miel.\nPourquoi fallait-il que j'eusse de la peine...",
+    "words": 30
+   },
+   {
+    "id": "c25-p21",
+    "type": "p",
+    "text": "-Il faut que tu tiennes ta promesse, me dit doucement le petit\nprince, qui, de nouveau, s'était assis auprès de moi.",
+    "words": 21
+   },
+   {
+    "id": "c25-p22",
+    "type": "p",
+    "text": "-Quelle promesse?",
+    "words": 2
+   },
+   {
+    "id": "c25-p23",
+    "type": "p",
+    "text": "-Tu sais...une muselière pour mon mouton...je suis responsable\nde cette fleur!",
+    "words": 11
+   },
+   {
+    "id": "c25-p24",
+    "type": "p",
+    "text": "Je sortis de ma poche mes ébauches de dessin. Le petit prince\nles aperçut et dit en riant:",
+    "words": 18
+   },
+   {
+    "id": "c25-p25",
+    "type": "p",
+    "text": "-Tes baobabs, ils ressemblent un peu à des choux...",
+    "words": 9
+   },
+   {
+    "id": "c25-p26",
+    "type": "p",
+    "text": "-Oh!",
+    "words": 1
+   },
+   {
+    "id": "c25-p27",
+    "type": "p",
+    "text": "Moi qui étais si fier des baobabs!",
+    "words": 7
+   },
+   {
+    "id": "c25-p28",
+    "type": "p",
+    "text": "-Ton renard...ses oreilles...elles ressemblent un peu à des\ncornes...et elles sont trop longues!",
+    "words": 13
+   },
+   {
+    "id": "c25-p29",
+    "type": "p",
+    "text": "Et il rit encore.",
+    "words": 4
+   },
+   {
+    "id": "c25-p30",
+    "type": "p",
+    "text": "-Tu es injuste, petit bonhomme, je ne savais rien dessiner que\nles boas fermés et les boas ouverts.",
+    "words": 18
+   },
+   {
+    "id": "c25-p31",
+    "type": "p",
+    "text": "-Oh! ça ira, dit-il, les enfants savent.",
+    "words": 7
+   },
+   {
+    "id": "c25-p32",
+    "type": "p",
+    "text": "Je crayonnai donc une muselière. Et j'eus le coeur serré en la\nlui donnant:",
+    "words": 14
+   },
+   {
+    "id": "c25-p33",
+    "type": "p",
+    "text": "-Tu as des projets que j'ignore...",
+    "words": 6
+   },
+   {
+    "id": "c25-p34",
+    "type": "p",
+    "text": "Mais il ne me répondit pas. Il me dit:",
+    "words": 9
+   },
+   {
+    "id": "c25-p35",
+    "type": "p",
+    "text": "-Tu sais, ma chute sur la Terre...c'en sera demain\nl'anniversaire...",
+    "words": 10
+   },
+   {
+    "id": "c25-p36",
+    "type": "p",
+    "text": "Puis, après un silence il dit encore:",
+    "words": 7
+   },
+   {
+    "id": "c25-p37",
+    "type": "p",
+    "text": "-J'étais tombé tout près d'ici...",
+    "words": 5
+   },
+   {
+    "id": "c25-p38",
+    "type": "p",
+    "text": "Et il rougit.",
+    "words": 3
+   },
+   {
+    "id": "c25-p39",
+    "type": "p",
+    "text": "Et de nouveau, sans comprendre pourquoi, j'éprouvai un chagrin\nbizarre. Cependant une question me vint:",
+    "words": 15
+   },
+   {
+    "id": "c25-p40",
+    "type": "p",
+    "text": "-Alors ce n'est pas par hasard que, le matin où je t'ai connu,\nil y a huit jours, tu te promenais comme ça, tout seul, à mille\nmilles de toutes régions habitées! Tu retournais vers le point de\nta chute?",
+    "words": 40
+   },
+   {
+    "id": "c25-p41",
+    "type": "p",
+    "text": "Le petit prince rougit encore.",
+    "words": 5
+   },
+   {
+    "id": "c25-p42",
+    "type": "p",
+    "text": "Et j'ajoutai, en hésitant:",
+    "words": 4
+   },
+   {
+    "id": "c25-p43",
+    "type": "p",
+    "text": "-À cause, peut-être, de l'anniversaire?...",
+    "words": 5
+   },
+   {
+    "id": "c25-p44",
+    "type": "p",
+    "text": "Le petit prince rougit de nouveau. Il ne répondait jamais aux\nquestions, mais, quand on rougit, ça signifie \"oui\", n'est-ce\npas?",
+    "words": 21
+   },
+   {
+    "id": "c25-p45",
+    "type": "p",
+    "text": "-Ah! lui dis-je, j'ai peur...",
+    "words": 5
+   },
+   {
+    "id": "c25-p46",
+    "type": "p",
+    "text": "Mais il me répondit:",
+    "words": 4
+   },
+   {
+    "id": "c25-p47",
+    "type": "p",
+    "text": "-Tu dois maintenant travailler. Tu dois repartir vers ta\nmachine. Je t'attends ici. Reviens demain soir...",
+    "words": 16
+   },
+   {
+    "id": "c25-p48",
+    "type": "p",
+    "text": "Mais je n'étais pas rassuré. Je me souvenais du renard. On\nrisque de pleurer un peu si l'on s'est laissé apprivoiser...",
+    "words": 21
+   }
+  ]
+ },
+ {
+  "chapter": 26,
+  "title": "CHAPITRE XXVI",
+  "blocks": [
+   {
+    "id": "c26-p01",
+    "type": "p",
+    "text": "Il y avait, à côté du puits, une ruine de vieux mur de pierre.\nLorsque je revins de mon travail, le lendemain soir, j'aperçus de\nloin mon petit prince assis là-haut, les jambes pendantes. Et je\nl'entendis qui parlait:",
+    "words": 39
+   },
+   {
+    "id": "c26-p02",
+    "type": "p",
+    "text": "-Tu ne t'en souviens donc pas? disait-il. Ce n'est pas tout à\nfait ici!",
+    "words": 14
+   },
+   {
+    "id": "c26-p03",
+    "type": "p",
+    "text": "Une autre voix lui répondit sans doute, puisqu'il répliqua:",
+    "words": 9
+   },
+   {
+    "id": "c26-p04",
+    "type": "p",
+    "text": "-Si! Si! c'est bien le jour, mais ce n'est pas ici\nl'endroit...",
+    "words": 12
+   },
+   {
+    "id": "c26-p05",
+    "type": "p",
+    "text": "Je poursuivis ma marche vers le mur. Je ne voyais ni n'entendais\ntoujours personne. Pourtant le petit prince répliqua de\nnouveau:",
+    "words": 21
+   },
+   {
+    "id": "c26-p06",
+    "type": "p",
+    "text": "-...Bien sûr. Tu verras où commence ma trace dans le\nsable. Tu n'as qu'à m'y attendre. J'y serai cette nuit...",
+    "words": 20
+   },
+   {
+    "id": "c26-p07",
+    "type": "p",
+    "text": "J'étais à vingt mètres du mur et je ne voyais toujours rien.",
+    "words": 12
+   },
+   {
+    "id": "c26-p08",
+    "type": "p",
+    "text": "Le petit prince dit encore, après un silence:",
+    "words": 8
+   },
+   {
+    "id": "c26-p09",
+    "type": "p",
+    "text": "-Tu as du bon venin? Tu es sûr de ne pas me faire souffrir\nlongtemps?",
+    "words": 15
+   },
+   {
+    "id": "c26-p10",
+    "type": "p",
+    "text": "Je fis halte, le coeur serré, mais je ne comprenais toujours\npas.",
+    "words": 12
+   },
+   {
+    "id": "c26-p11",
+    "type": "p",
+    "text": "-Maintenant va-t'en, dit-il...je veux redescendre!",
+    "words": 5
+   },
+   {
+    "id": "c26-img1",
+    "type": "illustration",
+    "after": "c26-p11"
+   },
+   {
+    "id": "c26-p12",
+    "type": "p",
+    "text": "Alors j'abaissai moi-même les yeux vers le pied du mur, et je\nfis un bond! Il était là, dressé vers le petit prince, un de ces\nserpents jaunes qui vous exécutent en trente secondes. Tout en\nfouillant ma poche pour en tirer mon révolver, je pris le pas de\ncourse, mais, au bruit que je fis, le serpent se laissa doucement\ncouler dans le sable, comme un jet d'eau qui meurt, et, sans trop\nse presser, se faufila entre les pierres avec un léger bruit de\nmétal.",
+    "words": 87
+   },
+   {
+    "id": "c26-p13",
+    "type": "p",
+    "text": "Je parvins au mur juste à temps pour y recevoir dans les bras\nmon petit bonhomme de prince, pâle comme la neige.",
+    "words": 22
+   },
+   {
+    "id": "c26-p14",
+    "type": "p",
+    "text": "-Quelle est cette histoire-là! Tu parles maintenant avec les\nserpents!",
+    "words": 10
+   },
+   {
+    "id": "c26-p15",
+    "type": "p",
+    "text": "J'avais défait son éternel cache-nez d'or. Je lui avait mouillé\nles tempes et l'avais fait boire. Et maintenant je n'osais plus\nrien lui demander. Il me regarda gravement et m'entoura le cou de\nses bras. Je sentais battre son coeur comme celui d'un oiseau qui\nmeurt, quand on l'a tiré à la carabine. Il me dit:",
+    "words": 56
+   },
+   {
+    "id": "c26-p16",
+    "type": "p",
+    "text": "-Je suis content que tu aies trouvé ce qui manquait à ta\nmachine. Tu vas pouvoir rentrer chez toi...",
+    "words": 19
+   },
+   {
+    "id": "c26-p17",
+    "type": "p",
+    "text": "-Comment sais-tu?",
+    "words": 2
+   },
+   {
+    "id": "c26-p18",
+    "type": "p",
+    "text": "Je venais justement lui annoncer que, contre toute espérance,\nj'avais réussi mon travail!",
+    "words": 13
+   },
+   {
+    "id": "c26-p19",
+    "type": "p",
+    "text": "Il ne répondit rien à ma question, mais il ajouta:",
+    "words": 10
+   },
+   {
+    "id": "c26-p20",
+    "type": "p",
+    "text": "-Moi aussi, aujourd'hui, je rentre chez moi...",
+    "words": 7
+   },
+   {
+    "id": "c26-p21",
+    "type": "p",
+    "text": "Puis, mélancolique:",
+    "words": 2
+   },
+   {
+    "id": "c26-p22",
+    "type": "p",
+    "text": "-C'est bien plus loin...c'est bien plus difficile...",
+    "words": 7
+   },
+   {
+    "id": "c26-p23",
+    "type": "p",
+    "text": "Je sentais bien qu'il se passait quelque chose d'extraordinaire.\nJe le serrais dans mes bras comme un petit enfant, et cependant il\nme semblait qu'il coulait verticalement dans un abîme sans\nque je pusse rien pour le retenir...",
+    "words": 38
+   },
+   {
+    "id": "c26-p24",
+    "type": "p",
+    "text": "Il avait le regard sérieux, perdu très loin:",
+    "words": 8
+   },
+   {
+    "id": "c26-p25",
+    "type": "p",
+    "text": "-J'ai ton mouton. Et j'ai la caisse pour le mouton. Et j'ai la\nmuselière...",
+    "words": 14
+   },
+   {
+    "id": "c26-p26",
+    "type": "p",
+    "text": "Et il sourit avec mélancolie.",
+    "words": 5
+   },
+   {
+    "id": "c26-p27",
+    "type": "p",
+    "text": "J'attendis longtemps. Je sentais qu'il se réchauffait peu à\npeu:",
+    "words": 10
+   },
+   {
+    "id": "c26-p28",
+    "type": "p",
+    "text": "-Petit bonhomme, tu as eu peur...",
+    "words": 6
+   },
+   {
+    "id": "c26-p29",
+    "type": "p",
+    "text": "Il avait eu peur, bien sûr! Mais il rit doucement:",
+    "words": 10
+   },
+   {
+    "id": "c26-p30",
+    "type": "p",
+    "text": "-J'aurai bien plus peur ce soir...",
+    "words": 6
+   },
+   {
+    "id": "c26-p31",
+    "type": "p",
+    "text": "De nouveau je me sentis glacé par le sentiment de l'irréparable.\nEt je compris que je ne supportais pas l'idée de ne plus jamais\nentendre ce rire. C'était pour moi comme une fontaine dans le\ndésert.",
+    "words": 36
+   },
+   {
+    "id": "c26-p32",
+    "type": "p",
+    "text": "-Petit bonhomme, je veux encore t'entendre rire...",
+    "words": 7
+   },
+   {
+    "id": "c26-p33",
+    "type": "p",
+    "text": "Mais il me dit:",
+    "words": 4
+   },
+   {
+    "id": "c26-p34",
+    "type": "p",
+    "text": "-Cette nuit, ça fera un an. Mon étoile se trouvera juste\nau-dessus de l'endroit où je suis tombé l'année dernière...",
+    "words": 20
+   },
+   {
+    "id": "c26-p35",
+    "type": "p",
+    "text": "-Petit bonhomme, n'est-ce pas que c'est un mauvais rêve cette\nhistoire de serpent et de rendez-vous et d'étoile...",
+    "words": 18
+   },
+   {
+    "id": "c26-p36",
+    "type": "p",
+    "text": "Mais il ne répondit pas à ma question. Il me dit:",
+    "words": 11
+   },
+   {
+    "id": "c26-p37",
+    "type": "p",
+    "text": "-Ce qui est important, ça ne se voit pas...",
+    "words": 9
+   },
+   {
+    "id": "c26-p38",
+    "type": "p",
+    "text": "-Bien sûr...",
+    "words": 2
+   },
+   {
+    "id": "c26-p39",
+    "type": "p",
+    "text": "-C'est comme pour la fleur. Si tu aimes une fleur qui se trouve\ndans une étoile, c'est doux, la nuit, de regarder le ciel. Toutes\nles étoiles sont fleuries.",
+    "words": 29
+   },
+   {
+    "id": "c26-p40",
+    "type": "p",
+    "text": "-Bien sûr...",
+    "words": 2
+   },
+   {
+    "id": "c26-p41",
+    "type": "p",
+    "text": "C'est comme pour l'eau. Celle que tu m'as donnée à boire était\ncomme un musique, à cause de la poulie et de la corde...tu te\nrappelles...elle était bonne.",
+    "words": 28
+   },
+   {
+    "id": "c26-p42",
+    "type": "p",
+    "text": "-Bien sûr...",
+    "words": 2
+   },
+   {
+    "id": "c26-p43",
+    "type": "p",
+    "text": "-Tu regarderas, la nuit, les étoiles. C'est trop petit chez moi\npour que je te montre où se trouve la mienne. C'est mieux comme ça.\nMon étoile, ça sera pour toi une des étoiles. Alors, toutes les\nétoiles, tu aimeras les regarder...Elles seront toutes tes amies.\nEt puis je vais te faire un cadeau...",
+    "words": 54
+   },
+   {
+    "id": "c26-p44",
+    "type": "p",
+    "text": "Il rit encore.",
+    "words": 3
+   },
+   {
+    "id": "c26-p45",
+    "type": "p",
+    "text": "-Ah! petit bonhomme, petit bonhomme, j'aime entendre ce\nrire!",
+    "words": 9
+   },
+   {
+    "id": "c26-p46",
+    "type": "p",
+    "text": "-Justement ce sera mon cadeau...ce sera comme pour l'eau...",
+    "words": 9
+   },
+   {
+    "id": "c26-p47",
+    "type": "p",
+    "text": "-Que veux-tu dire?",
+    "words": 3
+   },
+   {
+    "id": "c26-p48",
+    "type": "p",
+    "text": "-Les gens ont des étoiles qui ne sont pas les mêmes. Pour les\nuns, qui voyagent, les étoiles sont des guides. Pour d'autres elles\nne sont rien que de petites lumières. Pour d'autres qui sont\nsavants, elles sont des problèmes. Pour mon businessman elles\nétaient de l'or. Mais toutes ces étoiles-là se taisent. Toi, tu\nauras des étoiles comme personne n'en a...",
+    "words": 62
+   },
+   {
+    "id": "c26-p49",
+    "type": "p",
+    "text": "-Que veux-tu dire?",
+    "words": 3
+   },
+   {
+    "id": "c26-p50",
+    "type": "p",
+    "text": "-Quand tu regarderas le ciel, la nuit, puisque j'habiterai dans\nl'une d'elles, puisque je rirai dans l'une d'elles, alors ce sera\npour toi comme si riaient toutes les étoiles. Tu auras, toi, des\nétoiles qui savent rire!",
+    "words": 37
+   },
+   {
+    "id": "c26-p51",
+    "type": "p",
+    "text": "Et il rit encore.",
+    "words": 4
+   },
+   {
+    "id": "c26-p52",
+    "type": "p",
+    "text": "-Et quand tu seras consolé (on se console toujours) tu seras\ncontent de m'avoir connu. Tu seras toujours mon ami. Tu auras envie\nde rire avec moi. Et tu ouvriras parfois ta fenêtre, comme ça, pour\nle plaisir...Et tes amis seront bien étonnés de te voir rire en\nregardant le ciel. Alors tu leur diras: \"Oui, les étoiles, ça me\nfait toujours rire!\" Et ils te croiront fou. Je t'aurai joué un\nbien vilain tour...",
+    "words": 75
+   },
+   {
+    "id": "c26-p53",
+    "type": "p",
+    "text": "Et il rit encore.",
+    "words": 4
+   },
+   {
+    "id": "c26-p54",
+    "type": "p",
+    "text": "-Ce sera comme si je t'avais donné, au lieu d'étoiles, des tas\nde petits grelots qui savent rire...",
+    "words": 18
+   },
+   {
+    "id": "c26-p55",
+    "type": "p",
+    "text": "Et il rit encore. Puis il redevint sérieux:",
+    "words": 8
+   },
+   {
+    "id": "c26-p56",
+    "type": "p",
+    "text": "-Cette nuit...tu sais...ne viens pas.",
+    "words": 5
+   },
+   {
+    "id": "c26-p57",
+    "type": "p",
+    "text": "-Je ne te quitterai pas.",
+    "words": 5
+   },
+   {
+    "id": "c26-p58",
+    "type": "p",
+    "text": "-J'aurai l'air d'avoir mal...j'aurai un peu l'air de mourir.\nC'est comme ça. Ne viens pas voir ça, ce n'est pas la peine...",
+    "words": 22
+   },
+   {
+    "id": "c26-p59",
+    "type": "p",
+    "text": "-Je ne te quitterai pas.",
+    "words": 5
+   },
+   {
+    "id": "c26-p60",
+    "type": "p",
+    "text": "Mais il était soucieux.",
+    "words": 4
+   },
+   {
+    "id": "c26-p61",
+    "type": "p",
+    "text": "-Je te dis ça...c'est à cause aussi du serpent. Il ne faut pas\nqu'il te morde...Les serpents, c'est méchant. Ça peut mordre\npour le plaisir...",
+    "words": 25
+   },
+   {
+    "id": "c26-p62",
+    "type": "p",
+    "text": "-Je ne te quitterai pas.",
+    "words": 5
+   },
+   {
+    "id": "c26-p63",
+    "type": "p",
+    "text": "Mais quelque chose le rassura:",
+    "words": 5
+   },
+   {
+    "id": "c26-p64",
+    "type": "p",
+    "text": "-C'est vrai qu'ils n'ont pas le venin pour la seconde\nmorsure...",
+    "words": 11
+   },
+   {
+    "id": "c26-p65",
+    "type": "p",
+    "text": "Cette nuit-là je ne le vis pas se mettre en route. Il s'était\névadé sans bruit. Quand je réussis à le rejoindre il marchait\ndécidé, d'un pas rapide. Il me dit seulement:",
+    "words": 32
+   },
+   {
+    "id": "c26-p66",
+    "type": "p",
+    "text": "-Ah! tu es là...",
+    "words": 4
+   },
+   {
+    "id": "c26-p67",
+    "type": "p",
+    "text": "Et il me prit par la main. Mais il se tourmenta encore:",
+    "words": 12
+   },
+   {
+    "id": "c26-p68",
+    "type": "p",
+    "text": "-Tu as eu tort. Tu auras de la peine. J'aurai l'air d'être mort\net ce ne sera pas vrai...",
+    "words": 19
+   },
+   {
+    "id": "c26-p69",
+    "type": "p",
+    "text": "Moi je me taisais.",
+    "words": 4
+   },
+   {
+    "id": "c26-p70",
+    "type": "p",
+    "text": "-Tu comprends. C'est trop loin. Je ne peux pas emporter ce\ncorps-là. C'est trop lourd.",
+    "words": 15
+   },
+   {
+    "id": "c26-p71",
+    "type": "p",
+    "text": "Moi je me taisais.",
+    "words": 4
+   },
+   {
+    "id": "c26-p72",
+    "type": "p",
+    "text": "-Mais ce sera comme une vieille écorce abandonnée. Ce n'est pas\ntriste les vieilles écorces...",
+    "words": 15
+   },
+   {
+    "id": "c26-p73",
+    "type": "p",
+    "text": "Moi je me taisais.",
+    "words": 4
+   },
+   {
+    "id": "c26-p74",
+    "type": "p",
+    "text": "Il se découragea un peu. Mais il fit encore un effort:",
+    "words": 11
+   },
+   {
+    "id": "c26-p75",
+    "type": "p",
+    "text": "-Ce sera gentil, tu sais. Moi aussi, je regarderai les étoiles.\nToutes les étoiles seront des puits avec une poulie rouillée.\nToutes les étoiles me verseront à boire...",
+    "words": 28
+   },
+   {
+    "id": "c26-p76",
+    "type": "p",
+    "text": "Moi je me taisais.",
+    "words": 4
+   },
+   {
+    "id": "c26-p77",
+    "type": "p",
+    "text": "-Ce sera tellement amusant! Tu auras cinq cents millions de\ngrelots, j'aurai cinq cent millions de fontaines...",
+    "words": 17
+   },
+   {
+    "id": "c26-p78",
+    "type": "p",
+    "text": "Et il se tut aussi, parce qu'il pleurait...",
+    "words": 8
+   },
+   {
+    "id": "c26-p79",
+    "type": "p",
+    "text": "-C'est là. Laisse moi faire un pas tout seul.",
+    "words": 9
+   },
+   {
+    "id": "c26-img2",
+    "type": "illustration",
+    "after": "c26-p79"
+   },
+   {
+    "id": "c26-p80",
+    "type": "p",
+    "text": "Et il s'assit parce qu'il avait peur.",
+    "words": 7
+   },
+   {
+    "id": "c26-img3",
+    "type": "illustration",
+    "after": "c26-p80"
+   },
+   {
+    "id": "c26-p81",
+    "type": "p",
+    "text": "Il dit encore:",
+    "words": 3
+   },
+   {
+    "id": "c26-p82",
+    "type": "p",
+    "text": "-Tu sais...ma fleur...j'en suis responsable! Et elle est\ntellement faible! Et elle est tellement naïve. Elle a quatre\népines de rien du tout pour la protéger contre le monde...",
+    "words": 29
+   },
+   {
+    "id": "c26-p83",
+    "type": "p",
+    "text": "Moi je m'assis parce que je ne pouvais plus me tenir debout. Il\ndit:",
+    "words": 14
+   },
+   {
+    "id": "c26-p84",
+    "type": "p",
+    "text": "-Voilà...C'est tout...",
+    "words": 2
+   },
+   {
+    "id": "c26-p85",
+    "type": "p",
+    "text": "Il hésita encore un peu, puis il se releva. Il fit un pas. Moi\nje ne pouvais pas bouger.",
+    "words": 19
+   },
+   {
+    "id": "c26-p86",
+    "type": "p",
+    "text": "Il n'y eut rien qu'un éclair jaune près de sa cheville. Il\ndemeura un instant immobile. Il ne cria pas. Il tomba doucement\ncomme tombe un arbre. Ça ne fit même pas de bruit, à cause\ndu sable.",
+    "words": 38
+   }
+  ]
+ },
+ {
+  "chapter": 27,
+  "title": "CHAPITRE XXVII",
+  "blocks": [
+   {
+    "id": "c27-p01",
+    "type": "p",
+    "text": "Et maintenant, bien sûr, ça fait six ans déjà...Je n'ai\njamais encore raconté cette histoire. Les camarades qui m'ont revu\nont été bien contents de me revoir vivant. J'étais triste mais je\nleur disais: C'est la fatigue...",
+    "words": 37
+   },
+   {
+    "id": "c27-p02",
+    "type": "p",
+    "text": "Maintenant je me suis un peu consolé. C'est à dire... pas tout à\nfait. Mais je sais bien qu'il est revenu à sa planète, car, au\nlever du jour, je n'ai pas retrouvé son corps. Ce n'était pas un\ncorps tellement lourd...Et j'aime la nuit écouter les étoiles.\nC'est comme cinq cent millions de grelots...",
+    "words": 55
+   },
+   {
+    "id": "c27-p03",
+    "type": "p",
+    "text": "Mais voilà qu'il se passe quelque chose d'extraordinaire. La\nmuselière que j'ai dessinée pour le petit prince, j'ai oublié d'y\najouter la courroie de cuir! Il n'aura jamais pu l'attacher au\nmouton. Alors je me demande: \"Que s'est-il passé sur sa planète?\nPeut-être bien que le mouton à mangé la fleur...\"",
+    "words": 51
+   },
+   {
+    "id": "c27-p04",
+    "type": "p",
+    "text": "Tantôt je me dis: \"Sûrement non! Le petit prince enferme\nsa fleur toutes les nuits sous son globe de verre, et il surveille\nbien son mouton...\" Alors je suis heureux. Et toutes les étoiles\nrient doucement.",
+    "words": 36
+   },
+   {
+    "id": "c27-p05",
+    "type": "p",
+    "text": "Tantôt je me dis: \"On est distrait une fois ou l'autre, et ça\nsuffit! Il a oublié, un soir, le globe de verre, ou bien le mouton\nest sorti sans bruit pendant la nuit...\" Alors les grelots se\nchangent tous en larmes!...",
+    "words": 42
+   },
+   {
+    "id": "c27-img1",
+    "type": "illustration",
+    "after": "c27-p05"
+   },
+   {
+    "id": "c27-p06",
+    "type": "p",
+    "text": "C'est là un bien grand mystère. Pour vous qui aimez aussi le\npetit prince, comme pour moi, rien de l'univers n'est semblable si\nquelque part, on ne sait où, un mouton que nous ne connaissons pas\na, oui ou non, mangé une rose...",
+    "words": 43
+   },
+   {
+    "id": "c27-p07",
+    "type": "p",
+    "text": "Regardez le ciel. Demandez-vous: le mouton oui ou non a-t-il\nmangé la fleur? Et vous verrez comme tout change...",
+    "words": 19
+   },
+   {
+    "id": "c27-p08",
+    "type": "p",
+    "text": "Et aucune grande personne ne comprendra jamais que ça a\ntellement d'importance!",
+    "words": 12
+   },
+   {
+    "id": "c27-p09",
+    "type": "p",
+    "text": "Ça c'est, pour moi, le plus beau et le plus triste\npaysage du monde. C'est le même paysage que celui de la page\nprécédente, mais je l'ai dessiné une fois encore pour bien vous le\nmontrer. C'est ici que le petit prince a apparu sur terre, puis\ndisparu.",
+    "words": 48
+   },
+   {
+    "id": "c27-img2",
+    "type": "illustration",
+    "after": "c27-p09"
+   },
+   {
+    "id": "c27-p10",
+    "type": "p",
+    "text": "Regardez attentivement ce paysage afin d'être sûrs de le\nreconnaître, si vous voyagez un jour en Afrique, dans le\ndésert. Et, s'il vous arrive de passer par là, je vous en supplie,\nne vous pressez pas, attendez un peu juste sous l'étoile! Si alors\nun enfant vient à vous, s'il rit, s'il a des cheveux d'or, s'il ne\nrépond pas quand on l'interroge, vous devinerez bien qui il est.\nAlors soyez gentils! Ne me laissez pas tellement triste:\nécrivez-moi vite qu'il est revenu...",
+    "words": 83
+   }
+  ]
+ }
+]

@@ -1,0 +1,211 @@
+{
+ "audio": "assets/voice/en/lp-c02-p07-3.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "He did not look at all like a child lost in the middle of the desert, a thousand miles from any inhabited region. When at last I managed to speak, I said to him:",
+ "words": [
+  {
+   "text": "He",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.322
+  },
+  {
+   "text": "did",
+   "index": 3,
+   "start": 0.336,
+   "end": 0.503
+  },
+  {
+   "text": "not",
+   "index": 7,
+   "start": 0.517,
+   "end": 0.697
+  },
+  {
+   "text": "look",
+   "index": 11,
+   "start": 0.711,
+   "end": 0.892
+  },
+  {
+   "text": "at",
+   "index": 16,
+   "start": 0.906,
+   "end": 1.017
+  },
+  {
+   "text": "all",
+   "index": 19,
+   "start": 1.031,
+   "end": 1.211
+  },
+  {
+   "text": "like",
+   "index": 23,
+   "start": 1.225,
+   "end": 1.433
+  },
+  {
+   "text": "a",
+   "index": 28,
+   "start": 1.447,
+   "end": 1.503
+  },
+  {
+   "text": "child",
+   "index": 30,
+   "start": 1.517,
+   "end": 1.975
+  },
+  {
+   "text": "lost",
+   "index": 36,
+   "start": 1.989,
+   "end": 2.35
+  },
+  {
+   "text": "in",
+   "index": 41,
+   "start": 2.364,
+   "end": 2.433
+  },
+  {
+   "text": "the",
+   "index": 44,
+   "start": 2.447,
+   "end": 2.517
+  },
+  {
+   "text": "middle",
+   "index": 48,
+   "start": 2.531,
+   "end": 2.822
+  },
+  {
+   "text": "of",
+   "index": 55,
+   "start": 2.836,
+   "end": 2.906
+  },
+  {
+   "text": "the",
+   "index": 58,
+   "start": 2.919,
+   "end": 3.031
+  },
+  {
+   "text": "desert",
+   "index": 62,
+   "start": 3.044,
+   "end": 3.461
+  },
+  {
+   "text": "a",
+   "index": 70,
+   "start": 3.697,
+   "end": 3.753
+  },
+  {
+   "text": "thousand",
+   "index": 72,
+   "start": 3.767,
+   "end": 4.281
+  },
+  {
+   "text": "miles",
+   "index": 81,
+   "start": 4.294,
+   "end": 4.711
+  },
+  {
+   "text": "from",
+   "index": 87,
+   "start": 4.725,
+   "end": 4.892
+  },
+  {
+   "text": "any",
+   "index": 92,
+   "start": 4.906,
+   "end": 5.128
+  },
+  {
+   "text": "inhabited",
+   "index": 96,
+   "start": 5.142,
+   "end": 5.711
+  },
+  {
+   "text": "region",
+   "index": 106,
+   "start": 5.725,
+   "end": 6.239
+  },
+  {
+   "text": "When",
+   "index": 114,
+   "start": 7.203,
+   "end": 7.494
+  },
+  {
+   "text": "at",
+   "index": 119,
+   "start": 7.508,
+   "end": 7.619
+  },
+  {
+   "text": "last",
+   "index": 122,
+   "start": 7.633,
+   "end": 8.008
+  },
+  {
+   "text": "I",
+   "index": 127,
+   "start": 8.022,
+   "end": 8.092
+  },
+  {
+   "text": "managed",
+   "index": 129,
+   "start": 8.106,
+   "end": 8.508
+  },
+  {
+   "text": "to",
+   "index": 137,
+   "start": 8.522,
+   "end": 8.592
+  },
+  {
+   "text": "speak",
+   "index": 140,
+   "start": 8.606,
+   "end": 9.078
+  },
+  {
+   "text": "I",
+   "index": 147,
+   "start": 9.328,
+   "end": 9.411
+  },
+  {
+   "text": "said",
+   "index": 149,
+   "start": 9.425,
+   "end": 9.717
+  },
+  {
+   "text": "to",
+   "index": 154,
+   "start": 9.731,
+   "end": 9.856
+  },
+  {
+   "text": "him",
+   "index": 157,
+   "start": 9.869,
+   "end": 10.217
+  }
+ ]
+}

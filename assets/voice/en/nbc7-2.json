@@ -1,0 +1,139 @@
+{
+ "audio": "assets/voice/en/nbc7-2.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "He was dressed all in fur, from his head to his foot,\nAnd his clothes were all covered with ashes and soot;",
+ "words": [
+  {
+   "text": "He",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.258
+  },
+  {
+   "text": "was",
+   "index": 3,
+   "start": 0.272,
+   "end": 0.439
+  },
+  {
+   "text": "dressed",
+   "index": 7,
+   "start": 0.453,
+   "end": 0.828
+  },
+  {
+   "text": "all",
+   "index": 15,
+   "start": 0.842,
+   "end": 1.092
+  },
+  {
+   "text": "in",
+   "index": 19,
+   "start": 1.106,
+   "end": 1.244
+  },
+  {
+   "text": "fur",
+   "index": 22,
+   "start": 1.258,
+   "end": 1.647
+  },
+  {
+   "text": "from",
+   "index": 27,
+   "start": 1.869,
+   "end": 2.05
+  },
+  {
+   "text": "his",
+   "index": 32,
+   "start": 2.064,
+   "end": 2.217
+  },
+  {
+   "text": "head",
+   "index": 36,
+   "start": 2.231,
+   "end": 2.494
+  },
+  {
+   "text": "to",
+   "index": 41,
+   "start": 2.508,
+   "end": 2.619
+  },
+  {
+   "text": "his",
+   "index": 44,
+   "start": 2.633,
+   "end": 2.8
+  },
+  {
+   "text": "foot",
+   "index": 48,
+   "start": 2.814,
+   "end": 3.272
+  },
+  {
+   "text": "And",
+   "index": 54,
+   "start": 4.236,
+   "end": 4.417
+  },
+  {
+   "text": "his",
+   "index": 58,
+   "start": 4.431,
+   "end": 4.597
+  },
+  {
+   "text": "clothes",
+   "index": 62,
+   "start": 4.611,
+   "end": 5.111
+  },
+  {
+   "text": "were",
+   "index": 70,
+   "start": 5.125,
+   "end": 5.306
+  },
+  {
+   "text": "all",
+   "index": 75,
+   "start": 5.319,
+   "end": 5.542
+  },
+  {
+   "text": "covered",
+   "index": 79,
+   "start": 5.556,
+   "end": 5.944
+  },
+  {
+   "text": "with",
+   "index": 87,
+   "start": 5.958,
+   "end": 6.111
+  },
+  {
+   "text": "ashes",
+   "index": 92,
+   "start": 6.125,
+   "end": 6.583
+  },
+  {
+   "text": "and",
+   "index": 98,
+   "start": 6.597,
+   "end": 6.75
+  },
+  {
+   "text": "soot",
+   "index": 102,
+   "start": 6.764,
+   "end": 7.264
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "audio": "assets/voice/en/nbc2-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "The children were nestled all snug in their beds,\nWhile visions of sugar-plums danced in their heads;",
+ "words": [
+  {
+   "text": "The",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.286
+  },
+  {
+   "text": "children",
+   "index": 4,
+   "start": 0.3,
+   "end": 0.786
+  },
+  {
+   "text": "were",
+   "index": 13,
+   "start": 0.8,
+   "end": 0.897
+  },
+  {
+   "text": "nestled",
+   "index": 18,
+   "start": 0.911,
+   "end": 1.411
+  },
+  {
+   "text": "all",
+   "index": 26,
+   "start": 1.425,
+   "end": 1.661
+  },
+  {
+   "text": "snug",
+   "index": 30,
+   "start": 1.675,
+   "end": 2.036
+  },
+  {
+   "text": "in",
+   "index": 35,
+   "start": 2.05,
+   "end": 2.119
+  },
+  {
+   "text": "their",
+   "index": 38,
+   "start": 2.133,
+   "end": 2.3
+  },
+  {
+   "text": "beds",
+   "index": 44,
+   "start": 2.314,
+   "end": 2.842
+  },
+  {
+   "text": "While",
+   "index": 50,
+   "start": 3.806,
+   "end": 4.069
+  },
+  {
+   "text": "visions",
+   "index": 56,
+   "start": 4.083,
+   "end": 4.528
+  },
+  {
+   "text": "of",
+   "index": 64,
+   "start": 4.542,
+   "end": 4.625
+  },
+  {
+   "text": "sugar-plums",
+   "index": 67,
+   "start": 4.639,
+   "end": 5.444
+  },
+  {
+   "text": "danced",
+   "index": 79,
+   "start": 5.458,
+   "end": 5.875
+  },
+  {
+   "text": "in",
+   "index": 86,
+   "start": 5.889,
+   "end": 5.958
+  },
+  {
+   "text": "their",
+   "index": 89,
+   "start": 5.972,
+   "end": 6.125
+  },
+  {
+   "text": "heads",
+   "index": 95,
+   "start": 6.139,
+   "end": 6.722
+  }
+ ]
+}

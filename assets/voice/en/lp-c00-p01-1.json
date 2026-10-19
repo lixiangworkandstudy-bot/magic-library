@@ -1,0 +1,25 @@
+{
+ "audio": "assets/voice/en/lp-c00-p01-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "TO LÉON WERTH",
+ "words": [
+  {
+   "text": "TO",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.281
+  },
+  {
+   "text": "LÉON",
+   "index": 3,
+   "start": 0.294,
+   "end": 0.725
+  },
+  {
+   "text": "WERTH",
+   "index": 8,
+   "start": 0.739,
+   "end": 1.183
+  }
+ ]
+}

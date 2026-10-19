@@ -1,0 +1,139 @@
+{
+ "audio": "assets/voice/en/nbc8-2.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "His funny little mouth was drawn up like a bow,\nAnd the beard on his chin was as white as the snow.",
+ "words": [
+  {
+   "text": "His",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.383
+  },
+  {
+   "text": "funny",
+   "index": 4,
+   "start": 0.397,
+   "end": 0.689
+  },
+  {
+   "text": "little",
+   "index": 10,
+   "start": 0.703,
+   "end": 0.939
+  },
+  {
+   "text": "mouth",
+   "index": 17,
+   "start": 0.953,
+   "end": 1.314
+  },
+  {
+   "text": "was",
+   "index": 23,
+   "start": 1.328,
+   "end": 1.494
+  },
+  {
+   "text": "drawn",
+   "index": 27,
+   "start": 1.508,
+   "end": 1.828
+  },
+  {
+   "text": "up",
+   "index": 33,
+   "start": 1.842,
+   "end": 2.008
+  },
+  {
+   "text": "like",
+   "index": 36,
+   "start": 2.022,
+   "end": 2.203
+  },
+  {
+   "text": "a",
+   "index": 41,
+   "start": 2.217,
+   "end": 2.286
+  },
+  {
+   "text": "bow",
+   "index": 43,
+   "start": 2.3,
+   "end": 2.758
+  },
+  {
+   "text": "And",
+   "index": 48,
+   "start": 3.736,
+   "end": 3.931
+  },
+  {
+   "text": "the",
+   "index": 52,
+   "start": 3.944,
+   "end": 4.056
+  },
+  {
+   "text": "beard",
+   "index": 56,
+   "start": 4.069,
+   "end": 4.389
+  },
+  {
+   "text": "on",
+   "index": 62,
+   "start": 4.403,
+   "end": 4.542
+  },
+  {
+   "text": "his",
+   "index": 65,
+   "start": 4.556,
+   "end": 4.736
+  },
+  {
+   "text": "chin",
+   "index": 69,
+   "start": 4.75,
+   "end": 5.069
+  },
+  {
+   "text": "was",
+   "index": 74,
+   "start": 5.083,
+   "end": 5.236
+  },
+  {
+   "text": "as",
+   "index": 78,
+   "start": 5.25,
+   "end": 5.375
+  },
+  {
+   "text": "white",
+   "index": 81,
+   "start": 5.389,
+   "end": 5.667
+  },
+  {
+   "text": "as",
+   "index": 87,
+   "start": 5.681,
+   "end": 5.778
+  },
+  {
+   "text": "the",
+   "index": 90,
+   "start": 5.792,
+   "end": 5.917
+  },
+  {
+   "text": "snow",
+   "index": 94,
+   "start": 5.931,
+   "end": 6.472
+  }
+ ]
+}

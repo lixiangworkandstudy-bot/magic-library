@@ -1,0 +1,79 @@
+{
+ "audio": "assets/voice/en/lp-c02-p32-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"Not so small as all that... Look! He has gone to sleep...\"",
+ "words": [
+  {
+   "text": "Not",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.453
+  },
+  {
+   "text": "so",
+   "index": 5,
+   "start": 0.467,
+   "end": 0.772
+  },
+  {
+   "text": "small",
+   "index": 8,
+   "start": 0.786,
+   "end": 1.3
+  },
+  {
+   "text": "as",
+   "index": 14,
+   "start": 1.314,
+   "end": 1.508
+  },
+  {
+   "text": "all",
+   "index": 17,
+   "start": 1.522,
+   "end": 1.772
+  },
+  {
+   "text": "that",
+   "index": 21,
+   "start": 1.786,
+   "end": 2.175
+  },
+  {
+   "text": "Look",
+   "index": 29,
+   "start": 3.139,
+   "end": 3.611
+  },
+  {
+   "text": "He",
+   "index": 35,
+   "start": 4.556,
+   "end": 4.792
+  },
+  {
+   "text": "has",
+   "index": 38,
+   "start": 4.806,
+   "end": 5.042
+  },
+  {
+   "text": "gone",
+   "index": 42,
+   "start": 5.056,
+   "end": 5.431
+  },
+  {
+   "text": "to",
+   "index": 47,
+   "start": 5.444,
+   "end": 5.569
+  },
+  {
+   "text": "sleep",
+   "index": 50,
+   "start": 5.583,
+   "end": 6.125
+  }
+ ]
+}

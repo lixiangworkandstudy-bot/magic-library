@@ -1,0 +1,647 @@
+{
+  "schemaVersion": 3,
+  "title": "纸月亮",
+  "language": "zh",
+  "adaptation": "原创样片：小狐狸想摘月亮。素材由 tools/make_assets.py 程序化生成。",
+  "pageGeometry": {
+    "pageWidth": 0.888,
+    "pageHeight": 1,
+    "coordinateUnits": "book"
+  },
+  "bookmarks": {
+    "schemaVersion": 1,
+    "storageKey": "paper-moon-sample/v1"
+  },
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "纸月亮",
+      "titleEn": "The Paper Moon"
+    }
+  ],
+  "spreadOrder": [
+    "spread-01",
+    "spread-02",
+    "spread-03"
+  ],
+  "assets": [
+    {
+      "id": "cover-art",
+      "type": "cover",
+      "role": "cover",
+      "file": "assets/art/cover.png"
+    },
+    {
+      "id": "ground-forest",
+      "type": "page-art",
+      "role": "ground-only",
+      "file": "assets/art/ground-forest.png"
+    },
+    {
+      "id": "ground-pond",
+      "type": "page-art",
+      "role": "ground-only",
+      "file": "assets/art/ground-pond.png"
+    },
+    {
+      "id": "bg-night-hills",
+      "type": "standee",
+      "role": "background",
+      "file": "assets/art/bg-night-hills.png",
+      "maskFile": "assets/art/bg-night-hills-mask.png",
+      "alphaBounds": [
+        0.0,
+        0.048,
+        1.0,
+        0.952
+      ]
+    },
+    {
+      "id": "bg-moon-sky",
+      "type": "standee",
+      "role": "background",
+      "file": "assets/art/bg-moon-sky.png",
+      "maskFile": "assets/art/bg-moon-sky-mask.png",
+      "alphaBounds": [
+        0.0,
+        0.053,
+        1.0,
+        0.947
+      ]
+    },
+    {
+      "id": "mid-fox-right",
+      "type": "standee",
+      "role": "character",
+      "file": "assets/art/mid-fox-right.png",
+      "maskFile": "assets/art/mid-fox-right-mask.png",
+      "alphaBounds": [
+        0.042,
+        0.095,
+        0.817,
+        0.888
+      ]
+    },
+    {
+      "id": "mid-pine",
+      "type": "standee",
+      "role": "midground",
+      "file": "assets/art/mid-pine.png",
+      "maskFile": "assets/art/mid-pine-mask.png",
+      "alphaBounds": [
+        0.033,
+        0.036,
+        0.933,
+        0.964
+      ]
+    },
+    {
+      "id": "fg-grass",
+      "type": "standee",
+      "role": "foreground",
+      "file": "assets/art/fg-grass.png",
+      "maskFile": "assets/art/fg-grass-mask.png",
+      "alphaBounds": [
+        0.024,
+        0.175,
+        0.943,
+        0.825
+      ]
+    },
+    {
+      "id": "fg-mushrooms",
+      "type": "standee",
+      "role": "foreground",
+      "file": "assets/art/fg-mushrooms.png",
+      "maskFile": "assets/art/fg-mushrooms-mask.png",
+      "alphaBounds": [
+        0.056,
+        0.12,
+        0.919,
+        0.88
+      ]
+    },
+    {
+      "id": "fg-reeds",
+      "type": "standee",
+      "role": "foreground",
+      "file": "assets/art/fg-reeds.png",
+      "maskFile": "assets/art/fg-reeds-mask.png",
+      "alphaBounds": [
+        0.097,
+        0.125,
+        0.793,
+        0.875
+      ]
+    }
+  ],
+  "spreads": [
+    {
+      "id": "spread-01",
+      "chapterId": "chapter-01",
+      "title": "月亮在山那边",
+      "focalSubject": "mid-fox-right",
+      "pageArt": {
+        "left": "ground-forest",
+        "right": "ground-forest"
+      },
+      "scene": [
+        {
+          "id": "s1-hills",
+          "assetId": "bg-night-hills",
+          "layer": "background",
+          "coordinateSpace": "spread",
+          "crossGutter": true,
+          "side": "left",
+          "anchor": [
+            0.5,
+            0.2
+          ],
+          "maxWidth": 2,
+          "maxHeight": 0.5,
+          "mechanism": "hinge",
+          "reveal": {
+            "start": 0.45,
+            "end": 0.95
+          },
+          "word": "mountain",
+          "regions": [
+            {
+              "word": "moon",
+              "rect": [
+                0.7,
+                0.06,
+                0.09,
+                0.31
+              ]
+            },
+            {
+              "word": "star",
+              "rect": [
+                0,
+                0,
+                1,
+                0.22
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s1-pine",
+          "assetId": "mid-pine",
+          "layer": "midground",
+          "coordinateSpace": "page",
+          "side": "left",
+          "anchor": [
+            0.75,
+            0.48
+          ],
+          "maxWidth": 0.4,
+          "maxHeight": 0.62,
+          "mechanism": "hinge",
+          "reveal": {
+            "start": 0.45,
+            "end": 0.95
+          },
+          "word": "tree"
+        },
+        {
+          "id": "s1-fox",
+          "assetId": "mid-fox-right",
+          "layer": "midground",
+          "coordinateSpace": "page",
+          "side": "left",
+          "anchor": [
+            0.38,
+            0.6
+          ],
+          "maxWidth": 0.4,
+          "maxHeight": 0.4,
+          "mechanism": "hinge",
+          "reveal": {
+            "start": 0.45,
+            "end": 0.95
+          },
+          "word": "fox"
+        },
+        {
+          "id": "s1-grass",
+          "assetId": "fg-grass",
+          "layer": "foreground",
+          "coordinateSpace": "page",
+          "side": "right",
+          "anchor": [
+            0.55,
+            0.86
+          ],
+          "maxWidth": 0.6,
+          "maxHeight": 0.16,
+          "mechanism": "hinge",
+          "reveal": {
+            "start": 0.45,
+            "end": 0.95
+          },
+          "word": "grass"
+        }
+      ],
+      "passages": [
+        {
+          "id": "p1-1",
+          "speaker": "旁白",
+          "text": "夜里，小狐狸坐在松树下，看见月亮挂在山的那一边。",
+          "audio": null,
+          "textEn": "At night, the little fox sat under the pine tree and saw the moon over the mountain.",
+          "speakerEn": "Narrator"
+        },
+        {
+          "id": "p1-2",
+          "speaker": "小狐狸",
+          "text": "它看起来好近呀，我要去把它摘下来。",
+          "audio": null,
+          "textEn": "It looks so close! I will go and pick it.",
+          "speakerEn": "Little Fox"
+        }
+      ],
+      "groundHotspots": [
+        {
+          "word": "path",
+          "rect": [
+            0.64,
+            0.45,
+            0.25,
+            0.55
+          ]
+        }
+      ],
+      "titleEn": "The Moon Beyond the Hills"
+    },
+    {
+      "id": "spread-02",
+      "chapterId": "chapter-01",
+      "title": "爬上最高的山",
+      "focalSubject": "mid-fox-right",
+      "pageArt": {
+        "left": "ground-forest",
+        "right": "ground-forest"
+      },
+      "scene": [
+        {
+          "id": "s2-hills",
+          "assetId": "bg-night-hills",
+          "layer": "background",
+          "coordinateSpace": "spread",
+          "crossGutter": true,
+          "side": "left",
+          "anchor": [
+            0.5,
+            0.16
+          ],
+          "maxWidth": 2,
+          "maxHeight": 0.56,
+          "mechanism": "hinge",
+          "reveal": {
+            "start": 0.45,
+            "end": 0.95
+          },
+          "word": "mountain",
+          "regions": [
+            {
+              "word": "moon",
+              "rect": [
+                0.7,
+                0.06,
+                0.09,
+                0.31
+              ]
+            },
+            {
+              "word": "star",
+              "rect": [
+                0,
+                0,
+                1,
+                0.22
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s2-pine",
+          "assetId": "mid-pine",
+          "layer": "midground",
+          "coordinateSpace": "page",
+          "side": "left",
+          "anchor": [
+            0.4,
+            0.46
+          ],
+          "maxWidth": 0.36,
+          "maxHeight": 0.5,
+          "mechanism": "hinge",
+          "reveal": {
+            "start": 0.45,
+            "end": 0.95
+          },
+          "word": "tree"
+        },
+        {
+          "id": "s2-fox",
+          "assetId": "mid-fox-right",
+          "layer": "midground",
+          "coordinateSpace": "page",
+          "side": "right",
+          "anchor": [
+            0.45,
+            0.55
+          ],
+          "maxWidth": 0.34,
+          "maxHeight": 0.34,
+          "mechanism": "hinge",
+          "reveal": {
+            "start": 0.45,
+            "end": 0.95
+          },
+          "word": "fox"
+        },
+        {
+          "id": "s2-mush",
+          "assetId": "fg-mushrooms",
+          "layer": "foreground",
+          "coordinateSpace": "page",
+          "side": "left",
+          "anchor": [
+            0.55,
+            0.84
+          ],
+          "maxWidth": 0.45,
+          "maxHeight": 0.18,
+          "mechanism": "hinge",
+          "reveal": {
+            "start": 0.45,
+            "end": 0.95
+          },
+          "word": "mushroom"
+        }
+      ],
+      "passages": [
+        {
+          "id": "p2-1",
+          "speaker": "旁白",
+          "text": "小狐狸跑过蘑菇地，爬上了最高的山。",
+          "audio": null,
+          "textEn": "The fox ran past the mushrooms and climbed the highest mountain.",
+          "speakerEn": "Narrator"
+        },
+        {
+          "id": "p2-2",
+          "speaker": "小狐狸",
+          "text": "咦？月亮怎么还是那么远？",
+          "audio": null,
+          "textEn": "Huh? Why is the moon still so far away?",
+          "speakerEn": "Little Fox"
+        }
+      ],
+      "groundHotspots": [
+        {
+          "word": "path",
+          "rect": [
+            0.64,
+            0.45,
+            0.25,
+            0.55
+          ]
+        }
+      ],
+      "titleEn": "Up the Highest Hill"
+    },
+    {
+      "id": "spread-03",
+      "chapterId": "chapter-01",
+      "title": "月亮掉进水里了",
+      "focalSubject": "mid-fox-right",
+      "pageArt": {
+        "left": "ground-pond",
+        "right": "ground-pond"
+      },
+      "scene": [
+        {
+          "id": "s3-sky",
+          "assetId": "bg-moon-sky",
+          "layer": "background",
+          "coordinateSpace": "spread",
+          "crossGutter": true,
+          "side": "left",
+          "anchor": [
+            0.5,
+            0.16
+          ],
+          "maxWidth": 2,
+          "maxHeight": 0.5,
+          "mechanism": "hinge",
+          "reveal": {
+            "start": 0.45,
+            "end": 0.95
+          },
+          "word": "mountain",
+          "regions": [
+            {
+              "word": "moon",
+              "rect": [
+                0.45,
+                0.04,
+                0.11,
+                0.4
+              ]
+            },
+            {
+              "word": "cloud",
+              "rect": [
+                0.2,
+                0.25,
+                0.13,
+                0.23
+              ]
+            },
+            {
+              "word": "cloud",
+              "rect": [
+                0.67,
+                0.17,
+                0.13,
+                0.23
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s3-fox",
+          "assetId": "mid-fox-right",
+          "layer": "midground",
+          "coordinateSpace": "page",
+          "side": "left",
+          "anchor": [
+            0.45,
+            0.58
+          ],
+          "maxWidth": 0.38,
+          "maxHeight": 0.38,
+          "mechanism": "hinge",
+          "reveal": {
+            "start": 0.45,
+            "end": 0.95
+          },
+          "word": "fox"
+        },
+        {
+          "id": "s3-reeds",
+          "assetId": "fg-reeds",
+          "layer": "foreground",
+          "coordinateSpace": "page",
+          "side": "right",
+          "anchor": [
+            0.88,
+            0.86
+          ],
+          "maxWidth": 0.24,
+          "maxHeight": 0.3,
+          "mechanism": "hinge",
+          "reveal": {
+            "start": 0.45,
+            "end": 0.95
+          },
+          "word": "reed"
+        }
+      ],
+      "passages": [
+        {
+          "id": "p3-1",
+          "speaker": "旁白",
+          "text": "回家的路上，小狐狸在水塘边停了下来。",
+          "audio": null,
+          "textEn": "On the way home, the little fox stopped by the pond.",
+          "speakerEn": "Narrator"
+        },
+        {
+          "id": "p3-2",
+          "speaker": "小狐狸",
+          "text": "月亮，原来你在这里呀！我不用摘，你一直跟着我呢。",
+          "audio": null,
+          "textEn": "Moon, there you are! I don't need to pick you. You follow me everywhere.",
+          "speakerEn": "Little Fox"
+        }
+      ],
+      "groundHotspots": [
+        {
+          "word": "moon",
+          "rect": [
+            0.72,
+            0.545,
+            0.08,
+            0.11
+          ]
+        },
+        {
+          "word": "pond",
+          "rect": [
+            0.56,
+            0.38,
+            0.41,
+            0.46
+          ]
+        }
+      ],
+      "titleEn": "The Moon Fell in the Pond"
+    }
+  ],
+  "covers": {
+    "front": "cover-art"
+  },
+  "learning": {
+    "languages": [
+      "zh",
+      "en",
+      "fr"
+    ],
+    "default": "en",
+    "gloss": "zh",
+    "voices": {
+      "zh": "zh-CN",
+      "en": "en-US",
+      "fr": "fr-FR"
+    },
+    "labels": {
+      "zh": "中",
+      "en": "EN",
+      "fr": "FR"
+    }
+  },
+  "vocab": {
+    "fox": {
+      "zh": "狐狸",
+      "pinyin": "hú li",
+      "en": "fox",
+      "fr": "le renard"
+    },
+    "moon": {
+      "zh": "月亮",
+      "pinyin": "yuè liang",
+      "en": "moon",
+      "fr": "la lune"
+    },
+    "star": {
+      "zh": "星星",
+      "pinyin": "xīng xing",
+      "en": "star",
+      "fr": "l'étoile"
+    },
+    "mountain": {
+      "zh": "山",
+      "pinyin": "shān",
+      "en": "mountain",
+      "fr": "la montagne"
+    },
+    "tree": {
+      "zh": "松树",
+      "pinyin": "sōng shù",
+      "en": "pine tree",
+      "fr": "le sapin"
+    },
+    "grass": {
+      "zh": "草",
+      "pinyin": "cǎo",
+      "en": "grass",
+      "fr": "l'herbe"
+    },
+    "mushroom": {
+      "zh": "蘑菇",
+      "pinyin": "mó gu",
+      "en": "mushroom",
+      "fr": "le champignon"
+    },
+    "pond": {
+      "zh": "水塘",
+      "pinyin": "shuǐ táng",
+      "en": "pond",
+      "fr": "la mare"
+    },
+    "reed": {
+      "zh": "芦苇",
+      "pinyin": "lú wěi",
+      "en": "reed",
+      "fr": "le roseau"
+    },
+    "cloud": {
+      "zh": "云",
+      "pinyin": "yún",
+      "en": "cloud",
+      "fr": "le nuage"
+    },
+    "path": {
+      "zh": "小路",
+      "pinyin": "xiǎo lù",
+      "en": "path",
+      "fr": "le chemin"
+    }
+  },
+  "titleEn": "The Paper Moon"
+}

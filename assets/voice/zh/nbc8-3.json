@@ -1,0 +1,133 @@
+{
+ "audio": "assets/voice/zh/nbc8-3.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "圆圆的脸，圆圆的小肚子，一笑起来，像一碗果冻，晃呀晃呀晃。",
+ "words": [
+  {
+   "text": "圆",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.356
+  },
+  {
+   "text": "圆",
+   "index": 1,
+   "start": 0.356,
+   "end": 0.55
+  },
+  {
+   "text": "的",
+   "index": 2,
+   "start": 0.55,
+   "end": 0.689
+  },
+  {
+   "text": "脸",
+   "index": 3,
+   "start": 0.689,
+   "end": 1.064
+  },
+  {
+   "text": "圆",
+   "index": 5,
+   "start": 1.342,
+   "end": 1.536
+  },
+  {
+   "text": "圆",
+   "index": 6,
+   "start": 1.536,
+   "end": 1.703
+  },
+  {
+   "text": "的",
+   "index": 7,
+   "start": 1.703,
+   "end": 1.8
+  },
+  {
+   "text": "小",
+   "index": 8,
+   "start": 1.814,
+   "end": 2.05
+  },
+  {
+   "text": "肚子",
+   "index": 9,
+   "start": 2.05,
+   "end": 2.578
+  },
+  {
+   "text": "一",
+   "index": 12,
+   "start": 2.842,
+   "end": 2.981
+  },
+  {
+   "text": "笑",
+   "index": 13,
+   "start": 2.981,
+   "end": 3.231
+  },
+  {
+   "text": "起来",
+   "index": 14,
+   "start": 3.231,
+   "end": 3.647
+  },
+  {
+   "text": "像",
+   "index": 17,
+   "start": 3.897,
+   "end": 4.092
+  },
+  {
+   "text": "一",
+   "index": 18,
+   "start": 4.092,
+   "end": 4.203
+  },
+  {
+   "text": "碗",
+   "index": 19,
+   "start": 4.203,
+   "end": 4.397
+  },
+  {
+   "text": "果冻",
+   "index": 20,
+   "start": 4.411,
+   "end": 4.939
+  },
+  {
+   "text": "晃",
+   "index": 23,
+   "start": 5.231,
+   "end": 5.425
+  },
+  {
+   "text": "呀",
+   "index": 24,
+   "start": 5.425,
+   "end": 5.564
+  },
+  {
+   "text": "晃",
+   "index": 25,
+   "start": 5.578,
+   "end": 5.814
+  },
+  {
+   "text": "呀",
+   "index": 26,
+   "start": 5.814,
+   "end": 5.967
+  },
+  {
+   "text": "晃",
+   "index": 27,
+   "start": 5.967,
+   "end": 6.328
+  }
+ ]
+}

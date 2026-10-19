@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/en/nbc4-2.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "When what to my wondering eyes should appear,\nBut a little sleigh, and eight tiny reindeer,",
+ "words": [
+  {
+   "text": "When",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.342
+  },
+  {
+   "text": "what",
+   "index": 5,
+   "start": 0.356,
+   "end": 0.55
+  },
+  {
+   "text": "to",
+   "index": 10,
+   "start": 0.564,
+   "end": 0.661
+  },
+  {
+   "text": "my",
+   "index": 13,
+   "start": 0.675,
+   "end": 0.828
+  },
+  {
+   "text": "wondering",
+   "index": 16,
+   "start": 0.842,
+   "end": 1.383
+  },
+  {
+   "text": "eyes",
+   "index": 26,
+   "start": 1.397,
+   "end": 1.661
+  },
+  {
+   "text": "should",
+   "index": 31,
+   "start": 1.675,
+   "end": 1.856
+  },
+  {
+   "text": "appear",
+   "index": 38,
+   "start": 1.869,
+   "end": 2.411
+  },
+  {
+   "text": "But",
+   "index": 46,
+   "start": 3.375,
+   "end": 3.569
+  },
+  {
+   "text": "a",
+   "index": 50,
+   "start": 3.583,
+   "end": 3.639
+  },
+  {
+   "text": "little",
+   "index": 52,
+   "start": 3.653,
+   "end": 3.917
+  },
+  {
+   "text": "sleigh",
+   "index": 59,
+   "start": 3.931,
+   "end": 4.361
+  },
+  {
+   "text": "and",
+   "index": 67,
+   "start": 4.556,
+   "end": 4.847
+  },
+  {
+   "text": "eight",
+   "index": 71,
+   "start": 4.861,
+   "end": 5.069
+  },
+  {
+   "text": "tiny",
+   "index": 77,
+   "start": 5.083,
+   "end": 5.458
+  },
+  {
+   "text": "reindeer",
+   "index": 82,
+   "start": 5.472,
+   "end": 6.181
+  }
+ ]
+}

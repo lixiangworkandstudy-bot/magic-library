@@ -1,0 +1,199 @@
+{
+ "audio": "assets/voice/en/lp-c00-p02-3.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "He badly needs to be comforted. If all these excuses are not enough, then I will gladly dedicate this book to the child this grown-up once was. All grown-ups were children first.",
+ "words": [
+  {
+   "text": "He",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.322
+  },
+  {
+   "text": "badly",
+   "index": 3,
+   "start": 0.336,
+   "end": 0.822
+  },
+  {
+   "text": "needs",
+   "index": 9,
+   "start": 0.836,
+   "end": 1.156
+  },
+  {
+   "text": "to",
+   "index": 15,
+   "start": 1.169,
+   "end": 1.267
+  },
+  {
+   "text": "be",
+   "index": 18,
+   "start": 1.281,
+   "end": 1.392
+  },
+  {
+   "text": "comforted",
+   "index": 21,
+   "start": 1.406,
+   "end": 2.183
+  },
+  {
+   "text": "If",
+   "index": 32,
+   "start": 3.147,
+   "end": 3.383
+  },
+  {
+   "text": "all",
+   "index": 35,
+   "start": 3.397,
+   "end": 3.564
+  },
+  {
+   "text": "these",
+   "index": 39,
+   "start": 3.578,
+   "end": 3.772
+  },
+  {
+   "text": "excuses",
+   "index": 45,
+   "start": 3.786,
+   "end": 4.342
+  },
+  {
+   "text": "are",
+   "index": 53,
+   "start": 4.356,
+   "end": 4.439
+  },
+  {
+   "text": "not",
+   "index": 57,
+   "start": 4.453,
+   "end": 4.689
+  },
+  {
+   "text": "enough",
+   "index": 61,
+   "start": 4.703,
+   "end": 5.161
+  },
+  {
+   "text": "then",
+   "index": 69,
+   "start": 5.425,
+   "end": 5.578
+  },
+  {
+   "text": "I",
+   "index": 74,
+   "start": 5.592,
+   "end": 5.661
+  },
+  {
+   "text": "will",
+   "index": 76,
+   "start": 5.675,
+   "end": 5.842
+  },
+  {
+   "text": "gladly",
+   "index": 81,
+   "start": 5.856,
+   "end": 6.286
+  },
+  {
+   "text": "dedicate",
+   "index": 88,
+   "start": 6.3,
+   "end": 6.786
+  },
+  {
+   "text": "this",
+   "index": 97,
+   "start": 6.8,
+   "end": 7.008
+  },
+  {
+   "text": "book",
+   "index": 102,
+   "start": 7.022,
+   "end": 7.272
+  },
+  {
+   "text": "to",
+   "index": 107,
+   "start": 7.286,
+   "end": 7.369
+  },
+  {
+   "text": "the",
+   "index": 110,
+   "start": 7.383,
+   "end": 7.481
+  },
+  {
+   "text": "child",
+   "index": 114,
+   "start": 7.494,
+   "end": 7.897
+  },
+  {
+   "text": "this",
+   "index": 120,
+   "start": 7.911,
+   "end": 8.092
+  },
+  {
+   "text": "grown-up",
+   "index": 125,
+   "start": 8.106,
+   "end": 8.564
+  },
+  {
+   "text": "once",
+   "index": 134,
+   "start": 8.578,
+   "end": 8.869
+  },
+  {
+   "text": "was",
+   "index": 139,
+   "start": 8.883,
+   "end": 9.286
+  },
+  {
+   "text": "All",
+   "index": 144,
+   "start": 10.244,
+   "end": 10.522
+  },
+  {
+   "text": "grown-ups",
+   "index": 148,
+   "start": 10.536,
+   "end": 11.05
+  },
+  {
+   "text": "were",
+   "index": 158,
+   "start": 11.064,
+   "end": 11.175
+  },
+  {
+   "text": "children",
+   "index": 163,
+   "start": 11.189,
+   "end": 11.661
+  },
+  {
+   "text": "first",
+   "index": 172,
+   "start": 11.675,
+   "end": 12.3
+  }
+ ]
+}

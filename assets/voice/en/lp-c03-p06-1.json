@@ -1,0 +1,31 @@
+{
+ "audio": "assets/voice/en/lp-c03-p06-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"Yes,\" I said modestly.",
+ "words": [
+  {
+   "text": "Yes",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.586
+  },
+  {
+   "text": "I",
+   "index": 7,
+   "start": 0.794,
+   "end": 0.892
+  },
+  {
+   "text": "said",
+   "index": 9,
+   "start": 0.906,
+   "end": 1.197
+  },
+  {
+   "text": "modestly",
+   "index": 14,
+   "start": 1.211,
+   "end": 1.933
+  }
+ ]
+}

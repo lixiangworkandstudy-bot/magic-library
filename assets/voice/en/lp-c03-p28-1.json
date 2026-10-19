@@ -1,0 +1,55 @@
+{
+ "audio": "assets/voice/en/lp-c03-p28-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And, with a little melancholy, perhaps, he added:",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.433
+  },
+  {
+   "text": "with",
+   "index": 5,
+   "start": 0.558,
+   "end": 0.711
+  },
+  {
+   "text": "a",
+   "index": 10,
+   "start": 0.725,
+   "end": 0.767
+  },
+  {
+   "text": "little",
+   "index": 12,
+   "start": 0.781,
+   "end": 1.156
+  },
+  {
+   "text": "melancholy",
+   "index": 19,
+   "start": 1.169,
+   "end": 1.906
+  },
+  {
+   "text": "perhaps",
+   "index": 31,
+   "start": 2.169,
+   "end": 2.85
+  },
+  {
+   "text": "he",
+   "index": 40,
+   "start": 3.114,
+   "end": 3.267
+  },
+  {
+   "text": "added",
+   "index": 43,
+   "start": 3.281,
+   "end": 3.725
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "audio": "assets/voice/en/lp-c03-p21-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"Tie him up? What a funny idea!\"",
+ "words": [
+  {
+   "text": "Tie",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.397
+  },
+  {
+   "text": "him",
+   "index": 5,
+   "start": 0.411,
+   "end": 0.606
+  },
+  {
+   "text": "up",
+   "index": 9,
+   "start": 0.619,
+   "end": 0.925
+  },
+  {
+   "text": "What",
+   "index": 13,
+   "start": 1.903,
+   "end": 2.194
+  },
+  {
+   "text": "a",
+   "index": 18,
+   "start": 2.208,
+   "end": 2.292
+  },
+  {
+   "text": "funny",
+   "index": 20,
+   "start": 2.306,
+   "end": 2.764
+  },
+  {
+   "text": "idea",
+   "index": 26,
+   "start": 2.778,
+   "end": 3.403
+  }
+ ]
+}

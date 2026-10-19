@@ -1,0 +1,187 @@
+{
+ "audio": "assets/voice/en/lp-c00-p02-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "I ask the children to forgive me for dedicating this book to a grown-up. I have a serious excuse: this grown-up is the best friend I have in the world.",
+ "words": [
+  {
+   "text": "I",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.281
+  },
+  {
+   "text": "ask",
+   "index": 2,
+   "start": 0.294,
+   "end": 0.558
+  },
+  {
+   "text": "the",
+   "index": 6,
+   "start": 0.572,
+   "end": 0.656
+  },
+  {
+   "text": "children",
+   "index": 10,
+   "start": 0.669,
+   "end": 1.086
+  },
+  {
+   "text": "to",
+   "index": 19,
+   "start": 1.1,
+   "end": 1.197
+  },
+  {
+   "text": "forgive",
+   "index": 22,
+   "start": 1.211,
+   "end": 1.544
+  },
+  {
+   "text": "me",
+   "index": 30,
+   "start": 1.558,
+   "end": 1.683
+  },
+  {
+   "text": "for",
+   "index": 33,
+   "start": 1.697,
+   "end": 1.836
+  },
+  {
+   "text": "dedicating",
+   "index": 37,
+   "start": 1.85,
+   "end": 2.489
+  },
+  {
+   "text": "this",
+   "index": 48,
+   "start": 2.503,
+   "end": 2.697
+  },
+  {
+   "text": "book",
+   "index": 53,
+   "start": 2.711,
+   "end": 2.933
+  },
+  {
+   "text": "to",
+   "index": 58,
+   "start": 2.947,
+   "end": 3.086
+  },
+  {
+   "text": "a",
+   "index": 61,
+   "start": 3.1,
+   "end": 3.169
+  },
+  {
+   "text": "grown-up",
+   "index": 63,
+   "start": 3.183,
+   "end": 3.836
+  },
+  {
+   "text": "I",
+   "index": 73,
+   "start": 4.8,
+   "end": 4.981
+  },
+  {
+   "text": "have",
+   "index": 75,
+   "start": 4.994,
+   "end": 5.189
+  },
+  {
+   "text": "a",
+   "index": 80,
+   "start": 5.203,
+   "end": 5.272
+  },
+  {
+   "text": "serious",
+   "index": 82,
+   "start": 5.286,
+   "end": 5.828
+  },
+  {
+   "text": "excuse",
+   "index": 90,
+   "start": 5.842,
+   "end": 6.578
+  },
+  {
+   "text": "this",
+   "index": 98,
+   "start": 6.772,
+   "end": 7.008
+  },
+  {
+   "text": "grown-up",
+   "index": 103,
+   "start": 7.022,
+   "end": 7.494
+  },
+  {
+   "text": "is",
+   "index": 112,
+   "start": 7.508,
+   "end": 7.633
+  },
+  {
+   "text": "the",
+   "index": 115,
+   "start": 7.647,
+   "end": 7.772
+  },
+  {
+   "text": "best",
+   "index": 119,
+   "start": 7.786,
+   "end": 8.133
+  },
+  {
+   "text": "friend",
+   "index": 124,
+   "start": 8.147,
+   "end": 8.439
+  },
+  {
+   "text": "I",
+   "index": 131,
+   "start": 8.453,
+   "end": 8.564
+  },
+  {
+   "text": "have",
+   "index": 133,
+   "start": 8.578,
+   "end": 8.772
+  },
+  {
+   "text": "in",
+   "index": 138,
+   "start": 8.786,
+   "end": 8.869
+  },
+  {
+   "text": "the",
+   "index": 141,
+   "start": 8.883,
+   "end": 8.953
+  },
+  {
+   "text": "world",
+   "index": 145,
+   "start": 8.967,
+   "end": 9.633
+  }
+ ]
+}

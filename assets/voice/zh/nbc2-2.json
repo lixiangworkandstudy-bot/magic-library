@@ -1,0 +1,109 @@
+{
+ "audio": "assets/voice/zh/nbc2-2.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "妈妈包着头巾，我戴着睡帽，刚刚闭上眼，要睡个长长的觉——",
+ "words": [
+  {
+   "text": "妈妈",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.425
+  },
+  {
+   "text": "包",
+   "index": 2,
+   "start": 0.453,
+   "end": 0.633
+  },
+  {
+   "text": "着",
+   "index": 3,
+   "start": 0.633,
+   "end": 0.758
+  },
+  {
+   "text": "头巾",
+   "index": 4,
+   "start": 0.772,
+   "end": 1.328
+  },
+  {
+   "text": "我",
+   "index": 7,
+   "start": 1.592,
+   "end": 1.703
+  },
+  {
+   "text": "戴",
+   "index": 8,
+   "start": 1.717,
+   "end": 1.897
+  },
+  {
+   "text": "着",
+   "index": 9,
+   "start": 1.897,
+   "end": 2.008
+  },
+  {
+   "text": "睡帽",
+   "index": 10,
+   "start": 2.022,
+   "end": 2.619
+  },
+  {
+   "text": "刚刚",
+   "index": 13,
+   "start": 2.925,
+   "end": 3.356
+  },
+  {
+   "text": "闭",
+   "index": 15,
+   "start": 3.369,
+   "end": 3.55
+  },
+  {
+   "text": "上眼",
+   "index": 16,
+   "start": 3.55,
+   "end": 4.119
+  },
+  {
+   "text": "要",
+   "index": 19,
+   "start": 4.383,
+   "end": 4.55
+  },
+  {
+   "text": "睡",
+   "index": 20,
+   "start": 4.564,
+   "end": 4.772
+  },
+  {
+   "text": "个",
+   "index": 21,
+   "start": 4.772,
+   "end": 4.856
+  },
+  {
+   "text": "长长",
+   "index": 22,
+   "start": 4.883,
+   "end": 5.439
+  },
+  {
+   "text": "的",
+   "index": 24,
+   "start": 5.439,
+   "end": 5.564
+  },
+  {
+   "text": "觉",
+   "index": 25,
+   "start": 5.564,
+   "end": 5.939
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+{
+ "audio": "assets/voice/en/lp-c02-p06-3.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "I had been discouraged in my career as a painter by the grown-ups, at the age of six, and I had never learned to draw anything except boa constrictors from the outside and boa constrictors from the inside.",
+ "words": [
+  {
+   "text": "I",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.281
+  },
+  {
+   "text": "had",
+   "index": 2,
+   "start": 0.294,
+   "end": 0.475
+  },
+  {
+   "text": "been",
+   "index": 6,
+   "start": 0.489,
+   "end": 0.628
+  },
+  {
+   "text": "discouraged",
+   "index": 11,
+   "start": 0.642,
+   "end": 1.225
+  },
+  {
+   "text": "in",
+   "index": 23,
+   "start": 1.239,
+   "end": 1.336
+  },
+  {
+   "text": "my",
+   "index": 26,
+   "start": 1.35,
+   "end": 1.489
+  },
+  {
+   "text": "career",
+   "index": 29,
+   "start": 1.503,
+   "end": 2.017
+  },
+  {
+   "text": "as",
+   "index": 36,
+   "start": 2.031,
+   "end": 2.142
+  },
+  {
+   "text": "a",
+   "index": 39,
+   "start": 2.156,
+   "end": 2.239
+  },
+  {
+   "text": "painter",
+   "index": 41,
+   "start": 2.253,
+   "end": 2.669
+  },
+  {
+   "text": "by",
+   "index": 49,
+   "start": 2.683,
+   "end": 2.836
+  },
+  {
+   "text": "the",
+   "index": 52,
+   "start": 2.85,
+   "end": 2.961
+  },
+  {
+   "text": "grown-ups",
+   "index": 56,
+   "start": 2.975,
+   "end": 3.683
+  },
+  {
+   "text": "at",
+   "index": 67,
+   "start": 3.906,
+   "end": 4.003
+  },
+  {
+   "text": "the",
+   "index": 70,
+   "start": 4.017,
+   "end": 4.156
+  },
+  {
+   "text": "age",
+   "index": 74,
+   "start": 4.169,
+   "end": 4.447
+  },
+  {
+   "text": "of",
+   "index": 78,
+   "start": 4.461,
+   "end": 4.558
+  },
+  {
+   "text": "six",
+   "index": 81,
+   "start": 4.572,
+   "end": 5.003
+  },
+  {
+   "text": "and",
+   "index": 86,
+   "start": 5.253,
+   "end": 5.35
+  },
+  {
+   "text": "I",
+   "index": 90,
+   "start": 5.364,
+   "end": 5.433
+  },
+  {
+   "text": "had",
+   "index": 92,
+   "start": 5.447,
+   "end": 5.628
+  },
+  {
+   "text": "never",
+   "index": 96,
+   "start": 5.642,
+   "end": 5.906
+  },
+  {
+   "text": "learned",
+   "index": 102,
+   "start": 5.919,
+   "end": 6.211
+  },
+  {
+   "text": "to",
+   "index": 110,
+   "start": 6.225,
+   "end": 6.294
+  },
+  {
+   "text": "draw",
+   "index": 113,
+   "start": 6.308,
+   "end": 6.628
+  },
+  {
+   "text": "anything",
+   "index": 118,
+   "start": 6.642,
+   "end": 7.1
+  },
+  {
+   "text": "except",
+   "index": 127,
+   "start": 7.114,
+   "end": 7.503
+  },
+  {
+   "text": "boa",
+   "index": 134,
+   "start": 7.517,
+   "end": 7.794
+  },
+  {
+   "text": "constrictors",
+   "index": 138,
+   "start": 7.808,
+   "end": 8.475
+  },
+  {
+   "text": "from",
+   "index": 151,
+   "start": 8.489,
+   "end": 8.656
+  },
+  {
+   "text": "the",
+   "index": 156,
+   "start": 8.669,
+   "end": 8.794
+  },
+  {
+   "text": "outside",
+   "index": 160,
+   "start": 8.808,
+   "end": 9.433
+  },
+  {
+   "text": "and",
+   "index": 168,
+   "start": 9.447,
+   "end": 9.6
+  },
+  {
+   "text": "boa",
+   "index": 172,
+   "start": 9.614,
+   "end": 9.906
+  },
+  {
+   "text": "constrictors",
+   "index": 176,
+   "start": 9.919,
+   "end": 10.586
+  },
+  {
+   "text": "from",
+   "index": 189,
+   "start": 10.6,
+   "end": 10.781
+  },
+  {
+   "text": "the",
+   "index": 194,
+   "start": 10.794,
+   "end": 10.892
+  },
+  {
+   "text": "inside",
+   "index": 198,
+   "start": 10.906,
+   "end": 11.628
+  }
+ ]
+}

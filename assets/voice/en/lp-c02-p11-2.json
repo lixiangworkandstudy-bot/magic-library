@@ -1,0 +1,199 @@
+{
+ "audio": "assets/voice/en/lp-c02-p11-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "Absurd as it seemed to me, a thousand miles from any inhabited place and in danger of death, I took a sheet of paper and a fountain pen out of my pocket.",
+ "words": [
+  {
+   "text": "Absurd",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.628
+  },
+  {
+   "text": "as",
+   "index": 7,
+   "start": 0.642,
+   "end": 0.767
+  },
+  {
+   "text": "it",
+   "index": 10,
+   "start": 0.781,
+   "end": 0.906
+  },
+  {
+   "text": "seemed",
+   "index": 13,
+   "start": 0.919,
+   "end": 1.183
+  },
+  {
+   "text": "to",
+   "index": 20,
+   "start": 1.197,
+   "end": 1.281
+  },
+  {
+   "text": "me",
+   "index": 23,
+   "start": 1.294,
+   "end": 1.544
+  },
+  {
+   "text": "a",
+   "index": 27,
+   "start": 1.781,
+   "end": 1.822
+  },
+  {
+   "text": "thousand",
+   "index": 29,
+   "start": 1.836,
+   "end": 2.364
+  },
+  {
+   "text": "miles",
+   "index": 38,
+   "start": 2.378,
+   "end": 2.781
+  },
+  {
+   "text": "from",
+   "index": 44,
+   "start": 2.794,
+   "end": 2.961
+  },
+  {
+   "text": "any",
+   "index": 49,
+   "start": 2.975,
+   "end": 3.183
+  },
+  {
+   "text": "inhabited",
+   "index": 53,
+   "start": 3.197,
+   "end": 3.767
+  },
+  {
+   "text": "place",
+   "index": 63,
+   "start": 3.781,
+   "end": 4.114
+  },
+  {
+   "text": "and",
+   "index": 69,
+   "start": 4.128,
+   "end": 4.239
+  },
+  {
+   "text": "in",
+   "index": 73,
+   "start": 4.253,
+   "end": 4.392
+  },
+  {
+   "text": "danger",
+   "index": 76,
+   "start": 4.406,
+   "end": 4.822
+  },
+  {
+   "text": "of",
+   "index": 83,
+   "start": 4.836,
+   "end": 4.961
+  },
+  {
+   "text": "death",
+   "index": 86,
+   "start": 4.975,
+   "end": 5.378
+  },
+  {
+   "text": "I",
+   "index": 93,
+   "start": 5.628,
+   "end": 5.697
+  },
+  {
+   "text": "took",
+   "index": 95,
+   "start": 5.711,
+   "end": 5.933
+  },
+  {
+   "text": "a",
+   "index": 100,
+   "start": 5.947,
+   "end": 6.003
+  },
+  {
+   "text": "sheet",
+   "index": 102,
+   "start": 6.017,
+   "end": 6.308
+  },
+  {
+   "text": "of",
+   "index": 108,
+   "start": 6.322,
+   "end": 6.419
+  },
+  {
+   "text": "paper",
+   "index": 111,
+   "start": 6.433,
+   "end": 6.906
+  },
+  {
+   "text": "and",
+   "index": 117,
+   "start": 6.919,
+   "end": 7.086
+  },
+  {
+   "text": "a",
+   "index": 121,
+   "start": 7.1,
+   "end": 7.156
+  },
+  {
+   "text": "fountain",
+   "index": 123,
+   "start": 7.169,
+   "end": 7.697
+  },
+  {
+   "text": "pen",
+   "index": 132,
+   "start": 7.711,
+   "end": 7.961
+  },
+  {
+   "text": "out",
+   "index": 136,
+   "start": 7.975,
+   "end": 8.156
+  },
+  {
+   "text": "of",
+   "index": 140,
+   "start": 8.169,
+   "end": 8.267
+  },
+  {
+   "text": "my",
+   "index": 143,
+   "start": 8.281,
+   "end": 8.489
+  },
+  {
+   "text": "pocket",
+   "index": 146,
+   "start": 8.503,
+   "end": 9.058
+  }
+ ]
+}

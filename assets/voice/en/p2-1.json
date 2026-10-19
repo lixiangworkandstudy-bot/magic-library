@@ -1,0 +1,73 @@
+{
+ "audio": "assets/voice/en/p2-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "The fox ran past the mushrooms and climbed the highest mountain.",
+ "words": [
+  {
+   "text": "The",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.286
+  },
+  {
+   "text": "fox",
+   "index": 4,
+   "start": 0.3,
+   "end": 0.717
+  },
+  {
+   "text": "ran",
+   "index": 8,
+   "start": 0.731,
+   "end": 1.022
+  },
+  {
+   "text": "past",
+   "index": 12,
+   "start": 1.036,
+   "end": 1.397
+  },
+  {
+   "text": "the",
+   "index": 17,
+   "start": 1.411,
+   "end": 1.494
+  },
+  {
+   "text": "mushrooms",
+   "index": 21,
+   "start": 1.508,
+   "end": 2.147
+  },
+  {
+   "text": "and",
+   "index": 31,
+   "start": 2.161,
+   "end": 2.369
+  },
+  {
+   "text": "climbed",
+   "index": 35,
+   "start": 2.383,
+   "end": 2.856
+  },
+  {
+   "text": "the",
+   "index": 43,
+   "start": 2.869,
+   "end": 2.953
+  },
+  {
+   "text": "highest",
+   "index": 47,
+   "start": 2.967,
+   "end": 3.425
+  },
+  {
+   "text": "mountain",
+   "index": 55,
+   "start": 3.439,
+   "end": 3.994
+  }
+ ]
+}

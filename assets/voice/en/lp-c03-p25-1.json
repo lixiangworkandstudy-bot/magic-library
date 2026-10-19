@@ -1,0 +1,37 @@
+{
+ "audio": "assets/voice/en/lp-c03-p25-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"Anywhere. Straight ahead of him...\"",
+ "words": [
+  {
+   "text": "Anywhere",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.683
+  },
+  {
+   "text": "Straight",
+   "index": 11,
+   "start": 1.649,
+   "end": 2.135
+  },
+  {
+   "text": "ahead",
+   "index": 20,
+   "start": 2.149,
+   "end": 2.426
+  },
+  {
+   "text": "of",
+   "index": 26,
+   "start": 2.44,
+   "end": 2.524
+  },
+  {
+   "text": "him",
+   "index": 29,
+   "start": 2.538,
+   "end": 2.899
+  }
+ ]
+}

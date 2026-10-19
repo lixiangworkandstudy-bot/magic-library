@@ -1,0 +1,211 @@
+{
+ "audio": "assets/voice/en/lp-c02-p06-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "I jumped to my feet as if I had been struck by lightning. I rubbed my eyes hard. I looked hard. And I saw a most extraordinary little fellow, who was studying me gravely.",
+ "words": [
+  {
+   "text": "I",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.239
+  },
+  {
+   "text": "jumped",
+   "index": 2,
+   "start": 0.253,
+   "end": 0.6
+  },
+  {
+   "text": "to",
+   "index": 9,
+   "start": 0.614,
+   "end": 0.683
+  },
+  {
+   "text": "my",
+   "index": 12,
+   "start": 0.697,
+   "end": 0.878
+  },
+  {
+   "text": "feet",
+   "index": 15,
+   "start": 0.892,
+   "end": 1.239
+  },
+  {
+   "text": "as",
+   "index": 20,
+   "start": 1.253,
+   "end": 1.336
+  },
+  {
+   "text": "if",
+   "index": 23,
+   "start": 1.35,
+   "end": 1.503
+  },
+  {
+   "text": "I",
+   "index": 26,
+   "start": 1.517,
+   "end": 1.614
+  },
+  {
+   "text": "had",
+   "index": 28,
+   "start": 1.628,
+   "end": 1.794
+  },
+  {
+   "text": "been",
+   "index": 32,
+   "start": 1.808,
+   "end": 1.989
+  },
+  {
+   "text": "struck",
+   "index": 37,
+   "start": 2.003,
+   "end": 2.447
+  },
+  {
+   "text": "by",
+   "index": 44,
+   "start": 2.461,
+   "end": 2.6
+  },
+  {
+   "text": "lightning",
+   "index": 47,
+   "start": 2.614,
+   "end": 3.294
+  },
+  {
+   "text": "I",
+   "index": 58,
+   "start": 4.258,
+   "end": 4.383
+  },
+  {
+   "text": "rubbed",
+   "index": 60,
+   "start": 4.397,
+   "end": 4.731
+  },
+  {
+   "text": "my",
+   "index": 67,
+   "start": 4.744,
+   "end": 4.925
+  },
+  {
+   "text": "eyes",
+   "index": 70,
+   "start": 4.939,
+   "end": 5.161
+  },
+  {
+   "text": "hard",
+   "index": 75,
+   "start": 5.175,
+   "end": 5.758
+  },
+  {
+   "text": "I",
+   "index": 81,
+   "start": 6.717,
+   "end": 6.842
+  },
+  {
+   "text": "looked",
+   "index": 83,
+   "start": 6.856,
+   "end": 7.147
+  },
+  {
+   "text": "hard",
+   "index": 90,
+   "start": 7.161,
+   "end": 7.717
+  },
+  {
+   "text": "And",
+   "index": 96,
+   "start": 8.675,
+   "end": 8.869
+  },
+  {
+   "text": "I",
+   "index": 100,
+   "start": 8.883,
+   "end": 8.981
+  },
+  {
+   "text": "saw",
+   "index": 102,
+   "start": 8.994,
+   "end": 9.203
+  },
+  {
+   "text": "a",
+   "index": 106,
+   "start": 9.217,
+   "end": 9.272
+  },
+  {
+   "text": "most",
+   "index": 108,
+   "start": 9.286,
+   "end": 9.619
+  },
+  {
+   "text": "extraordinary",
+   "index": 113,
+   "start": 9.633,
+   "end": 10.369
+  },
+  {
+   "text": "little",
+   "index": 127,
+   "start": 10.383,
+   "end": 10.689
+  },
+  {
+   "text": "fellow",
+   "index": 134,
+   "start": 10.703,
+   "end": 11.133
+  },
+  {
+   "text": "who",
+   "index": 142,
+   "start": 11.439,
+   "end": 11.536
+  },
+  {
+   "text": "was",
+   "index": 146,
+   "start": 11.55,
+   "end": 11.731
+  },
+  {
+   "text": "studying",
+   "index": 150,
+   "start": 11.744,
+   "end": 12.203
+  },
+  {
+   "text": "me",
+   "index": 159,
+   "start": 12.217,
+   "end": 12.328
+  },
+  {
+   "text": "gravely",
+   "index": 162,
+   "start": 12.342,
+   "end": 12.967
+  }
+ ]
+}

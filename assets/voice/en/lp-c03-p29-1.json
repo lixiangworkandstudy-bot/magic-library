@@ -1,0 +1,61 @@
+{
+ "audio": "assets/voice/en/lp-c03-p29-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"Straight ahead of you, you can't go very far...\"",
+ "words": [
+  {
+   "text": "Straight",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.619
+  },
+  {
+   "text": "ahead",
+   "index": 10,
+   "start": 0.633,
+   "end": 0.994
+  },
+  {
+   "text": "of",
+   "index": 16,
+   "start": 1.008,
+   "end": 1.119
+  },
+  {
+   "text": "you",
+   "index": 19,
+   "start": 1.133,
+   "end": 1.397
+  },
+  {
+   "text": "you",
+   "index": 24,
+   "start": 1.744,
+   "end": 1.883
+  },
+  {
+   "text": "can't",
+   "index": 28,
+   "start": 1.897,
+   "end": 2.272
+  },
+  {
+   "text": "go",
+   "index": 34,
+   "start": 2.286,
+   "end": 2.508
+  },
+  {
+   "text": "very",
+   "index": 37,
+   "start": 2.522,
+   "end": 2.981
+  },
+  {
+   "text": "far",
+   "index": 42,
+   "start": 2.994,
+   "end": 3.494
+  }
+ ]
+}

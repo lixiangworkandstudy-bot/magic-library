@@ -1,0 +1,133 @@
+{
+ "audio": "assets/voice/en/nbc9-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "A wink of his eye and a twist of his head\nSoon gave me to know I had nothing to dread.",
+ "words": [
+  {
+   "text": "A",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.272
+  },
+  {
+   "text": "wink",
+   "index": 2,
+   "start": 0.286,
+   "end": 0.536
+  },
+  {
+   "text": "of",
+   "index": 7,
+   "start": 0.55,
+   "end": 0.647
+  },
+  {
+   "text": "his",
+   "index": 10,
+   "start": 0.661,
+   "end": 0.856
+  },
+  {
+   "text": "eye",
+   "index": 14,
+   "start": 0.869,
+   "end": 1.175
+  },
+  {
+   "text": "and",
+   "index": 18,
+   "start": 1.189,
+   "end": 1.328
+  },
+  {
+   "text": "a",
+   "index": 22,
+   "start": 1.342,
+   "end": 1.397
+  },
+  {
+   "text": "twist",
+   "index": 24,
+   "start": 1.411,
+   "end": 1.8
+  },
+  {
+   "text": "of",
+   "index": 30,
+   "start": 1.814,
+   "end": 1.869
+  },
+  {
+   "text": "his",
+   "index": 33,
+   "start": 1.883,
+   "end": 2.064
+  },
+  {
+   "text": "head",
+   "index": 37,
+   "start": 2.078,
+   "end": 2.522
+  },
+  {
+   "text": "Soon",
+   "index": 42,
+   "start": 3.486,
+   "end": 3.931
+  },
+  {
+   "text": "gave",
+   "index": 47,
+   "start": 3.944,
+   "end": 4.194
+  },
+  {
+   "text": "me",
+   "index": 52,
+   "start": 4.208,
+   "end": 4.319
+  },
+  {
+   "text": "to",
+   "index": 55,
+   "start": 4.333,
+   "end": 4.417
+  },
+  {
+   "text": "know",
+   "index": 58,
+   "start": 4.431,
+   "end": 4.736
+  },
+  {
+   "text": "I",
+   "index": 63,
+   "start": 4.75,
+   "end": 4.847
+  },
+  {
+   "text": "had",
+   "index": 65,
+   "start": 4.861,
+   "end": 5.056
+  },
+  {
+   "text": "nothing",
+   "index": 69,
+   "start": 5.069,
+   "end": 5.403
+  },
+  {
+   "text": "to",
+   "index": 77,
+   "start": 5.417,
+   "end": 5.528
+  },
+  {
+   "text": "dread",
+   "index": 80,
+   "start": 5.542,
+   "end": 6.069
+  }
+ ]
+}

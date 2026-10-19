@@ -1,0 +1,121 @@
+{
+ "audio": "assets/voice/en/nbc8-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "His eyes—how they twinkled! his dimples, how merry!\nHis cheeks were like roses, his nose like a cherry!",
+ "words": [
+  {
+   "text": "His",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.411
+  },
+  {
+   "text": "eyes",
+   "index": 4,
+   "start": 0.425,
+   "end": 0.869
+  },
+  {
+   "text": "how",
+   "index": 9,
+   "start": 1.05,
+   "end": 1.189
+  },
+  {
+   "text": "they",
+   "index": 13,
+   "start": 1.203,
+   "end": 1.328
+  },
+  {
+   "text": "twinkled",
+   "index": 18,
+   "start": 1.342,
+   "end": 2.064
+  },
+  {
+   "text": "his",
+   "index": 28,
+   "start": 3.028,
+   "end": 3.292
+  },
+  {
+   "text": "dimples",
+   "index": 32,
+   "start": 3.306,
+   "end": 3.889
+  },
+  {
+   "text": "how",
+   "index": 41,
+   "start": 4.069,
+   "end": 4.25
+  },
+  {
+   "text": "merry",
+   "index": 45,
+   "start": 4.264,
+   "end": 4.806
+  },
+  {
+   "text": "His",
+   "index": 52,
+   "start": 5.764,
+   "end": 6.042
+  },
+  {
+   "text": "cheeks",
+   "index": 56,
+   "start": 6.056,
+   "end": 6.472
+  },
+  {
+   "text": "were",
+   "index": 63,
+   "start": 6.486,
+   "end": 6.611
+  },
+  {
+   "text": "like",
+   "index": 68,
+   "start": 6.625,
+   "end": 6.861
+  },
+  {
+   "text": "roses",
+   "index": 73,
+   "start": 6.875,
+   "end": 7.458
+  },
+  {
+   "text": "his",
+   "index": 80,
+   "start": 7.75,
+   "end": 7.917
+  },
+  {
+   "text": "nose",
+   "index": 84,
+   "start": 7.931,
+   "end": 8.264
+  },
+  {
+   "text": "like",
+   "index": 89,
+   "start": 8.278,
+   "end": 8.444
+  },
+  {
+   "text": "a",
+   "index": 94,
+   "start": 8.458,
+   "end": 8.514
+  },
+  {
+   "text": "cherry",
+   "index": 96,
+   "start": 8.528,
+   "end": 9.097
+  }
+ ]
+}

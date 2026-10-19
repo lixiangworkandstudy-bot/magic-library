@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/zh/nbc4-3.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "还有一个小老头，又灵活又快，我一下子就知道：是圣诞老人来啦！",
+ "words": [
+  {
+   "text": "还有",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.467
+  },
+  {
+   "text": "一个",
+   "index": 2,
+   "start": 0.481,
+   "end": 0.703
+  },
+  {
+   "text": "小",
+   "index": 4,
+   "start": 0.717,
+   "end": 0.925
+  },
+  {
+   "text": "老头",
+   "index": 5,
+   "start": 0.925,
+   "end": 1.494
+  },
+  {
+   "text": "又",
+   "index": 8,
+   "start": 1.717,
+   "end": 1.897
+  },
+  {
+   "text": "灵活",
+   "index": 9,
+   "start": 1.897,
+   "end": 2.244
+  },
+  {
+   "text": "又",
+   "index": 11,
+   "start": 2.258,
+   "end": 2.481
+  },
+  {
+   "text": "快",
+   "index": 12,
+   "start": 2.481,
+   "end": 2.8
+  },
+  {
+   "text": "我",
+   "index": 14,
+   "start": 3.161,
+   "end": 3.3
+  },
+  {
+   "text": "一下子",
+   "index": 15,
+   "start": 3.3,
+   "end": 3.828
+  },
+  {
+   "text": "就",
+   "index": 18,
+   "start": 3.842,
+   "end": 3.981
+  },
+  {
+   "text": "知道",
+   "index": 19,
+   "start": 3.981,
+   "end": 4.411
+  },
+  {
+   "text": "是",
+   "index": 22,
+   "start": 4.717,
+   "end": 4.869
+  },
+  {
+   "text": "圣诞老人",
+   "index": 23,
+   "start": 4.869,
+   "end": 5.689
+  },
+  {
+   "text": "来",
+   "index": 27,
+   "start": 5.703,
+   "end": 5.939
+  },
+  {
+   "text": "啦",
+   "index": 28,
+   "start": 5.939,
+   "end": 6.189
+  }
+ ]
+}

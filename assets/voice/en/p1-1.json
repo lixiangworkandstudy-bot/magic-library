@@ -1,0 +1,109 @@
+{
+ "audio": "assets/voice/en/p1-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "At night, the little fox sat under the pine tree and saw the moon over the mountain.",
+ "words": [
+  {
+   "text": "At",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.314
+  },
+  {
+   "text": "night",
+   "index": 3,
+   "start": 0.328,
+   "end": 0.703
+  },
+  {
+   "text": "the",
+   "index": 10,
+   "start": 1.008,
+   "end": 1.133
+  },
+  {
+   "text": "little",
+   "index": 14,
+   "start": 1.147,
+   "end": 1.397
+  },
+  {
+   "text": "fox",
+   "index": 21,
+   "start": 1.411,
+   "end": 1.842
+  },
+  {
+   "text": "sat",
+   "index": 25,
+   "start": 1.856,
+   "end": 2.161
+  },
+  {
+   "text": "under",
+   "index": 29,
+   "start": 2.175,
+   "end": 2.383
+  },
+  {
+   "text": "the",
+   "index": 35,
+   "start": 2.397,
+   "end": 2.508
+  },
+  {
+   "text": "pine",
+   "index": 39,
+   "start": 2.522,
+   "end": 2.856
+  },
+  {
+   "text": "tree",
+   "index": 44,
+   "start": 2.869,
+   "end": 3.217
+  },
+  {
+   "text": "and",
+   "index": 49,
+   "start": 3.231,
+   "end": 3.397
+  },
+  {
+   "text": "saw",
+   "index": 53,
+   "start": 3.411,
+   "end": 3.661
+  },
+  {
+   "text": "the",
+   "index": 57,
+   "start": 3.675,
+   "end": 3.786
+  },
+  {
+   "text": "moon",
+   "index": 61,
+   "start": 3.8,
+   "end": 4.133
+  },
+  {
+   "text": "over",
+   "index": 66,
+   "start": 4.147,
+   "end": 4.342
+  },
+  {
+   "text": "the",
+   "index": 71,
+   "start": 4.356,
+   "end": 4.439
+  },
+  {
+   "text": "mountain",
+   "index": 75,
+   "start": 4.453,
+   "end": 5.036
+  }
+ ]
+}

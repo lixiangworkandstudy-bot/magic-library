@@ -1,0 +1,61 @@
+{
+ "audio": "assets/voice/en/p2-2.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "Huh? Why is the moon still so far away?",
+ "words": [
+  {
+   "text": "Huh",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.508
+  },
+  {
+   "text": "Why",
+   "index": 5,
+   "start": 1.458,
+   "end": 1.792
+  },
+  {
+   "text": "is",
+   "index": 9,
+   "start": 1.806,
+   "end": 2.0
+  },
+  {
+   "text": "the",
+   "index": 12,
+   "start": 2.014,
+   "end": 2.125
+  },
+  {
+   "text": "moon",
+   "index": 16,
+   "start": 2.139,
+   "end": 2.528
+  },
+  {
+   "text": "still",
+   "index": 21,
+   "start": 2.542,
+   "end": 2.931
+  },
+  {
+   "text": "so",
+   "index": 27,
+   "start": 2.944,
+   "end": 3.25
+  },
+  {
+   "text": "far",
+   "index": 30,
+   "start": 3.264,
+   "end": 3.611
+  },
+  {
+   "text": "away",
+   "index": 34,
+   "start": 3.625,
+   "end": 4.069
+  }
+ ]
+}

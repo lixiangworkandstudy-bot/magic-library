@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/zh/nbc7-3.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "背上背着一大包玩具，就像卖玩具的人，正要打开包袱。",
+ "words": [
+  {
+   "text": "背",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.314
+  },
+  {
+   "text": "上",
+   "index": 1,
+   "start": 0.314,
+   "end": 0.55
+  },
+  {
+   "text": "背着",
+   "index": 2,
+   "start": 0.578,
+   "end": 0.856
+  },
+  {
+   "text": "一",
+   "index": 4,
+   "start": 0.869,
+   "end": 1.008
+  },
+  {
+   "text": "大",
+   "index": 5,
+   "start": 1.008,
+   "end": 1.189
+  },
+  {
+   "text": "包",
+   "index": 6,
+   "start": 1.189,
+   "end": 1.383
+  },
+  {
+   "text": "玩具",
+   "index": 7,
+   "start": 1.397,
+   "end": 1.994
+  },
+  {
+   "text": "就",
+   "index": 10,
+   "start": 2.272,
+   "end": 2.439
+  },
+  {
+   "text": "像",
+   "index": 11,
+   "start": 2.439,
+   "end": 2.633
+  },
+  {
+   "text": "卖",
+   "index": 12,
+   "start": 2.661,
+   "end": 2.856
+  },
+  {
+   "text": "玩具",
+   "index": 13,
+   "start": 2.856,
+   "end": 3.286
+  },
+  {
+   "text": "的",
+   "index": 15,
+   "start": 3.286,
+   "end": 3.425
+  },
+  {
+   "text": "人",
+   "index": 16,
+   "start": 3.425,
+   "end": 3.675
+  },
+  {
+   "text": "正要",
+   "index": 18,
+   "start": 3.897,
+   "end": 4.203
+  },
+  {
+   "text": "打开",
+   "index": 20,
+   "start": 4.217,
+   "end": 4.578
+  },
+  {
+   "text": "包袱",
+   "index": 22,
+   "start": 4.592,
+   "end": 5.161
+  }
+ ]
+}

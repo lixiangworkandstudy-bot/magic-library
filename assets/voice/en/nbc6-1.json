@@ -1,0 +1,109 @@
+{
+ "audio": "assets/voice/en/nbc6-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "So up to the house-top the reindeer they flew,\nWith the sleigh full of toys, and St. Nicholas too.",
+ "words": [
+  {
+   "text": "So",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.439
+  },
+  {
+   "text": "up",
+   "index": 3,
+   "start": 0.453,
+   "end": 0.633
+  },
+  {
+   "text": "to",
+   "index": 6,
+   "start": 0.647,
+   "end": 0.731
+  },
+  {
+   "text": "the",
+   "index": 9,
+   "start": 0.744,
+   "end": 0.856
+  },
+  {
+   "text": "house-top",
+   "index": 13,
+   "start": 0.869,
+   "end": 1.467
+  },
+  {
+   "text": "the",
+   "index": 23,
+   "start": 1.481,
+   "end": 1.592
+  },
+  {
+   "text": "reindeer",
+   "index": 27,
+   "start": 1.606,
+   "end": 2.036
+  },
+  {
+   "text": "they",
+   "index": 36,
+   "start": 2.05,
+   "end": 2.189
+  },
+  {
+   "text": "flew",
+   "index": 41,
+   "start": 2.203,
+   "end": 2.647
+  },
+  {
+   "text": "With",
+   "index": 47,
+   "start": 3.611,
+   "end": 3.847
+  },
+  {
+   "text": "the",
+   "index": 52,
+   "start": 3.861,
+   "end": 3.986
+  },
+  {
+   "text": "sleigh",
+   "index": 56,
+   "start": 4.0,
+   "end": 4.319
+  },
+  {
+   "text": "full",
+   "index": 63,
+   "start": 4.333,
+   "end": 4.542
+  },
+  {
+   "text": "of",
+   "index": 68,
+   "start": 4.556,
+   "end": 4.667
+  },
+  {
+   "text": "toys",
+   "index": 71,
+   "start": 4.681,
+   "end": 5.222
+  },
+  {
+   "text": "and St. Nicholas",
+   "index": 77,
+   "start": 5.403,
+   "end": 6.403
+  },
+  {
+   "text": "too",
+   "index": 94,
+   "start": 6.417,
+   "end": 6.875
+  }
+ ]
+}

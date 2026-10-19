@@ -1,0 +1,181 @@
+{
+ "audio": "assets/voice/en/lp-c00-p02-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "I have another excuse: this grown-up can understand everything, even books for children. I have a third excuse: this grown-up lives in France, where he is hungry and cold.",
+ "words": [
+  {
+   "text": "I",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.281
+  },
+  {
+   "text": "have",
+   "index": 2,
+   "start": 0.294,
+   "end": 0.489
+  },
+  {
+   "text": "another",
+   "index": 7,
+   "start": 0.503,
+   "end": 0.878
+  },
+  {
+   "text": "excuse",
+   "index": 15,
+   "start": 0.892,
+   "end": 1.669
+  },
+  {
+   "text": "this",
+   "index": 23,
+   "start": 1.878,
+   "end": 2.114
+  },
+  {
+   "text": "grown-up",
+   "index": 28,
+   "start": 2.128,
+   "end": 2.558
+  },
+  {
+   "text": "can",
+   "index": 37,
+   "start": 2.572,
+   "end": 2.711
+  },
+  {
+   "text": "understand",
+   "index": 41,
+   "start": 2.725,
+   "end": 3.294
+  },
+  {
+   "text": "everything",
+   "index": 52,
+   "start": 3.308,
+   "end": 3.794
+  },
+  {
+   "text": "even",
+   "index": 64,
+   "start": 4.031,
+   "end": 4.308
+  },
+  {
+   "text": "books",
+   "index": 69,
+   "start": 4.322,
+   "end": 4.642
+  },
+  {
+   "text": "for",
+   "index": 75,
+   "start": 4.656,
+   "end": 4.781
+  },
+  {
+   "text": "children",
+   "index": 79,
+   "start": 4.794,
+   "end": 5.447
+  },
+  {
+   "text": "I",
+   "index": 89,
+   "start": 6.411,
+   "end": 6.578
+  },
+  {
+   "text": "have",
+   "index": 91,
+   "start": 6.592,
+   "end": 6.814
+  },
+  {
+   "text": "a",
+   "index": 96,
+   "start": 6.828,
+   "end": 6.883
+  },
+  {
+   "text": "third",
+   "index": 98,
+   "start": 6.897,
+   "end": 7.231
+  },
+  {
+   "text": "excuse",
+   "index": 104,
+   "start": 7.244,
+   "end": 7.994
+  },
+  {
+   "text": "this",
+   "index": 112,
+   "start": 8.217,
+   "end": 8.439
+  },
+  {
+   "text": "grown-up",
+   "index": 117,
+   "start": 8.453,
+   "end": 8.925
+  },
+  {
+   "text": "lives",
+   "index": 126,
+   "start": 8.939,
+   "end": 9.203
+  },
+  {
+   "text": "in",
+   "index": 132,
+   "start": 9.217,
+   "end": 9.356
+  },
+  {
+   "text": "France",
+   "index": 135,
+   "start": 9.369,
+   "end": 9.939
+  },
+  {
+   "text": "where",
+   "index": 143,
+   "start": 10.064,
+   "end": 10.258
+  },
+  {
+   "text": "he",
+   "index": 149,
+   "start": 10.272,
+   "end": 10.439
+  },
+  {
+   "text": "is",
+   "index": 152,
+   "start": 10.453,
+   "end": 10.564
+  },
+  {
+   "text": "hungry",
+   "index": 155,
+   "start": 10.578,
+   "end": 11.008
+  },
+  {
+   "text": "and",
+   "index": 162,
+   "start": 11.022,
+   "end": 11.161
+  },
+  {
+   "text": "cold",
+   "index": 166,
+   "start": 11.175,
+   "end": 11.8
+  }
+ ]
+}

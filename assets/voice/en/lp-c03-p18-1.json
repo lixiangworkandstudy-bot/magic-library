@@ -1,0 +1,133 @@
+{
+ "audio": "assets/voice/en/lp-c03-p18-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"The good thing about the box you have given me is that at night he can use it as his house.\"",
+ "words": [
+  {
+   "text": "The",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.272
+  },
+  {
+   "text": "good",
+   "index": 5,
+   "start": 0.286,
+   "end": 0.564
+  },
+  {
+   "text": "thing",
+   "index": 10,
+   "start": 0.578,
+   "end": 0.856
+  },
+  {
+   "text": "about",
+   "index": 16,
+   "start": 0.869,
+   "end": 1.189
+  },
+  {
+   "text": "the",
+   "index": 22,
+   "start": 1.203,
+   "end": 1.3
+  },
+  {
+   "text": "box",
+   "index": 26,
+   "start": 1.314,
+   "end": 1.758
+  },
+  {
+   "text": "you",
+   "index": 30,
+   "start": 1.772,
+   "end": 1.911
+  },
+  {
+   "text": "have",
+   "index": 34,
+   "start": 1.925,
+   "end": 2.133
+  },
+  {
+   "text": "given",
+   "index": 39,
+   "start": 2.147,
+   "end": 2.508
+  },
+  {
+   "text": "me",
+   "index": 45,
+   "start": 2.522,
+   "end": 2.828
+  },
+  {
+   "text": "is",
+   "index": 48,
+   "start": 2.842,
+   "end": 3.036
+  },
+  {
+   "text": "that",
+   "index": 51,
+   "start": 3.05,
+   "end": 3.286
+  },
+  {
+   "text": "at",
+   "index": 56,
+   "start": 3.3,
+   "end": 3.425
+  },
+  {
+   "text": "night",
+   "index": 59,
+   "start": 3.439,
+   "end": 3.8
+  },
+  {
+   "text": "he",
+   "index": 65,
+   "start": 3.814,
+   "end": 4.022
+  },
+  {
+   "text": "can",
+   "index": 68,
+   "start": 4.036,
+   "end": 4.244
+  },
+  {
+   "text": "use",
+   "index": 72,
+   "start": 4.258,
+   "end": 4.55
+  },
+  {
+   "text": "it",
+   "index": 76,
+   "start": 4.564,
+   "end": 4.703
+  },
+  {
+   "text": "as",
+   "index": 79,
+   "start": 4.717,
+   "end": 4.925
+  },
+  {
+   "text": "his",
+   "index": 82,
+   "start": 4.939,
+   "end": 5.119
+  },
+  {
+   "text": "house",
+   "index": 86,
+   "start": 5.133,
+   "end": 5.675
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "audio": "assets/voice/en/lp-c01-p04-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "I showed my masterpiece to the grown-ups and asked them whether my drawing frightened them.",
+ "words": [
+  {
+   "text": "I",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.253
+  },
+  {
+   "text": "showed",
+   "index": 2,
+   "start": 0.267,
+   "end": 0.517
+  },
+  {
+   "text": "my",
+   "index": 9,
+   "start": 0.531,
+   "end": 0.683
+  },
+  {
+   "text": "masterpiece",
+   "index": 12,
+   "start": 0.697,
+   "end": 1.364
+  },
+  {
+   "text": "to",
+   "index": 24,
+   "start": 1.378,
+   "end": 1.475
+  },
+  {
+   "text": "the",
+   "index": 27,
+   "start": 1.489,
+   "end": 1.586
+  },
+  {
+   "text": "grown-ups",
+   "index": 31,
+   "start": 1.6,
+   "end": 2.156
+  },
+  {
+   "text": "and",
+   "index": 41,
+   "start": 2.169,
+   "end": 2.294
+  },
+  {
+   "text": "asked",
+   "index": 45,
+   "start": 2.308,
+   "end": 2.669
+  },
+  {
+   "text": "them",
+   "index": 51,
+   "start": 2.683,
+   "end": 2.822
+  },
+  {
+   "text": "whether",
+   "index": 56,
+   "start": 2.836,
+   "end": 3.072
+  },
+  {
+   "text": "my",
+   "index": 64,
+   "start": 3.086,
+   "end": 3.253
+  },
+  {
+   "text": "drawing",
+   "index": 67,
+   "start": 3.267,
+   "end": 3.725
+  },
+  {
+   "text": "frightened",
+   "index": 75,
+   "start": 3.739,
+   "end": 4.225
+  },
+  {
+   "text": "them",
+   "index": 86,
+   "start": 4.239,
+   "end": 4.544
+  }
+ ]
+}

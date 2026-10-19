@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/zh/nbc10-2.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "然后，他转过身，摸摸鼻子，点一点头——嗖！又从烟囱飞上去了。",
+ "words": [
+  {
+   "text": "然后",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.717
+  },
+  {
+   "text": "他",
+   "index": 3,
+   "start": 0.953,
+   "end": 1.119
+  },
+  {
+   "text": "转",
+   "index": 4,
+   "start": 1.119,
+   "end": 1.342
+  },
+  {
+   "text": "过",
+   "index": 5,
+   "start": 1.342,
+   "end": 1.467
+  },
+  {
+   "text": "身",
+   "index": 6,
+   "start": 1.467,
+   "end": 1.814
+  },
+  {
+   "text": "摸摸",
+   "index": 8,
+   "start": 2.106,
+   "end": 2.397
+  },
+  {
+   "text": "鼻子",
+   "index": 10,
+   "start": 2.411,
+   "end": 2.967
+  },
+  {
+   "text": "点",
+   "index": 13,
+   "start": 3.231,
+   "end": 3.439
+  },
+  {
+   "text": "一点头",
+   "index": 14,
+   "start": 3.453,
+   "end": 4.119
+  },
+  {
+   "text": "嗖",
+   "index": 19,
+   "start": 4.397,
+   "end": 4.717
+  },
+  {
+   "text": "又",
+   "index": 21,
+   "start": 5.333,
+   "end": 5.514
+  },
+  {
+   "text": "从",
+   "index": 22,
+   "start": 5.514,
+   "end": 5.681
+  },
+  {
+   "text": "烟囱",
+   "index": 23,
+   "start": 5.694,
+   "end": 6.153
+  },
+  {
+   "text": "飞",
+   "index": 25,
+   "start": 6.181,
+   "end": 6.403
+  },
+  {
+   "text": "上去",
+   "index": 26,
+   "start": 6.403,
+   "end": 6.833
+  },
+  {
+   "text": "了",
+   "index": 28,
+   "start": 6.833,
+   "end": 7.028
+  }
+ ]
+}

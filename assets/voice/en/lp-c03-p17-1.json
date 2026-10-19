@@ -1,0 +1,43 @@
+{
+ "audio": "assets/voice/en/lp-c03-p17-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "After a thoughtful silence he answered:",
+ "words": [
+  {
+   "text": "After",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.461
+  },
+  {
+   "text": "a",
+   "index": 6,
+   "start": 0.475,
+   "end": 0.544
+  },
+  {
+   "text": "thoughtful",
+   "index": 8,
+   "start": 0.558,
+   "end": 1.086
+  },
+  {
+   "text": "silence",
+   "index": 19,
+   "start": 1.1,
+   "end": 1.628
+  },
+  {
+   "text": "he",
+   "index": 27,
+   "start": 1.642,
+   "end": 1.781
+  },
+  {
+   "text": "answered",
+   "index": 30,
+   "start": 1.794,
+   "end": 2.378
+  }
+ ]
+}

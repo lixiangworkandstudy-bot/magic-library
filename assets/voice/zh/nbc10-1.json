@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/zh/nbc10-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "他一句话也不说，马上开始忙，把每只袜子都装得满满当当。",
+ "words": [
+  {
+   "text": "他",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.272
+  },
+  {
+   "text": "一句话",
+   "index": 1,
+   "start": 0.286,
+   "end": 0.842
+  },
+  {
+   "text": "也",
+   "index": 4,
+   "start": 0.856,
+   "end": 0.981
+  },
+  {
+   "text": "不",
+   "index": 5,
+   "start": 0.994,
+   "end": 1.147
+  },
+  {
+   "text": "说",
+   "index": 6,
+   "start": 1.147,
+   "end": 1.522
+  },
+  {
+   "text": "马上",
+   "index": 8,
+   "start": 1.8,
+   "end": 2.203
+  },
+  {
+   "text": "开始",
+   "index": 10,
+   "start": 2.217,
+   "end": 2.578
+  },
+  {
+   "text": "忙",
+   "index": 12,
+   "start": 2.578,
+   "end": 2.911
+  },
+  {
+   "text": "把",
+   "index": 14,
+   "start": 3.217,
+   "end": 3.356
+  },
+  {
+   "text": "每",
+   "index": 15,
+   "start": 3.369,
+   "end": 3.592
+  },
+  {
+   "text": "只",
+   "index": 16,
+   "start": 3.592,
+   "end": 3.731
+  },
+  {
+   "text": "袜子",
+   "index": 17,
+   "start": 3.744,
+   "end": 4.356
+  },
+  {
+   "text": "都",
+   "index": 19,
+   "start": 4.467,
+   "end": 4.647
+  },
+  {
+   "text": "装",
+   "index": 20,
+   "start": 4.647,
+   "end": 4.856
+  },
+  {
+   "text": "得",
+   "index": 21,
+   "start": 4.856,
+   "end": 4.953
+  },
+  {
+   "text": "满满当当",
+   "index": 22,
+   "start": 4.981,
+   "end": 5.869
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "audio": "assets/voice/zh/p3-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "回家的路上，小狐狸在水塘边停了下来。",
+ "words": [
+  {
+   "text": "回家",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.536
+  },
+  {
+   "text": "的",
+   "index": 2,
+   "start": 0.536,
+   "end": 0.633
+  },
+  {
+   "text": "路上",
+   "index": 3,
+   "start": 0.647,
+   "end": 1.161
+  },
+  {
+   "text": "小",
+   "index": 6,
+   "start": 1.467,
+   "end": 1.689
+  },
+  {
+   "text": "狐狸",
+   "index": 7,
+   "start": 1.689,
+   "end": 2.147
+  },
+  {
+   "text": "在",
+   "index": 9,
+   "start": 2.175,
+   "end": 2.342
+  },
+  {
+   "text": "水塘边",
+   "index": 10,
+   "start": 2.356,
+   "end": 2.953
+  },
+  {
+   "text": "停",
+   "index": 13,
+   "start": 2.981,
+   "end": 3.203
+  },
+  {
+   "text": "了",
+   "index": 14,
+   "start": 3.203,
+   "end": 3.3
+  },
+  {
+   "text": "下来",
+   "index": 15,
+   "start": 3.314,
+   "end": 3.8
+  }
+ ]
+}

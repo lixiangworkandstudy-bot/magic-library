@@ -1,0 +1,193 @@
+{
+ "audio": "assets/voice/en/lp-c02-p06-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "Here is the best portrait that, later on, I managed to make of him. But my drawing, of course, is far less charming than its model. That is not my fault.",
+ "words": [
+  {
+   "text": "Here",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.433
+  },
+  {
+   "text": "is",
+   "index": 5,
+   "start": 0.447,
+   "end": 0.6
+  },
+  {
+   "text": "the",
+   "index": 8,
+   "start": 0.614,
+   "end": 0.725
+  },
+  {
+   "text": "best",
+   "index": 12,
+   "start": 0.739,
+   "end": 1.086
+  },
+  {
+   "text": "portrait",
+   "index": 17,
+   "start": 1.1,
+   "end": 1.586
+  },
+  {
+   "text": "that",
+   "index": 26,
+   "start": 1.6,
+   "end": 1.919
+  },
+  {
+   "text": "later",
+   "index": 32,
+   "start": 2.114,
+   "end": 2.461
+  },
+  {
+   "text": "on",
+   "index": 38,
+   "start": 2.475,
+   "end": 2.794
+  },
+  {
+   "text": "I",
+   "index": 42,
+   "start": 3.017,
+   "end": 3.072
+  },
+  {
+   "text": "managed",
+   "index": 44,
+   "start": 3.086,
+   "end": 3.517
+  },
+  {
+   "text": "to",
+   "index": 52,
+   "start": 3.531,
+   "end": 3.6
+  },
+  {
+   "text": "make",
+   "index": 55,
+   "start": 3.614,
+   "end": 3.864
+  },
+  {
+   "text": "of",
+   "index": 60,
+   "start": 3.878,
+   "end": 3.989
+  },
+  {
+   "text": "him",
+   "index": 63,
+   "start": 4.003,
+   "end": 4.35
+  },
+  {
+   "text": "But",
+   "index": 68,
+   "start": 5.314,
+   "end": 5.494
+  },
+  {
+   "text": "my",
+   "index": 72,
+   "start": 5.508,
+   "end": 5.675
+  },
+  {
+   "text": "drawing",
+   "index": 75,
+   "start": 5.689,
+   "end": 6.203
+  },
+  {
+   "text": "of",
+   "index": 84,
+   "start": 6.369,
+   "end": 6.481
+  },
+  {
+   "text": "course",
+   "index": 87,
+   "start": 6.494,
+   "end": 7.008
+  },
+  {
+   "text": "is",
+   "index": 95,
+   "start": 7.244,
+   "end": 7.397
+  },
+  {
+   "text": "far",
+   "index": 98,
+   "start": 7.411,
+   "end": 7.647
+  },
+  {
+   "text": "less",
+   "index": 102,
+   "start": 7.661,
+   "end": 7.953
+  },
+  {
+   "text": "charming",
+   "index": 107,
+   "start": 7.967,
+   "end": 8.425
+  },
+  {
+   "text": "than",
+   "index": 116,
+   "start": 8.439,
+   "end": 8.564
+  },
+  {
+   "text": "its",
+   "index": 121,
+   "start": 8.578,
+   "end": 8.717
+  },
+  {
+   "text": "model",
+   "index": 125,
+   "start": 8.731,
+   "end": 9.175
+  },
+  {
+   "text": "That",
+   "index": 132,
+   "start": 10.133,
+   "end": 10.425
+  },
+  {
+   "text": "is",
+   "index": 137,
+   "start": 10.439,
+   "end": 10.592
+  },
+  {
+   "text": "not",
+   "index": 140,
+   "start": 10.606,
+   "end": 10.856
+  },
+  {
+   "text": "my",
+   "index": 144,
+   "start": 10.869,
+   "end": 11.078
+  },
+  {
+   "text": "fault",
+   "index": 147,
+   "start": 11.092,
+   "end": 11.717
+  }
+ ]
+}

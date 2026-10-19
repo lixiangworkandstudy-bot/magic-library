@@ -1,0 +1,121 @@
+{
+ "audio": "assets/voice/en/nbc1-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "'Twas the night before Christmas, when all through the house\nNot a creature was stirring, not even a mouse;",
+ "words": [
+  {
+   "text": "Twas",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.453
+  },
+  {
+   "text": "the",
+   "index": 6,
+   "start": 0.467,
+   "end": 0.564
+  },
+  {
+   "text": "night",
+   "index": 10,
+   "start": 0.578,
+   "end": 0.869
+  },
+  {
+   "text": "before",
+   "index": 16,
+   "start": 0.883,
+   "end": 1.217
+  },
+  {
+   "text": "Christmas",
+   "index": 23,
+   "start": 1.231,
+   "end": 1.856
+  },
+  {
+   "text": "when",
+   "index": 34,
+   "start": 2.05,
+   "end": 2.272
+  },
+  {
+   "text": "all",
+   "index": 39,
+   "start": 2.286,
+   "end": 2.494
+  },
+  {
+   "text": "through",
+   "index": 43,
+   "start": 2.508,
+   "end": 2.661
+  },
+  {
+   "text": "the",
+   "index": 51,
+   "start": 2.675,
+   "end": 2.786
+  },
+  {
+   "text": "house",
+   "index": 55,
+   "start": 2.8,
+   "end": 3.369
+  },
+  {
+   "text": "Not",
+   "index": 61,
+   "start": 4.347,
+   "end": 4.681
+  },
+  {
+   "text": "a",
+   "index": 65,
+   "start": 4.694,
+   "end": 4.764
+  },
+  {
+   "text": "creature",
+   "index": 67,
+   "start": 4.778,
+   "end": 5.208
+  },
+  {
+   "text": "was",
+   "index": 76,
+   "start": 5.222,
+   "end": 5.389
+  },
+  {
+   "text": "stirring",
+   "index": 80,
+   "start": 5.403,
+   "end": 5.833
+  },
+  {
+   "text": "not",
+   "index": 90,
+   "start": 6.083,
+   "end": 6.333
+  },
+  {
+   "text": "even",
+   "index": 94,
+   "start": 6.347,
+   "end": 6.597
+  },
+  {
+   "text": "a",
+   "index": 99,
+   "start": 6.611,
+   "end": 6.667
+  },
+  {
+   "text": "mouse",
+   "index": 101,
+   "start": 6.681,
+   "end": 7.25
+  }
+ ]
+}

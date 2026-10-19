@@ -1,0 +1,205 @@
+{
+ "audio": "assets/voice/en/lp-c02-p14-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"No! No! I don't want an elephant inside a boa constrictor. A boa constrictor is very dangerous, and an elephant takes up far too much room. Where I live, everything is very small.",
+ "words": [
+  {
+   "text": "No",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.633
+  },
+  {
+   "text": "No",
+   "index": 5,
+   "start": 1.583,
+   "end": 2.111
+  },
+  {
+   "text": "I",
+   "index": 9,
+   "start": 3.056,
+   "end": 3.222
+  },
+  {
+   "text": "don't",
+   "index": 11,
+   "start": 3.236,
+   "end": 3.528
+  },
+  {
+   "text": "want",
+   "index": 17,
+   "start": 3.542,
+   "end": 3.833
+  },
+  {
+   "text": "an",
+   "index": 22,
+   "start": 3.847,
+   "end": 4.042
+  },
+  {
+   "text": "elephant",
+   "index": 25,
+   "start": 4.056,
+   "end": 4.611
+  },
+  {
+   "text": "inside",
+   "index": 34,
+   "start": 4.625,
+   "end": 5.194
+  },
+  {
+   "text": "a",
+   "index": 41,
+   "start": 5.208,
+   "end": 5.292
+  },
+  {
+   "text": "boa",
+   "index": 43,
+   "start": 5.306,
+   "end": 5.681
+  },
+  {
+   "text": "constrictor",
+   "index": 47,
+   "start": 5.694,
+   "end": 6.597
+  },
+  {
+   "text": "A",
+   "index": 60,
+   "start": 7.556,
+   "end": 7.681
+  },
+  {
+   "text": "boa",
+   "index": 62,
+   "start": 7.694,
+   "end": 8.083
+  },
+  {
+   "text": "constrictor",
+   "index": 66,
+   "start": 8.097,
+   "end": 8.931
+  },
+  {
+   "text": "is",
+   "index": 78,
+   "start": 8.944,
+   "end": 9.181
+  },
+  {
+   "text": "very",
+   "index": 81,
+   "start": 9.194,
+   "end": 9.611
+  },
+  {
+   "text": "dangerous",
+   "index": 86,
+   "start": 9.625,
+   "end": 10.431
+  },
+  {
+   "text": "and",
+   "index": 97,
+   "start": 10.764,
+   "end": 10.958
+  },
+  {
+   "text": "an",
+   "index": 101,
+   "start": 10.972,
+   "end": 11.167
+  },
+  {
+   "text": "elephant",
+   "index": 104,
+   "start": 11.181,
+   "end": 11.75
+  },
+  {
+   "text": "takes",
+   "index": 113,
+   "start": 11.764,
+   "end": 12.125
+  },
+  {
+   "text": "up",
+   "index": 119,
+   "start": 12.139,
+   "end": 12.347
+  },
+  {
+   "text": "far",
+   "index": 122,
+   "start": 12.361,
+   "end": 12.764
+  },
+  {
+   "text": "too",
+   "index": 126,
+   "start": 12.778,
+   "end": 13.028
+  },
+  {
+   "text": "much",
+   "index": 130,
+   "start": 13.042,
+   "end": 13.347
+  },
+  {
+   "text": "room",
+   "index": 135,
+   "start": 13.361,
+   "end": 13.792
+  },
+  {
+   "text": "Where",
+   "index": 141,
+   "start": 14.75,
+   "end": 15.028
+  },
+  {
+   "text": "I",
+   "index": 147,
+   "start": 15.042,
+   "end": 15.181
+  },
+  {
+   "text": "live",
+   "index": 149,
+   "start": 15.194,
+   "end": 15.625
+  },
+  {
+   "text": "everything",
+   "index": 155,
+   "start": 15.833,
+   "end": 16.514
+  },
+  {
+   "text": "is",
+   "index": 166,
+   "start": 16.528,
+   "end": 16.722
+  },
+  {
+   "text": "very",
+   "index": 169,
+   "start": 16.736,
+   "end": 17.194
+  },
+  {
+   "text": "small",
+   "index": 174,
+   "start": 17.208,
+   "end": 17.792
+  }
+ ]
+}

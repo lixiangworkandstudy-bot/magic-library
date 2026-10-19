@@ -1,0 +1,67 @@
+{
+ "audio": "assets/voice/en/lp-c02-p01-3.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "I had barely enough water to drink for eight days.",
+ "words": [
+  {
+   "text": "I",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.267
+  },
+  {
+   "text": "had",
+   "index": 2,
+   "start": 0.281,
+   "end": 0.489
+  },
+  {
+   "text": "barely",
+   "index": 6,
+   "start": 0.503,
+   "end": 0.85
+  },
+  {
+   "text": "enough",
+   "index": 13,
+   "start": 0.864,
+   "end": 1.156
+  },
+  {
+   "text": "water",
+   "index": 20,
+   "start": 1.169,
+   "end": 1.517
+  },
+  {
+   "text": "to",
+   "index": 26,
+   "start": 1.531,
+   "end": 1.628
+  },
+  {
+   "text": "drink",
+   "index": 29,
+   "start": 1.642,
+   "end": 1.933
+  },
+  {
+   "text": "for",
+   "index": 35,
+   "start": 1.947,
+   "end": 2.114
+  },
+  {
+   "text": "eight",
+   "index": 39,
+   "start": 2.128,
+   "end": 2.35
+  },
+  {
+   "text": "days",
+   "index": 45,
+   "start": 2.364,
+   "end": 2.961
+  }
+ ]
+}

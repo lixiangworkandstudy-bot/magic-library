@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/zh/nbc11-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "他跳上雪橇，吹了一声口哨，驯鹿们飞起来，像蒲公英一样轻飘飘。",
+ "words": [
+  {
+   "text": "他",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.258
+  },
+  {
+   "text": "跳",
+   "index": 1,
+   "start": 0.258,
+   "end": 0.453
+  },
+  {
+   "text": "上",
+   "index": 2,
+   "start": 0.453,
+   "end": 0.633
+  },
+  {
+   "text": "雪橇",
+   "index": 3,
+   "start": 0.647,
+   "end": 1.258
+  },
+  {
+   "text": "吹",
+   "index": 6,
+   "start": 1.467,
+   "end": 1.703
+  },
+  {
+   "text": "了",
+   "index": 7,
+   "start": 1.703,
+   "end": 1.772
+  },
+  {
+   "text": "一",
+   "index": 8,
+   "start": 1.786,
+   "end": 1.925
+  },
+  {
+   "text": "声",
+   "index": 9,
+   "start": 1.925,
+   "end": 2.119
+  },
+  {
+   "text": "口哨",
+   "index": 10,
+   "start": 2.133,
+   "end": 2.744
+  },
+  {
+   "text": "驯鹿们",
+   "index": 13,
+   "start": 3.078,
+   "end": 3.592
+  },
+  {
+   "text": "飞",
+   "index": 16,
+   "start": 3.619,
+   "end": 3.856
+  },
+  {
+   "text": "起来",
+   "index": 17,
+   "start": 3.856,
+   "end": 4.244
+  },
+  {
+   "text": "像",
+   "index": 20,
+   "start": 4.522,
+   "end": 4.717
+  },
+  {
+   "text": "蒲公英",
+   "index": 21,
+   "start": 4.731,
+   "end": 5.314
+  },
+  {
+   "text": "一样",
+   "index": 24,
+   "start": 5.328,
+   "end": 5.633
+  },
+  {
+   "text": "轻飘飘",
+   "index": 26,
+   "start": 5.661,
+   "end": 6.411
+  }
+ ]
+}

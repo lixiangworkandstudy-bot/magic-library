@@ -1,0 +1,61 @@
+{
+ "audio": "assets/voice/en/lp-c01-p09-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "It has not much improved my opinion of them.",
+ "words": [
+  {
+   "text": "It",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.281
+  },
+  {
+   "text": "has",
+   "index": 3,
+   "start": 0.294,
+   "end": 0.461
+  },
+  {
+   "text": "not",
+   "index": 7,
+   "start": 0.475,
+   "end": 0.711
+  },
+  {
+   "text": "much",
+   "index": 11,
+   "start": 0.725,
+   "end": 0.989
+  },
+  {
+   "text": "improved",
+   "index": 16,
+   "start": 1.003,
+   "end": 1.544
+  },
+  {
+   "text": "my",
+   "index": 25,
+   "start": 1.558,
+   "end": 1.753
+  },
+  {
+   "text": "opinion",
+   "index": 28,
+   "start": 1.767,
+   "end": 2.239
+  },
+  {
+   "text": "of",
+   "index": 36,
+   "start": 2.253,
+   "end": 2.35
+  },
+  {
+   "text": "them",
+   "index": 39,
+   "start": 2.364,
+   "end": 2.656
+  }
+ ]
+}

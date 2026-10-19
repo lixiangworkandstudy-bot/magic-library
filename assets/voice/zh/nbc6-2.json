@@ -1,0 +1,79 @@
+{
+ "audio": "assets/voice/zh/nbc6-2.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "一眨眼，我听见屋顶上——嗒嗒、嗒嗒，小蹄子跳呀跳。",
+ "words": [
+  {
+   "text": "一眨眼",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.856
+  },
+  {
+   "text": "我",
+   "index": 4,
+   "start": 1.133,
+   "end": 1.258
+  },
+  {
+   "text": "听见",
+   "index": 5,
+   "start": 1.272,
+   "end": 1.689
+  },
+  {
+   "text": "屋顶",
+   "index": 7,
+   "start": 1.717,
+   "end": 2.106
+  },
+  {
+   "text": "上",
+   "index": 9,
+   "start": 2.106,
+   "end": 2.425
+  },
+  {
+   "text": "嗒嗒",
+   "index": 12,
+   "start": 2.661,
+   "end": 3.161
+  },
+  {
+   "text": "嗒",
+   "index": 15,
+   "start": 3.383,
+   "end": 3.606
+  },
+  {
+   "text": "嗒",
+   "index": 16,
+   "start": 3.606,
+   "end": 3.856
+  },
+  {
+   "text": "小蹄子",
+   "index": 18,
+   "start": 4.175,
+   "end": 4.675
+  },
+  {
+   "text": "跳",
+   "index": 21,
+   "start": 4.703,
+   "end": 4.911
+  },
+  {
+   "text": "呀",
+   "index": 22,
+   "start": 4.911,
+   "end": 5.078
+  },
+  {
+   "text": "跳",
+   "index": 23,
+   "start": 5.078,
+   "end": 5.439
+  }
+ ]
+}

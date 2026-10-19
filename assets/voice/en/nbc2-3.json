@@ -1,0 +1,67 @@
+{
+ "audio": "assets/voice/en/nbc2-3.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "When out on the lawn there arose such a clatter,",
+ "words": [
+  {
+   "text": "When",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.369
+  },
+  {
+   "text": "out",
+   "index": 5,
+   "start": 0.383,
+   "end": 0.578
+  },
+  {
+   "text": "on",
+   "index": 9,
+   "start": 0.592,
+   "end": 0.703
+  },
+  {
+   "text": "the",
+   "index": 12,
+   "start": 0.717,
+   "end": 0.814
+  },
+  {
+   "text": "lawn",
+   "index": 16,
+   "start": 0.828,
+   "end": 1.203
+  },
+  {
+   "text": "there",
+   "index": 21,
+   "start": 1.217,
+   "end": 1.383
+  },
+  {
+   "text": "arose",
+   "index": 27,
+   "start": 1.397,
+   "end": 1.772
+  },
+  {
+   "text": "such",
+   "index": 33,
+   "start": 1.786,
+   "end": 1.981
+  },
+  {
+   "text": "a",
+   "index": 38,
+   "start": 1.994,
+   "end": 2.05
+  },
+  {
+   "text": "clatter",
+   "index": 40,
+   "start": 2.064,
+   "end": 2.633
+  }
+ ]
+}

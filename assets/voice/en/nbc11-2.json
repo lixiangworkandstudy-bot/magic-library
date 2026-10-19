@@ -1,0 +1,133 @@
+{
+ "audio": "assets/voice/en/nbc11-2.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "But I heard him call out, as he flew out of sight,\n“Happy Christmas to all, and to all a good-night!”",
+ "words": [
+  {
+   "text": "But",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.286
+  },
+  {
+   "text": "I",
+   "index": 4,
+   "start": 0.3,
+   "end": 0.383
+  },
+  {
+   "text": "heard",
+   "index": 6,
+   "start": 0.397,
+   "end": 0.647
+  },
+  {
+   "text": "him",
+   "index": 12,
+   "start": 0.661,
+   "end": 0.828
+  },
+  {
+   "text": "call",
+   "index": 16,
+   "start": 0.842,
+   "end": 1.133
+  },
+  {
+   "text": "out",
+   "index": 21,
+   "start": 1.147,
+   "end": 1.494
+  },
+  {
+   "text": "as",
+   "index": 26,
+   "start": 1.703,
+   "end": 1.828
+  },
+  {
+   "text": "he",
+   "index": 29,
+   "start": 1.842,
+   "end": 1.953
+  },
+  {
+   "text": "flew",
+   "index": 32,
+   "start": 1.967,
+   "end": 2.244
+  },
+  {
+   "text": "out",
+   "index": 37,
+   "start": 2.258,
+   "end": 2.425
+  },
+  {
+   "text": "of",
+   "index": 41,
+   "start": 2.439,
+   "end": 2.522
+  },
+  {
+   "text": "sight",
+   "index": 44,
+   "start": 2.536,
+   "end": 3.092
+  },
+  {
+   "text": "Happy",
+   "index": 52,
+   "start": 4.056,
+   "end": 4.486
+  },
+  {
+   "text": "Christmas",
+   "index": 58,
+   "start": 4.5,
+   "end": 5.0
+  },
+  {
+   "text": "to",
+   "index": 68,
+   "start": 5.014,
+   "end": 5.139
+  },
+  {
+   "text": "all",
+   "index": 71,
+   "start": 5.153,
+   "end": 5.5
+  },
+  {
+   "text": "and",
+   "index": 76,
+   "start": 5.667,
+   "end": 5.75
+  },
+  {
+   "text": "to",
+   "index": 80,
+   "start": 5.764,
+   "end": 5.889
+  },
+  {
+   "text": "all",
+   "index": 83,
+   "start": 5.903,
+   "end": 6.181
+  },
+  {
+   "text": "a",
+   "index": 87,
+   "start": 6.194,
+   "end": 6.264
+  },
+  {
+   "text": "good-night",
+   "index": 89,
+   "start": 6.278,
+   "end": 6.944
+  }
+ ]
+}

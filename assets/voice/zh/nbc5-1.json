@@ -1,0 +1,97 @@
+{
+ "audio": "assets/voice/zh/nbc5-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "驯鹿们飞得比老鹰还要快，圣诞老人吹着口哨，一个一个喊名字：",
+ "words": [
+  {
+   "text": "驯鹿们",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.814
+  },
+  {
+   "text": "飞",
+   "index": 3,
+   "start": 0.842,
+   "end": 1.022
+  },
+  {
+   "text": "得",
+   "index": 4,
+   "start": 1.022,
+   "end": 1.119
+  },
+  {
+   "text": "比",
+   "index": 5,
+   "start": 1.147,
+   "end": 1.286
+  },
+  {
+   "text": "老鹰",
+   "index": 6,
+   "start": 1.3,
+   "end": 1.744
+  },
+  {
+   "text": "还要",
+   "index": 8,
+   "start": 1.758,
+   "end": 2.119
+  },
+  {
+   "text": "快",
+   "index": 10,
+   "start": 2.133,
+   "end": 2.439
+  },
+  {
+   "text": "圣诞老人",
+   "index": 12,
+   "start": 2.814,
+   "end": 3.578
+  },
+  {
+   "text": "吹",
+   "index": 16,
+   "start": 3.606,
+   "end": 3.786
+  },
+  {
+   "text": "着",
+   "index": 17,
+   "start": 3.786,
+   "end": 3.883
+  },
+  {
+   "text": "口哨",
+   "index": 18,
+   "start": 3.897,
+   "end": 4.494
+  },
+  {
+   "text": "一个",
+   "index": 21,
+   "start": 4.758,
+   "end": 5.008
+  },
+  {
+   "text": "一个",
+   "index": 23,
+   "start": 5.022,
+   "end": 5.231
+  },
+  {
+   "text": "喊",
+   "index": 25,
+   "start": 5.258,
+   "end": 5.536
+  },
+  {
+   "text": "名字",
+   "index": 26,
+   "start": 5.536,
+   "end": 6.106
+  }
+ ]
+}

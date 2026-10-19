@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/en/nbc1-2.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "The stockings were hung by the chimney with care,\nIn hopes that St. Nicholas soon would be there.",
+ "words": [
+  {
+   "text": "The",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.3
+  },
+  {
+   "text": "stockings",
+   "index": 4,
+   "start": 0.314,
+   "end": 0.911
+  },
+  {
+   "text": "were",
+   "index": 14,
+   "start": 0.925,
+   "end": 1.064
+  },
+  {
+   "text": "hung",
+   "index": 19,
+   "start": 1.078,
+   "end": 1.356
+  },
+  {
+   "text": "by",
+   "index": 24,
+   "start": 1.369,
+   "end": 1.508
+  },
+  {
+   "text": "the",
+   "index": 27,
+   "start": 1.522,
+   "end": 1.619
+  },
+  {
+   "text": "chimney",
+   "index": 31,
+   "start": 1.633,
+   "end": 2.05
+  },
+  {
+   "text": "with",
+   "index": 39,
+   "start": 2.064,
+   "end": 2.217
+  },
+  {
+   "text": "care",
+   "index": 44,
+   "start": 2.231,
+   "end": 2.758
+  },
+  {
+   "text": "In",
+   "index": 50,
+   "start": 3.722,
+   "end": 3.903
+  },
+  {
+   "text": "hopes",
+   "index": 53,
+   "start": 3.917,
+   "end": 4.278
+  },
+  {
+   "text": "that St. Nicholas",
+   "index": 59,
+   "start": 4.292,
+   "end": 5.264
+  },
+  {
+   "text": "soon",
+   "index": 77,
+   "start": 5.278,
+   "end": 5.542
+  },
+  {
+   "text": "would",
+   "index": 82,
+   "start": 5.556,
+   "end": 5.681
+  },
+  {
+   "text": "be",
+   "index": 88,
+   "start": 5.694,
+   "end": 5.833
+  },
+  {
+   "text": "there",
+   "index": 91,
+   "start": 5.847,
+   "end": 6.278
+  }
+ ]
+}

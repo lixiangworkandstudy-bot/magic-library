@@ -1,0 +1,79 @@
+{
+ "audio": "assets/voice/zh/p3-2.mp3",
+ "voice": "zh-CN-XiaoyiNeural",
+ "text": "月亮，原来你在这里呀！我不用摘，你一直跟着我呢。",
+ "words": [
+  {
+   "text": "月亮",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.592
+  },
+  {
+   "text": "原来",
+   "index": 3,
+   "start": 0.814,
+   "end": 1.106
+  },
+  {
+   "text": "你在这里",
+   "index": 5,
+   "start": 1.119,
+   "end": 1.786
+  },
+  {
+   "text": "呀",
+   "index": 9,
+   "start": 1.786,
+   "end": 2.008
+  },
+  {
+   "text": "我",
+   "index": 11,
+   "start": 2.639,
+   "end": 2.792
+  },
+  {
+   "text": "不用",
+   "index": 12,
+   "start": 2.806,
+   "end": 3.153
+  },
+  {
+   "text": "摘",
+   "index": 14,
+   "start": 3.153,
+   "end": 3.444
+  },
+  {
+   "text": "你",
+   "index": 16,
+   "start": 3.722,
+   "end": 3.847
+  },
+  {
+   "text": "一直",
+   "index": 17,
+   "start": 3.861,
+   "end": 4.153
+  },
+  {
+   "text": "跟着",
+   "index": 19,
+   "start": 4.167,
+   "end": 4.486
+  },
+  {
+   "text": "我",
+   "index": 21,
+   "start": 4.486,
+   "end": 4.653
+  },
+  {
+   "text": "呢",
+   "index": 22,
+   "start": 4.653,
+   "end": 4.931
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "audio": "assets/voice/en/lp-c02-p16-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "He looked at it closely, and then:",
+ "words": [
+  {
+   "text": "He",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.281
+  },
+  {
+   "text": "looked",
+   "index": 3,
+   "start": 0.294,
+   "end": 0.544
+  },
+  {
+   "text": "at",
+   "index": 10,
+   "start": 0.558,
+   "end": 0.642
+  },
+  {
+   "text": "it",
+   "index": 13,
+   "start": 0.656,
+   "end": 0.767
+  },
+  {
+   "text": "closely",
+   "index": 16,
+   "start": 0.781,
+   "end": 1.392
+  },
+  {
+   "text": "and",
+   "index": 25,
+   "start": 1.614,
+   "end": 1.739
+  },
+  {
+   "text": "then",
+   "index": 29,
+   "start": 1.753,
+   "end": 2.183
+  }
+ ]
+}

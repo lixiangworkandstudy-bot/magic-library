@@ -1,0 +1,121 @@
+{
+ "audio": "assets/voice/en/nbc4-3.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "With a little old driver, so lively and quick,\nI knew in a moment it must be St. Nick.",
+ "words": [
+  {
+   "text": "With",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.314
+  },
+  {
+   "text": "a",
+   "index": 5,
+   "start": 0.328,
+   "end": 0.397
+  },
+  {
+   "text": "little",
+   "index": 7,
+   "start": 0.411,
+   "end": 0.717
+  },
+  {
+   "text": "old",
+   "index": 14,
+   "start": 0.731,
+   "end": 0.925
+  },
+  {
+   "text": "driver",
+   "index": 18,
+   "start": 0.939,
+   "end": 1.439
+  },
+  {
+   "text": "so",
+   "index": 26,
+   "start": 1.633,
+   "end": 1.828
+  },
+  {
+   "text": "lively",
+   "index": 29,
+   "start": 1.842,
+   "end": 2.328
+  },
+  {
+   "text": "and",
+   "index": 36,
+   "start": 2.342,
+   "end": 2.481
+  },
+  {
+   "text": "quick",
+   "index": 40,
+   "start": 2.494,
+   "end": 3.064
+  },
+  {
+   "text": "I",
+   "index": 47,
+   "start": 4.028,
+   "end": 4.153
+  },
+  {
+   "text": "knew",
+   "index": 49,
+   "start": 4.167,
+   "end": 4.458
+  },
+  {
+   "text": "in",
+   "index": 54,
+   "start": 4.472,
+   "end": 4.569
+  },
+  {
+   "text": "a",
+   "index": 57,
+   "start": 4.583,
+   "end": 4.639
+  },
+  {
+   "text": "moment",
+   "index": 59,
+   "start": 4.653,
+   "end": 5.097
+  },
+  {
+   "text": "it",
+   "index": 66,
+   "start": 5.111,
+   "end": 5.208
+  },
+  {
+   "text": "must",
+   "index": 69,
+   "start": 5.222,
+   "end": 5.514
+  },
+  {
+   "text": "be",
+   "index": 74,
+   "start": 5.528,
+   "end": 5.653
+  },
+  {
+   "text": "St.",
+   "index": 77,
+   "start": 5.667,
+   "end": 5.944
+  },
+  {
+   "text": "Nick",
+   "index": 81,
+   "start": 5.958,
+   "end": 6.403
+  }
+ ]
+}

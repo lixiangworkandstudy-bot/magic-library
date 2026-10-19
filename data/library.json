@@ -1,0 +1,729 @@
+{
+  "title": {
+    "en": "Magic Library",
+    "zh": "魔法图书馆"
+  },
+  "tagline": {
+    "en": "Find anything you want to read",
+    "zh": "找到任何你想读的书"
+  },
+  "languages": {
+    "default": "en",
+    "available": [
+      "en",
+      "zh"
+    ]
+  },
+  "ui": {
+    "back": {
+      "en": "Back to the room",
+      "zh": "回到书房"
+    },
+    "loading": {
+      "en": "Lighting the candles…",
+      "zh": "点燃蜡烛中…"
+    },
+    "switchTo": {
+      "en": "中文",
+      "zh": "English"
+    },
+    "level": {
+      "en": "Level",
+      "zh": "级别"
+    },
+    "error": {
+      "en": "The candles would not light. Please refresh and try again.",
+      "zh": "书房没能点亮，刷新再试一次。"
+    },
+    "levels": [
+      {
+        "en": "Beginner",
+        "zh": "启蒙"
+      },
+      {
+        "en": "Growing",
+        "zh": "进阶"
+      },
+      {
+        "en": "Confident",
+        "zh": "熟练"
+      }
+    ],
+    "chooseLevel": {
+      "en": "Choose a reading level",
+      "zh": "选择阅读等级"
+    }
+  },
+  "hints": {
+    "seek": {
+      "en": "A glowing book is hiding in this room. Turn around and find it!",
+      "zh": "书房里藏着一本会发光的书，转身找找看"
+    },
+    "found": {
+      "en": "You found it! Tap the book.",
+      "zh": "找到啦！点一点它"
+    },
+    "welcomeBack": {
+      "en": "Welcome back! Tap a wall to browse its books.",
+      "zh": "欢迎回来！点一面书墙逛逛"
+    },
+    "continue": {
+      "en": "Welcome back! Keep reading “{title}”, or tap a wall to browse.",
+      "zh": "欢迎回来！继续读《{title}》，或者点一面书墙逛逛"
+    },
+    "shelf": {
+      "en": "Swipe to visit the next wall · Tap a book to open it",
+      "zh": "左右滑动看隔壁的书 · 点一本书打开"
+    },
+    "emptyReading": {
+      "en": "No books here yet. Pick one from another wall!",
+      "zh": "还没有正在读的书，去别的书墙挑一本吧"
+    },
+    "emptyShelf": {
+      "en": "This shelf is empty. New books are coming soon.",
+      "zh": "这面书墙还空着，新书很快就到"
+    },
+    "sealed": {
+      "en": "This book is sealed with magic. It will open when you grow a little more.",
+      "zh": "这本书被魔法封住了，等你再长大一点就能打开"
+    },
+    "unwritten": {
+      "en": "This book is still being written. Almost ready!",
+      "zh": "这本书还在写，快好啦"
+    },
+    "levelUp": {
+      "en": "Level up! Level {level} books have floated down. Go and take a look!",
+      "zh": "升级啦！Lv{level} 的书从回廊飞下来了，快去看看"
+    },
+    "levelSet": {
+      "en": "Now showing Level {level} books",
+      "zh": "已切换到 Lv{level} 的书"
+    },
+    "secretFound": {
+      "en": "You found a secret! ({n}/{total})",
+      "zh": "你发现了一个秘密！（{n}/{total}）"
+    },
+    "secretAll": {
+      "en": "You found every secret in the library! ✨",
+      "zh": "书房里的秘密你全都找到啦！✨"
+    },
+    "secretTip": {
+      "en": "Psst… your wand's light can reveal invisible ink on the walls",
+      "zh": "悄悄告诉你：魔法棒的光能照出墙上的隐形墨水"
+    }
+  },
+  "rules": {
+    "maxLevel": 3,
+    "levelUpAfter": 3,
+    "welcomeBook": "paper-moon"
+  },
+  "room": {
+    "height": 3.0,
+    "eyeHeight": 1.35,
+    "frontWall": 2,
+    "walls": [
+      {
+        "file": "assets/library/wall-1.png",
+        "label": "WALL 1 · Entrance",
+        "accent": "#f2c46b"
+      },
+      {
+        "file": "assets/library/wall-2.png",
+        "label": "WALL 2 · Fireplace",
+        "accent": "#e8793a"
+      },
+      {
+        "file": "assets/library/wall-3.png",
+        "label": "WALL 3 · Clockwork",
+        "accent": "#c8964a"
+      },
+      {
+        "file": "assets/library/wall-4.png",
+        "label": "WALL 4 · Stained Glass",
+        "accent": "#6fa8dc"
+      },
+      {
+        "file": "assets/library/wall-5.png",
+        "label": "WALL 5 · Spiral Stairs",
+        "accent": "#b07a4a"
+      },
+      {
+        "file": "assets/library/wall-6.png",
+        "label": "WALL 6 · Potions",
+        "accent": "#7fd6c2"
+      }
+    ],
+    "ceiling": {
+      "file": "assets/library/ceiling.png",
+      "label": "CEILING · Starry Dome"
+    },
+    "floor": {
+      "file": "assets/library/floor.png",
+      "label": "FLOOR · Round Rug"
+    },
+    "fireplace": {
+      "wall": 2,
+      "u": 0.49,
+      "base": 0.8,
+      "top": 0.65,
+      "width": 0.16,
+      "_note": "画里火焰的位置：u = 横向比例（0 左 1 右），base/top = 火苗底部/顶部的纵向比例（0 顶 1 底），width = 火堆宽度占墙宽的比例"
+    }
+  },
+  "sections": [
+    {
+      "wall": 1,
+      "id": "new",
+      "name": {
+        "en": "New Arrivals",
+        "zh": "新书上架"
+      },
+      "color": "#f2c46b",
+      "icon": "✦"
+    },
+    {
+      "wall": 2,
+      "id": "reading",
+      "name": {
+        "en": "Reading Now",
+        "zh": "我正在读"
+      },
+      "color": "#f39a5c",
+      "icon": "☾"
+    },
+    {
+      "wall": 3,
+      "id": "science",
+      "name": {
+        "en": "Science",
+        "zh": "科学认知"
+      },
+      "color": "#7fd0c8",
+      "icon": "⚙"
+    },
+    {
+      "wall": 4,
+      "id": "fairytale",
+      "name": {
+        "en": "Fairy Tales",
+        "zh": "童话经典"
+      },
+      "color": "#f4a3bf",
+      "icon": "❀"
+    },
+    {
+      "wall": 5,
+      "id": "adventure",
+      "name": {
+        "en": "Adventure",
+        "zh": "冒险"
+      },
+      "color": "#a6d98c",
+      "icon": "➹"
+    },
+    {
+      "wall": 6,
+      "id": "language",
+      "name": {
+        "en": "Language Magic",
+        "zh": "语言魔法"
+      },
+      "color": "#c3b2ff",
+      "icon": "✎"
+    }
+  ],
+  "books": [
+    {
+      "id": "little-prince-1",
+      "title": {
+        "en": "The Little Prince · Book One",
+        "zh": "小王子 · 第一册"
+      },
+      "theme": "fairytale",
+      "level": 1,
+      "color": "#24305e",
+      "new": true,
+      "href": "book.html?book=little-prince-1",
+      "cover": "assets/lp/cover-library.png",
+      "mood": "dreamy",
+      "tags": [
+        "magic-book",
+        "original-text"
+      ]
+    },
+    {
+      "id": "paper-moon",
+      "title": {
+        "en": "The Paper Moon",
+        "zh": "纸月亮"
+      },
+      "theme": "fairytale",
+      "level": 1,
+      "color": "#27366b",
+      "new": true,
+      "href": "book.html?book=paper-moon",
+      "cover": "assets/library/book-cover.png",
+      "mood": "proud",
+      "tags": [
+        "animals",
+        "moon"
+      ]
+    },
+    {
+      "id": "night-before-christmas",
+      "title": {
+        "en": "The Night Before Christmas",
+        "zh": "圣诞前夜"
+      },
+      "theme": "fairytale",
+      "level": 1,
+      "color": "#26324f",
+      "new": true,
+      "href": "book.html?book=night-before-christmas",
+      "cover": "assets/greybox/nbc/cover.png",
+      "mood": "dreamy",
+      "tags": [
+        "christmas",
+        "poem",
+        "greybox"
+      ]
+    },
+    {
+      "id": "red-riding-hood",
+      "title": {
+        "en": "Little Red Riding Hood",
+        "zh": "小红帽"
+      },
+      "theme": "fairytale",
+      "level": 1,
+      "color": "#8c2f2a",
+      "mood": "curious",
+      "tags": [
+        "animals",
+        "castle"
+      ]
+    },
+    {
+      "id": "three-little-pigs",
+      "title": {
+        "en": "The Three Little Pigs",
+        "zh": "三只小猪"
+      },
+      "theme": "fairytale",
+      "level": 1,
+      "color": "#a0703a",
+      "mood": "bouncy",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "id": "ugly-duckling",
+      "title": {
+        "en": "The Ugly Duckling",
+        "zh": "丑小鸭"
+      },
+      "theme": "fairytale",
+      "level": 1,
+      "color": "#4a6a8c",
+      "mood": "shy",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "id": "snow-white",
+      "title": {
+        "en": "Snow White",
+        "zh": "白雪公主"
+      },
+      "theme": "fairytale",
+      "level": 2,
+      "color": "#6a3d7a",
+      "mood": "sleepy",
+      "tags": [
+        "castle"
+      ]
+    },
+    {
+      "id": "snow-queen",
+      "title": {
+        "en": "The Snow Queen",
+        "zh": "冰雪女王"
+      },
+      "theme": "fairytale",
+      "level": 3,
+      "color": "#2f4a6a",
+      "mood": "grumpy",
+      "tags": [
+        "castle"
+      ]
+    },
+    {
+      "id": "crow-and-pitcher",
+      "title": {
+        "en": "The Crow and the Pitcher",
+        "zh": "乌鸦喝水"
+      },
+      "theme": "science",
+      "level": 1,
+      "color": "#2b3f6b",
+      "mood": "curious",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "id": "weighing-elephant",
+      "title": {
+        "en": "Cao Chong Weighs the Elephant",
+        "zh": "曹冲称象"
+      },
+      "theme": "science",
+      "level": 1,
+      "color": "#8a5a2b",
+      "mood": "proud",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "id": "sun-and-moon",
+      "title": {
+        "en": "Why the Sun and the Moon Live in the Sky",
+        "zh": "太阳和月亮为什么住在天上"
+      },
+      "theme": "science",
+      "level": 1,
+      "color": "#b0602e",
+      "mood": "sleepy",
+      "tags": [
+        "moon"
+      ]
+    },
+    {
+      "id": "north-wind-sun",
+      "title": {
+        "en": "The North Wind and the Sun",
+        "zh": "北风和太阳"
+      },
+      "theme": "science",
+      "level": 2,
+      "color": "#3a3450",
+      "mood": "grumpy",
+      "tags": [
+        "moon"
+      ]
+    },
+    {
+      "id": "twenty-thousand-leagues",
+      "title": {
+        "en": "Twenty Thousand Leagues Under the Sea",
+        "zh": "海底两万里"
+      },
+      "theme": "science",
+      "level": 3,
+      "color": "#1f3d52",
+      "mood": "curious",
+      "tags": [
+        "adventure"
+      ]
+    },
+    {
+      "id": "jack-beanstalk",
+      "title": {
+        "en": "Jack and the Beanstalk",
+        "zh": "杰克与魔豆"
+      },
+      "theme": "adventure",
+      "level": 1,
+      "color": "#4f6b3a",
+      "new": true,
+      "mood": "bouncy",
+      "tags": [
+        "adventure",
+        "castle"
+      ]
+    },
+    {
+      "id": "gingerbread-man",
+      "title": {
+        "en": "The Gingerbread Man",
+        "zh": "姜饼人"
+      },
+      "theme": "adventure",
+      "level": 1,
+      "color": "#8c6a3a",
+      "mood": "shy",
+      "tags": [
+        "adventure"
+      ]
+    },
+    {
+      "id": "alice",
+      "title": {
+        "en": "Alice's Adventures in Wonderland",
+        "zh": "爱丽丝梦游仙境"
+      },
+      "theme": "adventure",
+      "level": 2,
+      "color": "#5a6b8c",
+      "mood": "curious",
+      "tags": [
+        "adventure",
+        "castle"
+      ]
+    },
+    {
+      "id": "peter-pan",
+      "title": {
+        "en": "Peter Pan",
+        "zh": "彼得·潘"
+      },
+      "theme": "adventure",
+      "level": 2,
+      "color": "#2e5a4b",
+      "mood": "bouncy",
+      "tags": [
+        "adventure",
+        "moon"
+      ]
+    },
+    {
+      "id": "treasure-island",
+      "title": {
+        "en": "Treasure Island",
+        "zh": "金银岛"
+      },
+      "theme": "adventure",
+      "level": 3,
+      "color": "#6b2e2e",
+      "mood": "grumpy",
+      "tags": [
+        "adventure"
+      ]
+    },
+    {
+      "id": "twinkle-star",
+      "title": {
+        "en": "Twinkle, Twinkle, Little Star",
+        "zh": "一闪一闪小星星"
+      },
+      "theme": "language",
+      "level": 1,
+      "color": "#27366b",
+      "new": true,
+      "mood": "sleepy",
+      "tags": [
+        "words",
+        "moon"
+      ]
+    },
+    {
+      "id": "old-macdonald",
+      "title": {
+        "en": "Old MacDonald Had a Farm",
+        "zh": "王老先生有块地"
+      },
+      "theme": "language",
+      "level": 1,
+      "color": "#7a3a5a",
+      "mood": "bouncy",
+      "tags": [
+        "words",
+        "animals"
+      ]
+    },
+    {
+      "id": "humpty-dumpty",
+      "title": {
+        "en": "Humpty Dumpty",
+        "zh": "蛋头先生"
+      },
+      "theme": "language",
+      "level": 1,
+      "color": "#3a6b5a",
+      "mood": "wobbly",
+      "tags": [
+        "words"
+      ]
+    },
+    {
+      "id": "mother-goose",
+      "title": {
+        "en": "Mother Goose Rhymes",
+        "zh": "鹅妈妈童谣"
+      },
+      "theme": "language",
+      "level": 2,
+      "color": "#8c7a3a",
+      "mood": "proud",
+      "tags": [
+        "words"
+      ]
+    },
+    {
+      "id": "tang-poems",
+      "title": {
+        "en": "Three Hundred Tang Poems",
+        "zh": "唐诗三百首"
+      },
+      "theme": "language",
+      "level": 3,
+      "color": "#6b2e3a",
+      "mood": "sleepy",
+      "tags": [
+        "words",
+        "moon"
+      ]
+    }
+  ],
+  "secrets": [
+    {
+      "id": "door",
+      "wall": 1,
+      "u": 0.5,
+      "v": 0.1,
+      "icon": "🗝️",
+      "text": {
+        "en": "Every book is a door",
+        "zh": "每一本书都是一扇门"
+      }
+    },
+    {
+      "id": "warm",
+      "wall": 2,
+      "u": 0.5,
+      "v": 0.44,
+      "icon": "🔥",
+      "text": {
+        "en": "Stories keep us warm",
+        "zh": "故事会让人暖和起来"
+      }
+    },
+    {
+      "id": "time",
+      "wall": 3,
+      "u": 0.5,
+      "v": 0.86,
+      "icon": "⏳",
+      "text": {
+        "en": "Time flies when you read",
+        "zh": "读书的时候，时间会飞"
+      }
+    },
+    {
+      "id": "moon",
+      "wall": 4,
+      "u": 0.5,
+      "v": 0.1,
+      "icon": "🌙",
+      "text": {
+        "en": "The moon reads over your shoulder",
+        "zh": "月亮在你肩膀后面偷看"
+      }
+    },
+    {
+      "id": "climb",
+      "wall": 5,
+      "u": 0.22,
+      "v": 0.62,
+      "icon": "⭐",
+      "text": {
+        "en": "Keep climbing!",
+        "zh": "继续往上爬！"
+      }
+    },
+    {
+      "id": "spell",
+      "wall": 6,
+      "u": 0.5,
+      "v": 0.86,
+      "icon": "✨",
+      "text": {
+        "en": "Words are magic spells",
+        "zh": "文字就是魔法咒语"
+      }
+    }
+  ],
+  "owl": {
+    "name": {
+      "en": "Professor Hoot",
+      "zh": "咕咕教授"
+    },
+    "greet": {
+      "en": "Hoo-hoo! What kind of story would you like today?",
+      "zh": "咕咕！今天想看什么样的故事呀？"
+    },
+    "choices": [
+      {
+        "tag": "animals",
+        "icon": "🐾",
+        "label": {
+          "en": "Animals",
+          "zh": "动物"
+        }
+      },
+      {
+        "tag": "moon",
+        "icon": "🌙",
+        "label": {
+          "en": "Moon & stars",
+          "zh": "月亮和星星"
+        }
+      },
+      {
+        "tag": "castle",
+        "icon": "🏰",
+        "label": {
+          "en": "Castles & princesses",
+          "zh": "城堡和公主"
+        }
+      },
+      {
+        "tag": "adventure",
+        "icon": "🗺️",
+        "label": {
+          "en": "Adventure",
+          "zh": "去冒险"
+        }
+      },
+      {
+        "tag": "words",
+        "icon": "🔤",
+        "label": {
+          "en": "Rhymes & words",
+          "zh": "儿歌和语言"
+        }
+      },
+      {
+        "tag": "*",
+        "icon": "🎲",
+        "label": {
+          "en": "Surprise me!",
+          "zh": "给我个惊喜！"
+        }
+      }
+    ],
+    "found": {
+      "en": "Hoo! I found “{title}” for you. Tap it to open!",
+      "zh": "咕！我帮你找到了《{title}》，点一下就能打开！"
+    },
+    "foundUnwritten": {
+      "en": "Here's “{title}” — it's still being written, but you can peek!",
+      "zh": "找到了《{title}》！它还在写，不过可以先看看封面～"
+    },
+    "sealedOnly": {
+      "en": "Those are still sealed by magic. Here's one you can read now: “{title}”",
+      "zh": "那些书还被魔法封着呢。先看这本吧：《{title}》"
+    },
+    "none": {
+      "en": "Hmm, I couldn't find one… try another kind?",
+      "zh": "嗯……没找到，换一种试试？"
+    },
+    "close": {
+      "en": "Bye for now",
+      "zh": "先不用了"
+    }
+  }
+}

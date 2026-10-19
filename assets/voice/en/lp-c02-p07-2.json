@@ -1,0 +1,163 @@
+{
+ "audio": "assets/voice/en/lp-c02-p07-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And yet my little fellow seemed to be neither lost, nor dying of exhaustion, nor dying of hunger, nor dying of thirst, nor dying of fear.",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.308
+  },
+  {
+   "text": "yet",
+   "index": 4,
+   "start": 0.322,
+   "end": 0.503
+  },
+  {
+   "text": "my",
+   "index": 8,
+   "start": 0.517,
+   "end": 0.669
+  },
+  {
+   "text": "little",
+   "index": 11,
+   "start": 0.683,
+   "end": 1.044
+  },
+  {
+   "text": "fellow",
+   "index": 18,
+   "start": 1.058,
+   "end": 1.406
+  },
+  {
+   "text": "seemed",
+   "index": 25,
+   "start": 1.419,
+   "end": 1.711
+  },
+  {
+   "text": "to",
+   "index": 32,
+   "start": 1.725,
+   "end": 1.781
+  },
+  {
+   "text": "be",
+   "index": 35,
+   "start": 1.794,
+   "end": 1.947
+  },
+  {
+   "text": "neither",
+   "index": 38,
+   "start": 1.961,
+   "end": 2.322
+  },
+  {
+   "text": "lost",
+   "index": 46,
+   "start": 2.336,
+   "end": 2.85
+  },
+  {
+   "text": "nor",
+   "index": 52,
+   "start": 3.1,
+   "end": 3.308
+  },
+  {
+   "text": "dying",
+   "index": 56,
+   "start": 3.322,
+   "end": 3.669
+  },
+  {
+   "text": "of",
+   "index": 62,
+   "start": 3.683,
+   "end": 3.753
+  },
+  {
+   "text": "exhaustion",
+   "index": 65,
+   "start": 3.767,
+   "end": 4.447
+  },
+  {
+   "text": "nor",
+   "index": 77,
+   "start": 4.767,
+   "end": 5.003
+  },
+  {
+   "text": "dying",
+   "index": 81,
+   "start": 5.017,
+   "end": 5.378
+  },
+  {
+   "text": "of",
+   "index": 87,
+   "start": 5.392,
+   "end": 5.461
+  },
+  {
+   "text": "hunger",
+   "index": 90,
+   "start": 5.475,
+   "end": 5.906
+  },
+  {
+   "text": "nor",
+   "index": 98,
+   "start": 6.142,
+   "end": 6.364
+  },
+  {
+   "text": "dying",
+   "index": 102,
+   "start": 6.378,
+   "end": 6.753
+  },
+  {
+   "text": "of",
+   "index": 108,
+   "start": 6.767,
+   "end": 6.864
+  },
+  {
+   "text": "thirst",
+   "index": 111,
+   "start": 6.878,
+   "end": 7.378
+  },
+  {
+   "text": "nor",
+   "index": 119,
+   "start": 7.586,
+   "end": 7.822
+  },
+  {
+   "text": "dying",
+   "index": 123,
+   "start": 7.836,
+   "end": 8.211
+  },
+  {
+   "text": "of",
+   "index": 129,
+   "start": 8.225,
+   "end": 8.308
+  },
+  {
+   "text": "fear",
+   "index": 132,
+   "start": 8.322,
+   "end": 8.794
+  }
+ ]
+}

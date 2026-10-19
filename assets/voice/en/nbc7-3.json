@@ -1,0 +1,127 @@
+{
+ "audio": "assets/voice/en/nbc7-3.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "A bundle of toys he had flung on his back,\nAnd he looked like a toy-man just opening his pack.",
+ "words": [
+  {
+   "text": "A",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.272
+  },
+  {
+   "text": "bundle",
+   "index": 2,
+   "start": 0.286,
+   "end": 0.675
+  },
+  {
+   "text": "of",
+   "index": 9,
+   "start": 0.689,
+   "end": 0.8
+  },
+  {
+   "text": "toys",
+   "index": 12,
+   "start": 0.814,
+   "end": 1.231
+  },
+  {
+   "text": "he",
+   "index": 17,
+   "start": 1.244,
+   "end": 1.342
+  },
+  {
+   "text": "had",
+   "index": 20,
+   "start": 1.356,
+   "end": 1.508
+  },
+  {
+   "text": "flung",
+   "index": 24,
+   "start": 1.522,
+   "end": 1.842
+  },
+  {
+   "text": "on",
+   "index": 30,
+   "start": 1.856,
+   "end": 1.967
+  },
+  {
+   "text": "his",
+   "index": 33,
+   "start": 1.981,
+   "end": 2.147
+  },
+  {
+   "text": "back",
+   "index": 37,
+   "start": 2.161,
+   "end": 2.633
+  },
+  {
+   "text": "And",
+   "index": 43,
+   "start": 3.597,
+   "end": 3.778
+  },
+  {
+   "text": "he",
+   "index": 47,
+   "start": 3.792,
+   "end": 3.917
+  },
+  {
+   "text": "looked",
+   "index": 50,
+   "start": 3.931,
+   "end": 4.208
+  },
+  {
+   "text": "like",
+   "index": 57,
+   "start": 4.222,
+   "end": 4.417
+  },
+  {
+   "text": "a",
+   "index": 62,
+   "start": 4.431,
+   "end": 4.514
+  },
+  {
+   "text": "toy-man",
+   "index": 64,
+   "start": 4.528,
+   "end": 5.139
+  },
+  {
+   "text": "just",
+   "index": 72,
+   "start": 5.153,
+   "end": 5.458
+  },
+  {
+   "text": "opening",
+   "index": 77,
+   "start": 5.472,
+   "end": 5.875
+  },
+  {
+   "text": "his",
+   "index": 85,
+   "start": 5.889,
+   "end": 6.069
+  },
+  {
+   "text": "pack",
+   "index": 89,
+   "start": 6.083,
+   "end": 6.625
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "audio": "assets/voice/en/lp-c02-p15-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "So I drew.",
+ "words": [
+  {
+   "text": "So",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.378
+  },
+  {
+   "text": "I",
+   "index": 3,
+   "start": 0.392,
+   "end": 0.517
+  },
+  {
+   "text": "drew",
+   "index": 5,
+   "start": 0.531,
+   "end": 1.058
+  }
+ ]
+}

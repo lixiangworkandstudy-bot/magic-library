@@ -1,0 +1,67 @@
+{
+ "audio": "assets/voice/en/p1-2.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "It looks so close! I will go and pick it.",
+ "words": [
+  {
+   "text": "It",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.342
+  },
+  {
+   "text": "looks",
+   "index": 3,
+   "start": 0.356,
+   "end": 0.703
+  },
+  {
+   "text": "so",
+   "index": 9,
+   "start": 0.717,
+   "end": 1.036
+  },
+  {
+   "text": "close",
+   "index": 12,
+   "start": 1.05,
+   "end": 1.717
+  },
+  {
+   "text": "I",
+   "index": 19,
+   "start": 2.681,
+   "end": 2.889
+  },
+  {
+   "text": "will",
+   "index": 21,
+   "start": 2.903,
+   "end": 3.139
+  },
+  {
+   "text": "go",
+   "index": 26,
+   "start": 3.153,
+   "end": 3.444
+  },
+  {
+   "text": "and",
+   "index": 29,
+   "start": 3.458,
+   "end": 3.625
+  },
+  {
+   "text": "pick",
+   "index": 33,
+   "start": 3.639,
+   "end": 3.944
+  },
+  {
+   "text": "it",
+   "index": 38,
+   "start": 3.958,
+   "end": 4.236
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "audio": "assets/voice/en/p3-2.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "Moon, there you are! I don't need to pick you. You follow me everywhere.",
+ "words": [
+  {
+   "text": "Moon",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.55
+  },
+  {
+   "text": "there",
+   "index": 6,
+   "start": 0.869,
+   "end": 1.133
+  },
+  {
+   "text": "you",
+   "index": 12,
+   "start": 1.147,
+   "end": 1.356
+  },
+  {
+   "text": "are",
+   "index": 16,
+   "start": 1.369,
+   "end": 1.786
+  },
+  {
+   "text": "I",
+   "index": 21,
+   "start": 2.75,
+   "end": 2.903
+  },
+  {
+   "text": "don't",
+   "index": 23,
+   "start": 2.917,
+   "end": 3.194
+  },
+  {
+   "text": "need",
+   "index": 29,
+   "start": 3.208,
+   "end": 3.472
+  },
+  {
+   "text": "to",
+   "index": 34,
+   "start": 3.486,
+   "end": 3.611
+  },
+  {
+   "text": "pick",
+   "index": 37,
+   "start": 3.625,
+   "end": 3.931
+  },
+  {
+   "text": "you",
+   "index": 42,
+   "start": 3.944,
+   "end": 4.292
+  },
+  {
+   "text": "You",
+   "index": 47,
+   "start": 5.25,
+   "end": 5.472
+  },
+  {
+   "text": "follow",
+   "index": 51,
+   "start": 5.486,
+   "end": 5.944
+  },
+  {
+   "text": "me",
+   "index": 58,
+   "start": 5.958,
+   "end": 6.208
+  },
+  {
+   "text": "everywhere",
+   "index": 61,
+   "start": 6.222,
+   "end": 7.069
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "audio": "assets/voice/en/lp-c02-p31-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "He bent his head over the drawing:",
+ "words": [
+  {
+   "text": "He",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.336
+  },
+  {
+   "text": "bent",
+   "index": 3,
+   "start": 0.35,
+   "end": 0.6
+  },
+  {
+   "text": "his",
+   "index": 8,
+   "start": 0.614,
+   "end": 0.794
+  },
+  {
+   "text": "head",
+   "index": 12,
+   "start": 0.808,
+   "end": 1.044
+  },
+  {
+   "text": "over",
+   "index": 17,
+   "start": 1.058,
+   "end": 1.253
+  },
+  {
+   "text": "the",
+   "index": 22,
+   "start": 1.267,
+   "end": 1.364
+  },
+  {
+   "text": "drawing",
+   "index": 26,
+   "start": 1.378,
+   "end": 2.003
+  }
+ ]
+}

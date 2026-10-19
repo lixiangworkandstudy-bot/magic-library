@@ -1,0 +1,157 @@
+{
+ "audio": "assets/voice/en/lp-c03-p19-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"Of course. And if you are good, I will give you a rope as well, to tie him up during the day. And a stake.\"",
+ "words": [
+  {
+   "text": "Of",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.322
+  },
+  {
+   "text": "course",
+   "index": 4,
+   "start": 0.336,
+   "end": 0.989
+  },
+  {
+   "text": "And",
+   "index": 12,
+   "start": 1.953,
+   "end": 2.161
+  },
+  {
+   "text": "if",
+   "index": 16,
+   "start": 2.175,
+   "end": 2.272
+  },
+  {
+   "text": "you",
+   "index": 19,
+   "start": 2.286,
+   "end": 2.411
+  },
+  {
+   "text": "are",
+   "index": 23,
+   "start": 2.425,
+   "end": 2.467
+  },
+  {
+   "text": "good",
+   "index": 27,
+   "start": 2.481,
+   "end": 2.814
+  },
+  {
+   "text": "I",
+   "index": 33,
+   "start": 3.092,
+   "end": 3.175
+  },
+  {
+   "text": "will",
+   "index": 35,
+   "start": 3.189,
+   "end": 3.342
+  },
+  {
+   "text": "give",
+   "index": 40,
+   "start": 3.356,
+   "end": 3.55
+  },
+  {
+   "text": "you",
+   "index": 45,
+   "start": 3.564,
+   "end": 3.703
+  },
+  {
+   "text": "a",
+   "index": 49,
+   "start": 3.717,
+   "end": 3.786
+  },
+  {
+   "text": "rope",
+   "index": 51,
+   "start": 3.8,
+   "end": 4.092
+  },
+  {
+   "text": "as",
+   "index": 56,
+   "start": 4.106,
+   "end": 4.203
+  },
+  {
+   "text": "well",
+   "index": 59,
+   "start": 4.217,
+   "end": 4.633
+  },
+  {
+   "text": "to",
+   "index": 65,
+   "start": 4.883,
+   "end": 5.008
+  },
+  {
+   "text": "tie",
+   "index": 68,
+   "start": 5.022,
+   "end": 5.3
+  },
+  {
+   "text": "him",
+   "index": 72,
+   "start": 5.314,
+   "end": 5.508
+  },
+  {
+   "text": "up",
+   "index": 76,
+   "start": 5.522,
+   "end": 5.689
+  },
+  {
+   "text": "during",
+   "index": 79,
+   "start": 5.703,
+   "end": 6.022
+  },
+  {
+   "text": "the",
+   "index": 86,
+   "start": 6.036,
+   "end": 6.119
+  },
+  {
+   "text": "day",
+   "index": 90,
+   "start": 6.133,
+   "end": 6.564
+  },
+  {
+   "text": "And",
+   "index": 95,
+   "start": 7.522,
+   "end": 7.731
+  },
+  {
+   "text": "a",
+   "index": 99,
+   "start": 7.744,
+   "end": 7.814
+  },
+  {
+   "text": "stake",
+   "index": 101,
+   "start": 7.828,
+   "end": 8.369
+  }
+ ]
+}

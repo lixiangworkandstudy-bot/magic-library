@@ -1,0 +1,61 @@
+{
+ "audio": "assets/voice/en/lp-c00-p03-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "TO LÉON WERTH\nWHEN HE WAS A LITTLE BOY",
+ "words": [
+  {
+   "text": "TO",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.281
+  },
+  {
+   "text": "LÉON",
+   "index": 3,
+   "start": 0.294,
+   "end": 0.725
+  },
+  {
+   "text": "WERTH",
+   "index": 8,
+   "start": 0.739,
+   "end": 1.183
+  },
+  {
+   "text": "WHEN",
+   "index": 14,
+   "start": 2.147,
+   "end": 2.383
+  },
+  {
+   "text": "HE",
+   "index": 19,
+   "start": 2.397,
+   "end": 2.564
+  },
+  {
+   "text": "WAS",
+   "index": 22,
+   "start": 2.578,
+   "end": 2.717
+  },
+  {
+   "text": "A",
+   "index": 26,
+   "start": 2.731,
+   "end": 2.786
+  },
+  {
+   "text": "LITTLE",
+   "index": 28,
+   "start": 2.8,
+   "end": 3.119
+  },
+  {
+   "text": "BOY",
+   "index": 35,
+   "start": 3.133,
+   "end": 3.564
+  }
+ ]
+}

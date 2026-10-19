@@ -1,0 +1,205 @@
+{
+ "audio": "assets/voice/en/lp-c02-p11-3.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "But then I remembered that I had mostly studied geography, history, arithmetic and grammar, and I told the little fellow (a little crossly) that I did not know how to draw. He answered:",
+ "words": [
+  {
+   "text": "But",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.281
+  },
+  {
+   "text": "then",
+   "index": 4,
+   "start": 0.294,
+   "end": 0.461
+  },
+  {
+   "text": "I",
+   "index": 9,
+   "start": 0.475,
+   "end": 0.558
+  },
+  {
+   "text": "remembered",
+   "index": 11,
+   "start": 0.572,
+   "end": 1.044
+  },
+  {
+   "text": "that",
+   "index": 22,
+   "start": 1.058,
+   "end": 1.183
+  },
+  {
+   "text": "I",
+   "index": 27,
+   "start": 1.197,
+   "end": 1.308
+  },
+  {
+   "text": "had",
+   "index": 29,
+   "start": 1.322,
+   "end": 1.503
+  },
+  {
+   "text": "mostly",
+   "index": 33,
+   "start": 1.517,
+   "end": 1.947
+  },
+  {
+   "text": "studied",
+   "index": 40,
+   "start": 1.961,
+   "end": 2.364
+  },
+  {
+   "text": "geography",
+   "index": 48,
+   "start": 2.378,
+   "end": 3.058
+  },
+  {
+   "text": "history",
+   "index": 59,
+   "start": 3.35,
+   "end": 3.794
+  },
+  {
+   "text": "arithmetic",
+   "index": 68,
+   "start": 4.1,
+   "end": 4.767
+  },
+  {
+   "text": "and",
+   "index": 79,
+   "start": 4.864,
+   "end": 4.975
+  },
+  {
+   "text": "grammar",
+   "index": 83,
+   "start": 4.989,
+   "end": 5.433
+  },
+  {
+   "text": "and",
+   "index": 92,
+   "start": 5.642,
+   "end": 5.767
+  },
+  {
+   "text": "I",
+   "index": 96,
+   "start": 5.781,
+   "end": 5.864
+  },
+  {
+   "text": "told",
+   "index": 98,
+   "start": 5.878,
+   "end": 6.197
+  },
+  {
+   "text": "the",
+   "index": 103,
+   "start": 6.211,
+   "end": 6.281
+  },
+  {
+   "text": "little",
+   "index": 107,
+   "start": 6.294,
+   "end": 6.6
+  },
+  {
+   "text": "fellow",
+   "index": 114,
+   "start": 6.614,
+   "end": 7.044
+  },
+  {
+   "text": "a",
+   "index": 122,
+   "start": 7.253,
+   "end": 7.294
+  },
+  {
+   "text": "little",
+   "index": 124,
+   "start": 7.308,
+   "end": 7.614
+  },
+  {
+   "text": "crossly",
+   "index": 131,
+   "start": 7.628,
+   "end": 8.142
+  },
+  {
+   "text": "that",
+   "index": 140,
+   "start": 8.35,
+   "end": 8.489
+  },
+  {
+   "text": "I",
+   "index": 145,
+   "start": 8.503,
+   "end": 8.572
+  },
+  {
+   "text": "did",
+   "index": 147,
+   "start": 8.586,
+   "end": 8.794
+  },
+  {
+   "text": "not",
+   "index": 151,
+   "start": 8.808,
+   "end": 9.031
+  },
+  {
+   "text": "know",
+   "index": 155,
+   "start": 9.044,
+   "end": 9.281
+  },
+  {
+   "text": "how",
+   "index": 160,
+   "start": 9.294,
+   "end": 9.475
+  },
+  {
+   "text": "to",
+   "index": 164,
+   "start": 9.489,
+   "end": 9.642
+  },
+  {
+   "text": "draw",
+   "index": 167,
+   "start": 9.656,
+   "end": 10.211
+  },
+  {
+   "text": "He",
+   "index": 173,
+   "start": 11.175,
+   "end": 11.411
+  },
+  {
+   "text": "answered",
+   "index": 176,
+   "start": 11.425,
+   "end": 12.036
+  }
+ ]
+}

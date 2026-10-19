@@ -1,0 +1,79 @@
+{
+ "audio": "assets/voice/en/lp-c02-p33-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And that is how I made the acquaintance of the little prince.",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.294
+  },
+  {
+   "text": "that",
+   "index": 4,
+   "start": 0.308,
+   "end": 0.544
+  },
+  {
+   "text": "is",
+   "index": 9,
+   "start": 0.558,
+   "end": 0.683
+  },
+  {
+   "text": "how",
+   "index": 12,
+   "start": 0.697,
+   "end": 0.892
+  },
+  {
+   "text": "I",
+   "index": 16,
+   "start": 0.906,
+   "end": 1.017
+  },
+  {
+   "text": "made",
+   "index": 18,
+   "start": 1.031,
+   "end": 1.322
+  },
+  {
+   "text": "the",
+   "index": 23,
+   "start": 1.336,
+   "end": 1.461
+  },
+  {
+   "text": "acquaintance",
+   "index": 27,
+   "start": 1.475,
+   "end": 2.072
+  },
+  {
+   "text": "of",
+   "index": 40,
+   "start": 2.086,
+   "end": 2.169
+  },
+  {
+   "text": "the",
+   "index": 43,
+   "start": 2.183,
+   "end": 2.281
+  },
+  {
+   "text": "little",
+   "index": 47,
+   "start": 2.294,
+   "end": 2.614
+  },
+  {
+   "text": "prince",
+   "index": 54,
+   "start": 2.628,
+   "end": 3.211
+  }
+ ]
+}

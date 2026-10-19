@@ -1,0 +1,91 @@
+{
+ "audio": "assets/voice/zh/nbc1-2.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "袜子一只只，挂在壁炉旁，等着圣诞老人，悄悄来拜访。",
+ "words": [
+  {
+   "text": "袜子",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.467
+  },
+  {
+   "text": "一",
+   "index": 2,
+   "start": 0.481,
+   "end": 0.647
+  },
+  {
+   "text": "只",
+   "index": 3,
+   "start": 0.647,
+   "end": 0.856
+  },
+  {
+   "text": "只",
+   "index": 4,
+   "start": 0.856,
+   "end": 1.203
+  },
+  {
+   "text": "挂",
+   "index": 6,
+   "start": 1.494,
+   "end": 1.717
+  },
+  {
+   "text": "在",
+   "index": 7,
+   "start": 1.717,
+   "end": 1.897
+  },
+  {
+   "text": "壁炉",
+   "index": 8,
+   "start": 1.911,
+   "end": 2.272
+  },
+  {
+   "text": "旁",
+   "index": 10,
+   "start": 2.272,
+   "end": 2.661
+  },
+  {
+   "text": "等",
+   "index": 12,
+   "start": 2.939,
+   "end": 3.133
+  },
+  {
+   "text": "着",
+   "index": 13,
+   "start": 3.133,
+   "end": 3.231
+  },
+  {
+   "text": "圣诞老人",
+   "index": 14,
+   "start": 3.258,
+   "end": 4.203
+  },
+  {
+   "text": "悄悄",
+   "index": 19,
+   "start": 4.425,
+   "end": 4.911
+  },
+  {
+   "text": "来",
+   "index": 21,
+   "start": 4.925,
+   "end": 5.106
+  },
+  {
+   "text": "拜访",
+   "index": 22,
+   "start": 5.106,
+   "end": 5.675
+  }
+ ]
+}

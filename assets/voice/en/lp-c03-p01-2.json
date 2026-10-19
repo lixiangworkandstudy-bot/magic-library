@@ -1,0 +1,91 @@
+{
+ "audio": "assets/voice/en/lp-c03-p01-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "It was words spoken by chance that, little by little, revealed everything to me.",
+ "words": [
+  {
+   "text": "It",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.267
+  },
+  {
+   "text": "was",
+   "index": 3,
+   "start": 0.281,
+   "end": 0.433
+  },
+  {
+   "text": "words",
+   "index": 7,
+   "start": 0.447,
+   "end": 0.767
+  },
+  {
+   "text": "spoken",
+   "index": 13,
+   "start": 0.781,
+   "end": 1.239
+  },
+  {
+   "text": "by",
+   "index": 20,
+   "start": 1.253,
+   "end": 1.475
+  },
+  {
+   "text": "chance",
+   "index": 23,
+   "start": 1.489,
+   "end": 1.919
+  },
+  {
+   "text": "that",
+   "index": 30,
+   "start": 1.933,
+   "end": 2.239
+  },
+  {
+   "text": "little",
+   "index": 36,
+   "start": 2.475,
+   "end": 2.753
+  },
+  {
+   "text": "by",
+   "index": 43,
+   "start": 2.767,
+   "end": 2.933
+  },
+  {
+   "text": "little",
+   "index": 46,
+   "start": 2.947,
+   "end": 3.378
+  },
+  {
+   "text": "revealed",
+   "index": 54,
+   "start": 3.558,
+   "end": 4.017
+  },
+  {
+   "text": "everything",
+   "index": 63,
+   "start": 4.031,
+   "end": 4.433
+  },
+  {
+   "text": "to",
+   "index": 74,
+   "start": 4.447,
+   "end": 4.558
+  },
+  {
+   "text": "me",
+   "index": 77,
+   "start": 4.572,
+   "end": 4.892
+  }
+ ]
+}

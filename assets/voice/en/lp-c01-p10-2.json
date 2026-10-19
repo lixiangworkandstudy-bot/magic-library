@@ -1,0 +1,121 @@
+{
+ "audio": "assets/voice/en/lp-c01-p10-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "I wanted to find out whether he was truly a person of understanding. But always the answer came back:",
+ "words": [
+  {
+   "text": "I",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.239
+  },
+  {
+   "text": "wanted",
+   "index": 2,
+   "start": 0.253,
+   "end": 0.614
+  },
+  {
+   "text": "to",
+   "index": 9,
+   "start": 0.628,
+   "end": 0.697
+  },
+  {
+   "text": "find",
+   "index": 12,
+   "start": 0.711,
+   "end": 1.044
+  },
+  {
+   "text": "out",
+   "index": 17,
+   "start": 1.058,
+   "end": 1.267
+  },
+  {
+   "text": "whether",
+   "index": 21,
+   "start": 1.281,
+   "end": 1.544
+  },
+  {
+   "text": "he",
+   "index": 29,
+   "start": 1.558,
+   "end": 1.711
+  },
+  {
+   "text": "was",
+   "index": 32,
+   "start": 1.725,
+   "end": 1.892
+  },
+  {
+   "text": "truly",
+   "index": 36,
+   "start": 1.906,
+   "end": 2.336
+  },
+  {
+   "text": "a",
+   "index": 42,
+   "start": 2.35,
+   "end": 2.433
+  },
+  {
+   "text": "person",
+   "index": 44,
+   "start": 2.447,
+   "end": 2.864
+  },
+  {
+   "text": "of",
+   "index": 51,
+   "start": 2.878,
+   "end": 2.961
+  },
+  {
+   "text": "understanding",
+   "index": 54,
+   "start": 2.975,
+   "end": 3.822
+  },
+  {
+   "text": "But",
+   "index": 69,
+   "start": 4.786,
+   "end": 4.994
+  },
+  {
+   "text": "always",
+   "index": 73,
+   "start": 5.008,
+   "end": 5.356
+  },
+  {
+   "text": "the",
+   "index": 80,
+   "start": 5.369,
+   "end": 5.494
+  },
+  {
+   "text": "answer",
+   "index": 84,
+   "start": 5.508,
+   "end": 5.842
+  },
+  {
+   "text": "came",
+   "index": 91,
+   "start": 5.856,
+   "end": 6.175
+  },
+  {
+   "text": "back",
+   "index": 96,
+   "start": 6.189,
+   "end": 6.661
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "audio": "assets/voice/en/lp-c02-p22-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"That one is too old. I want a sheep that will live a long time.\"",
+ "words": [
+  {
+   "text": "That",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.439
+  },
+  {
+   "text": "one",
+   "index": 6,
+   "start": 0.453,
+   "end": 0.731
+  },
+  {
+   "text": "is",
+   "index": 10,
+   "start": 0.744,
+   "end": 0.967
+  },
+  {
+   "text": "too",
+   "index": 13,
+   "start": 0.981,
+   "end": 1.286
+  },
+  {
+   "text": "old",
+   "index": 17,
+   "start": 1.3,
+   "end": 1.758
+  },
+  {
+   "text": "I",
+   "index": 22,
+   "start": 2.722,
+   "end": 2.903
+  },
+  {
+   "text": "want",
+   "index": 24,
+   "start": 2.917,
+   "end": 3.264
+  },
+  {
+   "text": "a",
+   "index": 29,
+   "start": 3.278,
+   "end": 3.333
+  },
+  {
+   "text": "sheep",
+   "index": 31,
+   "start": 3.347,
+   "end": 3.75
+  },
+  {
+   "text": "that",
+   "index": 37,
+   "start": 3.764,
+   "end": 4.0
+  },
+  {
+   "text": "will",
+   "index": 42,
+   "start": 4.014,
+   "end": 4.208
+  },
+  {
+   "text": "live",
+   "index": 47,
+   "start": 4.222,
+   "end": 4.431
+  },
+  {
+   "text": "a",
+   "index": 52,
+   "start": 4.444,
+   "end": 4.514
+  },
+  {
+   "text": "long",
+   "index": 54,
+   "start": 4.528,
+   "end": 4.931
+  },
+  {
+   "text": "time",
+   "index": 59,
+   "start": 4.944,
+   "end": 5.472
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "audio": "assets/voice/en/lp-c02-p24-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And I tossed off:",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.294
+  },
+  {
+   "text": "I",
+   "index": 4,
+   "start": 0.308,
+   "end": 0.392
+  },
+  {
+   "text": "tossed",
+   "index": 6,
+   "start": 0.406,
+   "end": 0.739
+  },
+  {
+   "text": "off",
+   "index": 13,
+   "start": 0.753,
+   "end": 1.197
+  }
+ ]
+}

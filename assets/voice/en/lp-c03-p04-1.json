@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/en/lp-c03-p04-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And I was proud to let him know that I could fly. Then he cried out:",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.322
+  },
+  {
+   "text": "I",
+   "index": 4,
+   "start": 0.336,
+   "end": 0.406
+  },
+  {
+   "text": "was",
+   "index": 6,
+   "start": 0.419,
+   "end": 0.586
+  },
+  {
+   "text": "proud",
+   "index": 10,
+   "start": 0.6,
+   "end": 0.947
+  },
+  {
+   "text": "to",
+   "index": 16,
+   "start": 0.961,
+   "end": 1.044
+  },
+  {
+   "text": "let",
+   "index": 19,
+   "start": 1.058,
+   "end": 1.281
+  },
+  {
+   "text": "him",
+   "index": 23,
+   "start": 1.294,
+   "end": 1.475
+  },
+  {
+   "text": "know",
+   "index": 27,
+   "start": 1.489,
+   "end": 1.697
+  },
+  {
+   "text": "that",
+   "index": 32,
+   "start": 1.711,
+   "end": 1.864
+  },
+  {
+   "text": "I",
+   "index": 37,
+   "start": 1.878,
+   "end": 1.947
+  },
+  {
+   "text": "could",
+   "index": 39,
+   "start": 1.961,
+   "end": 2.156
+  },
+  {
+   "text": "fly",
+   "index": 45,
+   "start": 2.169,
+   "end": 2.725
+  },
+  {
+   "text": "Then",
+   "index": 50,
+   "start": 3.689,
+   "end": 3.939
+  },
+  {
+   "text": "he",
+   "index": 55,
+   "start": 3.953,
+   "end": 4.078
+  },
+  {
+   "text": "cried",
+   "index": 58,
+   "start": 4.092,
+   "end": 4.494
+  },
+  {
+   "text": "out",
+   "index": 64,
+   "start": 4.508,
+   "end": 4.953
+  }
+ ]
+}

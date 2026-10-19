@@ -1,0 +1,55 @@
+{
+ "audio": "assets/voice/en/lp-c03-p24-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"But where do you think he would go!\"",
+ "words": [
+  {
+   "text": "But",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.369
+  },
+  {
+   "text": "where",
+   "index": 5,
+   "start": 0.383,
+   "end": 0.717
+  },
+  {
+   "text": "do",
+   "index": 11,
+   "start": 0.731,
+   "end": 0.842
+  },
+  {
+   "text": "you",
+   "index": 14,
+   "start": 0.856,
+   "end": 1.022
+  },
+  {
+   "text": "think",
+   "index": 18,
+   "start": 1.036,
+   "end": 1.369
+  },
+  {
+   "text": "he",
+   "index": 24,
+   "start": 1.383,
+   "end": 1.536
+  },
+  {
+   "text": "would",
+   "index": 27,
+   "start": 1.55,
+   "end": 1.758
+  },
+  {
+   "text": "go",
+   "index": 33,
+   "start": 1.772,
+   "end": 2.175
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "audio": "assets/voice/en/lp-c02-p12-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"That doesn't matter. Draw me a sheep.\"",
+ "words": [
+  {
+   "text": "That",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.439
+  },
+  {
+   "text": "doesn't",
+   "index": 6,
+   "start": 0.453,
+   "end": 0.869
+  },
+  {
+   "text": "matter",
+   "index": 14,
+   "start": 0.883,
+   "end": 1.425
+  },
+  {
+   "text": "Draw",
+   "index": 22,
+   "start": 2.389,
+   "end": 2.764
+  },
+  {
+   "text": "me",
+   "index": 27,
+   "start": 2.778,
+   "end": 3.0
+  },
+  {
+   "text": "a",
+   "index": 30,
+   "start": 3.014,
+   "end": 3.083
+  },
+  {
+   "text": "sheep",
+   "index": 32,
+   "start": 3.097,
+   "end": 3.583
+  }
+ ]
+}

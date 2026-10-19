@@ -1,0 +1,199 @@
+{
+ "audio": "assets/voice/en/lp-c02-p01-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And since I had with me neither a mechanic nor any passengers, I got ready to attempt, all alone, a difficult repair. For me it was a question of life or death.",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.308
+  },
+  {
+   "text": "since",
+   "index": 4,
+   "start": 0.322,
+   "end": 0.6
+  },
+  {
+   "text": "I",
+   "index": 10,
+   "start": 0.614,
+   "end": 0.781
+  },
+  {
+   "text": "had",
+   "index": 12,
+   "start": 0.794,
+   "end": 1.031
+  },
+  {
+   "text": "with",
+   "index": 16,
+   "start": 1.044,
+   "end": 1.183
+  },
+  {
+   "text": "me",
+   "index": 21,
+   "start": 1.197,
+   "end": 1.322
+  },
+  {
+   "text": "neither",
+   "index": 24,
+   "start": 1.336,
+   "end": 1.711
+  },
+  {
+   "text": "a",
+   "index": 32,
+   "start": 1.725,
+   "end": 1.781
+  },
+  {
+   "text": "mechanic",
+   "index": 34,
+   "start": 1.794,
+   "end": 2.267
+  },
+  {
+   "text": "nor",
+   "index": 43,
+   "start": 2.281,
+   "end": 2.531
+  },
+  {
+   "text": "any",
+   "index": 47,
+   "start": 2.544,
+   "end": 2.739
+  },
+  {
+   "text": "passengers",
+   "index": 51,
+   "start": 2.753,
+   "end": 3.433
+  },
+  {
+   "text": "I",
+   "index": 63,
+   "start": 3.669,
+   "end": 3.739
+  },
+  {
+   "text": "got",
+   "index": 65,
+   "start": 3.753,
+   "end": 4.031
+  },
+  {
+   "text": "ready",
+   "index": 69,
+   "start": 4.044,
+   "end": 4.267
+  },
+  {
+   "text": "to",
+   "index": 75,
+   "start": 4.281,
+   "end": 4.419
+  },
+  {
+   "text": "attempt",
+   "index": 78,
+   "start": 4.433,
+   "end": 4.947
+  },
+  {
+   "text": "all",
+   "index": 87,
+   "start": 5.239,
+   "end": 5.503
+  },
+  {
+   "text": "alone",
+   "index": 91,
+   "start": 5.517,
+   "end": 5.906
+  },
+  {
+   "text": "a",
+   "index": 98,
+   "start": 6.086,
+   "end": 6.156
+  },
+  {
+   "text": "difficult",
+   "index": 100,
+   "start": 6.169,
+   "end": 6.697
+  },
+  {
+   "text": "repair",
+   "index": 110,
+   "start": 6.711,
+   "end": 7.225
+  },
+  {
+   "text": "For",
+   "index": 118,
+   "start": 8.189,
+   "end": 8.397
+  },
+  {
+   "text": "me",
+   "index": 122,
+   "start": 8.411,
+   "end": 8.578
+  },
+  {
+   "text": "it",
+   "index": 125,
+   "start": 8.592,
+   "end": 8.717
+  },
+  {
+   "text": "was",
+   "index": 128,
+   "start": 8.731,
+   "end": 8.856
+  },
+  {
+   "text": "a",
+   "index": 132,
+   "start": 8.869,
+   "end": 8.925
+  },
+  {
+   "text": "question",
+   "index": 134,
+   "start": 8.939,
+   "end": 9.397
+  },
+  {
+   "text": "of",
+   "index": 143,
+   "start": 9.411,
+   "end": 9.481
+  },
+  {
+   "text": "life",
+   "index": 146,
+   "start": 9.494,
+   "end": 9.856
+  },
+  {
+   "text": "or",
+   "index": 151,
+   "start": 9.869,
+   "end": 10.036
+  },
+  {
+   "text": "death",
+   "index": 154,
+   "start": 10.05,
+   "end": 10.606
+  }
+ ]
+}

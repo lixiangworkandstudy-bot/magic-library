@@ -1,0 +1,103 @@
+{
+ "audio": "assets/voice/en/nbc5-2.mp3",
+ "voice": "en-US-GuyNeural",
+ "text": "“Now, Dasher! now, Dancer! now, Prancer and Vixen!\nOn, Comet! on, Cupid! on, Donder and Blitzen!",
+ "words": [
+  {
+   "text": "Now",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.522
+  },
+  {
+   "text": "Dasher",
+   "index": 6,
+   "start": 0.786,
+   "end": 1.453
+  },
+  {
+   "text": "now",
+   "index": 14,
+   "start": 2.444,
+   "end": 2.889
+  },
+  {
+   "text": "Dancer",
+   "index": 19,
+   "start": 3.111,
+   "end": 3.722
+  },
+  {
+   "text": "now",
+   "index": 27,
+   "start": 4.694,
+   "end": 5.153
+  },
+  {
+   "text": "Prancer",
+   "index": 32,
+   "start": 5.458,
+   "end": 6.0
+  },
+  {
+   "text": "and",
+   "index": 40,
+   "start": 6.014,
+   "end": 6.139
+  },
+  {
+   "text": "Vixen",
+   "index": 44,
+   "start": 6.167,
+   "end": 6.681
+  },
+  {
+   "text": "On",
+   "index": 51,
+   "start": 7.667,
+   "end": 8.097
+  },
+  {
+   "text": "Comet",
+   "index": 55,
+   "start": 8.264,
+   "end": 8.875
+  },
+  {
+   "text": "on",
+   "index": 62,
+   "start": 9.847,
+   "end": 10.292
+  },
+  {
+   "text": "Cupid",
+   "index": 66,
+   "start": 10.458,
+   "end": 11.028
+  },
+  {
+   "text": "on",
+   "index": 73,
+   "start": 12.0,
+   "end": 12.361
+  },
+  {
+   "text": "Donder",
+   "index": 77,
+   "start": 12.667,
+   "end": 13.111
+  },
+  {
+   "text": "and",
+   "index": 84,
+   "start": 13.125,
+   "end": 13.25
+  },
+  {
+   "text": "Blitzen",
+   "index": 88,
+   "start": 13.264,
+   "end": 13.806
+  }
+ ]
+}

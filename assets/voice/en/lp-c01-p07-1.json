@@ -1,0 +1,187 @@
+{
+ "audio": "assets/voice/en/lp-c01-p07-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "The grown-ups advised me to put aside my drawings of boa constrictors, from the outside or the inside, and to take an interest instead in geography, history, arithmetic and grammar.",
+ "words": [
+  {
+   "text": "The",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.267
+  },
+  {
+   "text": "grown-ups",
+   "index": 4,
+   "start": 0.281,
+   "end": 0.808
+  },
+  {
+   "text": "advised",
+   "index": 14,
+   "start": 0.822,
+   "end": 1.364
+  },
+  {
+   "text": "me",
+   "index": 22,
+   "start": 1.378,
+   "end": 1.503
+  },
+  {
+   "text": "to",
+   "index": 25,
+   "start": 1.517,
+   "end": 1.642
+  },
+  {
+   "text": "put",
+   "index": 28,
+   "start": 1.656,
+   "end": 1.808
+  },
+  {
+   "text": "aside",
+   "index": 32,
+   "start": 1.822,
+   "end": 2.253
+  },
+  {
+   "text": "my",
+   "index": 38,
+   "start": 2.267,
+   "end": 2.419
+  },
+  {
+   "text": "drawings",
+   "index": 41,
+   "start": 2.433,
+   "end": 2.933
+  },
+  {
+   "text": "of",
+   "index": 50,
+   "start": 2.947,
+   "end": 3.058
+  },
+  {
+   "text": "boa",
+   "index": 53,
+   "start": 3.072,
+   "end": 3.336
+  },
+  {
+   "text": "constrictors",
+   "index": 57,
+   "start": 3.35,
+   "end": 4.128
+  },
+  {
+   "text": "from",
+   "index": 71,
+   "start": 4.378,
+   "end": 4.544
+  },
+  {
+   "text": "the",
+   "index": 76,
+   "start": 4.558,
+   "end": 4.656
+  },
+  {
+   "text": "outside",
+   "index": 80,
+   "start": 4.669,
+   "end": 5.322
+  },
+  {
+   "text": "or",
+   "index": 88,
+   "start": 5.336,
+   "end": 5.447
+  },
+  {
+   "text": "the",
+   "index": 91,
+   "start": 5.461,
+   "end": 5.6
+  },
+  {
+   "text": "inside",
+   "index": 95,
+   "start": 5.614,
+   "end": 6.253
+  },
+  {
+   "text": "and",
+   "index": 103,
+   "start": 6.475,
+   "end": 6.572
+  },
+  {
+   "text": "to",
+   "index": 107,
+   "start": 6.586,
+   "end": 6.697
+  },
+  {
+   "text": "take",
+   "index": 110,
+   "start": 6.711,
+   "end": 6.961
+  },
+  {
+   "text": "an",
+   "index": 115,
+   "start": 6.975,
+   "end": 7.072
+  },
+  {
+   "text": "interest",
+   "index": 118,
+   "start": 7.086,
+   "end": 7.544
+  },
+  {
+   "text": "instead",
+   "index": 127,
+   "start": 7.558,
+   "end": 7.919
+  },
+  {
+   "text": "in",
+   "index": 135,
+   "start": 7.933,
+   "end": 8.1
+  },
+  {
+   "text": "geography",
+   "index": 138,
+   "start": 8.114,
+   "end": 8.794
+  },
+  {
+   "text": "history",
+   "index": 149,
+   "start": 9.086,
+   "end": 9.489
+  },
+  {
+   "text": "arithmetic",
+   "index": 158,
+   "start": 9.739,
+   "end": 10.392
+  },
+  {
+   "text": "and",
+   "index": 169,
+   "start": 10.489,
+   "end": 10.586
+  },
+  {
+   "text": "grammar",
+   "index": 173,
+   "start": 10.6,
+   "end": 11.1
+  }
+ ]
+}

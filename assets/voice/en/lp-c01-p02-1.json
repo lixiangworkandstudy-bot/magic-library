@@ -1,0 +1,169 @@
+{
+ "audio": "assets/voice/en/lp-c01-p02-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "The book said: \"Boa constrictors swallow their prey whole, without chewing it. After that they cannot move, and they sleep through the six months of their digestion.\"",
+ "words": [
+  {
+   "text": "The",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.253
+  },
+  {
+   "text": "book",
+   "index": 4,
+   "start": 0.267,
+   "end": 0.517
+  },
+  {
+   "text": "said",
+   "index": 9,
+   "start": 0.531,
+   "end": 0.808
+  },
+  {
+   "text": "Boa",
+   "index": 16,
+   "start": 1.058,
+   "end": 1.336
+  },
+  {
+   "text": "constrictors",
+   "index": 20,
+   "start": 1.35,
+   "end": 2.017
+  },
+  {
+   "text": "swallow",
+   "index": 33,
+   "start": 2.031,
+   "end": 2.406
+  },
+  {
+   "text": "their",
+   "index": 41,
+   "start": 2.419,
+   "end": 2.586
+  },
+  {
+   "text": "prey",
+   "index": 47,
+   "start": 2.6,
+   "end": 2.919
+  },
+  {
+   "text": "whole",
+   "index": 52,
+   "start": 2.933,
+   "end": 3.35
+  },
+  {
+   "text": "without",
+   "index": 59,
+   "start": 3.531,
+   "end": 3.878
+  },
+  {
+   "text": "chewing",
+   "index": 67,
+   "start": 3.892,
+   "end": 4.294
+  },
+  {
+   "text": "it",
+   "index": 75,
+   "start": 4.308,
+   "end": 4.572
+  },
+  {
+   "text": "After",
+   "index": 79,
+   "start": 5.536,
+   "end": 5.897
+  },
+  {
+   "text": "that",
+   "index": 85,
+   "start": 5.911,
+   "end": 6.078
+  },
+  {
+   "text": "they",
+   "index": 90,
+   "start": 6.092,
+   "end": 6.217
+  },
+  {
+   "text": "cannot",
+   "index": 95,
+   "start": 6.231,
+   "end": 6.675
+  },
+  {
+   "text": "move",
+   "index": 102,
+   "start": 6.689,
+   "end": 7.175
+  },
+  {
+   "text": "and",
+   "index": 108,
+   "start": 7.411,
+   "end": 7.494
+  },
+  {
+   "text": "they",
+   "index": 112,
+   "start": 7.508,
+   "end": 7.633
+  },
+  {
+   "text": "sleep",
+   "index": 117,
+   "start": 7.647,
+   "end": 8.036
+  },
+  {
+   "text": "through",
+   "index": 123,
+   "start": 8.05,
+   "end": 8.258
+  },
+  {
+   "text": "the",
+   "index": 131,
+   "start": 8.272,
+   "end": 8.369
+  },
+  {
+   "text": "six",
+   "index": 135,
+   "start": 8.383,
+   "end": 8.703
+  },
+  {
+   "text": "months",
+   "index": 139,
+   "start": 8.717,
+   "end": 9.064
+  },
+  {
+   "text": "of",
+   "index": 146,
+   "start": 9.078,
+   "end": 9.175
+  },
+  {
+   "text": "their",
+   "index": 149,
+   "start": 9.189,
+   "end": 9.342
+  },
+  {
+   "text": "digestion",
+   "index": 155,
+   "start": 9.356,
+   "end": 10.203
+  }
+ ]
+}

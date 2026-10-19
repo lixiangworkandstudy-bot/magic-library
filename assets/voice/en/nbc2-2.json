@@ -1,0 +1,121 @@
+{
+ "audio": "assets/voice/en/nbc2-2.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "And Mama in her kerchief, and I in my cap,\nHad just settled down for a long winter's nap,",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.342
+  },
+  {
+   "text": "Mama",
+   "index": 4,
+   "start": 0.356,
+   "end": 0.744
+  },
+  {
+   "text": "in",
+   "index": 9,
+   "start": 0.758,
+   "end": 0.869
+  },
+  {
+   "text": "her",
+   "index": 12,
+   "start": 0.883,
+   "end": 1.036
+  },
+  {
+   "text": "kerchief",
+   "index": 16,
+   "start": 1.05,
+   "end": 1.619
+  },
+  {
+   "text": "and",
+   "index": 26,
+   "start": 1.842,
+   "end": 1.981
+  },
+  {
+   "text": "I",
+   "index": 30,
+   "start": 1.994,
+   "end": 2.133
+  },
+  {
+   "text": "in",
+   "index": 32,
+   "start": 2.147,
+   "end": 2.258
+  },
+  {
+   "text": "my",
+   "index": 35,
+   "start": 2.272,
+   "end": 2.453
+  },
+  {
+   "text": "cap",
+   "index": 38,
+   "start": 2.467,
+   "end": 3.008
+  },
+  {
+   "text": "Had",
+   "index": 43,
+   "start": 3.972,
+   "end": 4.25
+  },
+  {
+   "text": "just",
+   "index": 47,
+   "start": 4.264,
+   "end": 4.556
+  },
+  {
+   "text": "settled",
+   "index": 52,
+   "start": 4.569,
+   "end": 4.986
+  },
+  {
+   "text": "down",
+   "index": 60,
+   "start": 5.0,
+   "end": 5.347
+  },
+  {
+   "text": "for",
+   "index": 65,
+   "start": 5.361,
+   "end": 5.514
+  },
+  {
+   "text": "a",
+   "index": 69,
+   "start": 5.528,
+   "end": 5.597
+  },
+  {
+   "text": "long",
+   "index": 71,
+   "start": 5.611,
+   "end": 5.931
+  },
+  {
+   "text": "winter's",
+   "index": 76,
+   "start": 5.944,
+   "end": 6.361
+  },
+  {
+   "text": "nap",
+   "index": 85,
+   "start": 6.375,
+   "end": 6.875
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "audio": "assets/voice/en/nbc3-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "I sprang from my bed to see what was the matter.",
+ "words": [
+  {
+   "text": "I",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.272
+  },
+  {
+   "text": "sprang",
+   "index": 2,
+   "start": 0.286,
+   "end": 0.731
+  },
+  {
+   "text": "from",
+   "index": 9,
+   "start": 0.744,
+   "end": 0.897
+  },
+  {
+   "text": "my",
+   "index": 14,
+   "start": 0.911,
+   "end": 1.064
+  },
+  {
+   "text": "bed",
+   "index": 17,
+   "start": 1.078,
+   "end": 1.425
+  },
+  {
+   "text": "to",
+   "index": 21,
+   "start": 1.439,
+   "end": 1.536
+  },
+  {
+   "text": "see",
+   "index": 24,
+   "start": 1.55,
+   "end": 1.786
+  },
+  {
+   "text": "what",
+   "index": 28,
+   "start": 1.8,
+   "end": 1.953
+  },
+  {
+   "text": "was",
+   "index": 33,
+   "start": 1.967,
+   "end": 2.119
+  },
+  {
+   "text": "the",
+   "index": 37,
+   "start": 2.133,
+   "end": 2.231
+  },
+  {
+   "text": "matter",
+   "index": 41,
+   "start": 2.244,
+   "end": 2.744
+  }
+ ]
+}

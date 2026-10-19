@@ -1,0 +1,31 @@
+{
+ "audio": "assets/voice/en/lp-c02-p05-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"Draw me a sheep...\"",
+ "words": [
+  {
+   "text": "Draw",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.481
+  },
+  {
+   "text": "me",
+   "index": 6,
+   "start": 0.494,
+   "end": 0.717
+  },
+  {
+   "text": "a",
+   "index": 9,
+   "start": 0.731,
+   "end": 0.8
+  },
+  {
+   "text": "sheep",
+   "index": 11,
+   "start": 0.814,
+   "end": 1.314
+  }
+ ]
+}

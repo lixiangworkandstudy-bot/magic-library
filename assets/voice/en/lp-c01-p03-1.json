@@ -1,0 +1,193 @@
+{
+ "audio": "assets/voice/en/lp-c01-p03-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "I thought a great deal, then, about the adventures of the jungle, and in my turn I managed, with a coloured pencil, to make my first drawing. My Drawing Number One.",
+ "words": [
+  {
+   "text": "I",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.281
+  },
+  {
+   "text": "thought",
+   "index": 2,
+   "start": 0.294,
+   "end": 0.531
+  },
+  {
+   "text": "a",
+   "index": 10,
+   "start": 0.544,
+   "end": 0.6
+  },
+  {
+   "text": "great",
+   "index": 12,
+   "start": 0.614,
+   "end": 0.961
+  },
+  {
+   "text": "deal",
+   "index": 18,
+   "start": 0.975,
+   "end": 1.378
+  },
+  {
+   "text": "then",
+   "index": 24,
+   "start": 1.656,
+   "end": 1.906
+  },
+  {
+   "text": "about",
+   "index": 30,
+   "start": 2.128,
+   "end": 2.406
+  },
+  {
+   "text": "the",
+   "index": 36,
+   "start": 2.419,
+   "end": 2.544
+  },
+  {
+   "text": "adventures",
+   "index": 40,
+   "start": 2.558,
+   "end": 3.058
+  },
+  {
+   "text": "of",
+   "index": 51,
+   "start": 3.072,
+   "end": 3.156
+  },
+  {
+   "text": "the",
+   "index": 54,
+   "start": 3.169,
+   "end": 3.281
+  },
+  {
+   "text": "jungle",
+   "index": 58,
+   "start": 3.294,
+   "end": 3.822
+  },
+  {
+   "text": "and",
+   "index": 66,
+   "start": 4.044,
+   "end": 4.128
+  },
+  {
+   "text": "in",
+   "index": 70,
+   "start": 4.142,
+   "end": 4.253
+  },
+  {
+   "text": "my",
+   "index": 73,
+   "start": 4.267,
+   "end": 4.461
+  },
+  {
+   "text": "turn",
+   "index": 76,
+   "start": 4.475,
+   "end": 4.808
+  },
+  {
+   "text": "I",
+   "index": 81,
+   "start": 4.822,
+   "end": 4.906
+  },
+  {
+   "text": "managed",
+   "index": 83,
+   "start": 4.919,
+   "end": 5.489
+  },
+  {
+   "text": "with",
+   "index": 92,
+   "start": 5.683,
+   "end": 5.822
+  },
+  {
+   "text": "a",
+   "index": 97,
+   "start": 5.836,
+   "end": 5.878
+  },
+  {
+   "text": "coloured",
+   "index": 99,
+   "start": 5.892,
+   "end": 6.211
+  },
+  {
+   "text": "pencil",
+   "index": 108,
+   "start": 6.225,
+   "end": 6.767
+  },
+  {
+   "text": "to",
+   "index": 116,
+   "start": 7.017,
+   "end": 7.128
+  },
+  {
+   "text": "make",
+   "index": 119,
+   "start": 7.142,
+   "end": 7.378
+  },
+  {
+   "text": "my",
+   "index": 124,
+   "start": 7.392,
+   "end": 7.586
+  },
+  {
+   "text": "first",
+   "index": 127,
+   "start": 7.6,
+   "end": 8.017
+  },
+  {
+   "text": "drawing",
+   "index": 133,
+   "start": 8.031,
+   "end": 8.628
+  },
+  {
+   "text": "My",
+   "index": 142,
+   "start": 9.592,
+   "end": 9.869
+  },
+  {
+   "text": "Drawing",
+   "index": 145,
+   "start": 9.883,
+   "end": 10.369
+  },
+  {
+   "text": "Number",
+   "index": 153,
+   "start": 10.383,
+   "end": 10.703
+  },
+  {
+   "text": "One",
+   "index": 160,
+   "start": 10.717,
+   "end": 11.147
+  }
+ ]
+}

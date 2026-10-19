@@ -1,0 +1,109 @@
+{
+ "audio": "assets/voice/en/lp-c02-p02-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "So the first night I fell asleep on the sand, a thousand miles from any inhabited land.",
+ "words": [
+  {
+   "text": "So",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.322
+  },
+  {
+   "text": "the",
+   "index": 3,
+   "start": 0.336,
+   "end": 0.433
+  },
+  {
+   "text": "first",
+   "index": 7,
+   "start": 0.447,
+   "end": 0.822
+  },
+  {
+   "text": "night",
+   "index": 13,
+   "start": 0.836,
+   "end": 1.169
+  },
+  {
+   "text": "I",
+   "index": 19,
+   "start": 1.183,
+   "end": 1.294
+  },
+  {
+   "text": "fell",
+   "index": 21,
+   "start": 1.308,
+   "end": 1.531
+  },
+  {
+   "text": "asleep",
+   "index": 26,
+   "start": 1.544,
+   "end": 1.961
+  },
+  {
+   "text": "on",
+   "index": 33,
+   "start": 1.975,
+   "end": 2.1
+  },
+  {
+   "text": "the",
+   "index": 36,
+   "start": 2.114,
+   "end": 2.183
+  },
+  {
+   "text": "sand",
+   "index": 40,
+   "start": 2.197,
+   "end": 2.642
+  },
+  {
+   "text": "a",
+   "index": 46,
+   "start": 2.85,
+   "end": 2.892
+  },
+  {
+   "text": "thousand",
+   "index": 48,
+   "start": 2.906,
+   "end": 3.433
+  },
+  {
+   "text": "miles",
+   "index": 57,
+   "start": 3.447,
+   "end": 3.822
+  },
+  {
+   "text": "from",
+   "index": 63,
+   "start": 3.836,
+   "end": 4.003
+  },
+  {
+   "text": "any",
+   "index": 68,
+   "start": 4.017,
+   "end": 4.211
+  },
+  {
+   "text": "inhabited",
+   "index": 72,
+   "start": 4.225,
+   "end": 4.794
+  },
+  {
+   "text": "land",
+   "index": 82,
+   "start": 4.808,
+   "end": 5.281
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cover Sheet</title>
+  <link rel="icon" href="data:,">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
+  <style>
+    /* 书封总览：检查每本书的封面（中英两套）排版是否正常 */
+    body { margin: 0; padding: 20px; background: #141024; color: #f6e7c8; font-family: "IM Fell English", Georgia, serif; }
+    h1 { font-weight: normal; letter-spacing: 0.08em; }
+    h2 { font-weight: normal; color: #f2c46b; margin: 28px 0 10px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 16px; }
+    figure { margin: 0; }
+    canvas { width: 100%; height: auto; display: block; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.5); }
+    figcaption { font-size: 12px; margin-top: 6px; color: rgba(246,231,200,0.7); }
+  </style>
+</head>
+<body>
+  <h1>Cover Sheet · 书封总览</h1>
+  <div id="sheets"></div>
+  <script type="module">
+    import { drawCover, TITLE_FONT, fontFor } from '../js/covers.js';
+
+    const data = await (await fetch('../data/library.json')).json();
+    await Promise.all([document.fonts.load(`40px ${TITLE_FONT}`), document.fonts.load(fontFor('zh', 40), '书')]);
+    const images = new Map();
+    await Promise.all(data.books.filter(b => b.cover).map(b => new Promise(res => {
+      const img = new Image();
+      img.onload = () => { images.set(b.cover, img); res(); };
+      img.onerror = () => res();
+      img.src = '../' + b.cover;
+    })));
+
+    for (const lang of ['en', 'zh']) {
+      const h2 = document.createElement('h2');
+      h2.textContent = lang === 'en' ? 'English' : '中文';
+      const grid = document.createElement('div');
+      grid.className = 'grid';
+      // ?ids=a,b,c 只看这几本（检查个别封面时用）
+      const only = new URLSearchParams(location.search).get('ids')?.split(',');
+      for (const book of data.books.filter(b => !only || only.includes(b.id))) {
+        const fig = document.createElement('figure');
+        const cap = document.createElement('figcaption');
+        cap.textContent = `${book.theme} · Lv${book.level}${book.new ? ' · new' : ''}`;
+        fig.append(drawCover(book, book.title[lang], lang, images.get(book.cover)), cap);
+        grid.append(fig);
+      }
+      document.querySelector('#sheets').append(h2, grid);
+    }
+  </script>
+</body>
+</html>

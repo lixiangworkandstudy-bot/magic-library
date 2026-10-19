@@ -1,0 +1,85 @@
+{
+ "audio": "assets/voice/en/lp-c02-p26-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "But I was very surprised to see my young judge's face light up:",
+ "words": [
+  {
+   "text": "But",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.294
+  },
+  {
+   "text": "I",
+   "index": 4,
+   "start": 0.308,
+   "end": 0.406
+  },
+  {
+   "text": "was",
+   "index": 6,
+   "start": 0.419,
+   "end": 0.572
+  },
+  {
+   "text": "very",
+   "index": 10,
+   "start": 0.586,
+   "end": 0.85
+  },
+  {
+   "text": "surprised",
+   "index": 15,
+   "start": 0.864,
+   "end": 1.378
+  },
+  {
+   "text": "to",
+   "index": 25,
+   "start": 1.392,
+   "end": 1.461
+  },
+  {
+   "text": "see",
+   "index": 28,
+   "start": 1.475,
+   "end": 1.725
+  },
+  {
+   "text": "my",
+   "index": 32,
+   "start": 1.739,
+   "end": 1.892
+  },
+  {
+   "text": "young",
+   "index": 35,
+   "start": 1.906,
+   "end": 2.211
+  },
+  {
+   "text": "judge's",
+   "index": 41,
+   "start": 2.225,
+   "end": 2.656
+  },
+  {
+   "text": "face",
+   "index": 49,
+   "start": 2.669,
+   "end": 3.031
+  },
+  {
+   "text": "light",
+   "index": 54,
+   "start": 3.044,
+   "end": 3.378
+  },
+  {
+   "text": "up",
+   "index": 60,
+   "start": 3.392,
+   "end": 3.711
+  }
+ ]
+}

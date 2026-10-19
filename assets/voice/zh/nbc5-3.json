@@ -1,0 +1,79 @@
+{
+ "audio": "assets/voice/zh/nbc5-3.mp3",
+ "voice": "zh-CN-YunxiNeural",
+ "text": "飞上门廊！飞上墙头！快飞呀，快飞呀，大家一起飞！”",
+ "words": [
+  {
+   "text": "飞上",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.633
+  },
+  {
+   "text": "门廊",
+   "index": 2,
+   "start": 0.647,
+   "end": 1.05
+  },
+  {
+   "text": "飞上",
+   "index": 5,
+   "start": 1.694,
+   "end": 2.236
+  },
+  {
+   "text": "墙头",
+   "index": 7,
+   "start": 2.25,
+   "end": 2.819
+  },
+  {
+   "text": "快",
+   "index": 10,
+   "start": 3.458,
+   "end": 3.653
+  },
+  {
+   "text": "飞",
+   "index": 11,
+   "start": 3.653,
+   "end": 3.792
+  },
+  {
+   "text": "呀",
+   "index": 12,
+   "start": 3.792,
+   "end": 4.111
+  },
+  {
+   "text": "快飞",
+   "index": 14,
+   "start": 4.347,
+   "end": 4.667
+  },
+  {
+   "text": "呀",
+   "index": 16,
+   "start": 4.667,
+   "end": 5.0
+  },
+  {
+   "text": "大家",
+   "index": 18,
+   "start": 5.25,
+   "end": 5.472
+  },
+  {
+   "text": "一起",
+   "index": 20,
+   "start": 5.486,
+   "end": 5.681
+  },
+  {
+   "text": "飞",
+   "index": 22,
+   "start": 5.681,
+   "end": 5.944
+  }
+ ]
+}

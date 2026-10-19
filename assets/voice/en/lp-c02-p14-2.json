@@ -1,0 +1,55 @@
+{
+ "audio": "assets/voice/en/lp-c02-p14-2.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "I need a sheep. Draw me a sheep.\"",
+ "words": [
+  {
+   "text": "I",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.244
+  },
+  {
+   "text": "need",
+   "index": 2,
+   "start": 0.258,
+   "end": 0.578
+  },
+  {
+   "text": "a",
+   "index": 7,
+   "start": 0.592,
+   "end": 0.647
+  },
+  {
+   "text": "sheep",
+   "index": 9,
+   "start": 0.661,
+   "end": 1.161
+  },
+  {
+   "text": "Draw",
+   "index": 16,
+   "start": 2.125,
+   "end": 2.5
+  },
+  {
+   "text": "me",
+   "index": 21,
+   "start": 2.514,
+   "end": 2.736
+  },
+  {
+   "text": "a",
+   "index": 24,
+   "start": 2.75,
+   "end": 2.819
+  },
+  {
+   "text": "sheep",
+   "index": 26,
+   "start": 2.833,
+   "end": 3.319
+  }
+ ]
+}

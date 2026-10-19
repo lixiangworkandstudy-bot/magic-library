@@ -1,0 +1,169 @@
+{
+ "audio": "assets/voice/en/lp-c01-p10-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "Whenever I met one who seemed to me a little clear-sighted, I tried the experiment of showing him my Drawing Number One, which I have always kept.",
+ "words": [
+  {
+   "text": "Whenever",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.642
+  },
+  {
+   "text": "I",
+   "index": 9,
+   "start": 0.656,
+   "end": 0.753
+  },
+  {
+   "text": "met",
+   "index": 11,
+   "start": 0.767,
+   "end": 1.017
+  },
+  {
+   "text": "one",
+   "index": 15,
+   "start": 1.031,
+   "end": 1.239
+  },
+  {
+   "text": "who",
+   "index": 19,
+   "start": 1.253,
+   "end": 1.378
+  },
+  {
+   "text": "seemed",
+   "index": 23,
+   "start": 1.392,
+   "end": 1.683
+  },
+  {
+   "text": "to",
+   "index": 30,
+   "start": 1.697,
+   "end": 1.767
+  },
+  {
+   "text": "me",
+   "index": 33,
+   "start": 1.781,
+   "end": 1.933
+  },
+  {
+   "text": "a",
+   "index": 36,
+   "start": 1.947,
+   "end": 2.017
+  },
+  {
+   "text": "little",
+   "index": 38,
+   "start": 2.031,
+   "end": 2.336
+  },
+  {
+   "text": "clear-sighted",
+   "index": 45,
+   "start": 2.35,
+   "end": 3.142
+  },
+  {
+   "text": "I",
+   "index": 60,
+   "start": 3.447,
+   "end": 3.503
+  },
+  {
+   "text": "tried",
+   "index": 62,
+   "start": 3.517,
+   "end": 3.864
+  },
+  {
+   "text": "the",
+   "index": 68,
+   "start": 3.878,
+   "end": 3.989
+  },
+  {
+   "text": "experiment",
+   "index": 72,
+   "start": 4.003,
+   "end": 4.642
+  },
+  {
+   "text": "of",
+   "index": 83,
+   "start": 4.656,
+   "end": 4.753
+  },
+  {
+   "text": "showing",
+   "index": 86,
+   "start": 4.767,
+   "end": 5.114
+  },
+  {
+   "text": "him",
+   "index": 94,
+   "start": 5.128,
+   "end": 5.294
+  },
+  {
+   "text": "my",
+   "index": 98,
+   "start": 5.308,
+   "end": 5.475
+  },
+  {
+   "text": "Drawing",
+   "index": 101,
+   "start": 5.489,
+   "end": 5.947
+  },
+  {
+   "text": "Number",
+   "index": 109,
+   "start": 5.961,
+   "end": 6.225
+  },
+  {
+   "text": "One",
+   "index": 116,
+   "start": 6.239,
+   "end": 6.531
+  },
+  {
+   "text": "which",
+   "index": 121,
+   "start": 6.794,
+   "end": 6.975
+  },
+  {
+   "text": "I",
+   "index": 127,
+   "start": 6.989,
+   "end": 7.1
+  },
+  {
+   "text": "have",
+   "index": 129,
+   "start": 7.114,
+   "end": 7.308
+  },
+  {
+   "text": "always",
+   "index": 134,
+   "start": 7.322,
+   "end": 7.697
+  },
+  {
+   "text": "kept",
+   "index": 141,
+   "start": 7.711,
+   "end": 8.225
+  }
+ ]
+}

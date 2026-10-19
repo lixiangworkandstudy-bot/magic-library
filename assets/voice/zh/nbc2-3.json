@@ -1,0 +1,49 @@
+{
+ "audio": "assets/voice/zh/nbc2-3.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "忽然，屋外“哗啦啦”一阵好大的响！",
+ "words": [
+  {
+   "text": "忽然",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.647
+  },
+  {
+   "text": "屋外",
+   "index": 3,
+   "start": 1.008,
+   "end": 1.342
+  },
+  {
+   "text": "哗啦啦",
+   "index": 6,
+   "start": 1.369,
+   "end": 1.856
+  },
+  {
+   "text": "一阵",
+   "index": 10,
+   "start": 1.869,
+   "end": 2.175
+  },
+  {
+   "text": "好大",
+   "index": 12,
+   "start": 2.203,
+   "end": 2.675
+  },
+  {
+   "text": "的",
+   "index": 14,
+   "start": 2.675,
+   "end": 2.772
+  },
+  {
+   "text": "响",
+   "index": 15,
+   "start": 2.786,
+   "end": 3.133
+  }
+ ]
+}

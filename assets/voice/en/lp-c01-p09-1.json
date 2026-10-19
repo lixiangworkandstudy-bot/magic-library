@@ -1,0 +1,193 @@
+{
+ "audio": "assets/voice/en/lp-c01-p09-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "In the course of my life I have had heaps of dealings with heaps of serious people. I have lived a great deal among grown-ups. I have seen them up close.",
+ "words": [
+  {
+   "text": "In",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.294
+  },
+  {
+   "text": "the",
+   "index": 3,
+   "start": 0.308,
+   "end": 0.392
+  },
+  {
+   "text": "course",
+   "index": 7,
+   "start": 0.406,
+   "end": 0.739
+  },
+  {
+   "text": "of",
+   "index": 14,
+   "start": 0.753,
+   "end": 0.85
+  },
+  {
+   "text": "my",
+   "index": 17,
+   "start": 0.864,
+   "end": 1.044
+  },
+  {
+   "text": "life",
+   "index": 20,
+   "start": 1.058,
+   "end": 1.461
+  },
+  {
+   "text": "I",
+   "index": 25,
+   "start": 1.475,
+   "end": 1.586
+  },
+  {
+   "text": "have",
+   "index": 27,
+   "start": 1.6,
+   "end": 1.739
+  },
+  {
+   "text": "had",
+   "index": 32,
+   "start": 1.753,
+   "end": 1.933
+  },
+  {
+   "text": "heaps",
+   "index": 36,
+   "start": 1.947,
+   "end": 2.253
+  },
+  {
+   "text": "of",
+   "index": 42,
+   "start": 2.267,
+   "end": 2.406
+  },
+  {
+   "text": "dealings",
+   "index": 45,
+   "start": 2.419,
+   "end": 2.892
+  },
+  {
+   "text": "with",
+   "index": 54,
+   "start": 2.906,
+   "end": 3.058
+  },
+  {
+   "text": "heaps",
+   "index": 59,
+   "start": 3.072,
+   "end": 3.406
+  },
+  {
+   "text": "of",
+   "index": 65,
+   "start": 3.419,
+   "end": 3.531
+  },
+  {
+   "text": "serious",
+   "index": 68,
+   "start": 3.544,
+   "end": 4.031
+  },
+  {
+   "text": "people",
+   "index": 76,
+   "start": 4.044,
+   "end": 4.544
+  },
+  {
+   "text": "I",
+   "index": 84,
+   "start": 5.508,
+   "end": 5.675
+  },
+  {
+   "text": "have",
+   "index": 86,
+   "start": 5.689,
+   "end": 5.856
+  },
+  {
+   "text": "lived",
+   "index": 91,
+   "start": 5.869,
+   "end": 6.133
+  },
+  {
+   "text": "a",
+   "index": 97,
+   "start": 6.147,
+   "end": 6.203
+  },
+  {
+   "text": "great",
+   "index": 99,
+   "start": 6.217,
+   "end": 6.564
+  },
+  {
+   "text": "deal",
+   "index": 105,
+   "start": 6.578,
+   "end": 6.842
+  },
+  {
+   "text": "among",
+   "index": 110,
+   "start": 6.856,
+   "end": 7.133
+  },
+  {
+   "text": "grown-ups",
+   "index": 116,
+   "start": 7.147,
+   "end": 7.925
+  },
+  {
+   "text": "I",
+   "index": 127,
+   "start": 8.883,
+   "end": 9.036
+  },
+  {
+   "text": "have",
+   "index": 129,
+   "start": 9.05,
+   "end": 9.244
+  },
+  {
+   "text": "seen",
+   "index": 134,
+   "start": 9.258,
+   "end": 9.508
+  },
+  {
+   "text": "them",
+   "index": 139,
+   "start": 9.522,
+   "end": 9.647
+  },
+  {
+   "text": "up",
+   "index": 144,
+   "start": 9.661,
+   "end": 9.828
+  },
+  {
+   "text": "close",
+   "index": 147,
+   "start": 9.842,
+   "end": 10.494
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "audio": "assets/voice/en/lp-c03-p05-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"What! You fell out of the sky!\"",
+ "words": [
+  {
+   "text": "What",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.661
+  },
+  {
+   "text": "You",
+   "index": 7,
+   "start": 1.611,
+   "end": 1.875
+  },
+  {
+   "text": "fell",
+   "index": 11,
+   "start": 1.889,
+   "end": 2.25
+  },
+  {
+   "text": "out",
+   "index": 16,
+   "start": 2.264,
+   "end": 2.458
+  },
+  {
+   "text": "of",
+   "index": 20,
+   "start": 2.472,
+   "end": 2.611
+  },
+  {
+   "text": "the",
+   "index": 23,
+   "start": 2.625,
+   "end": 2.736
+  },
+  {
+   "text": "sky",
+   "index": 27,
+   "start": 2.75,
+   "end": 3.264
+  }
+ ]
+}

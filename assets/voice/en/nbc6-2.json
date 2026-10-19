@@ -1,0 +1,115 @@
+{
+ "audio": "assets/voice/en/nbc6-2.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "And then, in a twinkling, I heard on the roof\nThe prancing and pawing of each little hoof.",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.342
+  },
+  {
+   "text": "then",
+   "index": 4,
+   "start": 0.356,
+   "end": 0.731
+  },
+  {
+   "text": "in",
+   "index": 10,
+   "start": 0.869,
+   "end": 1.008
+  },
+  {
+   "text": "a",
+   "index": 13,
+   "start": 1.022,
+   "end": 1.092
+  },
+  {
+   "text": "twinkling",
+   "index": 15,
+   "start": 1.106,
+   "end": 1.744
+  },
+  {
+   "text": "I",
+   "index": 26,
+   "start": 1.925,
+   "end": 2.036
+  },
+  {
+   "text": "heard",
+   "index": 28,
+   "start": 2.05,
+   "end": 2.314
+  },
+  {
+   "text": "on",
+   "index": 34,
+   "start": 2.328,
+   "end": 2.453
+  },
+  {
+   "text": "the",
+   "index": 37,
+   "start": 2.467,
+   "end": 2.564
+  },
+  {
+   "text": "roof",
+   "index": 41,
+   "start": 2.578,
+   "end": 3.064
+  },
+  {
+   "text": "The",
+   "index": 46,
+   "start": 4.028,
+   "end": 4.208
+  },
+  {
+   "text": "prancing",
+   "index": 50,
+   "start": 4.222,
+   "end": 4.75
+  },
+  {
+   "text": "and",
+   "index": 59,
+   "start": 4.764,
+   "end": 4.889
+  },
+  {
+   "text": "pawing",
+   "index": 63,
+   "start": 4.903,
+   "end": 5.347
+  },
+  {
+   "text": "of",
+   "index": 70,
+   "start": 5.361,
+   "end": 5.472
+  },
+  {
+   "text": "each",
+   "index": 73,
+   "start": 5.486,
+   "end": 5.736
+  },
+  {
+   "text": "little",
+   "index": 78,
+   "start": 5.75,
+   "end": 6.014
+  },
+  {
+   "text": "hoof",
+   "index": 85,
+   "start": 6.028,
+   "end": 6.528
+  }
+ ]
+}

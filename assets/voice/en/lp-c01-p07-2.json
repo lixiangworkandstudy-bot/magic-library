@@ -1,0 +1,211 @@
+{
+ "audio": "assets/voice/en/lp-c01-p07-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "That is how, at the age of six, I gave up a magnificent career as a painter. I had been discouraged by the failure of my Drawing Number One and my Drawing Number Two.",
+ "words": [
+  {
+   "text": "That",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.378
+  },
+  {
+   "text": "is",
+   "index": 5,
+   "start": 0.392,
+   "end": 0.517
+  },
+  {
+   "text": "how",
+   "index": 8,
+   "start": 0.531,
+   "end": 0.864
+  },
+  {
+   "text": "at",
+   "index": 13,
+   "start": 1.1,
+   "end": 1.211
+  },
+  {
+   "text": "the",
+   "index": 16,
+   "start": 1.225,
+   "end": 1.378
+  },
+  {
+   "text": "age",
+   "index": 20,
+   "start": 1.392,
+   "end": 1.669
+  },
+  {
+   "text": "of",
+   "index": 24,
+   "start": 1.683,
+   "end": 1.781
+  },
+  {
+   "text": "six",
+   "index": 27,
+   "start": 1.794,
+   "end": 2.211
+  },
+  {
+   "text": "I",
+   "index": 32,
+   "start": 2.461,
+   "end": 2.544
+  },
+  {
+   "text": "gave",
+   "index": 34,
+   "start": 2.558,
+   "end": 2.808
+  },
+  {
+   "text": "up",
+   "index": 39,
+   "start": 2.822,
+   "end": 2.947
+  },
+  {
+   "text": "a",
+   "index": 42,
+   "start": 2.961,
+   "end": 3.017
+  },
+  {
+   "text": "magnificent",
+   "index": 44,
+   "start": 3.031,
+   "end": 3.697
+  },
+  {
+   "text": "career",
+   "index": 56,
+   "start": 3.711,
+   "end": 4.211
+  },
+  {
+   "text": "as",
+   "index": 63,
+   "start": 4.225,
+   "end": 4.308
+  },
+  {
+   "text": "a",
+   "index": 66,
+   "start": 4.322,
+   "end": 4.406
+  },
+  {
+   "text": "painter",
+   "index": 68,
+   "start": 4.419,
+   "end": 4.989
+  },
+  {
+   "text": "I",
+   "index": 77,
+   "start": 5.953,
+   "end": 6.119
+  },
+  {
+   "text": "had",
+   "index": 79,
+   "start": 6.133,
+   "end": 6.328
+  },
+  {
+   "text": "been",
+   "index": 83,
+   "start": 6.342,
+   "end": 6.481
+  },
+  {
+   "text": "discouraged",
+   "index": 88,
+   "start": 6.494,
+   "end": 7.05
+  },
+  {
+   "text": "by",
+   "index": 100,
+   "start": 7.064,
+   "end": 7.203
+  },
+  {
+   "text": "the",
+   "index": 103,
+   "start": 7.217,
+   "end": 7.328
+  },
+  {
+   "text": "failure",
+   "index": 107,
+   "start": 7.342,
+   "end": 7.814
+  },
+  {
+   "text": "of",
+   "index": 115,
+   "start": 7.828,
+   "end": 7.925
+  },
+  {
+   "text": "my",
+   "index": 118,
+   "start": 7.939,
+   "end": 8.119
+  },
+  {
+   "text": "Drawing",
+   "index": 121,
+   "start": 8.133,
+   "end": 8.619
+  },
+  {
+   "text": "Number",
+   "index": 129,
+   "start": 8.633,
+   "end": 8.869
+  },
+  {
+   "text": "One",
+   "index": 136,
+   "start": 8.883,
+   "end": 9.231
+  },
+  {
+   "text": "and",
+   "index": 140,
+   "start": 9.244,
+   "end": 9.397
+  },
+  {
+   "text": "my",
+   "index": 144,
+   "start": 9.411,
+   "end": 9.564
+  },
+  {
+   "text": "Drawing",
+   "index": 147,
+   "start": 9.578,
+   "end": 10.078
+  },
+  {
+   "text": "Number",
+   "index": 155,
+   "start": 10.092,
+   "end": 10.369
+  },
+  {
+   "text": "Two",
+   "index": 162,
+   "start": 10.383,
+   "end": 10.8
+  }
+ ]
+}

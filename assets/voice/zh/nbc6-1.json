@@ -1,0 +1,79 @@
+{
+ "audio": "assets/voice/zh/nbc6-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "驯鹿们呼啦啦飞上了屋顶，拉着满满一雪橇玩具，还有圣诞老人。",
+ "words": [
+  {
+   "text": "驯鹿们",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.828
+  },
+  {
+   "text": "呼啦啦",
+   "index": 3,
+   "start": 0.856,
+   "end": 1.467
+  },
+  {
+   "text": "飞上",
+   "index": 6,
+   "start": 1.494,
+   "end": 1.883
+  },
+  {
+   "text": "了",
+   "index": 8,
+   "start": 1.883,
+   "end": 1.967
+  },
+  {
+   "text": "屋顶",
+   "index": 9,
+   "start": 1.981,
+   "end": 2.481
+  },
+  {
+   "text": "拉",
+   "index": 12,
+   "start": 2.869,
+   "end": 3.036
+  },
+  {
+   "text": "着",
+   "index": 13,
+   "start": 3.036,
+   "end": 3.161
+  },
+  {
+   "text": "满满",
+   "index": 14,
+   "start": 3.189,
+   "end": 3.592
+  },
+  {
+   "text": "一雪橇",
+   "index": 16,
+   "start": 3.606,
+   "end": 4.217
+  },
+  {
+   "text": "玩具",
+   "index": 19,
+   "start": 4.231,
+   "end": 4.8
+  },
+  {
+   "text": "还有",
+   "index": 22,
+   "start": 5.05,
+   "end": 5.342
+  },
+  {
+   "text": "圣诞老人",
+   "index": 24,
+   "start": 5.369,
+   "end": 6.356
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "audio": "assets/voice/en/lp-c02-p11-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "When a mystery is too overwhelming, one does not dare to disobey.",
+ "words": [
+  {
+   "text": "When",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.378
+  },
+  {
+   "text": "a",
+   "index": 5,
+   "start": 0.392,
+   "end": 0.447
+  },
+  {
+   "text": "mystery",
+   "index": 7,
+   "start": 0.461,
+   "end": 0.892
+  },
+  {
+   "text": "is",
+   "index": 15,
+   "start": 0.906,
+   "end": 1.072
+  },
+  {
+   "text": "too",
+   "index": 18,
+   "start": 1.086,
+   "end": 1.336
+  },
+  {
+   "text": "overwhelming",
+   "index": 22,
+   "start": 1.35,
+   "end": 2.114
+  },
+  {
+   "text": "one",
+   "index": 36,
+   "start": 2.336,
+   "end": 2.544
+  },
+  {
+   "text": "does",
+   "index": 40,
+   "start": 2.558,
+   "end": 2.739
+  },
+  {
+   "text": "not",
+   "index": 45,
+   "start": 2.753,
+   "end": 3.017
+  },
+  {
+   "text": "dare",
+   "index": 49,
+   "start": 3.031,
+   "end": 3.211
+  },
+  {
+   "text": "to",
+   "index": 54,
+   "start": 3.225,
+   "end": 3.364
+  },
+  {
+   "text": "disobey",
+   "index": 57,
+   "start": 3.378,
+   "end": 4.017
+  }
+ ]
+}

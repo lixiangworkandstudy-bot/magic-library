@@ -1,0 +1,115 @@
+{
+ "audio": "assets/voice/en/nbc3-2.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "Away to the window I flew like a flash,\nTore open the shutters and threw up the sash.",
+ "words": [
+  {
+   "text": "Away",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.467
+  },
+  {
+   "text": "to",
+   "index": 5,
+   "start": 0.481,
+   "end": 0.592
+  },
+  {
+   "text": "the",
+   "index": 8,
+   "start": 0.606,
+   "end": 0.731
+  },
+  {
+   "text": "window",
+   "index": 12,
+   "start": 0.744,
+   "end": 1.189
+  },
+  {
+   "text": "I",
+   "index": 19,
+   "start": 1.203,
+   "end": 1.314
+  },
+  {
+   "text": "flew",
+   "index": 21,
+   "start": 1.328,
+   "end": 1.633
+  },
+  {
+   "text": "like",
+   "index": 26,
+   "start": 1.647,
+   "end": 1.856
+  },
+  {
+   "text": "a",
+   "index": 31,
+   "start": 1.869,
+   "end": 1.939
+  },
+  {
+   "text": "flash",
+   "index": 33,
+   "start": 1.953,
+   "end": 2.606
+  },
+  {
+   "text": "Tore",
+   "index": 40,
+   "start": 3.569,
+   "end": 3.917
+  },
+  {
+   "text": "open",
+   "index": 45,
+   "start": 3.931,
+   "end": 4.208
+  },
+  {
+   "text": "the",
+   "index": 50,
+   "start": 4.222,
+   "end": 4.292
+  },
+  {
+   "text": "shutters",
+   "index": 54,
+   "start": 4.306,
+   "end": 4.819
+  },
+  {
+   "text": "and",
+   "index": 63,
+   "start": 4.833,
+   "end": 5.028
+  },
+  {
+   "text": "threw",
+   "index": 67,
+   "start": 5.042,
+   "end": 5.319
+  },
+  {
+   "text": "up",
+   "index": 73,
+   "start": 5.333,
+   "end": 5.486
+  },
+  {
+   "text": "the",
+   "index": 76,
+   "start": 5.5,
+   "end": 5.597
+  },
+  {
+   "text": "sash",
+   "index": 80,
+   "start": 5.611,
+   "end": 6.222
+  }
+ ]
+}

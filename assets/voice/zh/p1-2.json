@@ -1,0 +1,79 @@
+{
+ "audio": "assets/voice/zh/p1-2.mp3",
+ "voice": "zh-CN-XiaoyiNeural",
+ "text": "它看起来好近呀，我要去把它摘下来。",
+ "words": [
+  {
+   "text": "它",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.258
+  },
+  {
+   "text": "看起来",
+   "index": 1,
+   "start": 0.272,
+   "end": 0.758
+  },
+  {
+   "text": "好",
+   "index": 4,
+   "start": 0.758,
+   "end": 0.994
+  },
+  {
+   "text": "近",
+   "index": 5,
+   "start": 1.008,
+   "end": 1.272
+  },
+  {
+   "text": "呀",
+   "index": 6,
+   "start": 1.272,
+   "end": 1.508
+  },
+  {
+   "text": "我",
+   "index": 8,
+   "start": 1.8,
+   "end": 1.911
+  },
+  {
+   "text": "要",
+   "index": 9,
+   "start": 1.925,
+   "end": 2.106
+  },
+  {
+   "text": "去",
+   "index": 10,
+   "start": 2.106,
+   "end": 2.231
+  },
+  {
+   "text": "把",
+   "index": 11,
+   "start": 2.244,
+   "end": 2.369
+  },
+  {
+   "text": "它",
+   "index": 12,
+   "start": 2.369,
+   "end": 2.467
+  },
+  {
+   "text": "摘",
+   "index": 13,
+   "start": 2.481,
+   "end": 2.703
+  },
+  {
+   "text": "下来",
+   "index": 14,
+   "start": 2.703,
+   "end": 3.092
+  }
+ ]
+}

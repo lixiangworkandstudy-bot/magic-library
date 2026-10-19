@@ -1,0 +1,31 @@
+{
+ "audio": "assets/voice/en/lp-c03-p02-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"What is that thing?\"",
+ "words": [
+  {
+   "text": "What",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.383
+  },
+  {
+   "text": "is",
+   "index": 6,
+   "start": 0.397,
+   "end": 0.564
+  },
+  {
+   "text": "that",
+   "index": 9,
+   "start": 0.578,
+   "end": 0.856
+  },
+  {
+   "text": "thing",
+   "index": 14,
+   "start": 0.869,
+   "end": 1.258
+  }
+ ]
+}

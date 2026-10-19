@@ -1,0 +1,79 @@
+{
+ "audio": "assets/voice/zh/nbc8-2.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "小嘴弯弯，像一张小弓，胡子白白，像雪一样；",
+ "words": [
+  {
+   "text": "小",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.383
+  },
+  {
+   "text": "嘴",
+   "index": 1,
+   "start": 0.383,
+   "end": 0.564
+  },
+  {
+   "text": "弯弯",
+   "index": 2,
+   "start": 0.578,
+   "end": 1.092
+  },
+  {
+   "text": "像",
+   "index": 5,
+   "start": 1.369,
+   "end": 1.564
+  },
+  {
+   "text": "一",
+   "index": 6,
+   "start": 1.578,
+   "end": 1.689
+  },
+  {
+   "text": "张",
+   "index": 7,
+   "start": 1.689,
+   "end": 1.883
+  },
+  {
+   "text": "小弓",
+   "index": 8,
+   "start": 1.897,
+   "end": 2.425
+  },
+  {
+   "text": "胡子",
+   "index": 11,
+   "start": 2.717,
+   "end": 3.036
+  },
+  {
+   "text": "白白",
+   "index": 13,
+   "start": 3.05,
+   "end": 3.564
+  },
+  {
+   "text": "像",
+   "index": 16,
+   "start": 3.856,
+   "end": 4.078
+  },
+  {
+   "text": "雪",
+   "index": 17,
+   "start": 4.078,
+   "end": 4.328
+  },
+  {
+   "text": "一样",
+   "index": 18,
+   "start": 4.342,
+   "end": 4.744
+  }
+ ]
+}

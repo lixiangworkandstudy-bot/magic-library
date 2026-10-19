@@ -1,0 +1,67 @@
+{
+ "audio": "assets/voice/en/lp-c02-p13-2.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "And I was astounded to hear the little fellow answer:",
+ "words": [
+  {
+   "text": "And",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.308
+  },
+  {
+   "text": "I",
+   "index": 4,
+   "start": 0.322,
+   "end": 0.406
+  },
+  {
+   "text": "was",
+   "index": 6,
+   "start": 0.419,
+   "end": 0.572
+  },
+  {
+   "text": "astounded",
+   "index": 10,
+   "start": 0.586,
+   "end": 1.072
+  },
+  {
+   "text": "to",
+   "index": 20,
+   "start": 1.086,
+   "end": 1.156
+  },
+  {
+   "text": "hear",
+   "index": 23,
+   "start": 1.169,
+   "end": 1.406
+  },
+  {
+   "text": "the",
+   "index": 28,
+   "start": 1.419,
+   "end": 1.517
+  },
+  {
+   "text": "little",
+   "index": 32,
+   "start": 1.531,
+   "end": 1.85
+  },
+  {
+   "text": "fellow",
+   "index": 39,
+   "start": 1.864,
+   "end": 2.225
+  },
+  {
+   "text": "answer",
+   "index": 46,
+   "start": 2.239,
+   "end": 2.836
+  }
+ ]
+}

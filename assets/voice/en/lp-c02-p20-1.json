@@ -1,0 +1,97 @@
+{
+ "audio": "assets/voice/en/lp-c02-p20-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"You can see for yourself... that isn't a sheep, that's a ram. It has horns...\"",
+ "words": [
+  {
+   "text": "You",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.328
+  },
+  {
+   "text": "can",
+   "index": 5,
+   "start": 0.342,
+   "end": 0.564
+  },
+  {
+   "text": "see",
+   "index": 9,
+   "start": 0.578,
+   "end": 0.897
+  },
+  {
+   "text": "for",
+   "index": 13,
+   "start": 0.911,
+   "end": 1.133
+  },
+  {
+   "text": "yourself",
+   "index": 17,
+   "start": 1.147,
+   "end": 1.883
+  },
+  {
+   "text": "that",
+   "index": 29,
+   "start": 2.189,
+   "end": 2.439
+  },
+  {
+   "text": "isn't",
+   "index": 34,
+   "start": 2.453,
+   "end": 2.828
+  },
+  {
+   "text": "a",
+   "index": 40,
+   "start": 2.842,
+   "end": 2.897
+  },
+  {
+   "text": "sheep",
+   "index": 42,
+   "start": 2.911,
+   "end": 3.356
+  },
+  {
+   "text": "that's",
+   "index": 49,
+   "start": 3.689,
+   "end": 3.967
+  },
+  {
+   "text": "a",
+   "index": 56,
+   "start": 3.981,
+   "end": 4.064
+  },
+  {
+   "text": "ram",
+   "index": 58,
+   "start": 4.078,
+   "end": 4.578
+  },
+  {
+   "text": "It",
+   "index": 63,
+   "start": 5.542,
+   "end": 5.736
+  },
+  {
+   "text": "has",
+   "index": 66,
+   "start": 5.75,
+   "end": 6.125
+  },
+  {
+   "text": "horns",
+   "index": 70,
+   "start": 6.139,
+   "end": 6.931
+  }
+ ]
+}

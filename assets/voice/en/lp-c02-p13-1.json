@@ -1,0 +1,187 @@
+{
+ "audio": "assets/voice/en/lp-c02-p13-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "Since I had never drawn a sheep, I drew for him one of the only two drawings I was capable of. The one of the boa constrictor from the outside.",
+ "words": [
+  {
+   "text": "Since",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.489
+  },
+  {
+   "text": "I",
+   "index": 6,
+   "start": 0.503,
+   "end": 0.656
+  },
+  {
+   "text": "had",
+   "index": 8,
+   "start": 0.669,
+   "end": 0.836
+  },
+  {
+   "text": "never",
+   "index": 12,
+   "start": 0.85,
+   "end": 1.142
+  },
+  {
+   "text": "drawn",
+   "index": 18,
+   "start": 1.156,
+   "end": 1.447
+  },
+  {
+   "text": "a",
+   "index": 24,
+   "start": 1.461,
+   "end": 1.503
+  },
+  {
+   "text": "sheep",
+   "index": 26,
+   "start": 1.517,
+   "end": 1.919
+  },
+  {
+   "text": "I",
+   "index": 33,
+   "start": 2.197,
+   "end": 2.281
+  },
+  {
+   "text": "drew",
+   "index": 35,
+   "start": 2.294,
+   "end": 2.642
+  },
+  {
+   "text": "for",
+   "index": 40,
+   "start": 2.656,
+   "end": 2.781
+  },
+  {
+   "text": "him",
+   "index": 44,
+   "start": 2.794,
+   "end": 2.989
+  },
+  {
+   "text": "one",
+   "index": 48,
+   "start": 3.003,
+   "end": 3.197
+  },
+  {
+   "text": "of",
+   "index": 52,
+   "start": 3.211,
+   "end": 3.281
+  },
+  {
+   "text": "the",
+   "index": 55,
+   "start": 3.294,
+   "end": 3.433
+  },
+  {
+   "text": "only",
+   "index": 59,
+   "start": 3.447,
+   "end": 3.739
+  },
+  {
+   "text": "two",
+   "index": 64,
+   "start": 3.753,
+   "end": 4.017
+  },
+  {
+   "text": "drawings",
+   "index": 68,
+   "start": 4.031,
+   "end": 4.572
+  },
+  {
+   "text": "I",
+   "index": 77,
+   "start": 4.586,
+   "end": 4.683
+  },
+  {
+   "text": "was",
+   "index": 79,
+   "start": 4.697,
+   "end": 4.864
+  },
+  {
+   "text": "capable",
+   "index": 83,
+   "start": 4.878,
+   "end": 5.378
+  },
+  {
+   "text": "of",
+   "index": 91,
+   "start": 5.392,
+   "end": 5.669
+  },
+  {
+   "text": "The",
+   "index": 95,
+   "start": 6.633,
+   "end": 6.786
+  },
+  {
+   "text": "one",
+   "index": 99,
+   "start": 6.8,
+   "end": 7.008
+  },
+  {
+   "text": "of",
+   "index": 103,
+   "start": 7.022,
+   "end": 7.092
+  },
+  {
+   "text": "the",
+   "index": 106,
+   "start": 7.106,
+   "end": 7.217
+  },
+  {
+   "text": "boa",
+   "index": 110,
+   "start": 7.231,
+   "end": 7.508
+  },
+  {
+   "text": "constrictor",
+   "index": 114,
+   "start": 7.522,
+   "end": 8.161
+  },
+  {
+   "text": "from",
+   "index": 126,
+   "start": 8.175,
+   "end": 8.356
+  },
+  {
+   "text": "the",
+   "index": 131,
+   "start": 8.369,
+   "end": 8.494
+  },
+  {
+   "text": "outside",
+   "index": 135,
+   "start": 8.508,
+   "end": 9.286
+  }
+ ]
+}

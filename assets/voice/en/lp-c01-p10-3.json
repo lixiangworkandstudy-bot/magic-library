@@ -1,0 +1,169 @@
+{
+ "audio": "assets/voice/en/lp-c01-p10-3.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "\"That is a hat.\" Then I would not talk to him about boa constrictors, or virgin forests, or stars. I would bring myself down to his level.",
+ "words": [
+  {
+   "text": "That",
+   "index": 1,
+   "start": 0.1,
+   "end": 0.378
+  },
+  {
+   "text": "is",
+   "index": 6,
+   "start": 0.392,
+   "end": 0.489
+  },
+  {
+   "text": "a",
+   "index": 9,
+   "start": 0.503,
+   "end": 0.572
+  },
+  {
+   "text": "hat",
+   "index": 11,
+   "start": 0.586,
+   "end": 1.142
+  },
+  {
+   "text": "Then",
+   "index": 17,
+   "start": 2.106,
+   "end": 2.342
+  },
+  {
+   "text": "I",
+   "index": 22,
+   "start": 2.356,
+   "end": 2.425
+  },
+  {
+   "text": "would",
+   "index": 24,
+   "start": 2.439,
+   "end": 2.619
+  },
+  {
+   "text": "not",
+   "index": 30,
+   "start": 2.633,
+   "end": 2.842
+  },
+  {
+   "text": "talk",
+   "index": 34,
+   "start": 2.856,
+   "end": 3.119
+  },
+  {
+   "text": "to",
+   "index": 39,
+   "start": 3.133,
+   "end": 3.258
+  },
+  {
+   "text": "him",
+   "index": 42,
+   "start": 3.272,
+   "end": 3.439
+  },
+  {
+   "text": "about",
+   "index": 46,
+   "start": 3.453,
+   "end": 3.8
+  },
+  {
+   "text": "boa",
+   "index": 52,
+   "start": 3.814,
+   "end": 4.078
+  },
+  {
+   "text": "constrictors",
+   "index": 56,
+   "start": 4.092,
+   "end": 4.883
+  },
+  {
+   "text": "or",
+   "index": 70,
+   "start": 5.161,
+   "end": 5.3
+  },
+  {
+   "text": "virgin",
+   "index": 73,
+   "start": 5.314,
+   "end": 5.814
+  },
+  {
+   "text": "forests",
+   "index": 80,
+   "start": 5.828,
+   "end": 6.481
+  },
+  {
+   "text": "or",
+   "index": 89,
+   "start": 6.758,
+   "end": 6.911
+  },
+  {
+   "text": "stars",
+   "index": 92,
+   "start": 6.925,
+   "end": 7.647
+  },
+  {
+   "text": "I",
+   "index": 99,
+   "start": 8.606,
+   "end": 8.758
+  },
+  {
+   "text": "would",
+   "index": 101,
+   "start": 8.772,
+   "end": 8.967
+  },
+  {
+   "text": "bring",
+   "index": 107,
+   "start": 8.981,
+   "end": 9.231
+  },
+  {
+   "text": "myself",
+   "index": 113,
+   "start": 9.244,
+   "end": 9.758
+  },
+  {
+   "text": "down",
+   "index": 120,
+   "start": 9.772,
+   "end": 10.05
+  },
+  {
+   "text": "to",
+   "index": 125,
+   "start": 10.064,
+   "end": 10.161
+  },
+  {
+   "text": "his",
+   "index": 128,
+   "start": 10.175,
+   "end": 10.369
+  },
+  {
+   "text": "level",
+   "index": 132,
+   "start": 10.383,
+   "end": 10.828
+  }
+ ]
+}

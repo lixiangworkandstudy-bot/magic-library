@@ -1,0 +1,85 @@
+{
+ "audio": "assets/voice/en/lp-c03-p13-1.mp3",
+ "voice": "en-US-AnaNeural",
+ "text": "\"It's true that on that, you can't have come from very far away...\"",
+ "words": [
+  {
+   "text": "It's",
+   "index": 1,
+   "start": 0.106,
+   "end": 0.411
+  },
+  {
+   "text": "true",
+   "index": 6,
+   "start": 0.425,
+   "end": 0.828
+  },
+  {
+   "text": "that",
+   "index": 11,
+   "start": 0.842,
+   "end": 1.147
+  },
+  {
+   "text": "on",
+   "index": 16,
+   "start": 1.161,
+   "end": 1.369
+  },
+  {
+   "text": "that",
+   "index": 19,
+   "start": 1.383,
+   "end": 1.731
+  },
+  {
+   "text": "you",
+   "index": 25,
+   "start": 2.064,
+   "end": 2.244
+  },
+  {
+   "text": "can't",
+   "index": 29,
+   "start": 2.258,
+   "end": 2.619
+  },
+  {
+   "text": "have",
+   "index": 35,
+   "start": 2.633,
+   "end": 2.939
+  },
+  {
+   "text": "come",
+   "index": 40,
+   "start": 2.953,
+   "end": 3.3
+  },
+  {
+   "text": "from",
+   "index": 45,
+   "start": 3.314,
+   "end": 3.578
+  },
+  {
+   "text": "very",
+   "index": 50,
+   "start": 3.592,
+   "end": 4.05
+  },
+  {
+   "text": "far",
+   "index": 55,
+   "start": 4.064,
+   "end": 4.425
+  },
+  {
+   "text": "away",
+   "index": 59,
+   "start": 4.439,
+   "end": 4.897
+  }
+ ]
+}

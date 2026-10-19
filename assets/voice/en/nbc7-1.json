@@ -1,0 +1,109 @@
+{
+ "audio": "assets/voice/en/nbc7-1.mp3",
+ "voice": "en-US-AriaNeural",
+ "text": "As I drew in my head, and was turning around,\nDown the chimney St. Nicholas came with a bound.",
+ "words": [
+  {
+   "text": "As",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.314
+  },
+  {
+   "text": "I",
+   "index": 3,
+   "start": 0.328,
+   "end": 0.411
+  },
+  {
+   "text": "drew",
+   "index": 5,
+   "start": 0.425,
+   "end": 0.703
+  },
+  {
+   "text": "in",
+   "index": 10,
+   "start": 0.717,
+   "end": 0.828
+  },
+  {
+   "text": "my",
+   "index": 13,
+   "start": 0.842,
+   "end": 1.008
+  },
+  {
+   "text": "head",
+   "index": 16,
+   "start": 1.022,
+   "end": 1.397
+  },
+  {
+   "text": "and",
+   "index": 22,
+   "start": 1.633,
+   "end": 1.772
+  },
+  {
+   "text": "was",
+   "index": 26,
+   "start": 1.786,
+   "end": 1.953
+  },
+  {
+   "text": "turning",
+   "index": 30,
+   "start": 1.967,
+   "end": 2.342
+  },
+  {
+   "text": "around",
+   "index": 38,
+   "start": 2.356,
+   "end": 2.967
+  },
+  {
+   "text": "Down",
+   "index": 46,
+   "start": 3.931,
+   "end": 4.25
+  },
+  {
+   "text": "the",
+   "index": 51,
+   "start": 4.264,
+   "end": 4.347
+  },
+  {
+   "text": "chimney St. Nicholas",
+   "index": 55,
+   "start": 4.361,
+   "end": 5.569
+  },
+  {
+   "text": "came",
+   "index": 76,
+   "start": 5.583,
+   "end": 5.847
+  },
+  {
+   "text": "with",
+   "index": 81,
+   "start": 5.861,
+   "end": 6.014
+  },
+  {
+   "text": "a",
+   "index": 86,
+   "start": 6.028,
+   "end": 6.097
+  },
+  {
+   "text": "bound",
+   "index": 88,
+   "start": 6.111,
+   "end": 6.681
+  }
+ ]
+}

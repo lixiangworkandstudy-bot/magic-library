@@ -1,0 +1,151 @@
+{
+ "audio": "assets/voice/en/lp-c01-p08-1.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "So I had to choose another profession, and I learned to fly aeroplanes. I have flown a little over all parts of the world.",
+ "words": [
+  {
+   "text": "So",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.35
+  },
+  {
+   "text": "I",
+   "index": 3,
+   "start": 0.364,
+   "end": 0.489
+  },
+  {
+   "text": "had",
+   "index": 5,
+   "start": 0.503,
+   "end": 0.753
+  },
+  {
+   "text": "to",
+   "index": 9,
+   "start": 0.767,
+   "end": 0.85
+  },
+  {
+   "text": "choose",
+   "index": 12,
+   "start": 0.864,
+   "end": 1.183
+  },
+  {
+   "text": "another",
+   "index": 19,
+   "start": 1.197,
+   "end": 1.517
+  },
+  {
+   "text": "profession",
+   "index": 27,
+   "start": 1.531,
+   "end": 2.142
+  },
+  {
+   "text": "and",
+   "index": 39,
+   "start": 2.461,
+   "end": 2.586
+  },
+  {
+   "text": "I",
+   "index": 43,
+   "start": 2.6,
+   "end": 2.669
+  },
+  {
+   "text": "learned",
+   "index": 45,
+   "start": 2.683,
+   "end": 3.072
+  },
+  {
+   "text": "to",
+   "index": 53,
+   "start": 3.086,
+   "end": 3.169
+  },
+  {
+   "text": "fly",
+   "index": 56,
+   "start": 3.183,
+   "end": 3.531
+  },
+  {
+   "text": "aeroplanes",
+   "index": 60,
+   "start": 3.544,
+   "end": 4.489
+  },
+  {
+   "text": "I",
+   "index": 72,
+   "start": 5.453,
+   "end": 5.606
+  },
+  {
+   "text": "have",
+   "index": 74,
+   "start": 5.619,
+   "end": 5.8
+  },
+  {
+   "text": "flown",
+   "index": 79,
+   "start": 5.814,
+   "end": 6.133
+  },
+  {
+   "text": "a",
+   "index": 85,
+   "start": 6.147,
+   "end": 6.189
+  },
+  {
+   "text": "little",
+   "index": 87,
+   "start": 6.203,
+   "end": 6.606
+  },
+  {
+   "text": "over",
+   "index": 94,
+   "start": 6.619,
+   "end": 6.856
+  },
+  {
+   "text": "all",
+   "index": 99,
+   "start": 6.869,
+   "end": 7.119
+  },
+  {
+   "text": "parts",
+   "index": 103,
+   "start": 7.133,
+   "end": 7.522
+  },
+  {
+   "text": "of",
+   "index": 109,
+   "start": 7.536,
+   "end": 7.619
+  },
+  {
+   "text": "the",
+   "index": 112,
+   "start": 7.633,
+   "end": 7.717
+  },
+  {
+   "text": "world",
+   "index": 116,
+   "start": 7.731,
+   "end": 8.356
+  }
+ ]
+}

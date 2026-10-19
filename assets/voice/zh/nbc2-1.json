@@ -1,0 +1,85 @@
+{
+ "audio": "assets/voice/zh/nbc2-1.mp3",
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "text": "孩子们钻进被窝，暖暖地躺好，梦里的糖果，蹦蹦又跳跳。",
+ "words": [
+  {
+   "text": "孩子",
+   "index": 0,
+   "start": 0.106,
+   "end": 0.522
+  },
+  {
+   "text": "们",
+   "index": 2,
+   "start": 0.522,
+   "end": 0.717
+  },
+  {
+   "text": "钻进",
+   "index": 3,
+   "start": 0.744,
+   "end": 1.119
+  },
+  {
+   "text": "被窝",
+   "index": 5,
+   "start": 1.133,
+   "end": 1.675
+  },
+  {
+   "text": "暖暖地",
+   "index": 8,
+   "start": 1.953,
+   "end": 2.425
+  },
+  {
+   "text": "躺好",
+   "index": 11,
+   "start": 2.439,
+   "end": 3.064
+  },
+  {
+   "text": "梦",
+   "index": 14,
+   "start": 3.411,
+   "end": 3.606
+  },
+  {
+   "text": "里",
+   "index": 15,
+   "start": 3.606,
+   "end": 3.717
+  },
+  {
+   "text": "的",
+   "index": 16,
+   "start": 3.717,
+   "end": 3.814
+  },
+  {
+   "text": "糖果",
+   "index": 17,
+   "start": 3.828,
+   "end": 4.439
+  },
+  {
+   "text": "蹦蹦",
+   "index": 20,
+   "start": 4.675,
+   "end": 5.092
+  },
+  {
+   "text": "又",
+   "index": 22,
+   "start": 5.106,
+   "end": 5.3
+  },
+  {
+   "text": "跳跳",
+   "index": 23,
+   "start": 5.3,
+   "end": 5.911
+  }
+ ]
+}

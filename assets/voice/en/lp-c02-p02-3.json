@@ -1,0 +1,121 @@
+{
+ "audio": "assets/voice/en/lp-c02-p02-3.mp3",
+ "voice": "en-GB-RyanNeural",
+ "text": "So you can imagine my surprise when, at daybreak, I was woken by an odd little voice. It said:",
+ "words": [
+  {
+   "text": "So",
+   "index": 0,
+   "start": 0.1,
+   "end": 0.308
+  },
+  {
+   "text": "you",
+   "index": 3,
+   "start": 0.322,
+   "end": 0.433
+  },
+  {
+   "text": "can",
+   "index": 7,
+   "start": 0.447,
+   "end": 0.586
+  },
+  {
+   "text": "imagine",
+   "index": 11,
+   "start": 0.6,
+   "end": 1.072
+  },
+  {
+   "text": "my",
+   "index": 19,
+   "start": 1.086,
+   "end": 1.281
+  },
+  {
+   "text": "surprise",
+   "index": 22,
+   "start": 1.294,
+   "end": 1.836
+  },
+  {
+   "text": "when",
+   "index": 31,
+   "start": 1.85,
+   "end": 2.142
+  },
+  {
+   "text": "at",
+   "index": 37,
+   "start": 2.281,
+   "end": 2.433
+  },
+  {
+   "text": "daybreak",
+   "index": 40,
+   "start": 2.447,
+   "end": 3.017
+  },
+  {
+   "text": "I",
+   "index": 50,
+   "start": 3.253,
+   "end": 3.322
+  },
+  {
+   "text": "was",
+   "index": 52,
+   "start": 3.336,
+   "end": 3.503
+  },
+  {
+   "text": "woken",
+   "index": 56,
+   "start": 3.517,
+   "end": 3.933
+  },
+  {
+   "text": "by",
+   "index": 62,
+   "start": 3.947,
+   "end": 4.169
+  },
+  {
+   "text": "an",
+   "index": 65,
+   "start": 4.183,
+   "end": 4.322
+  },
+  {
+   "text": "odd",
+   "index": 68,
+   "start": 4.336,
+   "end": 4.489
+  },
+  {
+   "text": "little",
+   "index": 72,
+   "start": 4.503,
+   "end": 4.808
+  },
+  {
+   "text": "voice",
+   "index": 79,
+   "start": 4.822,
+   "end": 5.433
+  },
+  {
+   "text": "It",
+   "index": 86,
+   "start": 6.397,
+   "end": 6.606
+  },
+  {
+   "text": "said",
+   "index": 89,
+   "start": 6.619,
+   "end": 7.078
+  }
+ ]
+}
